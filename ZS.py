@@ -86,7 +86,7 @@ def create_db():
 
     conn = sqlite3.connect("ZSjobs.db")
     c = conn.cursor()
-    c.execute('''DROP Table jobs ''')
+    #c.execute('''DROP Table jobs ''')
     c.execute('''
     CREATE TABLE IF NOT EXISTS jobs(
         id INTEGER PRIMARY KEY AUTOINCREMENT,
