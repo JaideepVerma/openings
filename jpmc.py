@@ -58,7 +58,7 @@ def save_jobs(jobs):
     current_dir = os.getcwd()
     dbpath = os.path.join(current_dir, 'JPMCjobs.db')
     #dbpath = f'C:/Users/jdver/OneDrive/Desktop/py/JPMCjobs.db'
-    print('Jobs added to : ' , dbpath)
+   
     conn = sqlite3.connect(dbpath)
     c = conn.cursor()
     for job in jobs:
@@ -70,8 +70,10 @@ def save_jobs(jobs):
                          (company, job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function,update_date, apply_link) 
                          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?, ?)""",
                       (job["company"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"],job["update_date"],job["apply_link"])) ##
+   
     conn.commit()
     conn.close()
+    print('Jobs added to : ' , dbpath)
 
 def create_db():
 
