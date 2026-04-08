@@ -77,7 +77,7 @@ def create_db():
 
     conn = sqlite3.connect("JPMCjobs.db")
     c = conn.cursor()
-    #c.execute('''DROP Table jobs''')
+    c.execute('''DROP Table jobs''')
     c.execute('''
     CREATE TABLE IF NOT EXISTS jobs (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
