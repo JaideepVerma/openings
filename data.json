@@ -268,6 +268,20 @@
   {
     "id": 1,
     "company": "AMAZON",
+    "job_id": "10386222",
+    "role": "Data Scientist - II, Alexa Sensitive Content Intelligence",
+    "description": "Alexa+ is Amazon\u2019s next-generation, AI-powered virtual assistant. Building on the original Alexa, it uses generative AI to deliver a more conversational, personalised, and effective experience. Alexa Sensitive Content Intelligence (ASCI) team is developing responsible AI (RAI) solutions for Alexa+, empowering it to provide useful information responsibly. The Mission Build AI safety systems that protect millions of Alexa customers every day. As conversational AI evolves, you'll solve challenging problems in Responsible AI by ensuring LLMs provide safe, trustworthy responses, building AI systems that understand nuanced human values across cultures, and maintaining customer trust at scale. We are looking for a passionate, talented, and inventive Data Scientist-II to help build industry-leading technology with Large Language Models (LLMs) and multimodal systems, requiring good learning and generative models knowledge. You will be working with a team of exceptional Data Scientists working in a hybrid, fast-paced organization where scientists, engineers, and product managers work together to build customer facing experiences. You will collaborate with other data scientists while understanding the role data plays in developing data sets and exemplars that meet customer needs. You will analyze and automate processes for collecting and annotating LLM inputs and outputs to assess data quality and measurement. You will apply state-of-the-art Generative AI techniques to analyze how well our data represents human language and run experiments to gauge downstream interactions. You will work collaboratively with other data scientists and applied scientists to design and implement principled strategies for data optimization. Key job responsibilities A Data Scientist-II should have a reasonably good understanding of NLP models (e.g. LSTM, LLMs, other transformer based models) or CV models (e.g. CNN, AlexNet, ResNet, GANs, ViT) and know of ways to improve their performance using data. You leverage your technical expertise in improving and extending existing models. Your work will directly impact our customers in the form of products and services that make use of speech, language, and computer vision technologies. You will be joining a select group of people making history producing one of the most highly rated products in Amazon's history, so if you are looking for a challenging and innovative role where you can solve important problems while growing in your career, this may be the place for you. A day in the life You will be working with a group of talented scientists on running experiments to test scientific proposal/solutions to improve our sensitive contents detection and mitigation for worldwide coverage. This will involve collaboration with partner teams including engineering, PMs, data annotators, and other scientists to discuss data quality, policy, model development, and solution implementation. You will work with other scientists, collaborating and contributing to extending and improving solutions for the team. About the team Our team pioneers Responsible AI for conversational assistants. We ensure Alexa delivers safe, trustworthy experiences across all devices, modalities, and languages worldwide. We work on frontier AI safety challenges\u2014and we're looking for scientists who want to help shape the future of trustworthy AI.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 3+ years of data scientist experience - 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience - 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience - Experience applying theoretical models in an applied environment - Experience with big data: processing, filtering, and presenting large quantities (100K to Millions of rows) of data",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "2026-04-08",
+    "job_family": "Science",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10386222"
+  },
+  {
+    "id": 2,
+    "company": "AMAZON",
     "job_id": "10380168",
     "role": "Applied Scientist II, HST Health Evaluation",
     "description": "Amazon Health Services (One Medical) About Us: At Health AI, we're revolutionizing healthcare delivery through innovative AI-enabled solutions. As part of Amazon Health Services and One Medical, we're on a mission to make quality healthcare more accessible while improving patient outcomes. Our work directly impacts millions of lives by empowering patients and enabling healthcare providers to deliver more meaningful care. Role Overview: We're seeking an Applied Scientist to join our dynamic team in building state of the art AI/ML solutions for healthcare. This role offers a unique opportunity to work at the intersection of artificial intelligence and healthcare, developing solutions that will shape the future of medical services delivery. Key job responsibilities \u2022 Lead end-to-end development of AI/ML solutions for Amazon Health organization, including Amazon Pharmacy and One Medical \u2022 Research, design, and implement state-of-the-art machine learning models, with a focus on Large Language Models (LLMs) and Visual Language Models (VLMs) \u2022 Optimize and fine-tune models for production deployment, including model distillation for improved latency \u2022 Drive scientific innovation while maintaining a strong focus on practical business outcomes \u2022 Collaborate with cross-functional teams to translate complex technical solutions into tangible customer benefits \u2022 Contribute to the broader Amazon Health scientific community and help shape our technical roadmap",
@@ -280,7 +294,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10380168"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "AMAZON",
     "job_id": "10377874",
     "role": "Applied Scientist, Books Reading & Discovery Experiences",
@@ -294,7 +308,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377874"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "AMAZON",
     "job_id": "10377873",
     "role": "Applied Scientist, Central Machine Learning",
@@ -308,7 +322,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377873"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "AMAZON",
     "job_id": "10379521",
     "role": "Applied Scientist II, Payment Risk Machine Learning",
@@ -322,7 +336,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10379521"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "AMAZON",
     "job_id": "10376105",
     "role": "Applied Scientist II, AERO Agentic AI Team",
@@ -336,7 +350,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10376105"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "AMAZON",
     "job_id": "10385936",
     "role": "Senior Applied Scientist, HST Health Evaluation",
@@ -350,7 +364,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10385936"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "AMAZON",
     "job_id": "10376764",
     "role": "Business Analyst II, Selling Partner Identity Verification (SPIV)",
@@ -364,7 +378,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10376764"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "AMAZON",
     "job_id": "10373343",
     "role": "Applied Scientist II, Central Machine Learning",
@@ -378,7 +392,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10373343"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "AMAZON",
     "job_id": "10373344",
     "role": "Applied Scientist, International Machine Learning",
@@ -392,7 +406,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10373344"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "AMAZON",
     "job_id": "10377858",
     "role": "Software Development Engineer II, FinTech, FinTech",
@@ -406,7 +420,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377858"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "AMAZON",
     "job_id": "3204092",
     "role": "Applied Scientist II, Amazon Business Companion",
@@ -420,7 +434,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3204092"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "AMAZON",
     "job_id": "3206545",
     "role": "Applied Scientist, RBS Tech",
@@ -434,7 +448,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3206545"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "AMAZON",
     "job_id": "3206546",
     "role": "Applied Scientist II, RBS Tech",
@@ -448,7 +462,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3206546"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "AMAZON",
     "job_id": "3207578",
     "role": "Applied Scientist, MAPLE - Recommender System",
@@ -462,7 +476,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3207578"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "AMAZON",
     "job_id": "3207585",
     "role": "Data Scientist, MAPLE - Recommender System",
@@ -476,7 +490,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3207585"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "AMAZON",
     "job_id": "3207580",
     "role": "Senior Data Scientist, MAPLE - Recommender System",
@@ -490,7 +504,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3207580"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "AMAZON",
     "job_id": "3207573",
     "role": "Data Scientist, MAPLE - Recommender System",
@@ -504,7 +518,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3207573"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "AMAZON",
     "job_id": "3203026",
     "role": "Software Development Manager, FinTech General Ledger",
@@ -518,7 +532,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3203026"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "AMAZON",
     "job_id": "3204165",
     "role": "Software Development Engineer, Fintech Tax",
@@ -532,7 +546,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3204165"
   },
   {
-    "id": 20,
+    "id": 21,
     "company": "AMAZON",
     "job_id": "3204138",
     "role": "Software Development Engineer, Fintech Tax",
@@ -546,7 +560,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3204138"
   },
   {
-    "id": 21,
+    "id": 22,
     "company": "AMAZON",
     "job_id": "3198336",
     "role": "Applied Scientist, Selection Monitoring",
@@ -560,7 +574,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3198336"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "AMAZON",
     "job_id": "10384219",
     "role": "Business Intelligence Engineer, Alexa International BI Team",
@@ -574,7 +588,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10384219"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "AMAZON",
     "job_id": "10371573",
     "role": "Applied Scientist II, Seller Fee Science",
@@ -588,7 +602,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10371573"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "AMAZON",
     "job_id": "3206932",
     "role": "Applied Scientist III, Alexa International",
@@ -602,7 +616,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3206932"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "AMAZON",
     "job_id": "3197743",
     "role": "Applied Scientist I, Buyer Risk Prevention (BRP)",
@@ -616,7 +630,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3197743"
   },
   {
-    "id": 26,
+    "id": 27,
     "company": "AMAZON",
     "job_id": "3197748",
     "role": "Applied Scientist I, Buyer Risk Prevention (BRP)",
@@ -630,7 +644,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3197748"
   },
   {
-    "id": 27,
+    "id": 28,
     "company": "AMAZON",
     "job_id": "3199754",
     "role": "Applied Scientist II, Buyer Risk Prevention (BRP)",
@@ -644,7 +658,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3199754"
   },
   {
-    "id": 28,
+    "id": 29,
     "company": "AMAZON",
     "job_id": "3202511",
     "role": "Applied Scientist II, Buyer Risk Prevention (BRP)",
@@ -658,7 +672,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3202511"
   },
   {
-    "id": 29,
+    "id": 30,
     "company": "AMAZON",
     "job_id": "3199686",
     "role": "Applied Scientist II, Books Content Experience",
@@ -670,20 +684,6 @@
     "job_family": "Applied Science",
     "job_function": "Job-Function",
     "apply_link": "https://amazon.jobs/en/jobs/3199686"
-  },
-  {
-    "id": 30,
-    "company": "AMAZON",
-    "job_id": "3193049",
-    "role": "Applied Scientist II, Buyer Risk Prevention (BRP)",
-    "description": "Do you want to join an innovative team of scientists applying machine learning and advanced statistical techniques to protect Amazon customers and enable a trusted eCommerce experience? Are you excited about modeling terabytes of data and building state-of-the-art algorithms to solve complex, real-world fraud and risk challenges? Do you enjoy owning end-to-end machine learning problems, directly influencing customer experience and company profitability, while collaborating in a diverse, high-performing team? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right fit for you. We are seeking an Applied Scientist to design, develop, and deploy advanced algorithmic systems that safeguard millions of transactions every day. In this role, you will independently drive model development from problem formulation to production deployment, build scalable ML solutions, and leverage emerging technologies\u2014including Generative AI and LLMs\u2014to enhance fraud detection and next-generation risk prevention systems. Key job responsibilities Own end-to-end development of machine learning models for large-scale risk management systems Analyze large volumes of historical and real-time data to identify fraud patterns and emerging risk trends Design, develop, validate, and deploy innovative models to production environments Apply GenAI/LLM technologies to automate risk evaluation and improve operational efficiency Collaborate closely with software engineering teams to implement scalable, real-time model solutions Partner with operations and business stakeholders to translate risk insights into measurable impact Establish scalable and automated processes for data analysis, model experimentation, validation, and monitoring Track model performance and business metrics; communicate insights clearly to technical and non-technical stakeholders Research and implement novel machine learning and statistical methodologies",
-    "responsibilities": "responsibilities",
-    "qualifications": "- 3+ years of building models for business application experience - PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience - Experience in patents or publications at top-tier peer-reviewed conferences or journals - Experience programming in Java, C++, Python or related language - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
-    "location": "Bengaluru, Karnataka, IND",
-    "posting_date": "2026-02-26",
-    "job_family": "Applied Science",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/3193049"
   },
   {
     "id": 1,
