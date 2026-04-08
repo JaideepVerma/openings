@@ -32,7 +32,7 @@ jobs:
         run: python export_to_json.py
       
       - name: Generate static site
-        run: python JPMCapp.py --generate-static
+        run: python site.py --generate-static
       
       - name: Upload results
         uses: actions/upload-artifact@v4
