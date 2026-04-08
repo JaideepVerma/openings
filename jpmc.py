@@ -100,7 +100,7 @@ def create_db():
     conn.commit()
     conn.close()
 
-    print("Jobs table updated successfully.")
+    print("Jobs table updated successfully.")#
 
 #Run Below if there is any new column 
 '''
