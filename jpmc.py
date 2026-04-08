@@ -92,7 +92,7 @@ def create_db():
         job_family TEXT,
         job_function TEXT,
         apply_link TEXT,
-        posted_at TEXT,
+        update_date TEXT,
         loaded_at TEXT 
             
     )
