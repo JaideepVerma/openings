@@ -47,6 +47,7 @@ def scrape_barclays():
             "apply_link": "https://search.jobs.barclays" + title_tag["href"],
     
         }
+        print(date_text)
         jobs.append(job)
     print(len(jobs), "barclays Jobs added")
         
