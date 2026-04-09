@@ -16,13 +16,13 @@
   {
     "id": 2,
     "company": "SWIGGY",
-    "job_id": "25674",
-    "role": "Senior Data Scientist",
+    "job_id": "25675",
+    "role": "Data Scientist I",
     "description": "description",
-    "responsibilities": "What will you get to do here?\n\n\n * Formulate and implement innovative solutions to business problems using \nstate of the art Machine Learning/Deep Learning models\n * Leverage Swiggy\u2019s rich data at scale to build deeply personalized \nrecommendation systems\n * Drive high-impact initiatives by closely collaborating with Product, \nEngineering, and Business teams.\n * Build and scale machine learning models across domains like supply chain, \nlogistics, Ads, Search, and customer experience\n * Leverage our mature ML infrastructure to deploy models and conduct \nexperiments\n * Work with and mentor fellow Data Scientists\n * Experiment, innovate, and deploy cutting-edge ML solutions at scale\n * Contribute and co-own the product roadmap.\n\n\n",
-    "qualifications": "What qualities are we looking for?\n\n\n * 5\u20138 years of experience in Machine Learning, Applied Statistics, and Data \nScience.\n * Strong understanding of model deployment, experimentation, and impact \nmeasurement.\n * Hands-on experience with Python, ML frameworks, big data tools, and \nreal-world systems.\n * Passionate about solving complex problems across Ads, Search, logistics, \nand personalization.\n\n\n",
+    "responsibilities": "What will you get to do here?\n\n\n * You will leverage your strong ML/DL/Statistics background to build new and \nnext generation of ML based solutions to improve the quality of ads \nrecommendation and leverage various optimization techniques to improve the \ncampaign performance.\n * You will mine and extract relevant information from Swiggy's massive \nhistorical data to help ideate and identify solutions to business and CX \nproblems.\n * You will work closely with engineers/PMs/analysts on detailed requirements, \ntechnical designs, and implementation of end-to-end inference solutions at \nSwiggy scale.\n * You will stay abreast with the latest in ML research for Ads Bidding \nalgorithms, Recommendation Systems related areas and help adapt it to Swiggy's \nproblem statements.\n * You will publish and talk about your work in internal and external forums \nto both technical and layman audiences.\n * Opportunity to work on challenging and impactful projects in the logistics \ndomain\n * Collaborate with cross-functional teams, including software developers and \nproduct managers, to integrate data-driven solutions into our systems\n * Develop and deploy machine learning and deep learning models\n * Take ownership of projects from inception to delivery, ensuring \nhigh-quality and impactful results.\n\n\nWhat qualities are we looking for?\n\n\n * Bachelors or Masters degree in a quantitative field with 0-3 years of \nindustry/research lab experience\n * Required: Excellent problem solving skills, ability to deconstruct and \nformulate solutions from first-principles\n * Required: Depth and hands-on experience in applying ML/DL, statistical \ntechniques to business problems\n * Preferred: Experience working with \u2018big data\u2019 and shipping ML/DL models to \nproduction\n * Required: Strong proficiency in Python, SQL, Spark, Tensorflow\n * Required: Strong spoken and written communication skills\n * Big plus: Experience in the space of ecommerce and logistics\n * Experience in Generative AI\n * Proven track record of developing and shipping ML and DL data products\n * Experience in Agentic AI , LLMS and NLP\n * Proficiency in Python\n\n\n",
+    "qualifications": "",
     "location": "Bangalore",
-    "posting_date": "2026-03-25T06:13:05.473+0000",
+    "posting_date": "2026-03-25T06:13:22.250+0000",
     "job_family": "Technology",
     "job_function": "JobFunction",
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
@@ -112,7 +112,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "SWIGGY",
     "job_id": "24373",
     "role": "AI Engineer: III",
@@ -126,21 +126,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 9,
-    "company": "SWIGGY",
-    "job_id": "24590",
-    "role": "Senior Software Development Engineer in Test",
-    "description": "description",
-    "responsibilities": "",
-    "qualifications": "",
-    "location": "Bengaluru",
-    "posting_date": "2026-02-03T05:22:54.841+0000",
-    "job_family": "Technology",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
-  },
-  {
-    "id": 15,
+    "id": 14,
     "company": "SWIGGY",
     "job_id": "23962",
     "role": "Business Analyst",
@@ -154,7 +140,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "SWIGGY",
     "job_id": "24519",
     "role": "Staff Data scientist",
@@ -168,7 +154,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "SWIGGY",
     "job_id": "24514",
     "role": "Senior Business Analyst",
@@ -182,7 +168,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "SWIGGY",
     "job_id": "23555",
     "role": "Business Analyst",
@@ -196,7 +182,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "SWIGGY",
     "job_id": "24368",
     "role": "Business Analyst",
@@ -210,7 +196,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "SWIGGY",
     "job_id": "24132",
     "role": "Software Dev Engineer II",
@@ -224,7 +210,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "SWIGGY",
     "job_id": "23831",
     "role": "Software Dev Engineer II",
@@ -238,7 +224,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "SWIGGY",
     "job_id": "23526",
     "role": "Senior Business Analyst",
@@ -252,7 +238,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "SWIGGY",
     "job_id": "22293",
     "role": "Senior Business Analyst",
@@ -688,6 +674,76 @@
   {
     "id": 1,
     "company": "JPMC",
+    "job_id": "210730446",
+    "role": "IPB Employee Experience - Associate",
+    "description": "Build your career in Financial Analysis while working in the world\u2019s most innovative bank which values creativity and excellence.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Business Management",
+    "job_function": "Finance",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730446"
+  },
+  {
+    "id": 2,
+    "company": "JPMC",
+    "job_id": "210715085",
+    "role": "Associate, Control Management - Controls Room Product Owner",
+    "description": "Strengthen control frameworks by swiftly identifying and resolving issues across business lines.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715085"
+  },
+  {
+    "id": 3,
+    "company": "JPMC",
+    "job_id": "210716048",
+    "role": "Vice President, Product Manager",
+    "description": "Lead the development of an AI-powered tool designed to help employees access support and discover information with ease.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716048"
+  },
+  {
+    "id": 4,
+    "company": "JPMC",
+    "job_id": "210696895",
+    "role": "Senior Lead Software Engineer",
+    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696895"
+  },
+  {
+    "id": 5,
+    "company": "JPMC",
+    "job_id": "210709727",
+    "role": "Lead Software Engineer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709727"
+  },
+  {
+    "id": 6,
+    "company": "JPMC",
     "job_id": "210713613",
     "role": "Lead Software Engineer Java, PL/SQL, Cloud",
     "description": "Lead Software Engineer - Java / Databricks / Spark",
@@ -700,7 +756,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713613"
   },
   {
-    "id": 2,
+    "id": 7,
     "company": "JPMC",
     "job_id": "210725364",
     "role": "Lead Software Engineer - Java AWS",
@@ -714,7 +770,49 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725364"
   },
   {
-    "id": 3,
+    "id": 8,
+    "company": "JPMC",
+    "job_id": "210732846",
+    "role": "Software Engineer II",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732846"
+  },
+  {
+    "id": 9,
+    "company": "JPMC",
+    "job_id": "210732848",
+    "role": "Software Engineer II",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732848"
+  },
+  {
+    "id": 10,
+    "company": "JPMC",
+    "job_id": "210732852",
+    "role": "Software Engineer III",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732852"
+  },
+  {
+    "id": 11,
     "company": "JPMC",
     "job_id": "210733521",
     "role": "Lead Software Engineer - Terraform, AWS",
@@ -728,7 +826,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733521"
   },
   {
-    "id": 4,
+    "id": 12,
     "company": "JPMC",
     "job_id": "210733343",
     "role": "Control Management - Associate",
@@ -742,7 +840,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733343"
   },
   {
-    "id": 5,
+    "id": 13,
     "company": "JPMC",
     "job_id": "210704950",
     "role": "Vice President - Product Manager - Agility Coach Mobilization",
@@ -756,7 +854,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704950"
   },
   {
-    "id": 6,
+    "id": 14,
     "company": "JPMC",
     "job_id": "210705720",
     "role": "Senior Product Associate",
@@ -770,7 +868,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705720"
   },
   {
-    "id": 7,
+    "id": 15,
     "company": "JPMC",
     "job_id": "210731370",
     "role": "Senior Product Associate",
@@ -784,7 +882,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731370"
   },
   {
-    "id": 8,
+    "id": 16,
     "company": "JPMC",
     "job_id": "210731912",
     "role": "Securities Services - Fund Accounting Product Manager",
@@ -798,7 +896,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731912"
   },
   {
-    "id": 9,
+    "id": 17,
     "company": "JPMC",
     "job_id": "210700517",
     "role": "Sr Director of Software Engineering",
@@ -812,7 +910,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700517"
   },
   {
-    "id": 10,
+    "id": 18,
     "company": "JPMC",
     "job_id": "210703403",
     "role": "Lead Software Engineer - Java Full Stack, React JS & AWS",
@@ -826,7 +924,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703403"
   },
   {
-    "id": 11,
+    "id": 19,
     "company": "JPMC",
     "job_id": "210712664",
     "role": "Lead Software Engineer Python, Pyspark - Big Data",
@@ -840,7 +938,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712664"
   },
   {
-    "id": 12,
+    "id": 20,
     "company": "JPMC",
     "job_id": "210713153",
     "role": "Lead Software Engineer - Java, AWS",
@@ -854,7 +952,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713153"
   },
   {
-    "id": 13,
+    "id": 21,
     "company": "JPMC",
     "job_id": "210715569",
     "role": "Senior Manager of Software Engineering - Python Data Engineering, Pyspark, AWS",
@@ -868,7 +966,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715569"
   },
   {
-    "id": 14,
+    "id": 22,
     "company": "JPMC",
     "job_id": "210716151",
     "role": "Lead Software Engineer",
@@ -882,7 +980,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716151"
   },
   {
-    "id": 15,
+    "id": 23,
     "company": "JPMC",
     "job_id": "210717933",
     "role": "Manager of Software Engineering",
@@ -896,7 +994,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717933"
   },
   {
-    "id": 16,
+    "id": 24,
     "company": "JPMC",
     "job_id": "210721867",
     "role": "Data Engineer III",
@@ -910,7 +1008,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721867"
   },
   {
-    "id": 17,
+    "id": 25,
     "company": "JPMC",
     "job_id": "210725978",
     "role": "Software Engineer III",
@@ -924,7 +1022,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725978"
   },
   {
-    "id": 18,
+    "id": 26,
     "company": "JPMC",
     "job_id": "210726942",
     "role": "Lead Software Engineer - AWS, PySpark, BigData",
@@ -938,7 +1036,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726942"
   },
   {
-    "id": 19,
+    "id": 27,
     "company": "JPMC",
     "job_id": "210727049",
     "role": "Software Engineer III -  Full Stack- Java, React, Kubernetes/ Docker/ AWS",
@@ -952,7 +1050,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727049"
   },
   {
-    "id": 20,
+    "id": 28,
     "company": "JPMC",
     "job_id": "210728968",
     "role": "Lead Software Engineer",
@@ -966,7 +1064,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728968"
   },
   {
-    "id": 21,
+    "id": 29,
     "company": "JPMC",
     "job_id": "210729026",
     "role": "Software Engineer III - Java & Python",
@@ -980,7 +1078,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729026"
   },
   {
-    "id": 22,
+    "id": 30,
     "company": "JPMC",
     "job_id": "210730514",
     "role": "Lead Software Engineer Spark, Pyspark ,AWS",
@@ -994,7 +1092,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730514"
   },
   {
-    "id": 23,
+    "id": 31,
     "company": "JPMC",
     "job_id": "210730784",
     "role": "Lead Software Engineer",
@@ -1008,7 +1106,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730784"
   },
   {
-    "id": 24,
+    "id": 32,
     "company": "JPMC",
     "job_id": "210730854",
     "role": "Sr. Lead Software Engineer - Java, Oracle, Kafka",
@@ -1022,7 +1120,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730854"
   },
   {
-    "id": 25,
+    "id": 33,
     "company": "JPMC",
     "job_id": "210730921",
     "role": "Senior Lead Software Engineer - Python, AWS",
@@ -1036,7 +1134,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730921"
   },
   {
-    "id": 26,
+    "id": 34,
     "company": "JPMC",
     "job_id": "210731808",
     "role": "Lead Software Engineer - Java",
@@ -1050,7 +1148,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731808"
   },
   {
-    "id": 27,
+    "id": 35,
     "company": "JPMC",
     "job_id": "210732162",
     "role": "Lead Software Engineer - Android",
@@ -1064,119 +1162,21 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732162"
   },
   {
-    "id": 28,
-    "company": "JPMC",
-    "job_id": "210732802",
-    "role": "Software Engineer III - Python, React",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-08",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732802"
-  },
-  {
-    "id": 29,
-    "company": "JPMC",
-    "job_id": "210733394",
-    "role": "Lead Software Engineer - Java, AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-08",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733394"
-  },
-  {
-    "id": 30,
-    "company": "JPMC",
-    "job_id": "210733464",
-    "role": "Lead Software Engineer - Python/Java - Trading application",
-    "description": "Drive significant business impact by solving exciting and complex challenges for the Credit Exotics trading business",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-08",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733464"
-  },
-  {
-    "id": 31,
-    "company": "JPMC",
-    "job_id": "210733924",
-    "role": "Software Engineer III - .Net , Java, Oracle databse",
-    "description": "Engineer and deliver production-grade, secure, and horizontally scalable software products, contributing as a senior technical contributor within a fast-paced, agile development team.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-08",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733924"
-  },
-  {
-    "id": 32,
-    "company": "JPMC",
-    "job_id": "210733993",
-    "role": "Software Engineer II - QA",
-    "description": "Design, develop, and maintain automated test scripts using industry-standard tools and frameworks",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-08",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733993"
-  },
-  {
-    "id": 33,
-    "company": "JPMC",
-    "job_id": "210723853",
-    "role": "Data Domain Architect Analyst",
-    "description": "GBDH Operations -  Analyst",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-07",
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723853"
-  },
-  {
-    "id": 34,
-    "company": "JPMC",
-    "job_id": "210731400",
-    "role": "Data Owner Senior Associate",
-    "description": "Own and control key product data to drive analytics, support compliance, and enhance client impact.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-07",
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731400"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "job_id": "210721310",
-    "role": "Wholesale Commercial Real Estate (CRE) Portfolio Associate",
-    "description": "Wholesale Commercial Real Estate (CRE) Portfolio Analytics - Analyst",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-07",
-    "job_family": "Analysts",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721310"
-  },
-  {
     "id": 1,
+    "company": "ZS",
+    "job_id": "32591",
+    "role": "Manager - R&D Technologist",
+    "description": "description",
+    "responsibilities": "ZS is seeking a Tech Project Delivery Manager to lead a high-velocity team focused on the future of Biometrics and Clinical Data. We are looking for a delivery leader who excels at navigating the \u201chow\u201d of technical execution without losing sight of the \u201cwhy\u201d in the clinical domain\u2014and who can operate with depth, speed, and accountability in a consulting environment. What You\u2019ll Do Lead Strategic Delivery: Own the end-to-end SDLC for high-impact R&D technology programs, with a focus on Biometrics, Clinical Data Repositories (CDR), and Statistical Computing Environments (SCE). Be accountable for delivery quality, timelines, and technical decision-making. Build and Run a Specialized Squad: Recruit, coach, and manage a high-performing team of technologists. Drive day-to-day execution, skill development, and delivery rigor across multiple concurrent workstreams. Bridge Strategy & Tech: Act as a hands-on liaison between senior stakeholders and engineering teams\u2014translating clinical and business needs into executable roadmaps, detailed plans, and well-scoped technical solutions. Global Orchestration: Lead offshore-first delivery in a fast-paced, global model. Own execution cadence, risk management, and escalation, while ensuring compliance with GxP and client quality standards. Client Influence: Serve as a trusted delivery partner to clients\u2014guiding them on clinical data strategy, platform modernization, and the technical implementation of future-ready biometrics solutions. What You\u2019ll Bring Education: Bachelor\u2019s or master\u2019s degree in Computer Science, MIS, Business Administration, or a related discipline. Proven Delivery Leadership: 10+ years of experience leading technology programs in a consulting environment, including direct ownership of scope, staffing, timelines, and delivery outcomes. SDLC & Execution Depth: 8+ years leading teams through full SDLC, with demonstrated ability to manage delivery risk, architectural trade-offs, and evolving requirements. R&D Literacy: 8+ years in Life Sciences R&D, with strong working knowledge of: Clinical Data Standards: CDASH, SDTM, ADaM, OMOP, FHIR, HL7 Patient Data Systems: EDC, ePRO, Labs, CDMS Biometrics Platforms: Hands-on experience delivering CDR and/or SCE solutions Executive Presence: Strong communication and influence skills, with the ability to engage deeply with technical teams while credibly presenting to senior client and internal leadership. How You\u2019ll Grow Custom Learning Pathways: Structured development to deepen both leadership capabilities and advanced R&D technology expertise. Career S-Curves: Multiple growth paths across people leadership, complex program ownership, and cross-functional roles. Global Impact: Shape how leading life sciences organizations modernize biometrics and clinical data at scale",
+    "qualifications": ".",
+    "location": "Pune",
+    "posting_date": "2026-04-09T07:30:00+0000",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/32591"
+  },
+  {
+    "id": 2,
     "company": "ZS",
     "job_id": "24400",
     "role": "Engineering Specialist_ Salesforce Integration Architect",
@@ -1190,7 +1190,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/24400"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "ZS",
     "job_id": "31244",
     "role": "Finance Associate - Client Accounting",
@@ -1204,7 +1204,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/31244"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "ZS",
     "job_id": "21580",
     "role": "AI Manager - Life Sciences R&D",
@@ -1218,7 +1218,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/21580"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "ZS",
     "job_id": "32101",
     "role": "Business Technology Solutions Consultant - Varicent",
@@ -1232,7 +1232,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32101"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "ZS",
     "job_id": "32034",
     "role": "Test Manager Validation",
@@ -1246,7 +1246,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32034"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "ZS",
     "job_id": "32058",
     "role": "Knowledge Services Associate - CoE",
@@ -1260,7 +1260,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32058"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "ZS",
     "job_id": "24462",
     "role": "Human Resources Associate - Payroll",
@@ -1274,7 +1274,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/24462"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "ZS",
     "job_id": "32057",
     "role": "Corporate Communications & Brand Associate",
@@ -1288,7 +1288,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32057"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "ZS",
     "job_id": "27666",
     "role": "Associate Security Architect (Endpoint Security)",
@@ -1300,19 +1300,5 @@
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/27666"
-  },
-  {
-    "id": 10,
-    "company": "ZS",
-    "job_id": "31838",
-    "role": "Human Resources Specialist - Performance",
-    "description": "description",
-    "responsibilities": "HUMAN RESOURCES SPECIALIST - PERFORMANCE We seek a Human Resources Specialist \u2013 Performance to join our Global Human Resources team. As a Human Resources Specialist \u2013 Performance, you will work to support the global performance review cycle. You will work collaboratively with a highly motivated team within a fast-paced company. This role involves supporting the design, implementation, and continuous improvement of the performance management framework, leveraging SAP SuccessFactors Performance module. The consultant is involved in analyzing performance data, providing insights, and collaborating with cross-functional teams to drive continuous improvement and achieve desired objectives of the performance enablement process. What you'll do: Human Resources Specialist - Performance in the Enterprise will\u2026 Design and implement performance enablement processes (quarterly snapshots, annual cycle). Standardize performance rating frameworks and calibration processes. Analyze performance data and generate reports to provide actionable insights for leadership. Track key performance indicators (KPIs). Configure and maintain Performance module and Work Zone within SAP SuccessFactors. Manage: Performance Snapshot templates and Expectations Framework Troubleshoot system issues and coordinate with HRIS or vendors. Act as SME for performance management practices across the organization. Establish governance guidelines and policy documentation. Ensure consistency across geographies, functions, and business units. Partner with HR business partners (HRBPs), Leaders, and ZSers to ensure smooth execution of performance cycles. Collaborate in training and guiding Leaders on best practices for performance management. Help design communication strategies to enhance transparency in performance management. ",
-    "qualifications": "What you\u2019ll bring: Bachelor\u2019s or Master\u2019s degree in Human Resources, Business Administration, or a related field. 7-10 years of experience in performance management/ talent management or related HR functions. Strong analytical skills with proficiency in Excel, Power BI, or other data analysis tools. Experience working with HR systems like SAP SuccessFactors including Work Zone or similar tools. Ability to handle confidential data with high integrity and professionalism. Flexibility to work across time zones, cultures and levels of the organization; Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
-    "location": "Pune",
-    "posting_date": "2026-04-01T05:42:00+0000",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/31838"
   }
 ]
