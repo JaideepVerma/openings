@@ -30,7 +30,7 @@ def scrape_barclays():
         title_tag = card.select_one("a.job-title--link")
         location_tag = card.select_one("div.job-location")
         #jobdate=card.select_one("div.job-date") 
-        date_text = soup.find("span").get_text(strip=True)  
+        date_text = card.find("span").get_text(strip=True)  
         #print(date_text)     
         job = {
             "company" : "Barclays",
