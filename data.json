@@ -142,6 +142,20 @@
   {
     "id": 1,
     "company": "JPMC",
+    "job_id": "210733982",
+    "role": "Senior Associate Data Owner - Credit Card",
+    "description": "Join our Credit Card Analytics team to drive impactful solutions in a dynamic banking environment.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-10",
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733982"
+  },
+  {
+    "id": 2,
+    "company": "JPMC",
     "job_id": "210733348",
     "role": "Business Management -Analyst",
     "description": "\ufeffLaunch your career as a Business Manager, where you will optimize business performance by helping to drive key initiatives.",
@@ -154,7 +168,21 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733348"
   },
   {
-    "id": 2,
+    "id": 3,
+    "company": "JPMC",
+    "job_id": "210728509",
+    "role": "Senior Product Associate",
+    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-10",
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728509"
+  },
+  {
+    "id": 4,
     "company": "JPMC",
     "job_id": "210733309",
     "role": "Executive Director - Global Time and Absence",
@@ -168,7 +196,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733309"
   },
   {
-    "id": 3,
+    "id": 5,
     "company": "JPMC",
     "job_id": "210733567",
     "role": "Senior Product Associate",
@@ -182,7 +210,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733567"
   },
   {
-    "id": 4,
+    "id": 6,
     "company": "JPMC",
     "job_id": "210733654",
     "role": "Product Associate",
@@ -196,7 +224,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733654"
   },
   {
-    "id": 5,
+    "id": 7,
     "company": "JPMC",
     "job_id": "210697065",
     "role": "Software Engineer III- Java Fullstack",
@@ -210,7 +238,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697065"
   },
   {
-    "id": 6,
+    "id": 8,
     "company": "JPMC",
     "job_id": "210697079",
     "role": "Software Engineer III - Java Fullstack",
@@ -224,7 +252,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697079"
   },
   {
-    "id": 7,
+    "id": 9,
     "company": "JPMC",
     "job_id": "210700517",
     "role": "Sr Director of Software Engineering",
@@ -238,7 +266,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700517"
   },
   {
-    "id": 8,
+    "id": 10,
     "company": "JPMC",
     "job_id": "210702798",
     "role": "Software Engineer III - Java Fullstack",
@@ -252,7 +280,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702798"
   },
   {
-    "id": 9,
+    "id": 11,
     "company": "JPMC",
     "job_id": "210705779",
     "role": "Software Engineer III - Automation Test Engineer",
@@ -266,7 +294,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705779"
   },
   {
-    "id": 10,
+    "id": 12,
     "company": "JPMC",
     "job_id": "210709255",
     "role": "Software Engineer III - Salesforce Development",
@@ -280,7 +308,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709255"
   },
   {
-    "id": 11,
+    "id": 13,
     "company": "JPMC",
     "job_id": "210715508",
     "role": "Software Engineer III - Data Engineer",
@@ -294,7 +322,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715508"
   },
   {
-    "id": 12,
+    "id": 14,
     "company": "JPMC",
     "job_id": "210715560",
     "role": "Software Engineer II - Fullstack (Dotnet, Angular + AWS)",
@@ -308,7 +336,21 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715560"
   },
   {
-    "id": 13,
+    "id": 15,
+    "company": "JPMC",
+    "job_id": "210716050",
+    "role": "Lead Software Engineer",
+    "description": "Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top-notch technology.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-10",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716050"
+  },
+  {
+    "id": 16,
     "company": "JPMC",
     "job_id": "210717794",
     "role": "Software Engineer II",
@@ -322,7 +364,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717794"
   },
   {
-    "id": 14,
+    "id": 17,
     "company": "JPMC",
     "job_id": "210720215",
     "role": "Software Engineer II- Salesforce Development",
@@ -336,7 +378,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720215"
   },
   {
-    "id": 15,
+    "id": 18,
     "company": "JPMC",
     "job_id": "210721713",
     "role": "Lead Software Engineer",
@@ -350,7 +392,21 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721713"
   },
   {
-    "id": 16,
+    "id": 19,
+    "company": "JPMC",
+    "job_id": "210721822",
+    "role": "Software Engineer I",
+    "description": "Are you looking for an exciting opportunity to join a dynamic and growing team in a fast paced and challenging area?",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-10",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721822"
+  },
+  {
+    "id": 20,
     "company": "JPMC",
     "job_id": "210722037",
     "role": "Principal Software Engineer",
@@ -364,7 +420,21 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722037"
   },
   {
-    "id": 17,
+    "id": 21,
+    "company": "JPMC",
+    "job_id": "210723638",
+    "role": "Software Engineer III- Python, Kubernetes/ Cloud foundary",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-10",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723638"
+  },
+  {
+    "id": 22,
     "company": "JPMC",
     "job_id": "210727006",
     "role": "Lead Software Engineer - Java, React, Kafka",
@@ -378,7 +448,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727006"
   },
   {
-    "id": 18,
+    "id": 23,
     "company": "JPMC",
     "job_id": "210727806",
     "role": "Sr Lead Software Engineer",
@@ -392,7 +462,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727806"
   },
   {
-    "id": 19,
+    "id": 24,
     "company": "JPMC",
     "job_id": "210729313",
     "role": "Site Reliability Engineer II",
@@ -406,7 +476,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729313"
   },
   {
-    "id": 20,
+    "id": 25,
     "company": "JPMC",
     "job_id": "210730881",
     "role": "Software Engineer II - Java",
@@ -420,7 +490,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730881"
   },
   {
-    "id": 21,
+    "id": 26,
     "company": "JPMC",
     "job_id": "210733319",
     "role": "Software Engineer III ( AWS , Springboot, Java)",
@@ -434,7 +504,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733319"
   },
   {
-    "id": 22,
+    "id": 27,
     "company": "JPMC",
     "job_id": "210733973",
     "role": "Software Engineer III",
@@ -448,7 +518,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733973"
   },
   {
-    "id": 23,
+    "id": 28,
     "company": "JPMC",
     "job_id": "210734610",
     "role": "Senior Lead Software Engineer",
@@ -462,7 +532,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734610"
   },
   {
-    "id": 24,
+    "id": 29,
     "company": "JPMC",
     "job_id": "210728300",
     "role": "Analytics Solution Senior Associate",
@@ -476,7 +546,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728300"
   },
   {
-    "id": 25,
+    "id": 30,
     "company": "JPMC",
     "job_id": "210730446",
     "role": "IPB Employee Experience - Associate",
@@ -490,7 +560,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730446"
   },
   {
-    "id": 26,
+    "id": 31,
     "company": "JPMC",
     "job_id": "210715085",
     "role": "Associate, Control Management - Product Owner, AI/ML",
@@ -504,7 +574,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715085"
   },
   {
-    "id": 27,
+    "id": 32,
     "company": "JPMC",
     "job_id": "210716048",
     "role": "Vice President, Product Manager",
@@ -518,7 +588,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716048"
   },
   {
-    "id": 28,
+    "id": 33,
     "company": "JPMC",
     "job_id": "210682025",
     "role": "Senior Lead Site Reliability Engineer",
@@ -532,7 +602,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682025"
   },
   {
-    "id": 29,
+    "id": 34,
     "company": "JPMC",
     "job_id": "210706851",
     "role": "Senior Manager of Software Engineering - Java, React, AWS",
@@ -546,7 +616,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706851"
   },
   {
-    "id": 30,
+    "id": 35,
     "company": "JPMC",
     "job_id": "210708268",
     "role": "Senior Manager - Firmwide Planning & Analysis - AWS, Databricks, PySpark",
@@ -560,77 +630,21 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708268"
   },
   {
-    "id": 31,
-    "company": "JPMC",
-    "job_id": "210708238",
-    "role": "Senior Director of Software Engineering - Enterprise Document Archive Platform",
-    "description": "Direct multiple technical areas, manage the activities of multiple departments, and collaborate across technical domains",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-09",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708238"
-  },
-  {
-    "id": 32,
-    "company": "JPMC",
-    "job_id": "210709727",
-    "role": "Lead Software Engineer",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-09",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709727"
-  },
-  {
-    "id": 33,
-    "company": "JPMC",
-    "job_id": "210713613",
-    "role": "Lead Software Engineer Java, PL/SQL, Cloud",
-    "description": "Lead Software Engineer - Java / Databricks / Spark",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-09",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713613"
-  },
-  {
-    "id": 34,
-    "company": "JPMC",
-    "job_id": "210720626",
-    "role": "Software Engineer III - Automation",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-09",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720626"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "job_id": "210723215",
-    "role": "Lead Site Reliability Engineer",
-    "description": "Lead and conduct resiliency design reviews, break up complex problems, and act as a technical lead for medium to large sized products",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-09",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723215"
-  },
-  {
     "id": 1,
+    "company": "AMAZON",
+    "job_id": "10388390",
+    "role": "Senior Applied Scientist , Buyer Risk Prevention (BRP)",
+    "description": "Do you want to lead the development of advanced machine learning systems that protect millions of customers and power a trusted global eCommerce experience? Are you passionate about modeling terabytes of data, solving highly ambiguous fraud and risk challenges, and driving step-change improvements through scientific innovation? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right place for you. We are seeking a Senior Applied Scientist to define and drive the scientific direction of large-scale risk management systems that safeguard millions of transactions every day. In this role, you will lead the design and deployment of advanced machine learning solutions, influence cross-team technical strategy, and leverage emerging technologies\u2014including Generative AI and LLMs\u2014to build next-generation risk prevention platforms. Key job responsibilities Lead the end-to-end scientific strategy for large-scale fraud and risk modeling initiatives Define problem statements, success metrics, and long-term modeling roadmaps in partnership with business and engineering leaders Design, develop, and deploy highly scalable machine learning systems in real-time production environments Drive innovation using advanced ML, deep learning, and GenAI/LLM technologies to automate and transform risk evaluation Influence system architecture and partner with engineering teams to ensure robust, scalable implementations Establish best practices for experimentation, model validation, monitoring, and lifecycle management Mentor and raise the technical bar for junior scientists through reviews, technical guidance, and thought leadership Communicate complex scientific insights clearly to senior leadership and cross-functional stakeholders Identify emerging scientific trends and translate them into impactful production solutions",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 3+ years of building machine learning models for business application experience - PhD, or Master's degree and 6+ years of applied research experience - Experience programming in Java, C++, Python or related language - Experience with neural deep learning methods and machine learning",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "2026-04-10",
+    "job_family": "Applied Science",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10388390"
+  },
+  {
+    "id": 2,
     "company": "AMAZON",
     "job_id": "10388266",
     "role": "Senior Applied Scientist, International Machine Learning",
@@ -644,7 +658,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10388266"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "AMAZON",
     "job_id": "10386222",
     "role": "Data Scientist - II, Alexa Sensitive Content Intelligence",
@@ -658,7 +672,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10386222"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "AMAZON",
     "job_id": "10386253",
     "role": "Data Scientist - II, Alexa Sensitive Content Intelligence",
@@ -672,7 +686,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10386253"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "AMAZON",
     "job_id": "10380168",
     "role": "Applied Scientist II, HST Health Evaluation",
@@ -686,7 +700,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10380168"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "AMAZON",
     "job_id": "10377874",
     "role": "Applied Scientist, Books Reading & Discovery Experiences",
@@ -700,7 +714,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377874"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "AMAZON",
     "job_id": "10377873",
     "role": "Applied Scientist, Central Machine Learning",
@@ -714,7 +728,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377873"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "AMAZON",
     "job_id": "10379521",
     "role": "Applied Scientist II, Payment Risk Machine Learning",
@@ -728,7 +742,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10379521"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "AMAZON",
     "job_id": "10376105",
     "role": "Applied Scientist II, AERO Agentic AI Team",
@@ -742,7 +756,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10376105"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "AMAZON",
     "job_id": "10385936",
     "role": "Senior Applied Scientist, HST Health Evaluation",
@@ -756,7 +770,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10385936"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "AMAZON",
     "job_id": "10376764",
     "role": "Business Analyst II, Selling Partner Identity Verification (SPIV)",
@@ -770,7 +784,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10376764"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "AMAZON",
     "job_id": "10373343",
     "role": "Applied Scientist II, Central Machine Learning",
@@ -784,7 +798,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10373343"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "AMAZON",
     "job_id": "10373344",
     "role": "Applied Scientist, International Machine Learning",
@@ -798,7 +812,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10373344"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "AMAZON",
     "job_id": "10377858",
     "role": "Software Development Engineer II, FinTech, FinTech",
@@ -812,7 +826,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377858"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "AMAZON",
     "job_id": "3204092",
     "role": "Applied Scientist II, Amazon Business Companion",
@@ -826,7 +840,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3204092"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "AMAZON",
     "job_id": "3206545",
     "role": "Applied Scientist, RBS Tech",
@@ -840,7 +854,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3206545"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "AMAZON",
     "job_id": "3206546",
     "role": "Applied Scientist II, RBS Tech",
@@ -854,7 +868,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3206546"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "AMAZON",
     "job_id": "3207578",
     "role": "Applied Scientist, MAPLE - Recommender System",
@@ -868,7 +882,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3207578"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "AMAZON",
     "job_id": "3207585",
     "role": "Data Scientist, MAPLE - Recommender System",
@@ -882,7 +896,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3207585"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "AMAZON",
     "job_id": "3207580",
     "role": "Senior Data Scientist, MAPLE - Recommender System",
@@ -896,7 +910,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3207580"
   },
   {
-    "id": 20,
+    "id": 21,
     "company": "AMAZON",
     "job_id": "3207573",
     "role": "Data Scientist, MAPLE - Recommender System",
@@ -910,7 +924,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3207573"
   },
   {
-    "id": 21,
+    "id": 22,
     "company": "AMAZON",
     "job_id": "3203026",
     "role": "Software Development Manager, FinTech General Ledger",
@@ -924,7 +938,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3203026"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "AMAZON",
     "job_id": "3204165",
     "role": "Software Development Engineer, Fintech Tax",
@@ -938,7 +952,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3204165"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "AMAZON",
     "job_id": "3198336",
     "role": "Applied Scientist, Selection Monitoring",
@@ -952,7 +966,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3198336"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "AMAZON",
     "job_id": "10384219",
     "role": "Business Intelligence Engineer, Alexa International BI Team",
@@ -966,7 +980,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10384219"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "AMAZON",
     "job_id": "10371573",
     "role": "Applied Scientist II, Seller Fee Science",
@@ -980,7 +994,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10371573"
   },
   {
-    "id": 26,
+    "id": 27,
     "company": "AMAZON",
     "job_id": "3206932",
     "role": "Applied Scientist III, Alexa International",
@@ -994,7 +1008,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3206932"
   },
   {
-    "id": 27,
+    "id": 28,
     "company": "AMAZON",
     "job_id": "3197743",
     "role": "Applied Scientist I, Buyer Risk Prevention (BRP)",
@@ -1008,7 +1022,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3197743"
   },
   {
-    "id": 28,
+    "id": 29,
     "company": "AMAZON",
     "job_id": "3197748",
     "role": "Applied Scientist I, Buyer Risk Prevention (BRP)",
@@ -1022,7 +1036,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3197748"
   },
   {
-    "id": 29,
+    "id": 30,
     "company": "AMAZON",
     "job_id": "3199754",
     "role": "Applied Scientist II, Buyer Risk Prevention (BRP)",
@@ -1036,21 +1050,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3199754"
   },
   {
-    "id": 30,
-    "company": "AMAZON",
-    "job_id": "3202511",
-    "role": "Applied Scientist II, Buyer Risk Prevention (BRP)",
-    "description": "Do you want to join an innovative team of scientists applying machine learning and advanced statistical techniques to protect Amazon customers and enable a trusted eCommerce experience? Are you excited about modeling terabytes of data and building state-of-the-art algorithms to solve complex, real-world fraud and risk challenges? Do you enjoy owning end-to-end machine learning problems, directly influencing customer experience and company profitability, while collaborating in a diverse, high-performing team? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right fit for you. We are seeking an Applied Scientist to design, develop, and deploy advanced algorithmic systems that safeguard millions of transactions every day. In this role, you will independently drive model development from problem formulation to production deployment, build scalable ML solutions, and leverage emerging technologies\u2014including Generative AI and LLMs\u2014to enhance fraud detection and next-generation risk prevention systems. Key job responsibilities Own end-to-end development of machine learning models for large-scale risk management systems Analyze large volumes of historical and real-time data to identify fraud patterns and emerging risk trends Design, develop, validate, and deploy innovative models to production environments Apply GenAI/LLM technologies to automate risk evaluation and improve operational efficiency Collaborate closely with software engineering teams to implement scalable, real-time model solutions Partner with operations and business stakeholders to translate risk insights into measurable impact Establish scalable and automated processes for data analysis, model experimentation, validation, and monitoring Track model performance and business metrics; communicate insights clearly to technical and non-technical stakeholders Research and implement novel machine learning and statistical methodologies",
-    "responsibilities": "responsibilities",
-    "qualifications": "- 3+ years of building models for business application experience - PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience - Experience in patents or publications at top-tier peer-reviewed conferences or journals - Experience programming in Java, C++, Python or related language - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
-    "location": "Bengaluru, Karnataka, IND",
-    "posting_date": "2026-03-03",
-    "job_family": "Applied Science",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/3202511"
-  },
-  {
-    "id": 13,
+    "id": 14,
     "company": "Barclays",
     "job_id": "91190338912",
     "role": "Data Engineer",
@@ -1064,7 +1064,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-engineer/13015/91190338912"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "Barclays",
     "job_id": "82665887760",
     "role": "Data Governance Analyst",
@@ -1078,7 +1078,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-governance-analyst/13015/82665887760"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "Barclays",
     "job_id": "92199670128",
     "role": "Risk Analytics - Analyst",
@@ -1092,7 +1092,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/risk-analytics-analyst/13015/92199670128"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "Barclays",
     "job_id": "92190233904",
     "role": "AWS & Java Integration Engineer",
@@ -1106,7 +1106,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/aws-and-java-integration-engineer/13015/92190233904"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "Barclays",
     "job_id": "88792123760",
     "role": "Data Modeller",
@@ -1120,7 +1120,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeller/13015/88792123760"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "Barclays",
     "job_id": "90783661792",
     "role": "Data Business Analyst",
@@ -1134,7 +1134,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-business-analyst/13015/90783661792"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "Barclays",
     "job_id": "92042368144",
     "role": "Data Modeler / Architect",
@@ -1148,7 +1148,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler-architect/13015/92042368144"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "Barclays",
     "job_id": "88646727872",
     "role": "Data Engineer",
@@ -1162,7 +1162,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-engineer/13015/88646727872"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "Barclays",
     "job_id": "91190335424",
     "role": "AVP - Data Business Analyst",
@@ -1176,7 +1176,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/avp-data-business-analyst/13015/91190335424"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "Barclays",
     "job_id": "91789413424",
     "role": "Data Analyst",
@@ -1190,7 +1190,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-analyst/13015/91789413424"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "Barclays",
     "job_id": "91789406368",
     "role": "Data Business Analyst",
@@ -1204,7 +1204,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-business-analyst/13015/91789406368"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "Barclays",
     "job_id": "92613182416",
     "role": "Data Modeler",
@@ -1218,7 +1218,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/92613182416"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "Barclays",
     "job_id": "91658602240",
     "role": "Data & Records Governance Analyst",
@@ -1232,7 +1232,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-and-records-governance-analyst/13015/91658602240"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "Barclays",
     "job_id": "91190340944",
     "role": "ETL Automation Tester",
@@ -1246,7 +1246,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/etl-automation-tester/13015/91190340944"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "Barclays",
     "job_id": "89301105856",
     "role": "Data Scientist Lead - Vice President",
@@ -1260,7 +1260,21 @@
     "apply_link": "https://search.jobs.barclays/job/noida/data-scientist-lead-vice-president/13015/89301105856"
   },
   {
-    "id": 20,
+    "id": 2,
+    "company": "Barclays",
+    "job_id": "93411787392",
+    "role": "Data Analyst",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurugram, India",
+    "posting_date": "09 Apr",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/gurugram/data-analyst/13015/93411787392"
+  },
+  {
+    "id": 21,
     "company": "Barclays",
     "job_id": "90416264848",
     "role": "Data Modeler",
@@ -1274,7 +1288,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/90416264848"
   },
   {
-    "id": 21,
+    "id": 22,
     "company": "Barclays",
     "job_id": "90405985856",
     "role": "Data Governance Analyst",
@@ -1302,7 +1316,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/reporting-and-mi-workforce-reporting/13015/93764357360"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "Barclays",
     "job_id": "93104780048",
     "role": "Decision Analyst",
@@ -1316,7 +1330,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/decision-analyst/13015/93104780048"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "Barclays",
     "job_id": "90610471840",
     "role": "Vice President ML Ops Engineer",
@@ -1330,7 +1344,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/vice-president-ml-ops-engineer/13015/90610471840"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "Barclays",
     "job_id": "90610471776",
     "role": "MLOps Engineer",
@@ -1344,7 +1358,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/mlops-engineer/13015/90610471776"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "Barclays",
     "job_id": "90586375840",
     "role": "Decision Scientist",
@@ -1356,20 +1370,6 @@
     "job_family": "JobFamily...",
     "job_function": "JobFunction...",
     "apply_link": "https://search.jobs.barclays/job/noida/decision-scientist/13015/90586375840"
-  },
-  {
-    "id": 26,
-    "company": "Barclays",
-    "job_id": "82040007392",
-    "role": "AVP- Solution Architect",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune, India",
-    "posting_date": "08 Apr",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/pune/avp-solution-architect/13015/82040007392"
   },
   {
     "id": 27,
@@ -1386,7 +1386,7 @@
     "apply_link": "https://search.jobs.barclays/job/mumbai/senior-data-modeller-vp/13015/79747029216"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "Barclays",
     "job_id": "91119476976",
     "role": "Data Analyst",
@@ -1400,7 +1400,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-analyst/13015/91119476976"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "Barclays",
     "job_id": "92950692784",
     "role": "Data Privacy - AVP",
@@ -1414,7 +1414,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/data-privacy-avp/13015/92950692784"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "Barclays",
     "job_id": "92563159104",
     "role": "Data Scientist - AVP",
@@ -1430,6 +1430,20 @@
   {
     "id": 1,
     "company": "SWIGGY",
+    "job_id": "25977",
+    "role": "Lead Software Development Engineer in Test",
+    "description": "description",
+    "responsibilities": "What will you get to do here?\n\n\n * Be an Independent executioner to handle complex projects with stakeholders.\u00a0\n * Creating optimal test strategy (Including Functional, Non-Functional, \nAnalytics and automation) and test plans for short term and long-term projects \nboth.\u00a0\n * Lead SDET is also responsible for the addition of new capabilities and \nfeatures in the automation framework which is used by the entire QA team for \ntest automation.\u00a0\n * You are also responsible for managing and maintaining test coverage through \nperiodic reports to engineering and stakeholders.\u00a0\n * Lead SDET is an expert role and demands a complete hands-on contribution on \nSingle or multiple projects simultaneously.\n * Solely responsible for setting up and implementation of test automation \nstrategy from Functional and Non-functional perspective for one module or \nmultiple modules\n\n\n",
+    "qualifications": "What qualities are we looking for?\n\n\n * Candidate should have a good understanding of relational and non-relational \ndatabases like MySQL, Postgres, DyanmoDB and more\n * Should have hands-on experience in Java - Test automation. \u00b7\u00a0\u00a0\u00a0\n * Experience in any scripting language like python, Perl shell, TCL/TK is a \nplus. \u00b7\u00a0\u00a0\u00a0\n * Hands-on Experience on latest technologies for backend and front end \ndevelopment like react js, angular, Golang, servlet, bootstrap, input stream \nprocessing, JavaScript, NodeJS is a big plus. \u00b7\u00a0\u00a0\u00a0\u00a0\n * Must have experience in TestNG, maven, HTTP client, rest and web services \ntest automation, Selenium, Appium. \u00b7\u00a0\u00a0\u00a0\n * Prior hands-on experience or understanding of working with Kafka, Storm, \nSpark, Hadoop, Scala, Flink, vertex, spring boot, RabbitMQ, Elasticsearch, \nSolr, AWS, Athena is a plus.\u00a0\u00a0\n * Experience required - 6 to 8 years\n * Must be an Independent executioner and has prior experience in handling \ncomplex projects with stakeholders.\u00a0\n * Must have prior experience in creating optimal test strategy (Including \nFunctional, Non-Functional, Analytics and automation) and test plans for short \nterm and long-term projects both.\u00a0\n * Must have understanding and implementation level experience on design \npatterns.\n\n\n",
+    "location": "Bangalore",
+    "posting_date": "2026-04-10T10:10:47.439+0000",
+    "job_family": "Technology",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
+  },
+  {
+    "id": 2,
+    "company": "SWIGGY",
     "job_id": "25656",
     "role": "Software Development Engineer III(Android)",
     "description": "description",
@@ -1442,7 +1456,21 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 2,
+    "id": 3,
+    "company": "SWIGGY",
+    "job_id": "25652",
+    "role": "Business Analyst",
+    "description": "description",
+    "responsibilities": "",
+    "qualifications": "",
+    "location": "Bangalore",
+    "posting_date": "2026-03-24T09:05:38.527+0000",
+    "job_family": "Analytics",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
+  },
+  {
+    "id": 4,
     "company": "SWIGGY",
     "job_id": "25468",
     "role": "Software Development Engineer in Test",
@@ -1456,7 +1484,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 3,
+    "id": 5,
     "company": "SWIGGY",
     "job_id": "25397",
     "role": "Software Dev Engineer II",
@@ -1470,7 +1498,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 4,
+    "id": 6,
     "company": "SWIGGY",
     "job_id": "25255",
     "role": "Engineering Manager - iOS",
@@ -1484,7 +1512,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 5,
+    "id": 7,
     "company": "SWIGGY",
     "job_id": "25229",
     "role": "Software Development Engineer in Test",
@@ -1498,7 +1526,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 6,
+    "id": 8,
     "company": "SWIGGY",
     "job_id": "25198",
     "role": "Lead Software Development Engineer in Test (IOS)",
@@ -1512,7 +1540,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 8,
+    "id": 11,
     "company": "SWIGGY",
     "job_id": "24373",
     "role": "AI Engineer: III",
@@ -1526,7 +1554,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 7,
+    "id": 9,
     "company": "SWIGGY",
     "job_id": "24519",
     "role": "Staff Data scientist",
@@ -1540,7 +1568,21 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 9,
+    "id": 10,
+    "company": "SWIGGY",
+    "job_id": "24514",
+    "role": "Senior Business Analyst",
+    "description": "description",
+    "responsibilities": "",
+    "qualifications": "",
+    "location": "Bangalore",
+    "posting_date": "2026-01-29T07:09:44.575+0000",
+    "job_family": "Analytics",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
+  },
+  {
+    "id": 12,
     "company": "SWIGGY",
     "job_id": "24132",
     "role": "Software Dev Engineer II",
@@ -1554,7 +1596,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 10,
+    "id": 13,
     "company": "SWIGGY",
     "job_id": "23831",
     "role": "Software Dev Engineer II",
