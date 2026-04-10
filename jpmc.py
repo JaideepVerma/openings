@@ -38,6 +38,7 @@ def scrape_jpmc():
 
             jobs.append({
                 "company": "JPMC",
+                "industry" : 'Financial Services',
                 "job_id": job_id,
                 "role": role,
                 "description": description,
@@ -67,9 +68,9 @@ def save_jobs(jobs):
                   (job["company"], job["job_id"]))
         if not c.fetchone():
             c.execute("""INSERT INTO jobs 
-                         (company, job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function,update_date, apply_link) 
-                         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?, ?)""",
-                      (job["company"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"],job["update_date"],job["apply_link"])) ##
+                         (company,industry, job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function,update_date, apply_link) 
+                         VALUES (?,?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?, ?)""",
+                      (job["company"],job["industry"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"],job["update_date"],job["apply_link"])) ##
    
     conn.commit()
     conn.close()
@@ -84,6 +85,7 @@ def create_db():
     CREATE TABLE IF NOT EXISTS jobs (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         company TEXT,
+        industry TEXT,
         job_id TEXT,
         role TEXT,
         description TEXT,
