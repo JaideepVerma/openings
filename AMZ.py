@@ -184,6 +184,7 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
     updated_dt_index_end = updated_iso.find("T")
     record = {
         "company": 'AMAZON',
+        "industry": 'FAANG : ecom + Tech' ,
         "job_id": simple.get("icimsJobId"),# simple.get("artJobId") or simple.get("icimsJobId") or simple.get("jobCode"),
         "role": simple.get("title"),
        
@@ -226,6 +227,7 @@ CREATE_TABLE_SQL = """
 CREATE TABLE IF NOT EXISTS jobs (
  id INTEGER PRIMARY KEY AUTOINCREMENT,
     company TEXT,
+    industry TEXT,
     job_id TEXT,
     role TEXT,
     description TEXT,
@@ -249,11 +251,11 @@ CREATE_INDEXES_SQL = [
 
 INSERT_SQL = """
 INSERT OR REPLACE INTO jobs (
-    job_id, role, company,  job_family,  
+    job_id, role, company,industry,  job_family,  
     location,description,responsibilities,qualifications,
     job_function,posting_date,update_date,apply_link
 ) VALUES (
-    :job_id, :role, :company, :job_family, 
+    :job_id, :role, :company,:industry, :job_family, 
     :location,:description, :responsibilities, :qualifications,
     :job_function, :posting_date, :update_date,
     :apply_link 
