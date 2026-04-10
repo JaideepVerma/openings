@@ -2,6 +2,7 @@
   {
     "id": 1,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "32420",
     "role": "Project Management Associate",
     "description": "description",
@@ -16,6 +17,7 @@
   {
     "id": 2,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "24330",
     "role": "Business Technology Solutions Associate Consultant",
     "description": "description",
@@ -30,6 +32,7 @@
   {
     "id": 3,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "32081",
     "role": "Senior Lead, Digital Products",
     "description": "description",
@@ -44,6 +47,7 @@
   {
     "id": 4,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "32591",
     "role": "Technical Manager - Biometrics and Clinical Data",
     "description": "description",
@@ -58,6 +62,7 @@
   {
     "id": 5,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "24400",
     "role": "Engineering Specialist_ Salesforce Integration Architect",
     "description": "description",
@@ -72,6 +77,7 @@
   {
     "id": 6,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "31244",
     "role": "Finance Associate - Client Accounting",
     "description": "description",
@@ -86,6 +92,7 @@
   {
     "id": 7,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "21580",
     "role": "AI Manager - Life Sciences R&D",
     "description": "description",
@@ -100,6 +107,7 @@
   {
     "id": 8,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "32101",
     "role": "Business Technology Solutions Consultant - Varicent",
     "description": "description",
@@ -114,6 +122,7 @@
   {
     "id": 9,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "32034",
     "role": "Test Manager Validation",
     "description": "description",
@@ -128,6 +137,7 @@
   {
     "id": 10,
     "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "32058",
     "role": "Knowledge Services Associate - CoE",
     "description": "description",
@@ -142,6 +152,7 @@
   {
     "id": 1,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210733982",
     "role": "Senior Associate Data Owner - Credit Card",
     "description": "Join our Credit Card Analytics team to drive impactful solutions in a dynamic banking environment.",
@@ -156,6 +167,7 @@
   {
     "id": 2,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210733348",
     "role": "Business Management -Analyst",
     "description": "\ufeffLaunch your career as a Business Manager, where you will optimize business performance by helping to drive key initiatives.",
@@ -170,6 +182,7 @@
   {
     "id": 3,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210728509",
     "role": "Senior Product Associate",
     "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
@@ -184,6 +197,7 @@
   {
     "id": 4,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210733309",
     "role": "Executive Director - Global Time and Absence",
     "description": "Join us as the Product Director within our Employee Experience and HR Product team.",
@@ -198,6 +212,7 @@
   {
     "id": 5,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210733567",
     "role": "Senior Product Associate",
     "description": "Senior Associate - Product Management (API Products)",
@@ -212,6 +227,7 @@
   {
     "id": 6,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210733654",
     "role": "Product Associate",
     "description": "Associate Product Management (API Products)",
@@ -226,6 +242,7 @@
   {
     "id": 7,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210697065",
     "role": "Software Engineer III- Java Fullstack",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -240,6 +257,7 @@
   {
     "id": 8,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210697079",
     "role": "Software Engineer III - Java Fullstack",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -254,6 +272,7 @@
   {
     "id": 9,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210700517",
     "role": "Sr Director of Software Engineering",
     "description": "Direct multiple technical areas, manage the activities of multiple departments, and collaborate across technical domains",
@@ -268,6 +287,7 @@
   {
     "id": 10,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210702798",
     "role": "Software Engineer III - Java Fullstack",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -282,6 +302,7 @@
   {
     "id": 11,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210705779",
     "role": "Software Engineer III - Automation Test Engineer",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -296,6 +317,7 @@
   {
     "id": 12,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210709255",
     "role": "Software Engineer III - Salesforce Development",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -310,6 +332,7 @@
   {
     "id": 13,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210715508",
     "role": "Software Engineer III - Data Engineer",
     "description": "Design and implement data pipelines, ensuring data integrity for business analytics.",
@@ -324,6 +347,7 @@
   {
     "id": 14,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210715560",
     "role": "Software Engineer II - Fullstack (Dotnet, Angular + AWS)",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
@@ -338,6 +362,7 @@
   {
     "id": 15,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210716050",
     "role": "Lead Software Engineer",
     "description": "Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top-notch technology.",
@@ -352,6 +377,7 @@
   {
     "id": 16,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210717794",
     "role": "Software Engineer II",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
@@ -366,6 +392,7 @@
   {
     "id": 17,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210720215",
     "role": "Software Engineer II- Salesforce Development",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
@@ -380,6 +407,7 @@
   {
     "id": 18,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210721713",
     "role": "Lead Software Engineer",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
@@ -394,6 +422,7 @@
   {
     "id": 19,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210721822",
     "role": "Software Engineer I",
     "description": "Are you looking for an exciting opportunity to join a dynamic and growing team in a fast paced and challenging area?",
@@ -408,6 +437,7 @@
   {
     "id": 20,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210722037",
     "role": "Principal Software Engineer",
     "description": "Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm",
@@ -422,6 +452,7 @@
   {
     "id": 21,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210723638",
     "role": "Software Engineer III- Python, Kubernetes/ Cloud foundary",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -436,6 +467,7 @@
   {
     "id": 22,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210727006",
     "role": "Lead Software Engineer - Java, React, Kafka",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
@@ -450,6 +482,7 @@
   {
     "id": 23,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210727806",
     "role": "Sr Lead Software Engineer",
     "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
@@ -464,6 +497,7 @@
   {
     "id": 24,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210729313",
     "role": "Site Reliability Engineer II",
     "description": "Work in technology while increasing your knowledge and skillsets at one of the world's leading organizations",
@@ -478,6 +512,7 @@
   {
     "id": 25,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210730881",
     "role": "Software Engineer II - Java",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
@@ -492,6 +527,7 @@
   {
     "id": 26,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210733319",
     "role": "Software Engineer III ( AWS , Springboot, Java)",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -506,6 +542,7 @@
   {
     "id": 27,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210733973",
     "role": "Software Engineer III",
     "description": "Transform your career by enhancing and migrating our trade processing platform to a kubernetes cloud-native code-base ",
@@ -520,6 +557,7 @@
   {
     "id": 28,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210734610",
     "role": "Senior Lead Software Engineer",
     "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
@@ -534,6 +572,7 @@
   {
     "id": 29,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210728300",
     "role": "Analytics Solution Senior Associate",
     "description": "Lead strategic analytics, craft innovative data solutions, and shape key decisions while collaborating in a dynamic, growth promoten team",
@@ -548,6 +587,7 @@
   {
     "id": 30,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210730446",
     "role": "IPB Employee Experience - Associate",
     "description": "Build your career in Financial Analysis while working in the world\u2019s most innovative bank which values creativity and excellence.",
@@ -562,6 +602,7 @@
   {
     "id": 31,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210715085",
     "role": "Associate, Control Management - Product Owner, AI/ML",
     "description": "Strengthen control frameworks by swiftly identifying and resolving issues across business lines.",
@@ -576,6 +617,7 @@
   {
     "id": 32,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210716048",
     "role": "Vice President, Product Manager",
     "description": "Lead the development of an AI-powered tool designed to help employees access support and discover information with ease.",
@@ -590,6 +632,7 @@
   {
     "id": 33,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210682025",
     "role": "Senior Lead Site Reliability Engineer",
     "description": "Influence your team\u2019s strategic planning while driving continual site reliability improvements ",
@@ -604,6 +647,7 @@
   {
     "id": 34,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210706851",
     "role": "Senior Manager of Software Engineering - Java, React, AWS",
     "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams ",
@@ -618,6 +662,7 @@
   {
     "id": 35,
     "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210708268",
     "role": "Senior Manager - Firmwide Planning & Analysis - AWS, Databricks, PySpark",
     "description": "Leadership role with technical skills in Data Engineering, Enterprise Application, Architecture and Cloud",
@@ -632,6 +677,7 @@
   {
     "id": 1,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10388390",
     "role": "Senior Applied Scientist , Buyer Risk Prevention (BRP)",
     "description": "Do you want to lead the development of advanced machine learning systems that protect millions of customers and power a trusted global eCommerce experience? Are you passionate about modeling terabytes of data, solving highly ambiguous fraud and risk challenges, and driving step-change improvements through scientific innovation? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right place for you. We are seeking a Senior Applied Scientist to define and drive the scientific direction of large-scale risk management systems that safeguard millions of transactions every day. In this role, you will lead the design and deployment of advanced machine learning solutions, influence cross-team technical strategy, and leverage emerging technologies\u2014including Generative AI and LLMs\u2014to build next-generation risk prevention platforms. Key job responsibilities Lead the end-to-end scientific strategy for large-scale fraud and risk modeling initiatives Define problem statements, success metrics, and long-term modeling roadmaps in partnership with business and engineering leaders Design, develop, and deploy highly scalable machine learning systems in real-time production environments Drive innovation using advanced ML, deep learning, and GenAI/LLM technologies to automate and transform risk evaluation Influence system architecture and partner with engineering teams to ensure robust, scalable implementations Establish best practices for experimentation, model validation, monitoring, and lifecycle management Mentor and raise the technical bar for junior scientists through reviews, technical guidance, and thought leadership Communicate complex scientific insights clearly to senior leadership and cross-functional stakeholders Identify emerging scientific trends and translate them into impactful production solutions",
@@ -646,6 +692,7 @@
   {
     "id": 2,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10388266",
     "role": "Senior Applied Scientist, International Machine Learning",
     "description": "Do you want to join an innovative team of scientists who use machine learning and statistical techniques to create state-of-the-art solutions for providing better value to Amazon\u2019s customers? Do you want to build and deploy advanced algorithmic systems that help optimize millions of transactions every day? Are you excited by the prospect of analyzing and modeling terabytes of data to solve real world problems? Do you like to own end-to-end business problems/metrics and directly impact the profitability of the company? Do you like to innovate and simplify? If yes, then you may be a great fit to join the Machine Learning and Data Sciences team for India Consumer Businesses. If you have an entrepreneurial spirit, know how to deliver, love to work with data, are deeply technical, highly innovative and long for the opportunity to build solutions to challenging problems that directly impact the company's bottom-line, we want to talk to you. Major responsibilities - Use machine learning and analytical techniques to create scalable solutions for business problems - Analyze and extract relevant information from large amounts of Amazon\u2019s historical business data to help automate and optimize key processes - Design, development, evaluate and deploy innovative and highly scalable models for predictive learning - Research and implement novel machine learning and statistical approaches - Work closely with software engineering teams to drive real-time model implementations and new feature creations - Work closely with business owners and operations staff to optimize various business operations - Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation - Mentor other scientists and engineers in the use of ML techniques Key job responsibilities Use machine learning and analytical techniques to create scalable solutions for business problems Analyze and extract relevant information from large amounts of Amazon\u2019s historical business data to help automate and optimize key processes Design, develop, evaluate and deploy, innovative and highly scalable ML models Work closely with software engineering teams to drive real-time model implementations Work closely with business partners to identify problems and propose machine learning solutions Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model maintenance Work proactively with engineering teams and product managers to evangelize new algorithms and drive the implementation of large-scale complex ML models in production Leading projects and mentoring other scientists, engineers in the use of ML techniques About the team International Machine Learning Team is responsible for building novel ML solutions that attack India first (and other Emerging Markets across MENA and LatAm) problems and impact the bottom-line and top-line of India business. Learn more about our team from https://www.amazon.science/working-at-amazon/how-rajeev-rastogis-machine-learning-team-in-india-develops-innovations-for-customers-worldwide",
@@ -660,6 +707,7 @@
   {
     "id": 3,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10386222",
     "role": "Data Scientist - II, Alexa Sensitive Content Intelligence",
     "description": "Alexa+ is Amazon\u2019s next-generation, AI-powered virtual assistant. Building on the original Alexa, it uses generative AI to deliver a more conversational, personalised, and effective experience. Alexa Sensitive Content Intelligence (ASCI) team is developing responsible AI (RAI) solutions for Alexa+, empowering it to provide useful information responsibly. The Mission Build AI safety systems that protect millions of Alexa customers every day. As conversational AI evolves, you'll solve challenging problems in Responsible AI by ensuring LLMs provide safe, trustworthy responses, building AI systems that understand nuanced human values across cultures, and maintaining customer trust at scale. We are looking for a passionate, talented, and inventive Data Scientist-II to help build industry-leading technology with Large Language Models (LLMs) and multimodal systems, requiring good learning and generative models knowledge. You will be working with a team of exceptional Data Scientists working in a hybrid, fast-paced organization where scientists, engineers, and product managers work together to build customer facing experiences. You will collaborate with other data scientists while understanding the role data plays in developing data sets and exemplars that meet customer needs. You will analyze and automate processes for collecting and annotating LLM inputs and outputs to assess data quality and measurement. You will apply state-of-the-art Generative AI techniques to analyze how well our data represents human language and run experiments to gauge downstream interactions. You will work collaboratively with other data scientists and applied scientists to design and implement principled strategies for data optimization. Key job responsibilities A Data Scientist-II should have a reasonably good understanding of NLP models (e.g. LSTM, LLMs, other transformer based models) or CV models (e.g. CNN, AlexNet, ResNet, GANs, ViT) and know of ways to improve their performance using data. You leverage your technical expertise in improving and extending existing models. Your work will directly impact our customers in the form of products and services that make use of speech, language, and computer vision technologies. You will be joining a select group of people making history producing one of the most highly rated products in Amazon's history, so if you are looking for a challenging and innovative role where you can solve important problems while growing in your career, this may be the place for you. A day in the life You will be working with a group of talented scientists on running experiments to test scientific proposal/solutions to improve our sensitive contents detection and mitigation for worldwide coverage. This will involve collaboration with partner teams including engineering, PMs, data annotators, and other scientists to discuss data quality, policy, model development, and solution implementation. You will work with other scientists, collaborating and contributing to extending and improving solutions for the team. About the team Our team pioneers Responsible AI for conversational assistants. We ensure Alexa delivers safe, trustworthy experiences across all devices, modalities, and languages worldwide. We work on frontier AI safety challenges\u2014and we're looking for scientists who want to help shape the future of trustworthy AI.",
@@ -674,6 +722,7 @@
   {
     "id": 4,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10386253",
     "role": "Data Scientist - II, Alexa Sensitive Content Intelligence",
     "description": "Alexa+ is Amazon\u2019s next-generation, AI-powered virtual assistant. Building on the original Alexa, it uses generative AI to deliver a more conversational, personalised, and effective experience. Alexa Sensitive Content Intelligence (ASCI) team is developing responsible AI (RAI) solutions for Alexa+, empowering it to provide useful information responsibly. The Mission Build AI safety systems that protect millions of Alexa customers every day. As conversational AI evolves, you'll solve challenging problems in Responsible AI by ensuring LLMs provide safe, trustworthy responses, building AI systems that understand nuanced human values across cultures, and maintaining customer trust at scale. We are looking for a passionate, talented, and inventive Data Scientist-II to help build industry-leading technology with Large Language Models (LLMs) and multimodal systems, requiring good learning and generative models knowledge. You will be working with a team of exceptional Data Scientists working in a hybrid, fast-paced organization where scientists, engineers, and product managers work together to build customer facing experiences. You will collaborate with other data scientists while understanding the role data plays in developing data sets and exemplars that meet customer needs. You will analyze and automate processes for collecting and annotating LLM inputs and outputs to assess data quality and measurement. You will apply state-of-the-art Generative AI techniques to analyze how well our data represents human language and run experiments to gauge downstream interactions. You will work collaboratively with other data scientists and applied scientists to design and implement principled strategies for data optimization. Key job responsibilities A Data Scientist-II should have a reasonably good understanding of NLP models (e.g. LSTM, LLMs, other transformer based models) or CV models (e.g. CNN, AlexNet, ResNet, GANs, ViT) and know of ways to improve their performance using data. You leverage your technical expertise in improving and extending existing models. Your work will directly impact our customers in the form of products and services that make use of speech, language, and computer vision technologies. You will be joining a select group of people making history producing one of the most highly rated products in Amazon's history, so if you are looking for a challenging and innovative role where you can solve important problems while growing in your career, this may be the place for you. A day in the life You will be working with a group of talented scientists on running experiments to test scientific proposal/solutions to improve our sensitive contents detection and mitigation for worldwide coverage. This will involve collaboration with partner teams including engineering, PMs, data annotators, and other scientists to discuss data quality, policy, model development, and solution implementation. You will work with other scientists, collaborating and contributing to extending and improving solutions for the team. About the team Our team pioneers Responsible AI for conversational assistants. We ensure Alexa delivers safe, trustworthy experiences across all devices, modalities, and languages worldwide. We work on frontier AI safety challenges\u2014and we're looking for scientists who want to help shape the future of trustworthy AI.",
@@ -688,6 +737,7 @@
   {
     "id": 5,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10380168",
     "role": "Applied Scientist II, HST Health Evaluation",
     "description": "Amazon Health Services (One Medical) About Us: At Health AI, we're revolutionizing healthcare delivery through innovative AI-enabled solutions. As part of Amazon Health Services and One Medical, we're on a mission to make quality healthcare more accessible while improving patient outcomes. Our work directly impacts millions of lives by empowering patients and enabling healthcare providers to deliver more meaningful care. Role Overview: We're seeking an Applied Scientist to join our dynamic team in building state of the art AI/ML solutions for healthcare. This role offers a unique opportunity to work at the intersection of artificial intelligence and healthcare, developing solutions that will shape the future of medical services delivery. Key job responsibilities \u2022 Lead end-to-end development of AI/ML solutions for Amazon Health organization, including Amazon Pharmacy and One Medical \u2022 Research, design, and implement state-of-the-art machine learning models, with a focus on Large Language Models (LLMs) and Visual Language Models (VLMs) \u2022 Optimize and fine-tune models for production deployment, including model distillation for improved latency \u2022 Drive scientific innovation while maintaining a strong focus on practical business outcomes \u2022 Collaborate with cross-functional teams to translate complex technical solutions into tangible customer benefits \u2022 Contribute to the broader Amazon Health scientific community and help shape our technical roadmap",
@@ -702,6 +752,7 @@
   {
     "id": 6,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10377874",
     "role": "Applied Scientist, Books Reading & Discovery Experiences",
     "description": "Passionate about books? The Amazon Books team is looking for a talented Applied Scientist II to help invent, design, and deliver science solutions to make it easier for millions of customers to find the next book they will love. In this role, you will - Be a part of a growing team of scientists, economists, engineers, analysts, and business partners. - Use Amazon\u2019s large-scale computing and data resources to generate deep understandings of our customers and products. - Build highly accurate models (and/or agentic systems) to enhance the book reading & discovery experiences. - Design, implement, and deliver novel solutions to some of Amazon\u2019s oldest problems. Key job responsibilities - Inspect science initiatives across Amazon to identify opportunities for application and scaling within book reading and discovery experiences. - Participate in team design, scoping, and prioritization discussions while mapping business goals to scientific problems and aligning business metrics with technical metrics. - Spearhead the design and implementation of new features through thorough research and collaboration with cross-functional teams. - Initiate the design, development, execution, and implementation of project components with input and guidance from team members. - Work with Software Development Engineers (SDEs) to deliver production-ready solutions that benefit customers and business operations. - Invent, refine, and develop solutions to ensure they meet customer needs and team objectives. - Demonstrate ability to use reasonable assumptions, data analysis, and customer requirements to solve complex problems. - Write secure, stable, testable, and maintainable code with minimal defects while taking full responsibility for your components. - Possess strong understanding of data structures, algorithms, model evaluation techniques, performance optimization, and trade-off analysis. - Follow engineering and scientific method best practices, including design reviews, model validation, and comprehensive testing. - Maintain current knowledge of research trends in your field and apply rigorous scrutiny to results and methodologies. A day in the life In this role, you will address complex Books customer challenges by developing innovative solutions that leverage the advancements in science. Working alongside a talented team of scientists, you will conduct research and execute experiments designed to enhance the Books reading and shopping experience. Your responsibilities will encompass close collaboration with cross-functional partner teams, including engineering, product management, and fellow scientists, to ensure optimal data quality, robust model development, and successful productionization of scientific solutions. Additionally, you will provide mentorship to other scientists, conduct reviews of their work, and contribute to the development of team roadmaps. About the team The team consists of a collaborative group of scientists, product leaders, and dedicated engineering teams. We work with multiple partner teams to leverage our systems to drive a diverse array of customer experiences, owned both by ourselves and others, that enable shoppers to easily find their perfect next read and enable delightful reading experiences that would make Kindle the best place to read.",
@@ -716,6 +767,7 @@
   {
     "id": 7,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10377873",
     "role": "Applied Scientist, Central Machine Learning",
     "description": "Do you want to join an innovative team of scientists who use machine learning and statistical techniques to create state-of-the-art solutions for providing better value to Amazon\u2019s customers? Do you want to build and deploy advanced algorithmic systems that help optimize millions of transactions every day? Are you excited by the prospect of analyzing and modeling terabytes of data to solve real world problems? Do you like to own end-to-end business problems/metrics and directly impact the profitability of the company? Do you like to innovate and simplify? If yes, then you may be a great fit to join the Machine Learning and Data Sciences team for India Consumer Businesses. If you have an entrepreneurial spirit, know how to deliver, love to work with data, are deeply technical, highly innovative and long for the opportunity to build solutions to challenging problems that directly impact the company's bottom-line, we want to talk to you. Major responsibilities - Use machine learning and analytical techniques to create scalable solutions for business problems - Analyze and extract relevant information from large amounts of Amazon\u2019s historical business data to help automate and optimize key processes - Design, development, evaluate and deploy innovative and highly scalable models for predictive learning - Research and implement novel machine learning and statistical approaches - Work closely with software engineering teams to drive real-time model implementations and new feature creations - Work closely with business owners and operations staff to optimize various business operations - Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation - Mentor other scientists and engineers in the use of ML techniques A day in the life You will solve real-world problems by getting and analyzing large amounts of data, generate insights and opportunities, design simulations and experiments, and develop statistical and ML models. The team is driven by business needs, which requires collaboration with other Scientists, Engineers, and Product Managers across the International Emerging Stores organization. You will prepare written and verbal presentations to share insights to audiences of varying levels of technical sophistication. About the team Central Machine Learning team works closely with the IES business and engineering teams in building ML solutions that create an impact for Emerging Marketplaces. This is a great opportunity to leverage your machine learning and data mining skills to create a direct impact on millions of consumers and end users.",
@@ -730,6 +782,7 @@
   {
     "id": 8,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10379521",
     "role": "Applied Scientist II, Payment Risk Machine Learning",
     "description": "Amazon.com\u2019s Buyer Risk Prevention (BRP) mission is to make Amazon the safest and most trusted place worldwide to transact online. Amazon runs one of the most dynamic e-commerce marketplaces in the world, with nearly 2 million sellers worldwide selling hundreds of millions of items in ten countries. BRP safeguards every financial transaction across all Amazon sites. As such, BRP designs and builds the software systems, risk models, and operational processes that minimize risk and maximize trust in Amazon.com. The BRP organization is looking for an Applied Scientist for its Payment Risk Mining ML team, whose mission is to combine advanced machine learning techniques to detect negative customer experiences, improve system effectiveness, and prevent bad debt across Amazon. As an Applied Scientist in Risk Mining, you will be responsible for modeling complex problems, discovering insights, and building risk algorithms that identify opportunities through state-of-the-art techniques including statistical models, deep learning, large language models (LLMs), and agentic AI systems. You will explore and implement state of the art approaches such as graph neural networks, anomaly detection, GenAI-powered investigation agents, and multi-agent systems to automate fraud detection and prevention at scale. You will build and deploy production-ready models and automated systems to improve operational efficiency and reduce bad debt. You will collaborate effectively with business and product leaders within BRP and cross-functional teams to build scalable solutions. The ideal candidate should be able to apply a breadth of tools, and advanced ML techniques, from traditional machine learning to emerging agentic frameworks, to take ideas from experimentation to production, driving tangible improvements in fraud detection and prevention. The candidate should be an effective communicator capable of independently driving issues to resolution and communicating insights to non-technical audiences. This is a high-impact role with goals that directly impact the bottom line of the business. Key job responsibilities Own end-to-end development of machine learning models for large-scale risk management systems Analyze large volumes of historical and real-time data to identify fraud patterns and emerging risk trends Design, develop, validate, and deploy innovative models to production environments Apply GenAI/LLM technologies to automate risk evaluation and improve operational efficiency Collaborate closely with software engineering teams to implement scalable, real-time model solutions Partner with operations and business stakeholders to translate risk insights into measurable impact Establish scalable and automated processes for data analysis, model experimentation, validation, and monitoring Track model performance and business metrics; communicate insights clearly to technical and non-technical stakeholders Research and implement novel machine learning and statistical methodologies",
@@ -744,6 +797,7 @@
   {
     "id": 9,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10376105",
     "role": "Applied Scientist II, AERO Agentic AI Team",
     "description": "Amazon is seeking passionate, talented and inventive Applied Scientists with a strong machine learning background to help build Agentic AI solutions for Selling Partners and Retail users. Our mission is to elevate their experience through intelligent, collaborative Agentic AI solution powered by specialized agents that deliver seamless, personalized support at scale. Key job responsibilities As part of our AERO team in Amazon PGX, you will work alongside internationally recognized experts to develop novel solutions and modeling techniques to advance the state-of-the-art in Generative and Agentic AI. Your work will directly impact millions of our users in the form of products and services that improves their experience. You will gain hands on experience with Amazon\u2019s native/partnered Large Language Models (LLMs), technologies like AgentCore, AgentMemory, Strands and Model Context Protocol (MCPs). We are also looking for talents with experiences/expertise in building large-scale and high-performing systems.",
@@ -758,6 +812,7 @@
   {
     "id": 10,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10385936",
     "role": "Senior Applied Scientist, HST Health Evaluation",
     "description": "Amazon Health Services (One Medical) About Us: At Health AI, we're revolutionizing healthcare delivery through innovative AI-enabled solutions. As part of Amazon Health Services and One Medical, we're on a mission to make quality healthcare more accessible while improving patient outcomes. Our work directly impacts millions of lives by empowering patients and enabling healthcare providers to deliver more meaningful care. Role Overview: We're seeking an Applied Scientist to join our dynamic team in building state of the art AI/ML solutions for healthcare. This role offers a unique opportunity to work at the intersection of artificial intelligence and healthcare, developing solutions that will shape the future of medical services delivery. Key job responsibilities \u2022 Lead end-to-end development of AI/ML solutions for Amazon Health organization, including Amazon Pharmacy and One Medical \u2022 Research, design, and implement state-of-the-art machine learning models, with a focus on Large Language Models (LLMs) and Visual Language Models (VLMs) \u2022 Optimize and fine-tune models for production deployment, including model distillation for improved latency \u2022 Drive scientific innovation while maintaining a strong focus on practical business outcomes \u2022 Collaborate with cross-functional teams to translate complex technical solutions into tangible customer benefits \u2022 Contribute to the broader Amazon Health scientific community and help shape our technical roadmap",
@@ -772,6 +827,7 @@
   {
     "id": 11,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10376764",
     "role": "Business Analyst II, Selling Partner Identity Verification (SPIV)",
     "description": "We're seeking an experienced Business Analyst to join our Related Accounts team within SPIV. In this role, you'll analyze seller account relationships by processing hundreds of account attributes, working closely with investigations teams, risk managers, and Product/Program Managers to maintain marketplace integrity. Key job responsibilities Key job responsibilities Support and maintain data pipelines and ETL processes ensuring high data accuracy and reliability Partner with investigations teams to analyze complex seller account relationships and patterns Drive data-informed decisions through detailed analysis and reporting Develop and optimize processes for detecting related seller accounts at scale Provide critical insights through ad-hoc analysis to support business leaders and stakeholders Monitor and evaluate the effectiveness of existing detection mechanisms Create actionable recommendations based on data analysis findings About the team The Related Accounts Program is a key component within SPIV (Selling Partner Identity Verification), working alongside Identity Verification, Document Authentication, and Risk Assessment teams. This role supports SPIV's mission of ensuring marketplace trust and seller authenticity through sophisticated account relationship detection and stopping bad actors.",
@@ -786,6 +842,7 @@
   {
     "id": 12,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10373343",
     "role": "Applied Scientist II, Central Machine Learning",
     "description": "Do you want to join an innovative team of scientists who use machine learning and statistical techniques to create state-of-the-art solutions for providing better value to Amazon\u2019s customers? Do you want to build and deploy advanced algorithmic systems that help optimize millions of transactions every day? Are you excited by the prospect of analyzing and modeling terabytes of data to solve real world problems? Do you like to own end-to-end business problems/metrics and directly impact the profitability of the company? Do you like to innovate and simplify? If yes, then you may be a great fit to join the Machine Learning and Data Sciences team for India Consumer Businesses. If you have an entrepreneurial spirit, know how to deliver, love to work with data, are deeply technical, highly innovative and long for the opportunity to build solutions to challenging problems that directly impact the company's bottom-line, we want to talk to you. Major responsibilities - Use machine learning and analytical techniques to create scalable solutions for business problems - Analyze and extract relevant information from large amounts of Amazon\u2019s historical business data to help automate and optimize key processes - Design, development, evaluate and deploy innovative and highly scalable models for predictive learning - Research and implement novel machine learning and statistical approaches - Work closely with software engineering teams to drive real-time model implementations and new feature creations - Work closely with business owners and operations staff to optimize various business operations - Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model implementation - Mentor other scientists and engineers in the use of ML techniques",
@@ -800,6 +857,7 @@
   {
     "id": 13,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10373344",
     "role": "Applied Scientist, International Machine Learning",
     "description": "Do you want to join an innovative team of scientists who use machine learning and statistical techniques to create state-of-the-art solutions for providing better value to Amazon\u2019s customers? Do you want to build and deploy advanced ML systems that help optimize millions of transactions every day? Are you excited by the prospect of analyzing and modeling terabytes of data to solve real-world problems? Do you like to own end-to-end business problems/metrics and directly impact the profitability of the company? Do you like to innovate and simplify? If yes, then you may be a great fit to join the Machine Learning team for International Emerging Stores (IES). Machine Learning, Big Data and related quantitative sciences have been strategic to Amazon from the early years. Amazon has been a pioneer in areas such as recommendation engines, ecommerce fraud detection and large-scale optimization of fulfillment center operations. As Amazon has rapidly grown and diversified, the opportunity for applying machine learning has exploded. We have a very broad collection of practical problems where machine learning systems can dramatically improve the customer experience, reduce cost, and drive speed and automation. These include product bundle recommendations for millions of products, safeguarding financial transactions across by building the risk models, improving catalog quality via extracting product attribute values from structured/unstructured data for millions of products, enhancing address quality by powering customer suggestions We are developing state-of-the-art machine learning solutions to accelerate the Amazon India growth story. Amazon is an exciting place to be at for a machine learning practitioner. We have the eagerness of a fresh startup to absorb machine learning solutions, and the scale of a mature firm to help support their development at the same time. As part of the International Machine Learning team, you will get to work alongside brilliant minds motivated to solve real-world machine learning problems that make a difference to millions of our customers. We encourage thought leadership and blue ocean thinking in ML. Key job responsibilities Use machine learning and analytical techniques to create scalable solutions for business problems Analyze and extract relevant information from large amounts of Amazon\u2019s historical business data to help automate and optimize key processes Design, develop, evaluate and deploy, innovative and highly scalable ML models Work closely with software engineering teams to drive real-time model implementations Work closely with business partners to identify problems and propose machine learning solutions Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model maintenance Work proactively with engineering teams and product managers to evangelize new algorithms and drive the implementation of large-scale complex ML models in production Leading projects and mentoring other scientists, engineers in the use of ML techniques About the team International Machine Learning Team is responsible for building novel ML solutions across International Emerging Store (India, MENA, Far-East, LatAm) problems and impact the bottom-line and top-line of India business. Learn more about our team from https://www.amazon.science/working-at-amazon/how-rajeev-rastogis-machine-learning-team-in-india-develops-innovations-for-customers-worldwide",
@@ -814,6 +872,7 @@
   {
     "id": 14,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10377858",
     "role": "Software Development Engineer II, FinTech, FinTech",
     "description": "Are you looking for an opportunity that will help revolutionize the way big data sets are cataloged, discovered and searched for one of the world\u2019s largest financial data systems? Are you interested in innovating and building platforms that use machine learning to identify anomalies and provide insights across billions of financial transactions? Does the prospect of working with the top engineering talent get you charged up? If so, Amazon Finance Technology (FinTech) is for you! Amazon Finance Technology is seeking a talented Software Development Engineer to work on FinTech Treasury. In this role, you will build treasury solutions that manage bank balances, cash flows, and cash-impacting transactions, supporting financial movements across all Amazon businesses. You will build a next-generation, horizontally scalable platform that will transact hundreds of billions of dollars each year as Amazon grows into a multi-trillion-dollar company. The platform supports banking and financial services capabilities that enable cash flow tracking and payment execution across Amazon\u2019s global operations. You should be comfortable working with highly abstracted, extensible systems in a multi-tenant, microservice-oriented architecture. As a Software Development Engineer in Finance Technology, you will be responsible for driving implementation decisions, delivering functional components, and mentoring junior engineers to develop logical & maintainable software that meets high standards of quality and abstraction. This is an exciting opportunity for a seasoned engineer. In this position, you will play a major role in the architecture, design, implementation and deployment of large-scale and complex big data applications. You will push your design and architecture limits by inventing and simplifying complex problems. You have strong verbal and written communication skills, are self-driven, and can deliver high quality results in a fast-paced environment. You will work with Amazon engineering and business teams across the globe in planning, designing, executing and implementing this new platform. This is a brand-new platform we are building. We are currently in the stage of defining the architecture and high-level design. So, this is your chance to build this platform from scratch.",
@@ -828,6 +887,7 @@
   {
     "id": 15,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3204092",
     "role": "Applied Scientist II, Amazon Business Companion",
     "description": "Do you want to join an innovative team of scientists who leverage machine learning and statistical techniques to revolutionize how businesses discover and purchase products on Amazon? Are you passionate about building intelligent systems that understand and predict complex B2B customer needs? The Amazon Business team is looking for exceptional Applied Science to help shape the future of B2B commerce. Amazon Business is one of Amazon's fastest-growing initiatives focused on serving business customers, from individual professionals to large institutions, with unique and complex purchasing needs. Our customers require sophisticated solutions that go beyond traditional B2C experiences, including bulk purchasing, approval workflows, and business-grade service support. The AB-MSET Applied Science team focuses on building intelligent systems for delivering personalized, contextual service experiences throughout the customer lifecycle. We apply advanced machine learning techniques to develop sophisticated intent detection models for business customer service needs, create intelligent matching algorithms for optimal service routing based on multiple variables including customer value, maturity, effort, and issue complexity, build predictive models to enable proactive service interventions, design recommendation systems for self-service solutions, and develop ML models for automated service resolution. As an Applied Scientist on the team, you will design and develop state-of-the-art ML models for service intent classification, routing optimization, and customer experience personalization. You will analyze large-scale business customer interaction data to identify patterns and opportunities for automation, create scalable solutions for complex B2B service scenarios using advanced ML techniques, and work closely with engineering teams to implement and deploy models in production. You will collaborate with business stakeholders to identify opportunities for ML applications, establish automated processes for model development, validation, and maintenance, lead research initiatives to advance the state-of-the-art in B2B service science, and mentor other scientists and engineers in applying ML techniques to business problems.",
@@ -842,6 +902,7 @@
   {
     "id": 16,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3206545",
     "role": "Applied Scientist, RBS Tech",
     "description": "RBS (Retail Business Services) Tech team works towards enhancing the customer experience (CX) and their trust in product data by providing technologies to find and fix Amazon CX defects at scale. Our platforms help in improving the CX in all phases of customer journey, including selection, discoverability & fulfilment, buying experience and post-buying experience (product quality and customer returns). The team also develops GenAI platforms for automation of Amazon Stores Operations. As a Sciences team in RBS Tech, we focus on foundational ML research and develop scalable state-of-the-art ML solutions to solve the problems covering customer experience (CX) and Selling partner experience (SPX). We work to solve problems related to multi-modal understanding (text and images), task automation through multi-modal LLM Agents, supervised and unsupervised techniques, multi-task learning, multi-label classification, aspect and topic extraction for Customer Anecdote Mining, image and text similarity and retrieval using NLP and Computer Vision for product groupings and identifying duplicate listings in product search results. Key job responsibilities As an Applied Scientist, you will be responsible to design and deploy scalable GenAI, NLP and Computer Vision solutions that will impact the content visible to millions of customer and solve key customer experience issues. You will develop novel LLM, deep learning and statistical techniques for task automation, text processing, image processing, pattern recognition, and anomaly detection problems. You will define the research and experiments strategy with an iterative execution approach to develop AI/ML models and progressively improve the results over time. You will partner with business and engineering teams to identify and solve large and significantly complex problems that require scientific innovation. You will independently file for patents and/or publish research work where opportunities arise. The RBS org deals with problems that are directly related to the selling partners and end customers and the ML team drives resolution to organization level problems. Therefore, the Applied Scientist role will impact the large product strategy, identifies new business opportunities and provides strategic direction which is very exciting.",
@@ -856,6 +917,7 @@
   {
     "id": 17,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3206546",
     "role": "Applied Scientist II, RBS Tech",
     "description": "RBS (Retail Business Services) Tech team works towards enhancing the customer experience (CX) and their trust in product data by providing technologies to find and fix Amazon CX defects at scale. Our platforms help in improving the CX in all phases of customer journey, including selection, discoverability & fulfilment, buying experience and post-buying experience (product quality and customer returns). The team also develops GenAI platforms for automation of Amazon Stores Operations. As a Sciences team in RBS Tech, we focus on foundational ML research and develop scalable state-of-the-art ML solutions to solve the problems covering customer experience (CX) and Selling partner experience (SPX). We work to solve problems related to multi-modal understanding (text and images), task automation through multi-modal LLM Agents, supervised and unsupervised techniques, multi-task learning, multi-label classification, aspect and topic extraction for Customer Anecdote Mining, image and text similarity and retrieval using NLP and Computer Vision for product groupings and identifying duplicate listings in product search results. Key job responsibilities As an Applied Scientist, you will be responsible to design and deploy scalable GenAI, NLP and Computer Vision solutions that will impact the content visible to millions of customer and solve key customer experience issues. You will develop novel LLM, deep learning and statistical techniques for task automation, text processing, image processing, pattern recognition, and anomaly detection problems. You will define the research and experiments strategy with an iterative execution approach to develop AI/ML models and progressively improve the results over time. You will partner with business and engineering teams to identify and solve large and significantly complex problems that require scientific innovation. You will help the team leverage your expertise, by coaching and mentoring. You will contribute to the professional development of colleagues, improving their technical knowledge and the engineering practices. You will independently as well as guide team to file for patents and/or publish research work where opportunities arise. The RBS org deals with problems that are directly related to the selling partners and end customers and the ML team drives resolution to organization level problems. Therefore, the Applied Scientist role will impact the large product strategy, identifies new business opportunities and provides strategic direction which is very exciting.",
@@ -870,6 +932,7 @@
   {
     "id": 18,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3207578",
     "role": "Applied Scientist, MAPLE - Recommender System",
     "description": "Are you excited by the idea of developing personalized experiences for Amazon customers as they shop? Are you looking for new challenges and to solve hard science problems while applying state-of-the-art recommendation system modeling and GenAI techniques? Join us and you'll help millions of customers make informed purchase decisions while also advancing the state of Amazon's science by publishing research! Key job responsibilities - Participate in the design, development, evaluation, deployment and updating of data-driven models for shopping personalization. - Develop and test new signals for improving recommendation models - Use supervised and uplift learning algorithms to improve customer experience - Contribute to production code and science tooling - Design A/B tests and conduct statistical analysis on their results - Work with distributed machine learning and statistical algorithms to harness enormous volumes of data at scale to serve our customers - Work closely with internal stakeholders like the business teams, engineering teams and partner teams and align them with respect to your focus area - Present and publish science research internally and externally, contributing to Amazon's science community - Mentor junior engineers and scientists. About the team Our team's mission is to surface the right payments-related recommendations to customers at the right time, helping create a rewarding and successful shopping experience for Amazon's customers. Our team's culture is highly collaborative, with an emphasis on supporting each other and learning from one another. We dedicate time each week to focus on personal development and expanding our knowledge as a team. We also highly value having a big impact, both for Amazon's business and for our customers.",
@@ -884,6 +947,7 @@
   {
     "id": 19,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3207585",
     "role": "Data Scientist, MAPLE - Recommender System",
     "description": "Are you excited by the idea of developing personalized experiences for Amazon customers as they shop? Are you looking for new challenges and to solve hard science problems while applying state-of-the-art recommendation system modeling and GenAI techniques? Join us and you'll help millions of customers make informed purchase decisions while also advancing the state of Amazon's science by publishing research! Key job responsibilities - Participate in the design, development, evaluation, deployment and updating of data-driven models for shopping personalization. - Develop and test new signals for improving recommendation models - Integrate GenAI into Amazon customer shopping experience - Design A/B tests and conduct statistical analysis on their results - Work with distributed machine learning and statistical algorithms to harness enormous volumes of data at scale to serve our customers - Work closely with internal stakeholders like the business teams, engineering teams and partner teams and align them with respect to your focus area - Present and publish science research, contributing to Amazon's science community - Mentor junior engineers and scientists. About the team Our team's mission is to surface the right payments-related recommendations to customers at the right time, helping create a rewarding and successful shopping experience for Amazon's customers. Our team's culture is highly collaborative, with an emphasis on supporting each other and learning from one another. We dedicate time each week to focus on personal development and expanding our knowledge as a team. We also highly value having a big impact, both for Amazon's business and for our customers.",
@@ -898,6 +962,7 @@
   {
     "id": 20,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3207580",
     "role": "Senior Data Scientist, MAPLE - Recommender System",
     "description": "Are you excited by the idea of developing personalized experiences for Amazon customers as they shop? Are you looking for new challenges and to solve hard science problems while applying state-of-the-art recommendation system modeling and GenAI techniques? Join us and you'll help millions of customers make informed purchase decisions while also advancing the state of Amazon's science by publishing research! Key job responsibilities - Participate in the design, development, evaluation, deployment and updating of data-driven models for shopping personalization. - Develop and test new signals for improving recommendation models - Use supervised and uplift learning algorithms to improve customer experience - Design A/B tests and conduct statistical analysis on their results - Work with distributed machine learning and statistical algorithms to harness enormous volumes of data at scale to serve our customers - Work closely with internal stakeholders like the business teams, engineering teams and partner teams and align them with respect to your focus area - Present and publish science research, contributing to Amazon's science community - Mentor junior engineers and scientists. About the team Our team's mission is to surface the right payments-related recommendations to customers at the right time, helping create a rewarding and successful shopping experience for Amazon's customers. Our team's culture is highly collaborative, with an emphasis on supporting each other and learning from one another. We dedicate time each week to focus on personal development and expanding our knowledge as a team. We also highly value having a big impact, both for Amazon's business and for our customers.",
@@ -912,6 +977,7 @@
   {
     "id": 21,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3207573",
     "role": "Data Scientist, MAPLE - Recommender System",
     "description": "Are you excited by the idea of developing personalized experiences for Amazon customers as they shop? Are you looking for new challenges and to solve hard science problems while applying state-of-the-art recommendation system modeling and GenAI techniques? Join us and you'll help millions of customers make informed purchase decisions while also advancing the state of Amazon's science by publishing research! Key job responsibilities - Participate in the design, development, evaluation, deployment and updating of data-driven models for shopping personalization. - Develop and test new signals for improving recommendation models - Use supervised and uplift learning algorithms to improve customer experience - Design A/B tests and conduct statistical analysis on their results - Work with distributed machine learning and statistical algorithms to harness enormous volumes of data at scale to serve our customers - Work closely with internal stakeholders like the business teams, engineering teams and partner teams and align them with respect to your focus area - Present and publish science research, contributing to Amazon's science community - Mentor junior engineers and scientists. About the team Our team's mission is to surface the right payments-related recommendations to customers at the right time, helping create a rewarding and successful shopping experience for Amazon's customers. Our team's culture is highly collaborative, with an emphasis on supporting each other and learning from one another. We dedicate time each week to focus on personal development and expanding our knowledge as a team. We also highly value having a big impact, both for Amazon's business and for our customers.",
@@ -926,6 +992,7 @@
   {
     "id": 22,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3203026",
     "role": "Software Development Manager, FinTech General Ledger",
     "description": "We're looking for an experienced Software Development Manager to lead the engineering team responsible for Amazon's General Ledger (GL) platform \u2014 a mission-critical financial system that accurately accounts for approximately 900 million transactions per month across the entire company. This is your opportunity to be at the center stage of a financial transformation, building an autonomous, AI-enabled close orchestration system that redefines how Amazon closes its books every month. You'll lead a cross-functional team of software engineers and application analysts building sophisticated, high-impact automation systems that create significant financial impact and enable our Finance and Global Business Services (FGBS) customers. Your team's work spans the full lifecycle \u2014 from sub-ledger integrations and journal processing to general ledger close orchestration \u2014 owning the end-to-end touchless Accounting Close Experience. You will operate with significant autonomy to define technical strategy, make architectural decisions, and build solutions at the intersection of finance and technology. You will be challenged to incrementally build a touchless, self-healing close process that reduces manual touchpoints, eliminates ambiguity around data integrity, and delivers high confidence in Amazon's financial numbers at scale. The ideal candidate brings deep technical expertise in building large-scale distributed systems, a strong background in financial or ERP platforms, and a proven ability to drive AI and automation initiatives from concept to production. You thrive in environments where both the business problem and the technology approach require invention, and you work backwards from customer needs to define what needs to be built. You'll partner closely with finance, controllership, and technology stakeholders to deliver solutions that elevate the close experience across Amazon's global finance organization. If you're energized by the challenge of building AI-powered financial systems that operate at massive scale, and want to lead a team that's defining the future of autonomous financial close at Amazon, we want to hear from you. Key job responsibilities - Lead architecture, design, and delivery of GL automation systems and AI-enabled close orchestration tools, making technical decisions that balance innovation with long-term scalability - Define and drive the technical vision and roadmap for your team, working backwards from FGBS customer needs - Build, mentor, and manage a high-performing team of software engineers and application analysts, fostering a culture of automation-first thinking and technical excellence - Own operational metrics and system health for GL close systems, establishing mechanisms to monitor progress and drive continuous improvement - Partner with product and customer teams to translate complex accounting requirements into scalable technical solutions - Recruit, hire, and develop top engineering talent, creating clear career paths and providing coaching that helps your team grow - Champion automation and rapid iteration, continuously eliminating manual touchpoints from the close process to shorten Amazon's financial close timeline About the team The GL Close Orchestration Team, known internally as PILOT, is a dynamic, India-based engineering team at the heart of Amazon's financial close operations. We are the custodians of Amazon's Oracle Financial Applications (OFA) General Ledger (GL) Module and own the end-to-end orchestration of Amazon's month-end close \u2014 one of the most complex and high-stakes financial processes in the company. Our team is responsible for the timely and accurate closure of sub-ledgers and the General Ledger, ensuring that approximately 900 million transactions per month are accounted for with precision. We own critical GL functions including ledger setups, posting schedules, journal reversals, and recurring schedules \u2014 the foundational building blocks that keep Amazon's financial engine running smoothly. What sets us apart is our relentless drive toward automation and innovation. We continuously build intelligent automations tailored to Amazon-specific use cases \u2014   that progressively eliminate manual touchpoints from the close process. Our goal is a fully touchless, self-healing close \u2014 and every sprint brings us closer to that vision.",
@@ -940,6 +1007,7 @@
   {
     "id": 23,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3204165",
     "role": "Software Development Engineer, Fintech Tax",
     "description": "Do you want to define the future of Internet commerce? Are you a top-notch software engineer with a creative flare, strong problem-solving skills, the drive to build and ship products often, a solid computer science foundation, and the desire to build Amazon's next generation Internet-facing technology? Come talk with us about joining our team to help our tax teams serve customers better. Is your next project defining a world class Internet service? With us, you will be building cutting-edge applications and services in an environment of highly distributed systems used by Amazon Tax teams. Your innovation will provide new functionality for millions of vendors/payees globally with a goal of making it easy to comply with tax regulations. Are you ready to create systems to expand one of the world\u2019s largest e-commerce engines? If so, come be a member of Amazon\u2019s Finance Technology team. Fintech builds software systems that ensure compliance for Amazon businesses and its subsidiaries and makes it easy for for millions of Amazon vendors including publishers, app developers, game developers, marketplace sellers, associates and others to comply for tens of billions of dollars in transactions. We're constantly looking for opportunities to expand capabilities in new geographies and new lines of business. Can you work at the scale of the biggest Internet companies? The solutions that you will deploy must scale to accommodate rapid processing and integration with large enterprise customers. However, to add to the challenge, the solutions must also support intuitive world class UI for Amazon Tax teams to pay millions of vendors. Amazon is a premier place to build, deploy and operate Internet-scale services. Join our development team to work hard, have fun and make history. You will join a highly technical and entrepreneurial culture defining and building a selling experience to complement Amazon\u2019s world-class websites. Amazon\u2019s Fintech Tax Technology team operates software platforms that are among the largest in the world by volume and complexity. We interact upstream with all of Amazon\u2019s businesses globally and the majority of our projects are cross-functional. Much of our work enables Amazon\u2019s new market or business model launches and happens as part of these enterprise programs. We partner integrally with the CFO organization worldwide, including the central finance functions and line of business leadership. We\u2019re looking to hire thought leaders who will drive architectural and design choices, invent new features, develop distributed services, and build a scalable, service-oriented platform for our people. We have a team culture that encourages innovation and we expect developers and management alike to take a high level of ownership for the product vision, technical architecture and project delivery. As a Software Development Engineer, you will drive the architecture of next generation of tools and technologies for growing compliance needs of the organization as unlocking expansion in multiple countries and new businesses. You will be a role model to set an example for engineers in your team as well as influence across teams. You will build highly scaleable and secure softwares. You will develop algorithms for efficient and error free transactions as well as ensuring tractability of every transaction in real-time. You will build algorithms to get insights from transaction data for potential savings for Amazon. You will build processes that drive accountability within your team, where people assume and take responsibility for actions and decisions. You will solve problems at their root, stepping back to understand the broader context.",
@@ -954,6 +1022,7 @@
   {
     "id": 24,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3198336",
     "role": "Applied Scientist, Selection Monitoring",
     "description": "Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. In order to drive expansion of the Amazon catalog, we develop advanced ML/AI technologies to process billions of products and algorithmically find products not already sold on Amazon. We work with structured, semi-structured and Visually Rich Documents using deep learning, NLP and image processing. The role demands a high-performing and flexible candidate who can take responsibility for success of the system and drive solutions from research, prototype, design, coding and deployment. We are looking for Applied Scientists to tackle challenging problems in the areas of Information Extraction, Efficient crawling at internet scale, developing ML models for website comprehension and agents to take multi-step decisions. You should have depth and breadth of knowledge in text mining, information extraction from Visually Rich Documents, semi structured data (HTML) and advanced machine learning. You should also have programming and design skills to manipulate Semi-Structured and unstructured data and systems that work at internet scale. You will encounter many challenges, including: - Scale (build models to handle billions of pages), - Accuracy (requirements for precision and recall) - Speed (generate predictions for millions of new or changed pages with low latency) - Diversity (models need to work across different languages, market places and data sources) You will help us to - Build a scalable system which can algorithmically extract information from world wide web. - Intelligently cluster web pages, segment and classify regions, extract relevant information and structure the data available on semi-structured web. - Build systems that will use existing Knowledge Base to perform open information extraction at scale from visually rich documents. Key job responsibilities - Use AI, NLP and advances in LLMs/SLMs and agentic systems to create scalable solutions for business problems. - Efficiently Crawl web, Automate extraction of relevant information from large amounts of Visually Rich Documents and optimize key processes. - Design, develop, evaluate and deploy, innovative and highly scalable ML models, esp. leveraging latest advances in RL-based fine tuning methods like DPO, GRPO etc. - Work closely with software engineering teams to drive real-time model implementations. - Establish scalable, efficient, automated processes for large scale model development, model validation and model maintenance. - Lead projects and mentor other scientists, engineers in the use of ML techniques. - Publish innovation in research forums.",
@@ -968,6 +1037,7 @@
   {
     "id": 25,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10384219",
     "role": "Business Intelligence Engineer, Alexa International BI Team",
     "description": "The Alexa International BI (AIBI) team is seeking an experienced Business Intelligence Engineer to help shape the future of Alexa. This is a unique opportunity to generate impactful insights that influence the Alexa experience across international markets. In this role within the AIBI team, you will apply your technical and analytical expertise to build scalable data pipelines, design automated reporting frameworks, and deliver strategic insights that drive international product growth, customer engagement, and market expansion. You will play a key role in enabling data-driven decisions for Alexa across global markets. To achieve your goals, you will collaborate closely with a diverse set of stakeholders including senior leaders across engineering, product, international business, marketing, and economics/data science teams. You will also partner with Central BI and Data Engineering teams across multiple time zones to ensure data parity and consistency between US and international reporting. Key job responsibilities - Interface with internal business customers to gather data and metrics requirements - Own the design, development, and maintenance of ongoing metrics and reporting to deliver key business insights - Homogenize metrics, reports and tools across business functions and automate where possible - Create data visualizations to make data more interpretable for the business - Develop and publish self-service tools and bridging/deep dive reports - Own and perform individual deep dive analyses on our customers, including communicating results and implications to business leaders - Recognize and adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation, always insisting on the highest standards. About the team The Alexa International BI (AIBI) team is a high-impact analytics team dedicated to unlocking Alexa's full potential across international markets. The team partners closely with product, engineering, marketing, and business leadership to deliver data-driven insights that shape Alexa's growth strategy. With a strong emphasis on scalable data infrastructure, automated reporting, and strategic measurement, the AIBI team plays a critical role in enabling informed decision-making for customer engagement and growth initiatives",
@@ -982,6 +1052,7 @@
   {
     "id": 26,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10371573",
     "role": "Applied Scientist II, Seller Fee Science",
     "description": "Amazon\u2019s third-party marketplace is a multibillion-dollar global ecosystem, connecting customers and sellers across the world through millions of transactions annually. The Seller Fee Science Team integrates economic modeling, machine learning, and artificial intelligence to guide business fee strategy, ensure fees are accurately computed for millions of products, and improves the seller experience with AI tools that support any fee related contact (understanding, audit, and dispute). We build the scientific foundation that empowers sellers to grow their businesses with clarity and confidence. Our team brings together world-class economists, physicists, mathematicians, and computer scientists to tackle diverse challenging problems that require theoretical rigor and deliver real-world impact. For example, precision measurement of difficult to measure products, large-scale simulation of sales, inventory, and policy changes,  as well as leveraging natural language understanding and automated reasoning to interpret policy, generate code, resolve disputes, audit fees, and respond to sellers at meaninful scale. As an applied scientist on our team, this role will focus on the application of machine learning and artificial intelligence to predict and reconcile measurement of products globally. This blends together statistical modeling, application of NLP, image processing, classical machine learning, cost-benefit analysis, causal modeling, and optimization. Your work will shape not only how fees are implemented, but how they are interpreted, experienced, and trusted at scale. You will partner closely with engineers and product partners to take your solutions from research to production. We are seeking scientists who are motivated by first principles, disciplined experimentation, and the technical challenge of deploying ideas at global scale. This is an opportunity to work on consequential problems where mathematical rigor meets real-world complexity, and where your models, algorithms, and systems will directly influence the experience of millions of sellers. If you are driven to build elegant solutions to hard problems\u2014and to see them operate in production at meaningful scale\u2014we would welcome the opportunity to build with you. Key job responsibilities - Identify opportunities to improve Seller Experience and translate ambiguous business challenges into well-defined scientific problems with measurable impact. - Design, develop, and deploy AI/ML models that improve fee accuracy, automate policy-to-code translation, and enhance seller understanding of fee calculations. - Partner closely with engineering and product teams to productionize solutions, meeting latency, scalability, reliability, and other system constraints. - Apply rigorous experimentation, causal inference, and simulation methods to validate models and quantify business impact at scale. - Communicate scientific innovations and results clearly to cross-functional stakeholders and contribute to the broader internal and external scientific community through publications, talks, and technical artifacts.",
@@ -996,6 +1067,7 @@
   {
     "id": 27,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3206932",
     "role": "Applied Scientist III, Alexa International",
     "description": "Alexa International is looking for passionate, talented, and inventive Senior Applied Scientists to help build industry-leading technology with Large Language Models (LLMs) and multimodal systems, requiring strong deep learning and generative models knowledge. Senior applied scientists will drive cross-team scientific strategy, influence partner teams, and deliver solutions that have broad impact across Alexa's international products and services. Key job responsibilities As a Senior Applied Scientist with the Alexa International team, you will work with talented peers to develop novel algorithms and modeling techniques to advance the state of the art with LLMs, particularly delivering industry-leading scientific research and applied AI for multi-lingual applications \u2014 a challenging area for the industry globally. Your work will directly impact our global customers in the form of products and services that support Alexa+. You will leverage Amazon's heterogeneous data sources and large-scale computing resources to accelerate advances in text, speech, and vision domains. The ideal candidate possesses a solid understanding of machine learning, speech and/or natural language processing, modern LLM architectures, LLM evaluation & tooling, and a passion for pushing boundaries in this vast and quickly evolving field. They thrive in fast-paced environment, like to tackle complex challenges, excel at swiftly delivering impactful solutions while iterating based on user feedback, and are able to influence and align multiple teams around a shared scientific vision. A day in the life * Analyze, understand, and model customer behavior and the customer experience based on large-scale data. * Build novel online & offline evaluation metrics and methodologies for multimodal personal digital assistants. * Fine-tune/post-train LLMs using advanced and innovative techniques like SFT, DPO, Reinforcement Learning (RLHF and RLAIF) for supporting model performance specific to a customer\u2019s location and language. * Quickly experiment and set up experimentation framework for agile model and data analysis or A/B testing. * Contribute through industry-first research to drive innovation forward. * Drive cross-team scientific strategy and influence partner teams on LLM evaluation frameworks, post-training methodologies, and best practices for international speech and language systems. * Lead end-to-end delivery of scientifically complex solutions from research to production, including reusable science components and services that resolve architecture deficiencies across teams. * Serve as a scientific thought leader, communicating solutions clearly to partners, stakeholders, and senior leadership. * Actively mentor junior scientists and contribute to the broader internal and external scientific community through publications and community engagement.",
@@ -1010,6 +1082,7 @@
   {
     "id": 28,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3197743",
     "role": "Applied Scientist I, Buyer Risk Prevention (BRP)",
     "description": "Do you want to join an innovative team applying machine learning and advanced statistical techniques to protect Amazon customers and enable a trusted eCommerce experience? Are you excited about working with large-scale datasets and developing models that solve real-world fraud and risk challenges? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right fit for you. We are seeking an Applied Scientist to help develop scalable machine learning solutions that safeguard millions of transactions every day. In this role, you will partner with senior scientists and engineers to translate business problems into data-driven solutions, build and evaluate models, and contribute to next-generation risk prevention systems, including applications of Generative AI and LLM technologies. Key job responsibilities Apply machine learning and statistical techniques to build and improve risk management models Analyze large-scale historical data to identify risk patterns and emerging trends Develop, validate, and deploy innovative models under the guidance of senior scientists Experiment with emerging technologies, including GenAI/LLMs, to enhance automation and risk evaluation Collaborate closely with software engineers to implement models in real-time production systems Partner with operations and business teams to improve risk policies and operational efficiency Build scalable, automated pipelines for data analysis, model training, and validation Monitor model performance and provide clear reporting on key risk and business metrics Research and prototype new modeling approaches to improve system performance",
@@ -1024,6 +1097,7 @@
   {
     "id": 29,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3197748",
     "role": "Applied Scientist I, Buyer Risk Prevention (BRP)",
     "description": "Do you want to join an innovative team applying machine learning and advanced statistical techniques to protect Amazon customers and enable a trusted eCommerce experience? Are you excited about working with large-scale datasets and developing models that solve real-world fraud and risk challenges? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right fit for you. We are seeking an Applied Scientist to help develop scalable machine learning solutions that safeguard millions of transactions every day. In this role, you will partner with senior scientists and engineers to translate business problems into data-driven solutions, build and evaluate models, and contribute to next-generation risk prevention systems, including applications of Generative AI and LLM technologies. Key job responsibilities Apply machine learning and statistical techniques to build and improve risk management models Analyze large-scale historical data to identify risk patterns and emerging trends Develop, validate, and deploy innovative models under the guidance of senior scientists Experiment with emerging technologies, including GenAI/LLMs, to enhance automation and risk evaluation Collaborate closely with software engineers to implement models in real-time production systems Partner with operations and business teams to improve risk policies and operational efficiency Build scalable, automated pipelines for data analysis, model training, and validation Monitor model performance and provide clear reporting on key risk and business metrics Research and prototype new modeling approaches to improve system performance",
@@ -1038,6 +1112,7 @@
   {
     "id": 30,
     "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "3199754",
     "role": "Applied Scientist II, Buyer Risk Prevention (BRP)",
     "description": "Do you want to join an innovative team of scientists applying machine learning and advanced statistical techniques to protect Amazon customers and enable a trusted eCommerce experience? Are you excited about modeling terabytes of data and building state-of-the-art algorithms to solve complex, real-world fraud and risk challenges? Do you enjoy owning end-to-end machine learning problems, directly influencing customer experience and company profitability, while collaborating in a diverse, high-performing team? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right fit for you. We are seeking an Applied Scientist to design, develop, and deploy advanced algorithmic systems that safeguard millions of transactions every day. In this role, you will independently drive model development from problem formulation to production deployment, build scalable ML solutions, and leverage emerging technologies\u2014including Generative AI and LLMs\u2014to enhance fraud detection and next-generation risk prevention systems. Key job responsibilities Own end-to-end development of machine learning models for large-scale risk management systems Analyze large volumes of historical and real-time data to identify fraud patterns and emerging risk trends Design, develop, validate, and deploy innovative models to production environments Apply GenAI/LLM technologies to automate risk evaluation and improve operational efficiency Collaborate closely with software engineering teams to implement scalable, real-time model solutions Partner with operations and business stakeholders to translate risk insights into measurable impact Establish scalable and automated processes for data analysis, model experimentation, validation, and monitoring Track model performance and business metrics; communicate insights clearly to technical and non-technical stakeholders Research and implement novel machine learning and statistical methodologies",
@@ -1052,6 +1127,7 @@
   {
     "id": 14,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "91190338912",
     "role": "Data Engineer",
     "description": "description...",
@@ -1066,6 +1142,7 @@
   {
     "id": 26,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "82665887760",
     "role": "Data Governance Analyst",
     "description": "description...",
@@ -1080,6 +1157,7 @@
   {
     "id": 7,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "92199670128",
     "role": "Risk Analytics - Analyst",
     "description": "description...",
@@ -1094,6 +1172,7 @@
   {
     "id": 8,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "92190233904",
     "role": "AWS & Java Integration Engineer",
     "description": "description...",
@@ -1108,6 +1187,7 @@
   {
     "id": 24,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "88792123760",
     "role": "Data Modeller",
     "description": "description...",
@@ -1122,6 +1202,7 @@
   {
     "id": 17,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "90783661792",
     "role": "Data Business Analyst",
     "description": "description...",
@@ -1136,6 +1217,7 @@
   {
     "id": 9,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "92042368144",
     "role": "Data Modeler / Architect",
     "description": "description...",
@@ -1150,6 +1232,7 @@
   {
     "id": 25,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "88646727872",
     "role": "Data Engineer",
     "description": "description...",
@@ -1164,6 +1247,7 @@
   {
     "id": 15,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "91190335424",
     "role": "AVP - Data Business Analyst",
     "description": "description...",
@@ -1178,6 +1262,7 @@
   {
     "id": 10,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "91789413424",
     "role": "Data Analyst",
     "description": "description...",
@@ -1192,6 +1277,7 @@
   {
     "id": 11,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "91789406368",
     "role": "Data Business Analyst",
     "description": "description...",
@@ -1206,6 +1292,7 @@
   {
     "id": 5,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "92613182416",
     "role": "Data Modeler",
     "description": "description...",
@@ -1220,6 +1307,7 @@
   {
     "id": 12,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "91658602240",
     "role": "Data & Records Governance Analyst",
     "description": "description...",
@@ -1234,6 +1322,7 @@
   {
     "id": 13,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "91190340944",
     "role": "ETL Automation Tester",
     "description": "description...",
@@ -1248,6 +1337,7 @@
   {
     "id": 23,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "89301105856",
     "role": "Data Scientist Lead - Vice President",
     "description": "description...",
@@ -1262,6 +1352,7 @@
   {
     "id": 2,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "93411787392",
     "role": "Data Analyst",
     "description": "description...",
@@ -1276,6 +1367,7 @@
   {
     "id": 21,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "90416264848",
     "role": "Data Modeler",
     "description": "description...",
@@ -1290,6 +1382,7 @@
   {
     "id": 22,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "90405985856",
     "role": "Data Governance Analyst",
     "description": "description...",
@@ -1304,6 +1397,7 @@
   {
     "id": 1,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "93764357360",
     "role": "Reporting & MI - Workforce Reporting",
     "description": "description...",
@@ -1318,6 +1412,7 @@
   {
     "id": 3,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "93104780048",
     "role": "Decision Analyst",
     "description": "description...",
@@ -1332,6 +1427,7 @@
   {
     "id": 18,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "90610471840",
     "role": "Vice President ML Ops Engineer",
     "description": "description...",
@@ -1346,6 +1442,7 @@
   {
     "id": 19,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "90610471776",
     "role": "MLOps Engineer",
     "description": "description...",
@@ -1360,6 +1457,7 @@
   {
     "id": 20,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "90586375840",
     "role": "Decision Scientist",
     "description": "description...",
@@ -1374,6 +1472,7 @@
   {
     "id": 27,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "79747029216",
     "role": "Senior Data Modeller - VP",
     "description": "description...",
@@ -1388,6 +1487,7 @@
   {
     "id": 16,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "91119476976",
     "role": "Data Analyst",
     "description": "description...",
@@ -1402,6 +1502,7 @@
   {
     "id": 4,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "92950692784",
     "role": "Data Privacy - AVP",
     "description": "description...",
@@ -1416,6 +1517,7 @@
   {
     "id": 6,
     "company": "Barclays",
+    "industry": "Financial Services",
     "job_id": "92563159104",
     "role": "Data Scientist - AVP",
     "description": "description...",
@@ -1430,6 +1532,7 @@
   {
     "id": 1,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "25977",
     "role": "Lead Software Development Engineer in Test",
     "description": "description",
@@ -1444,6 +1547,7 @@
   {
     "id": 2,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "25656",
     "role": "Software Development Engineer III(Android)",
     "description": "description",
@@ -1458,6 +1562,7 @@
   {
     "id": 3,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "25652",
     "role": "Business Analyst",
     "description": "description",
@@ -1472,6 +1577,7 @@
   {
     "id": 4,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "25468",
     "role": "Software Development Engineer in Test",
     "description": "description",
@@ -1486,6 +1592,7 @@
   {
     "id": 5,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "25397",
     "role": "Software Dev Engineer II",
     "description": "description",
@@ -1500,6 +1607,7 @@
   {
     "id": 6,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "25255",
     "role": "Engineering Manager - iOS",
     "description": "description",
@@ -1514,6 +1622,7 @@
   {
     "id": 7,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "25229",
     "role": "Software Development Engineer in Test",
     "description": "description",
@@ -1528,6 +1637,7 @@
   {
     "id": 8,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "25198",
     "role": "Lead Software Development Engineer in Test (IOS)",
     "description": "description",
@@ -1542,6 +1652,7 @@
   {
     "id": 11,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "24373",
     "role": "AI Engineer: III",
     "description": "description",
@@ -1556,6 +1667,7 @@
   {
     "id": 9,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "24519",
     "role": "Staff Data scientist",
     "description": "description",
@@ -1570,6 +1682,7 @@
   {
     "id": 10,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "24514",
     "role": "Senior Business Analyst",
     "description": "description",
@@ -1584,6 +1697,7 @@
   {
     "id": 12,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "24132",
     "role": "Software Dev Engineer II",
     "description": "description",
@@ -1598,6 +1712,7 @@
   {
     "id": 13,
     "company": "SWIGGY",
+    "industry": "Technology -Ecom",
     "job_id": "23831",
     "role": "Software Dev Engineer II",
     "description": "description",
