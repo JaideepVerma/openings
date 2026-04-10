@@ -24,7 +24,7 @@ for db_file in db_files:
 
     # If you know the table is always called 'jobs'
     try:
-        cursor.execute("SELECT id,company,job_id, role, description, responsibilities, qualifications, \
+        cursor.execute("SELECT id,company,industry,job_id, role, description, responsibilities, qualifications, \
                location, posting_date, job_family, job_function, apply_link  \
         FROM jobs ORDER BY posting_date DESC")
         rows = cursor.fetchall()
