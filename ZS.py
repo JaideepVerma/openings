@@ -65,7 +65,7 @@ def scrape_zs():
             #print(apply_url,req_id, title, location, city, state, country, posted_date,update_date)
             all_jobs.append({
                     "company": "ZS",
-                    "industry" : 'Tech + Consulting' 
+                    "industry" : 'Business Consulting and Services' ,
                     "job_id": req_id,
                     "role": title,
                     "description": 'description',
