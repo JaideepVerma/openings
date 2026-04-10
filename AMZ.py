@@ -184,7 +184,7 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
     updated_dt_index_end = updated_iso.find("T")
     record = {
         "company": 'AMAZON',
-        "industry": 'FAANG : ecom + Tech' ,
+        "industry": 'FAANG' ,
         "job_id": simple.get("icimsJobId"),# simple.get("artJobId") or simple.get("icimsJobId") or simple.get("jobCode"),
         "role": simple.get("title"),
        
