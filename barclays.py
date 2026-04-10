@@ -34,7 +34,7 @@ def scrape_barclays():
         #print(date_text)     
         job = {
             "company" : "Barclays",
-            "industry" : 'Financial Services'
+            "industry" : 'Financial Services',
             "job_id": title_tag.get("data-job-id"),
             "role": title_tag.get_text(strip=True),
             "description": "description...",
