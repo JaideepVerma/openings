@@ -65,6 +65,7 @@ def scrape_zs():
             #print(apply_url,req_id, title, location, city, state, country, posted_date,update_date)
             all_jobs.append({
                     "company": "ZS",
+                    "industry" : 'Tech + Consulting' 
                     "job_id": req_id,
                     "role": title,
                     "description": 'description',
@@ -91,6 +92,7 @@ def create_db():
     CREATE TABLE IF NOT EXISTS jobs(
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         company TEXT,
+        industry TEXT,
         job_id TEXT,
         role TEXT,
         description TEXT,
@@ -126,9 +128,9 @@ def save_jobs(jobs):
                   (job["company"], job["job_id"]))
         if not c.fetchone():
             c.execute("""INSERT INTO jobs 
-                         (company, job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function, apply_link, update_date) 
-                         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? ,?)""",
-                      (job["company"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"], job["apply_link"],job["update_date"]))
+                         (company,industry job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function, apply_link, update_date) 
+                         VALUES (?,?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? ,?)""",
+                      (job["company"],job["industry"], job["job_id"], job["role"], job["description"], job["responsibilities"], job["qualifications"], job["location"], job["posting_date"], job["JobFamily"], job["JobFunction"], job["apply_link"],job["update_date"]))
     conn.commit()
     conn.close()
 
