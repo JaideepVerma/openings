@@ -529,7 +529,7 @@
 
     <div class="filter-row">
       <div class="filter-left" id="filterSection" style="display: none;">
-        <span class="filter-label">Filter by Company:</span>
+        <span class="filter-label">Filter by Company</span>
         <div class="filter-dropdown">
           <button class="filter-toggle" id="filterToggle">
             <span id="filterText">All Companies</span>
@@ -540,6 +540,19 @@
           <div class="filter-menu" id="filterMenu"></div>
         </div>
         <button class="clear-filter" id="clearFilter" style="display: none;">Clear filter</button>
+      </div>
+      <div class="filter-left" id="industryFilterSection" style="display: none;">
+        <span class="filter-label">Filter by Industry</span>
+        <div class="filter-dropdown">
+          <button class="filter-toggle" id="industryFilterToggle">
+            <span id="industryFilterText">All Industries</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="m6 9 6 6 6-6"/>
+            </svg>
+          </button>
+          <div class="filter-menu" id="industryFilterMenu"></div>
+        </div>
+        <button class="clear-filter" id="clearIndustryFilter" style="display: none;">Clear filter</button>
       </div>
       <div class="last-reload" id="lastReload" style="display: none;">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -603,6 +616,9 @@
     let allCompanies = [];
     let selectedCompanies = new Set(); // Empty means "All"
     let isFilterOpen = false;
+    let allIndustries = [];
+    let selectedIndustries = new Set(); // Empty means "All"
+    let isIndustryFilterOpen = false;
 
     // DOM Elements
     const searchInput = document.getElementById('searchInput');
@@ -619,6 +635,11 @@
     const filterMenu = document.getElementById('filterMenu');
     const filterText = document.getElementById('filterText');
     const clearFilter = document.getElementById('clearFilter');
+    const industryFilterSection = document.getElementById('industryFilterSection');
+    const industryFilterToggle = document.getElementById('industryFilterToggle');
+    const industryFilterMenu = document.getElementById('industryFilterMenu');
+    const industryFilterText = document.getElementById('industryFilterText');
+    const clearIndustryFilter = document.getElementById('clearIndustryFilter');
     const lastReload = document.getElementById('lastReload');
     const lastReloadTime = document.getElementById('lastReloadTime');
 
@@ -683,6 +704,7 @@
         document.title = PAGE_TITLE;
         
         renderCompanyFilter();
+        renderIndustryFilter();
         renderTable();
       } catch (error) {
         console.error("Error loading JSON:", error);
@@ -858,12 +880,133 @@
         filterMenu.classList.remove('open');
         filterToggle.classList.remove('open');
       }
+      if (!industryFilterToggle.contains(e.target) && !industryFilterMenu.contains(e.target)) {
+        isIndustryFilterOpen = false;
+        industryFilterMenu.classList.remove('open');
+        industryFilterToggle.classList.remove('open');
+      }
     });
 
     // Clear filter button
     clearFilter.addEventListener('click', () => {
       selectedCompanies.clear();
       renderCompanyFilter();
+      renderTable();
+    });
+
+    // ============================================================
+    // INDUSTRY FILTER FUNCTIONALITY
+    // ============================================================
+    
+    // Detect industry column (checks common variations)
+    function getIndustryColumn() {
+      const industryVariants = ['industry', 'Industry', 'INDUSTRY', 'industry_name', 'industryName'];
+      return columns.find(col => industryVariants.includes(col)) || 
+             columns.find(col => col.toLowerCase().includes('industry'));
+    }
+
+    // Extract unique industries from data
+    function extractIndustries() {
+      const industryCol = getIndustryColumn();
+      if (!industryCol) return [];
+      
+      const industries = new Set();
+      rawData.forEach(row => {
+        const industry = row[industryCol];
+        if (industry && industry !== null && industry !== '') {
+          industries.add(String(industry));
+        }
+      });
+      return Array.from(industries).sort();
+    }
+
+    // Render industry filter dropdown
+    function renderIndustryFilter() {
+      allIndustries = extractIndustries();
+      
+      if (allIndustries.length === 0) {
+        industryFilterSection.style.display = 'none';
+        return;
+      }
+      
+      industryFilterSection.style.display = 'flex';
+      
+      const allChecked = selectedIndustries.size === 0;
+      
+      industryFilterMenu.innerHTML = `
+        <label class="filter-option all-option">
+          <input type="checkbox" id="industryFilterAll" ${allChecked ? 'checked' : ''}>
+          <span>All Industries (${allIndustries.length})</span>
+        </label>
+        ${allIndustries.map(industry => `
+          <label class="filter-option">
+            <input type="checkbox" value="${industry}" class="industry-checkbox" ${selectedIndustries.has(industry) ? 'checked' : ''}>
+            <span>${industry}</span>
+          </label>
+        `).join('')}
+      `;
+      
+      updateIndustryFilterText();
+      setupIndustryFilterListeners();
+    }
+
+    // Update industry filter button text
+    function updateIndustryFilterText() {
+      if (selectedIndustries.size === 0) {
+        industryFilterText.innerHTML = 'All Industries';
+        clearIndustryFilter.style.display = 'none';
+      } else if (selectedIndustries.size === 1) {
+        industryFilterText.innerHTML = Array.from(selectedIndustries)[0];
+        clearIndustryFilter.style.display = 'inline-block';
+      } else {
+        industryFilterText.innerHTML = `<span class="selected-count">${selectedIndustries.size}</span> Industries selected`;
+        clearIndustryFilter.style.display = 'inline-block';
+      }
+    }
+
+    // Setup industry filter event listeners
+    function setupIndustryFilterListeners() {
+      const allCheckbox = document.getElementById('industryFilterAll');
+      const industryCheckboxes = document.querySelectorAll('.industry-checkbox');
+      
+      allCheckbox.addEventListener('change', (e) => {
+        if (e.target.checked) {
+          selectedIndustries.clear();
+          industryCheckboxes.forEach(cb => cb.checked = false);
+          updateIndustryFilterText();
+          renderTable();
+        }
+      });
+      
+      industryCheckboxes.forEach(cb => {
+        cb.addEventListener('change', (e) => {
+          if (e.target.checked) {
+            selectedIndustries.add(e.target.value);
+          } else {
+            selectedIndustries.delete(e.target.value);
+          }
+          
+          // Update "All" checkbox
+          allCheckbox.checked = selectedIndustries.size === 0;
+          
+          updateIndustryFilterText();
+          renderTable();
+        });
+      });
+    }
+
+    // Toggle industry filter dropdown
+    industryFilterToggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      isIndustryFilterOpen = !isIndustryFilterOpen;
+      industryFilterMenu.classList.toggle('open', isIndustryFilterOpen);
+      industryFilterToggle.classList.toggle('open', isIndustryFilterOpen);
+    });
+
+    // Clear industry filter button
+    clearIndustryFilter.addEventListener('click', () => {
+      selectedIndustries.clear();
+      renderIndustryFilter();
       renderTable();
     });
 
@@ -907,14 +1050,22 @@
       }
 
       const companyCol = getCompanyColumn();
+      const industryCol = getIndustryColumn();
 
-      // Filter data based on company selection and search query
+      // Filter data based on company, industry selection and search query
       let filteredData = rawData;
       
       // Apply company filter
       if (selectedCompanies.size > 0 && companyCol) {
         filteredData = filteredData.filter(row => 
           selectedCompanies.has(String(row[companyCol] || ''))
+        );
+      }
+      
+      // Apply industry filter
+      if (selectedIndustries.size > 0 && industryCol) {
+        filteredData = filteredData.filter(row => 
+          selectedIndustries.has(String(row[industryCol] || ''))
         );
       }
       
