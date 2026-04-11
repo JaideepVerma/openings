@@ -4,7 +4,7 @@ import swiggy
 import ZS
 import barclays
 import adobe
-
+import ms
 def run_all():
     AMZ.main()
     print('----- AMZ Done -----')
@@ -18,6 +18,8 @@ def run_all():
     print('----- Barclays Done -----')
     adobe.main()
     print('----- Adobe Done -----')
+    ms.main()
+    print('----- MS Done -----')
     
 if __name__ == "__main__":
     run_all()
