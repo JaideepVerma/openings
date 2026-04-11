@@ -303,66 +303,6 @@
     "id": 11,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210705779",
-    "role": "Software Engineer III - Automation Test Engineer",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-10",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705779"
-  },
-  {
-    "id": 12,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210709255",
-    "role": "Software Engineer III - Salesforce Development",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-10",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709255"
-  },
-  {
-    "id": 13,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210715508",
-    "role": "Software Engineer III - Data Engineer",
-    "description": "Design and implement data pipelines, ensuring data integrity for business analytics.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-10",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715508"
-  },
-  {
-    "id": 14,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210715560",
-    "role": "Software Engineer II - Fullstack (Dotnet, Angular + AWS)",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Pune, Maharashtra, India",
-    "posting_date": "2026-04-10",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715560"
-  },
-  {
-    "id": 15,
-    "company": "JPMC",
-    "industry": "Financial Services",
     "job_id": "210716050",
     "role": "Lead Software Engineer",
     "description": "Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top-notch technology.",
@@ -375,37 +315,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716050"
   },
   {
-    "id": 16,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210717794",
-    "role": "Software Engineer II",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Pune, Maharashtra, India",
-    "posting_date": "2026-04-10",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717794"
-  },
-  {
-    "id": 17,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210720215",
-    "role": "Software Engineer II- Salesforce Development",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-10",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720215"
-  },
-  {
-    "id": 18,
+    "id": 12,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210721713",
@@ -420,7 +330,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721713"
   },
   {
-    "id": 19,
+    "id": 13,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210721822",
@@ -435,7 +345,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721822"
   },
   {
-    "id": 20,
+    "id": 14,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210722037",
@@ -450,7 +360,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722037"
   },
   {
-    "id": 21,
+    "id": 15,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210723638",
@@ -465,7 +375,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723638"
   },
   {
-    "id": 22,
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210727006",
@@ -480,7 +390,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727006"
   },
   {
-    "id": 23,
+    "id": 17,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210727806",
@@ -495,7 +405,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727806"
   },
   {
-    "id": 24,
+    "id": 18,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210729313",
@@ -510,7 +420,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729313"
   },
   {
-    "id": 25,
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210730881",
@@ -525,22 +435,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730881"
   },
   {
-    "id": 26,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210733319",
-    "role": "Software Engineer III ( AWS , Springboot, Java)",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-10",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733319"
-  },
-  {
-    "id": 27,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733973",
@@ -555,7 +450,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733973"
   },
   {
-    "id": 28,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210734610",
@@ -570,7 +465,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734610"
   },
   {
-    "id": 29,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210728300",
@@ -585,7 +480,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728300"
   },
   {
-    "id": 30,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210730446",
@@ -600,7 +495,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730446"
   },
   {
-    "id": 31,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210715085",
@@ -615,7 +510,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715085"
   },
   {
-    "id": 32,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210716048",
@@ -630,7 +525,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716048"
   },
   {
-    "id": 33,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210682025",
@@ -645,7 +540,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682025"
   },
   {
-    "id": 34,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210706851",
@@ -660,7 +555,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706851"
   },
   {
-    "id": 35,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210708268",
@@ -673,6 +568,111 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708268"
+  },
+  {
+    "id": 29,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210708238",
+    "role": "Senior Director of Software Engineering - Enterprise Document Archive Platform",
+    "description": "Direct multiple technical areas, manage the activities of multiple departments, and collaborate across technical domains",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708238"
+  },
+  {
+    "id": 30,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210709727",
+    "role": "Lead Software Engineer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709727"
+  },
+  {
+    "id": 31,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210713613",
+    "role": "Lead Software Engineer Java, PL/SQL, Cloud",
+    "description": "Lead Software Engineer - Java / Databricks / Spark",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713613"
+  },
+  {
+    "id": 32,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210720626",
+    "role": "Software Engineer III - Automation",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720626"
+  },
+  {
+    "id": 33,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210723215",
+    "role": "Lead Site Reliability Engineer",
+    "description": "Lead and conduct resiliency design reviews, break up complex problems, and act as a technical lead for medium to large sized products",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723215"
+  },
+  {
+    "id": 34,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210727052",
+    "role": "Software Engineer III Java AWS Mainframe",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727052"
+  },
+  {
+    "id": 35,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210728137",
+    "role": "Software Engineer III",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-09",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728137"
   },
   {
     "id": 1,
@@ -1125,7 +1125,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3199754"
   },
   {
-    "id": 14,
+    "id": 12,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91190338912",
@@ -1140,7 +1140,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-engineer/13015/91190338912"
   },
   {
-    "id": 26,
+    "id": 22,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "82665887760",
@@ -1155,7 +1155,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-governance-analyst/13015/82665887760"
   },
   {
-    "id": 7,
+    "id": 6,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92199670128",
@@ -1170,7 +1170,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/risk-analytics-analyst/13015/92199670128"
   },
   {
-    "id": 8,
+    "id": 7,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92190233904",
@@ -1185,7 +1185,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/aws-and-java-integration-engineer/13015/92190233904"
   },
   {
-    "id": 24,
+    "id": 20,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88792123760",
@@ -1200,7 +1200,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeller/13015/88792123760"
   },
   {
-    "id": 17,
+    "id": 15,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "90783661792",
@@ -1215,7 +1215,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-business-analyst/13015/90783661792"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92042368144",
@@ -1230,7 +1230,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler-architect/13015/92042368144"
   },
   {
-    "id": 25,
+    "id": 21,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88646727872",
@@ -1245,7 +1245,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-engineer/13015/88646727872"
   },
   {
-    "id": 15,
+    "id": 13,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91190335424",
@@ -1260,7 +1260,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/avp-data-business-analyst/13015/91190335424"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91789413424",
@@ -1275,7 +1275,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-analyst/13015/91789413424"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91789406368",
@@ -1290,7 +1290,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-business-analyst/13015/91789406368"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92613182416",
@@ -1305,7 +1305,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/92613182416"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91658602240",
@@ -1320,22 +1320,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-and-records-governance-analyst/13015/91658602240"
   },
   {
-    "id": 13,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "91190340944",
-    "role": "ETL Automation Tester",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune, India",
-    "posting_date": "10 Mar",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/pune/etl-automation-tester/13015/91190340944"
-  },
-  {
-    "id": 23,
+    "id": 19,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "89301105856",
@@ -1350,22 +1335,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/data-scientist-lead-vice-president/13015/89301105856"
   },
   {
-    "id": 2,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "93411787392",
-    "role": "Data Analyst",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurugram, India",
-    "posting_date": "09 Apr",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/gurugram/data-analyst/13015/93411787392"
-  },
-  {
-    "id": 21,
+    "id": 17,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "90416264848",
@@ -1380,7 +1350,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/90416264848"
   },
   {
-    "id": 22,
+    "id": 18,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "90405985856",
@@ -1410,7 +1380,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/reporting-and-mi-workforce-reporting/13015/93764357360"
   },
   {
-    "id": 3,
+    "id": 2,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "93104780048",
@@ -1425,22 +1395,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/decision-analyst/13015/93104780048"
   },
   {
-    "id": 18,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "90610471840",
-    "role": "Vice President ML Ops Engineer",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida, India",
-    "posting_date": "08 Apr",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/vice-president-ml-ops-engineer/13015/90610471840"
-  },
-  {
-    "id": 19,
+    "id": 16,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "90610471776",
@@ -1455,22 +1410,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/mlops-engineer/13015/90610471776"
   },
   {
-    "id": 20,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "90586375840",
-    "role": "Decision Scientist",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida, India",
-    "posting_date": "08 Apr",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/decision-scientist/13015/90586375840"
-  },
-  {
-    "id": 27,
+    "id": 23,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "79747029216",
@@ -1485,7 +1425,7 @@
     "apply_link": "https://search.jobs.barclays/job/mumbai/senior-data-modeller-vp/13015/79747029216"
   },
   {
-    "id": 16,
+    "id": 14,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91119476976",
@@ -1500,7 +1440,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-analyst/13015/91119476976"
   },
   {
-    "id": 4,
+    "id": 3,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92950692784",
@@ -1515,7 +1455,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/data-privacy-avp/13015/92950692784"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92563159104",
