@@ -678,6 +678,21 @@
     "id": 1,
     "company": "ADOBE",
     "industry": "FAANG",
+    "job_id": "R165759",
+    "role": "Senior Director of Product Design",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "2026-04-09T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Director-of-Product-Design_R165759/apply"
+  },
+  {
+    "id": 2,
+    "company": "ADOBE",
+    "industry": "FAANG",
     "job_id": "R167638",
     "role": "Machine Learning Engineer 3",
     "description": "description",
@@ -690,7 +705,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R167638-1/apply"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167635",
@@ -705,7 +720,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Mgr--Machine-Learning-Eng-4_R167635-1/apply"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167637",
@@ -720,7 +735,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R167637/apply"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167091",
@@ -735,7 +750,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R167091/apply"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167612",
@@ -750,7 +765,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R167612/apply"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167564",
@@ -765,26 +780,11 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist_R167564/apply"
   },
   {
-    "id": 7,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R165759",
-    "role": "Senior Director of Product Design",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-09T00:00:00.000+0000",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Director-of-Product-Design_R165759/apply"
-  },
-  {
     "id": 8,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R165627",
-    "role": "Agentic Outcome Engineer",
+    "job_id": "R166868",
+    "role": "Computer Scientist 2 ( Python -GenAI )",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -792,7 +792,7 @@
     "posting_date": "2026-04-08T00:00:00.000+0000",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Agentic-Outcome-Engineer_R165627/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Lead-Engineer_R166868-1/apply"
   },
   {
     "id": 9,
@@ -813,8 +813,8 @@
     "id": 10,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R166868",
-    "role": "Computer Scientist 2 ( Python -GenAI )",
+    "job_id": "R165627",
+    "role": "Agentic Outcome Engineer",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -822,7 +822,7 @@
     "posting_date": "2026-04-08T00:00:00.000+0000",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Lead-Engineer_R166868-1/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Agentic-Outcome-Engineer_R165627/apply"
   },
   {
     "id": 11,
@@ -903,21 +903,6 @@
     "id": 16,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R162489",
-    "role": "Site Reliability Engineer 5",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-06T00:00:00.000+0000",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Site-Reliability-Engineer-5_R162489/apply"
-  },
-  {
-    "id": 17,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R167424",
     "role": "Applied Scientist 5.5",
     "description": "description",
@@ -930,7 +915,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Applied-Scientist-55_R167424-1/apply"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167085",
@@ -945,7 +930,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-II--Fullstack-_R167085/apply"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R165832",
@@ -960,7 +945,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product---Business-Analyst_R165832/apply"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R165542",
@@ -973,6 +958,21 @@
     "job_family": "Engineering and Product",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Scientist-3---Machine-learning---Python_R165542/apply"
+  },
+  {
+    "id": 20,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R166346",
+    "role": "Member of Technical Staff - II (C++)",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "2026-04-06T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff---II--C---_R166346/apply"
   },
   {
     "id": 1,
