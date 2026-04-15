@@ -26,7 +26,7 @@ def scrape_visa():
     all_jobs=[]
     for hit in hits:
         #print(hit)
-        job_id = hit.get("postingId")
+        job_id = hit.get("refNumber")
         role = hit.get("jobTitle")
         skills = hit.get("ml_skills")
         description = hit.get("jobDescription")
@@ -54,7 +54,7 @@ def scrape_visa():
             "location": location,
             "posting_date": posting_date,
             "update_date" : 'Null',
-            "apply_link": apply_url              
+            "apply_link": 'https://www.visa.co.uk/en_gb/jobs/' +  job_id                       
             
         })
         jobs = jobs-1
