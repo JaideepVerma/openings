@@ -3,6 +3,21 @@
     "id": 1,
     "company": "ZS",
     "industry": "Business Consulting and Services",
+    "job_id": "23849",
+    "role": "Business Technology Solutions Associate - CMC",
+    "description": "description",
+    "responsibilities": "Associate - Chemistry Manufacturing & Controls ZS\u2019s Technology group focuses on scalable strategies, assets and accelerators that deliver to our clients enterprise-wide transformation via cutting-edge technology. We leverage digital and technology solutions to optimize business processes, enhance decision-making, and drive innovation. ZS is looking to hire a Business Technology Solutions Associate Consultant in ZS' Supply Chain and Manufacturing practice with experience in pharmaceutical drug development and tech transfer. The primary responsibility of this role is to deliver projects in the pharmaceutical CMC development area for ZS clients. The successful candidate will leverage their expertise in using and implementing digital laboratory systems such as Laboratory Information Management Systems (LIMS), Electronic Lab Notebooks (ELN), and ensuring GLP-compliant solutions to support CMC workflows; along with supporting Digital and Technology advisory, Product and Platform development and Data, Analytics and AI implementation. What You\u2019ll Do: Support clients in adopting and optimizing digital laboratory solutions (e.g., LIMS, ELN) and embedding GLP-aligned data management practices within CMC development workflows Configure, customize, and deploy LIMS platforms to support sample tracking, workflow automation, and regulatory reporting Implement and integrate ELN solutions for experiment documentation, protocol standardization, and collaboration across research and quality teams Ensure systems and processes comply with GLP standards, including audit readiness, data integrity, and alignment with regulatory requirements Partner with scientists, quality, and IT teams to digitize and scale laboratory workflows Undertake complete ownership in accomplishing activities and assigned responsibilities across all phases of project lifecycle to solve business problems across one or more client engagements. Apply appropriate development methodologies (e.g.: agile, waterfall) and best practices (e.g.: mid-development client reviews, embedded QA procedures, unit testing) to ensure successful and timely completion of assignments. Collaborate with other team members to leverage expertise and ensure seamless transitions; Exhibit flexibility in undertaking new and challenging problems and demonstrate excellent task management. Assist in creating project outputs such as business case development, solution vision and design, user requirements, prototypes, and technical architecture (if needed), test cases, and operations management. Bring transparency in driving assigned tasks to completion and report accurate status. Bring Consulting mindset in problem solving, innovation by leveraging technical and business knowledge/ expertise and collaborate across other teams. Assist senior team members, delivery leads in project management responsibilities. Build complex solutions using Programing languages, ETL service platform, etc. What You\u2019ll Bring: Bachelor's or master's degree required in Chemical Engineering, Mechanical Engineering, Material Engineering, Computer Science, Chemistry, Biotechnology or similar degree 1-3 years of relevant post-collegiate job experience. A PhD may substitute in lieu of work experience. Hands-on experience with at least one of the functions in CMC development such as Process Chemistry, Process Engineering, Formulation, and Analytical Chemistry Understanding of the different data and information systems such as ELN, LIMS, ERP systems, and LCM or PLM systems Experience contributing to the implementation of LIMS, ELN, or GLP-compliant digital systems, with focus on improving CMC data integrity, regulatory readiness, and lab-to-business process alignment Willingness to develop expertise in system configuration, validation, and compliance aspects of pharmaceutical digital lab solutions. Knowledge of key concepts including unit operations, processes, quality by design (QbD), tech transfer, process validation, quality attributes, and regulatory milestones across pharma development Understanding of the CMC related regulatory submission requirements Experience with at least one tech transfer, explore to analytics, AI and/or technology implementation in CMC preferred Strong ability to identify data anomalies, design data validation rules, and perform data cleanup to ensure high-quality data. Project management and task planning experience, ensuring smooth execution of deliverables and timelines. Strong communication and interpersonal skills to collaborate with both technical and non-technical teams. Experience with automation testing High motivation, good work ethic, maturity and personal initiative. Self-discipline for planning and organizing tasks Aptitude for, and enjoyment of, working in teams Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project team",
+    "qualifications": "s",
+    "location": "Gurugram",
+    "posting_date": "2026-04-15T12:35:00+0000",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/23849"
+  },
+  {
+    "id": 2,
+    "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "24081",
     "role": "Business Technology Solutions Associate Consultant _R&D",
     "description": "description",
@@ -15,7 +30,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/24081"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "32669",
@@ -30,7 +45,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32669"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "32657",
@@ -45,7 +60,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32657"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "32568",
@@ -60,7 +75,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32568"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "24381",
@@ -75,7 +90,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/24381"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "32420",
@@ -90,7 +105,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32420"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "24330",
@@ -105,7 +120,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/24330"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "32081",
@@ -120,7 +135,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32081"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "32591",
@@ -133,21 +148,6 @@
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/32591"
-  },
-  {
-    "id": 10,
-    "company": "ZS",
-    "industry": "Business Consulting and Services",
-    "job_id": "24400",
-    "role": "Engineering Specialist_ Salesforce Integration Architect",
-    "description": "description",
-    "responsibilities": "Salesforce Integration Architect ZS\u2019s India Capability & Expertise Center (CEC) houses more than 60% of ZS people across three offices in New Delhi, Pune and Bengaluru. Our teams work with colleagues across North America, Europe and East Asia to create and deliver real world solutions to the clients who drive our business. The CEC maintains standards of analytical, operational and technological excellence across our capability groups. Together, our collective knowledge enables each ZS team to deliver superior results to our clients. ZS's Scaled AI\u202fpractice\u202fis part of ZS's rich and advanced AI ecosystem, in the Architecture & Engineering Expertise Center, focused on creating\u202fcontinuous business value for\u202fclients\u202fusing\u202fa range of innovative machine learning,\u202fdeep learning, and engineering capabilities.\u202f\u202f Being part of Scaled AI practice allows you to collaborate with data scientists to create state-of-the-art AI models, create and use cutting-edge ML platforms, create and deploy advanced ML pipelines and manage the complete ML lifecycle. What You\u2019ll Do Integration & Architecture Leadership Own and define end-to-end integration architecture for Salesforce implementations across multiple clouds and enterprise systems Architect and govern integrations using MuleSoft, iPaaS platforms, REST/SOAP APIs, event-driven messaging, and ETL tools Define and apply enterprise integration patterns including API-led connectivity, synchronous/asynchronous messaging, and event-based architectures Design scalable and secure APIs and integration services that support Salesforce business processes Define data movement, transformation, and orchestration strategies across systems Salesforce Platform Enablement Collaborate with Salesforce Technical Architects and Developers to align integration design with Salesforce data models, security, and automation Provide architectural guidance on Salesforce APIs, Apex callouts, outbound messaging, Platform Events, and external services Ensure integrations follow Salesforce and MuleSoft best practices for performance, scalability, and security Client & Delivery Leadership Lead technical discovery sessions focused on integration requirements, system landscapes, and non-functional needs Confidently lead client discussions on integration strategy, middleware selection, and architectural trade-offs Act as a trusted advisor to client stakeholders by translating business requirements into integration-led solution designs Support pre-sales activities by contributing to solution scoping, estimates, and risk assessments Identify, manage, and proactively mitigate integration-related risks and dependencies Governance, Quality & Enablement Create and own integration architecture documentation including API specifications, sequence diagrams, data flows, and deployment models Define environment strategy, CI/CD pipelines, and release management approaches for integration platforms Review designs and implementations to ensure adherence to architectural standards and best practices Mentor and guide integration developers and architects, contributing to practice growth and knowledge sharingStay current on Salesforce, MuleSoft, and integration platform advancements and emerging architectural patterns What You\u2019ll Bring Strong expertise in Salesforce platform integrations, including Salesforce APIs and event-driven capabilities Hands-on experience architecting integrations using MuleSoft Anypoint Platform or similar middleware/iPaaS solutions Deep understanding of API-led architecture, integration patterns, and enterprise system interoperability Experience with REST/SOAP, OAuth 2.0, JWT, message queues, and data transformation technologies Familiarity with Salesforce data models, security model, and automation features Experience designing enterprise-scale integration architectures in complex environments Strong communication and stakeholder management skills Experience working in Agile delivery environments Ability to work effectively in a global, client-facing consulting model Bachelor\u2019s degree in Computer Science, Engineering, or a related field (preferred) 6+ years of experience in Salesforce and/or enterprise integration architecture MuleSoft certifications strongly preferred (e.g., MuleSoft Developer, Integration Architect) Salesforce certifications preferred (Administrator, Platform Developer, Integration Architecture Designer) Proven experience acting as an Integration Architect or Technical Lead on complex programs Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Pune",
-    "posting_date": "2026-04-08T10:42:00+0000",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/24400"
   },
   {
     "id": 1,
@@ -648,6 +648,21 @@
     "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
+    "job_id": "210734999",
+    "role": "Software Engineer II - Python, Kubernetes, GenAI/ML",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734999"
+  },
+  {
+    "id": 35,
+    "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210735596",
     "role": "Software Engineer II PySpark, BigData, AWS",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -660,64 +675,49 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735596"
   },
   {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210735631",
-    "role": "Software Engineer III AWS EC2 Agentic AI",
-    "description": "Software Engineer  III",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-15",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735631"
-  },
-  {
     "id": 1,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R166197",
-    "role": "Member of Technical Staff II",
+    "job_id": "R167317",
+    "role": "Software Development Engineer",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-14T00:00:00.000+0000",
+    "location": "Noida",
+    "posting_date": "2026-04-15T00:00:00.000+0000",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Member-of-Technical-Staff-II_R166197/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R167317-1/apply"
   },
   {
     "id": 2,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R165759",
-    "role": "Senior Director of Product Design",
+    "job_id": "R167735",
+    "role": "Computer Scientist",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bangalore",
-    "posting_date": "2026-04-14T00:00:00.000+0000",
+    "posting_date": "2026-04-15T00:00:00.000+0000",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Director-of-Product-Design_R165759/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist_R167735/apply"
   },
   {
     "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R165580",
-    "role": "Computer Scientist - I",
+    "job_id": "R165829",
+    "role": "Senior Data Engineer",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Noida",
-    "posting_date": "2026-04-14T00:00:00.000+0000",
-    "job_family": "Design",
+    "posting_date": "2026-04-15T00:00:00.000+0000",
+    "job_family": "Engineering and Product",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-1--C---_R165580/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Data-Science-Engineer_R165829/apply"
   },
   {
     "id": 4,
@@ -738,19 +738,49 @@
     "id": 5,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167571",
-    "role": "Engineering Program Manager 5",
+    "job_id": "R166197",
+    "role": "Member of Technical Staff II",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "2026-04-14T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Member-of-Technical-Staff-II_R166197/apply"
+  },
+  {
+    "id": 6,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R165759",
+    "role": "Senior Director of Product Design",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "2026-04-14T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Director-of-Product-Design_R165759/apply"
+  },
+  {
+    "id": 7,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R165580",
+    "role": "Computer Scientist - I",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Noida",
-    "posting_date": "2026-04-13T00:00:00.000+0000",
+    "posting_date": "2026-04-14T00:00:00.000+0000",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Engineering-Program-Manager-5_R167571/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-1--C---_R165580/apply"
   },
   {
-    "id": 6,
+    "id": 8,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R166403",
@@ -765,7 +795,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---Android--Java---Kotlin_R166403/apply"
   },
   {
-    "id": 7,
+    "id": 9,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167464",
@@ -780,7 +810,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Engineering-Program-Manager_R167464/apply"
   },
   {
-    "id": 8,
+    "id": 10,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167636",
@@ -795,7 +825,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Quality-Engineer_R167636/apply"
   },
   {
-    "id": 9,
+    "id": 11,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167665",
@@ -810,7 +840,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff---II_R167665/apply"
   },
   {
-    "id": 10,
+    "id": 12,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167508",
@@ -825,7 +855,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Computer-Scientist---SRE_R167508/apply"
   },
   {
-    "id": 11,
+    "id": 13,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R166182",
@@ -840,7 +870,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Director--Product-Management---Firefly_R166182-1/apply"
   },
   {
-    "id": 12,
+    "id": 14,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167459",
@@ -855,7 +885,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/CS-I--Front-end--Fullstack-_R167459/apply"
   },
   {
-    "id": 13,
+    "id": 15,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167167",
@@ -870,7 +900,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/MTS2_R167167/apply"
   },
   {
-    "id": 14,
+    "id": 16,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167460",
@@ -885,67 +915,22 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-Fullstack--Frontend-_R167460/apply"
   },
   {
-    "id": 15,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167638",
-    "role": "Machine Learning Engineer 3",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-09T00:00:00.000+0000",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R167638-1/apply"
-  },
-  {
-    "id": 16,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167635",
-    "role": "Mgr, Machine Learning Eng 4",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-09T00:00:00.000+0000",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Mgr--Machine-Learning-Eng-4_R167635-1/apply"
-  },
-  {
     "id": 17,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167637",
-    "role": "Machine Learning Engineer 4",
+    "job_id": "R167571",
+    "role": "Engineering Program Manager 5",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-09T00:00:00.000+0000",
-    "job_family": "Engineering and Product",
+    "location": "Noida",
+    "posting_date": "2026-04-13T00:00:00.000+0000",
+    "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R167637/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Engineering-Program-Manager-5_R167571/apply"
   },
   {
     "id": 18,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167091",
-    "role": "Software Development Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-09T00:00:00.000+0000",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R167091/apply"
-  },
-  {
-    "id": 19,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167612",
@@ -960,7 +945,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R167612/apply"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167564",
@@ -973,6 +958,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist_R167564/apply"
+  },
+  {
+    "id": 20,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167091",
+    "role": "Software Development Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "2026-04-09T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R167091/apply"
   },
   {
     "id": 1,
@@ -1533,19 +1533,109 @@
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-268824",
-    "role": "Data Scientist II",
-    "description": "The Data Scientist will work with large and complex data sets to uncover insights that drive business decisions. This role involves applying technical and statistical techniques, building dashboards,...",
+    "job_id": "R-270511",
+    "role": "Software Engineer II",
+    "description": "Provides support of applications software through programming, analysis, design, development and delivery of software solutions. Responsible for programming, testing, implementation, documentation, ma...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "2026-04-14",
+    "location": "Navi Mumbai",
+    "posting_date": "2026-04-15",
     "job_family": "Software Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-268824"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-270511"
   },
   {
     "id": 2,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-247856",
+    "role": "Managing Consultant- Performance Analytics",
+    "description": "Support MasterCard Advisors and local market account teams in client relationship management and business development effort. Demonstrable consulting skills or equivalent business management experienc...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "2026-04-15",
+    "job_family": "Consulting",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-247856"
+  },
+  {
+    "id": 3,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-275529",
+    "role": "Senior Technical Program Manager",
+    "description": "This role is critical to ensuring alignment, delivery rigor, and sustained execution across Applied AI, Software Engineering, Data Engineering, and Product teams. Own end\u2011to\u2011end delivery of large, cro...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-275529"
+  },
+  {
+    "id": 4,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-261173",
+    "role": "Software Engineer II-3",
+    "description": "MasterCard software engineering teams leverage Agile development principles, advanced. development and design practices, and an obsession over security, reliability, and. - Evidence of working with ob...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-261173"
+  },
+  {
+    "id": 5,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-274861",
+    "role": "Senior Specialist, HR Services",
+    "description": "Support includes managing complex benefits-related inquiries, maintaining accurate employee and vendor data, supporting audits and compliance activities, coordinating with external providers, and ensu...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-15",
+    "job_family": "HR",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-274861"
+  },
+  {
+    "id": 6,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-273104",
+    "role": "Consultant, Advisors & Consulting Services, Performance Analytics",
+    "description": "Collaborate with senior project delivery consultants to identify key findings, prepare effective presentations, and deliver recommendations to clients. Lead internal and client meetings, and contribut...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad",
+    "posting_date": "2026-04-15",
+    "job_family": "Consulting",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-273104"
+  },
+  {
+    "id": 7,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-273071",
+    "role": "Director, Revenue Assurance and Business Transformation",
+    "description": "Engage with key stakeholders (Sales, Finance, Controllership, Risk) and act as an Internal Consulting partner to understand pain-points related to their business model and operational processes. Exper...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "2026-04-15",
+    "job_family": "Project and Program Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-273071"
+  },
+  {
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-274233",
@@ -1560,7 +1650,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274233"
   },
   {
-    "id": 3,
+    "id": 9,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-274228",
@@ -1575,37 +1665,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274228"
   },
   {
-    "id": 4,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-274035",
-    "role": "Sr Product Manager Technical",
-    "description": "Identifies innovations or performs test and learn experiments to create features that add more business and customer value for a platform product. Participates with the business in customer research t...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-14",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274035"
-  },
-  {
-    "id": 5,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-267117",
-    "role": "Senior Product Manager - Technical",
-    "description": "This individual will partner closely with other members of the Global Product Management team to support the development of the product strategy and ensure product priorities are well-aligned with com...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-14",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-267117"
-  },
-  {
-    "id": 6,
+    "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-274735",
@@ -1620,22 +1680,37 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274735"
   },
   {
-    "id": 7,
+    "id": 11,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-273882",
-    "role": "Principal Project Manager",
-    "description": "This position requires a highly collaborative individual with strong process and project management skills who will need to coordinate global relationships across multiple functional areas, third part...",
+    "job_id": "R-268824",
+    "role": "Data Scientist II",
+    "description": "The Data Scientist will work with large and complex data sets to uncover insights that drive business decisions. This role involves applying technical and statistical techniques, building dashboards,...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "2026-04-14",
+    "job_family": "Software Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-268824"
+  },
+  {
+    "id": 12,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-267117",
+    "role": "Senior Product Manager - Technical",
+    "description": "This individual will partner closely with other members of the Global Product Management team to support the development of the product strategy and ensure product priorities are well-aligned with com...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "2026-04-14",
-    "job_family": "Project and Program Management",
+    "job_family": "Product Management",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-273882"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-267117"
   },
   {
-    "id": 8,
+    "id": 13,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-273195",
@@ -1650,7 +1725,37 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-273195"
   },
   {
-    "id": 9,
+    "id": 14,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-274035",
+    "role": "Sr Product Manager Technical",
+    "description": "Identifies innovations or performs test and learn experiments to create features that add more business and customer value for a platform product. Participates with the business in customer research t...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-14",
+    "job_family": "Product Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-274035"
+  },
+  {
+    "id": 15,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-273882",
+    "role": "Principal Project Manager",
+    "description": "This position requires a highly collaborative individual with strong process and project management skills who will need to coordinate global relationships across multiple functional areas, third part...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-14",
+    "job_family": "Project and Program Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-273882"
+  },
+  {
+    "id": 16,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-274143",
@@ -1665,67 +1770,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274143"
   },
   {
-    "id": 10,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-274795",
-    "role": "ARC Research Manager \u2013 Quantitative Research, Data Processing (L7)",
-    "description": "As a Quantitative Research Manager \u2013 Data Processing, you will be responsible for managing and delivering data processing workstreams across quantitative research projects. You will work independently...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "2026-04-13",
-    "job_family": "Consulting",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274795"
-  },
-  {
-    "id": 11,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-265085",
-    "role": "Data Product Manager",
-    "description": "Develops product strategies and roadmaps to execute to ensure maximum penetration of market segments. Coordinate with customer teams, customers and third parties to develop product strategies and poss...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "2026-04-13",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-265085"
-  },
-  {
-    "id": 12,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-272993",
-    "role": "Specialist, Product Operations",
-    "description": "Interact with customers to provide information in response to inquiries about products or services and handle and resolve customer issues via telephone and electronic communications. Provide product s...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "2026-04-13",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-272993"
-  },
-  {
-    "id": 13,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-264373",
-    "role": "Technical Manager, Data Engineering",
-    "description": "Join our team as a Technical Manager, Data Engineering and lead the development of scalable cloud data solutions. Drive innovation with AWS, Databricks, and Python, mentor talented engineers, and shape Mastercard\u2019s finance technology landscape. If you excel in data engineering leadership and cloud platforms, this is your next challenge!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-13",
-    "job_family": "Software Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-264373"
-  },
-  {
-    "id": 14,
+    "id": 17,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-274573",
@@ -1740,7 +1785,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274573"
   },
   {
-    "id": 15,
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275022",
@@ -1755,7 +1800,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275022"
   },
   {
-    "id": 16,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-272327",
@@ -1770,7 +1815,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-272327"
   },
   {
-    "id": 17,
+    "id": 20,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275021",
@@ -1783,51 +1828,6 @@
     "job_family": "Sales",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275021"
-  },
-  {
-    "id": 18,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-274338",
-    "role": "Technical Program Manager",
-    "description": "Our Technical Program Managers (TPM) conceptualize, rationalize, and drive multiple simultaneous projects to deliver engineering work across the portfolio in our scrum execution model. Experience defi...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-13",
-    "job_family": "Software Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274338"
-  },
-  {
-    "id": 19,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-274498",
-    "role": "Software Engineer II",
-    "description": "The chosen candidate for this position will be part of a strong software engineering team and responsible for building and delivery of high quality software solutions using agile methodology. Advanced...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-13",
-    "job_family": "Software Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274498"
-  },
-  {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-273951",
-    "role": "Manager, Strategy & Excellence",
-    "description": "Support internal teams in strategy execution, including client relationship management and business development. Business & Financial Acumen: Strong analytical skills, strategic thinking, and ability...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Mumbai",
-    "posting_date": "2026-04-13",
-    "job_family": "Sales",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-273951"
   },
   {
     "id": 21,
