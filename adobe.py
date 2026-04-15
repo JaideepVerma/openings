@@ -48,7 +48,7 @@ def scrape_adobe():
                 "update_date" : 'Null',
                 "apply_link": apply_link
             })
-    print(all_jobs)
+    #print(all_jobs)
     print(len(all_jobs))
     return all_jobs
 
@@ -58,7 +58,7 @@ def save_jobs(jobs):
     current_dir = os.getcwd()
     dbpath = os.path.join(current_dir, 'adobejobs.db')
     #dbpath = f'C:/Users/jdver/OneDrive/Desktop/py/JPMCjobs.db'
-    print('Jobs added to : ' , dbpath)
+    #print('Jobs added to : ' , dbpath)
     conn = sqlite3.connect(dbpath)
     c = conn.cursor()
     #print(jobs)
@@ -103,7 +103,7 @@ def create_db():
     conn.commit()
     conn.close()
 
-    print("Jobs table updated successfully.")
+    #print("Jobs table updated successfully.")
 
 #Run Below if there is any new column 
 '''
