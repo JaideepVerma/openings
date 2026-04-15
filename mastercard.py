@@ -91,12 +91,12 @@ def create_db():
     conn.commit()
     conn.close() 
 
-    print("Jobs table updated successfully.")
+    #print("Jobs table updated successfully.")
 
 def save_jobs(jobs):
     #dbpath = f'C:/Users/jdver/OneDrive/Desktop/py/ZSjobs.db'
     current_dir = os.getcwd()
-    print(current_dir)
+    #print(current_dir)
     dbpath = os.path.join(current_dir, 'mastercardjobs.db')
     conn = sqlite3.connect(dbpath)
     c = conn.cursor()
