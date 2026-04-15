@@ -48,7 +48,7 @@ def scrape_barclays():
             "apply_link": "https://search.jobs.barclays" + title_tag["href"],
     
         }
-        print(date_text)
+        #print(date_text)
         jobs.append(job)
     print(len(jobs), "barclays Jobs added")
         
@@ -92,7 +92,7 @@ def save_jobs(jobs):
     current_dir = os.getcwd()
     dbpath = os.path.join(current_dir, 'barclaysjobs.db')
     #dbpath = f'C:/Users/jdver/OneDrive/Desktop/py/JPMCjobs.db'
-    print('Jobs added to : ' , dbpath)
+    #print('Jobs added to : ' , dbpath)
     conn = sqlite3.connect(dbpath)
     c = conn.cursor()
     #print(jobs)
@@ -137,7 +137,7 @@ def create_db():
     conn.commit()
     conn.close()
 
-    print("Jobs table updated successfully.")
+    #print("Jobs table updated successfully.")
 
 #Run Below if there is any new column 
 '''
