@@ -168,6 +168,36 @@
     "id": 2,
     "company": "JPMC",
     "industry": "Financial Services",
+    "job_id": "210717784",
+    "role": "Product Manager-Middleware Platforms",
+    "description": "Lead with a clear product vision that meets customer needs and drives adoption of scalable, secure, resilient solutions.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717784"
+  },
+  {
+    "id": 3,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210732829",
+    "role": "Product Manager",
+    "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732829"
+  },
+  {
+    "id": 4,
+    "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210699480",
     "role": "Lead Software Engineer AWS, Java, Microservices",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
@@ -180,7 +210,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210699480"
   },
   {
-    "id": 3,
+    "id": 5,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210708900",
@@ -195,7 +225,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708900"
   },
   {
-    "id": 4,
+    "id": 6,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210713479",
@@ -210,7 +240,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210713479"
   },
   {
-    "id": 5,
+    "id": 7,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210717254",
@@ -225,7 +255,22 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717254"
   },
   {
-    "id": 6,
+    "id": 8,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210720955",
+    "role": "Senior Manager of Software Engineering - Java, AWS, Kubernetes, ReactJS,",
+    "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams ",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720955"
+  },
+  {
+    "id": 9,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210721249",
@@ -240,7 +285,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721249"
   },
   {
-    "id": 7,
+    "id": 10,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210723635",
@@ -255,7 +300,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723635"
   },
   {
-    "id": 8,
+    "id": 11,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210723654",
@@ -270,7 +315,67 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723654"
   },
   {
-    "id": 9,
+    "id": 12,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210724741",
+    "role": "Software Engineer III - iOS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724741"
+  },
+  {
+    "id": 13,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210725983",
+    "role": "Lead Software Engineer - Java, Streaming, AWS",
+    "description": "Design and deliver critical software solutions across domains as a key team member contributor on an agile credit card pricing team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725983"
+  },
+  {
+    "id": 14,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210726942",
+    "role": "Lead Software Engineer - AWS, PySpark, BigData",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726942"
+  },
+  {
+    "id": 15,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210730192",
+    "role": "Site Reliability Engineer III",
+    "description": "Apply your skillsets to drive innovation and modernize the world's most complex and mission-critical systems",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730192"
+  },
+  {
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210732372",
@@ -285,7 +390,37 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732372"
   },
   {
-    "id": 10,
+    "id": 17,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210733156",
+    "role": "Software Engineer II - AWS, Python, Go Lang",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733156"
+  },
+  {
+    "id": 18,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210733165",
+    "role": "Lead Software Engineer -  AWS, Python ,Go Lang",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-15",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733165"
+  },
+  {
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733313",
@@ -300,7 +435,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733313"
   },
   {
-    "id": 11,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733406",
@@ -315,7 +450,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733406"
   },
   {
-    "id": 12,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210735596",
@@ -330,7 +465,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735596"
   },
   {
-    "id": 13,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210735631",
@@ -345,11 +480,11 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735631"
   },
   {
-    "id": 14,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210735684",
-    "role": "Lead Software Engineer",
+    "role": "Lead Software Engineer - Java, Springboot",
     "description": "Transform your career by enhancing and migrating our trade processing platform to a cloud-native code-base .",
     "responsibilities": null,
     "qualifications": null,
@@ -360,7 +495,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735684"
   },
   {
-    "id": 15,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210692724",
@@ -375,7 +510,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210692724"
   },
   {
-    "id": 16,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210731421",
@@ -390,7 +525,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731421"
   },
   {
-    "id": 17,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210720698",
@@ -405,7 +540,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720698"
   },
   {
-    "id": 18,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210720718",
@@ -420,7 +555,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720718"
   },
   {
-    "id": 19,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210735064",
@@ -435,7 +570,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735064"
   },
   {
-    "id": 20,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210720008",
@@ -450,7 +585,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720008"
   },
   {
-    "id": 21,
+    "id": 30,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210731818",
@@ -465,7 +600,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731818"
   },
   {
-    "id": 22,
+    "id": 31,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210735617",
@@ -480,7 +615,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735617"
   },
   {
-    "id": 23,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210697604",
@@ -495,7 +630,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697604"
   },
   {
-    "id": 24,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210708422",
@@ -510,7 +645,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210708422"
   },
   {
-    "id": 25,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210709255",
@@ -525,7 +660,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709255"
   },
   {
-    "id": 26,
+    "id": 35,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210714915",
@@ -540,157 +675,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210714915"
   },
   {
-    "id": 27,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210715536",
-    "role": "Software Engineer II-Full\u2011Stack (React/TypeScript, Spring Boot)",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715536"
-  },
-  {
-    "id": 28,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210718021",
-    "role": "Software Engineer II, Golang",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718021"
-  },
-  {
-    "id": 29,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210725476",
-    "role": "Software Engineer III IBM TM1",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725476"
-  },
-  {
-    "id": 30,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210726961",
-    "role": "Software Engineer III - AWS, PySpark, ETL",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726961"
-  },
-  {
-    "id": 31,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210728135",
-    "role": "Software Engineer II - Java",
-    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728135"
-  },
-  {
-    "id": 32,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210728148",
-    "role": "Software Engineer III - Java",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728148"
-  },
-  {
-    "id": 33,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210728196",
-    "role": "Software Engineer II - Cloud",
-    "description": "Design and build secure, scalable cloud services, automate infrastructure, and enhance reliability in a regulated environment.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Pune, Maharashtra, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728196"
-  },
-  {
-    "id": 34,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210728201",
-    "role": "Software Engineer III - Java Fullstack",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728201"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210728236",
-    "role": "Software Engineer III - Java",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "2026-04-14",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728236"
-  },
-  {
     "id": 1,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R166945",
-    "role": "Principal Scientist - Applied Research, ASML (Multimodal Foundation Models)",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "2026-04-14T00:00:00.000+0000",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Scientist---Applied-Research--ASML--Multimodal-Foundation-Models-_R166945-1/apply"
-  },
-  {
-    "id": 2,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R166197",
@@ -705,7 +690,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Member-of-Technical-Staff-II_R166197/apply"
   },
   {
-    "id": 3,
+    "id": 2,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R165759",
@@ -720,7 +705,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Director-of-Product-Design_R165759/apply"
   },
   {
-    "id": 4,
+    "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R165580",
@@ -735,11 +720,26 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-1--C---_R165580/apply"
   },
   {
+    "id": 4,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R166945",
+    "role": "Principal Scientist - Applied Research, ASML (Multimodal Foundation Models)",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "2026-04-14T00:00:00.000+0000",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Scientist---Applied-Research--ASML--Multimodal-Foundation-Models-_R166945-1/apply"
+  },
+  {
     "id": 5,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167167",
-    "role": "MTS2",
+    "job_id": "R167571",
+    "role": "Engineering Program Manager 5",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -747,7 +747,7 @@
     "posting_date": "2026-04-13T00:00:00.000+0000",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/MTS2_R167167/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Engineering-Program-Manager-5_R167571/apply"
   },
   {
     "id": 6,
@@ -813,21 +813,6 @@
     "id": 10,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167460",
-    "role": "Computer Scientist(Fullstack/ Frontend)",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "2026-04-13T00:00:00.000+0000",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-Fullstack--Frontend-_R167460/apply"
-  },
-  {
-    "id": 11,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R167508",
     "role": "Senior Computer Scientist - SRE",
     "description": "description",
@@ -840,22 +825,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Computer-Scientist---SRE_R167508/apply"
   },
   {
-    "id": 12,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167571",
-    "role": "Engineering Program Manager 5",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "2026-04-13T00:00:00.000+0000",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Engineering-Program-Manager-5_R167571/apply"
-  },
-  {
-    "id": 13,
+    "id": 11,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R166182",
@@ -870,7 +840,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Director--Product-Management---Firefly_R166182-1/apply"
   },
   {
-    "id": 14,
+    "id": 12,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167459",
@@ -885,52 +855,37 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/CS-I--Front-end--Fullstack-_R167459/apply"
   },
   {
-    "id": 15,
+    "id": 13,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167091",
-    "role": "Software Development Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-09T00:00:00.000+0000",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R167091/apply"
-  },
-  {
-    "id": 16,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167612",
-    "role": "Computer Scientist II",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "2026-04-09T00:00:00.000+0000",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R167612/apply"
-  },
-  {
-    "id": 17,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167564",
-    "role": "Senior Computer Scientist",
+    "job_id": "R167167",
+    "role": "MTS2",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Noida",
-    "posting_date": "2026-04-09T00:00:00.000+0000",
+    "posting_date": "2026-04-13T00:00:00.000+0000",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist_R167564/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/MTS2_R167167/apply"
   },
   {
-    "id": 18,
+    "id": 14,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167460",
+    "role": "Computer Scientist(Fullstack/ Frontend)",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "2026-04-13T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-Fullstack--Frontend-_R167460/apply"
+  },
+  {
+    "id": 15,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167638",
@@ -945,7 +900,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R167638-1/apply"
   },
   {
-    "id": 19,
+    "id": 16,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167635",
@@ -960,7 +915,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Mgr--Machine-Learning-Eng-4_R167635-1/apply"
   },
   {
-    "id": 20,
+    "id": 17,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167637",
@@ -973,6 +928,51 @@
     "job_family": "Engineering and Product",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R167637/apply"
+  },
+  {
+    "id": 18,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167091",
+    "role": "Software Development Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "2026-04-09T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R167091/apply"
+  },
+  {
+    "id": 19,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167612",
+    "role": "Computer Scientist II",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "2026-04-09T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R167612/apply"
+  },
+  {
+    "id": 20,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167564",
+    "role": "Senior Computer Scientist",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "2026-04-09T00:00:00.000+0000",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist_R167564/apply"
   },
   {
     "id": 1,
@@ -1830,7 +1830,22 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-analyst/13015/91119476976"
   },
   {
-    "id": 2,
+    "id": 1,
+    "company": "SWIGGY",
+    "industry": "Technology -Ecom",
+    "job_id": "26080",
+    "role": "Software Dev Engineer III",
+    "description": "description",
+    "responsibilities": "What will you get to do here?\n\n\n * Design and Architecture: Collaborate with cross-functional teams to make \nour app more scalable and robust. Architect solutions that adhere to best \npractices and promote code reusability.\n * Development: Write clean, maintainable, reusable code in Swift/SwiftUI. \nImplement new features, enhancements, and bug fixes according to project \nrequirements and timelines.\n * Testing: Develop and execute comprehensive unit tests and integration tests \nto ensure the reliability and stability of our Consumer App. Implement \nautomated testing frameworks and strategies to streamline the testing process.\n * Performance Optimization: Identify performance bottlenecks and optimize iOS \napplications for speed, responsiveness, and resource efficiency. Conduct code \nreviews and performance profiling to maintain high performance standards.\n * Documentation: Create technical documentation, including design documents, \nAPI specifications, and release notes. Document codebase changes, architecture \ndecisions, and development processes to facilitate knowledge sharing and \nonboarding.\n * Collaboration: Collaborate closely with product managers, designers, and \nother engineers to translate product requirements into technical solutions. \nParticipate in Agile ceremonies, such as sprint planning, daily stand-ups, and \nretrospectives.\n * Continuous Improvement: Stay updated on the latest trends, tools, and \ntechnologies in iOS development. Continuously improve development processes, \ncoding standards, and software quality through innovation and experimentation.\n\n\nWhat qualities are we looking for?\n\n\n * Bachelor's degree in Computer Science, Engineering, or related field \n(Master's degree preferred).\n * 5+ years of professional experience in iOS application development.\n * Proficiency in Swift programming languages.\n * Strong understanding of iOS SDK, X-Code, and related development tools.\n * Experience with iOS architecture components\n * Solid understanding of software design principles, patterns, and best \npractices.\n * Experience with RESTful APIs, JSON/Proto etc\n * Familiarity with version control systems (e.g., Git) and continuous \nintegration tools (e.g., Jenkins).\n * Excellent problem-solving skills and attention to detail.\n * Strong communication and collaboration skills.\n * Ability to thrive in a fast-paced, dynamic environment and adapt to \nchanging priorities.\n * Knowledge and hands on experience of Kotlin Multiplatform will be cherry on \nthe top.\u00a0\n\n\n",
+    "qualifications": "",
+    "location": "Bangalore",
+    "posting_date": "2026-04-15T06:58:30.490+0000",
+    "job_family": "Technology",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
+  },
+  {
+    "id": 3,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "26063",
@@ -1845,7 +1860,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 1,
+    "id": 2,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "26066",
@@ -1860,7 +1875,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25977",
@@ -1875,7 +1890,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25656",
@@ -1890,7 +1905,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25586",
@@ -1905,7 +1920,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25397",
@@ -1920,7 +1935,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25255",
@@ -1935,7 +1950,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25229",
@@ -1950,7 +1965,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25198",
@@ -1965,7 +1980,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "24519",
@@ -1980,7 +1995,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "24514",
@@ -1995,7 +2010,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "24132",
