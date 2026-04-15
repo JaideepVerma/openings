@@ -38,7 +38,7 @@ def scrape_mastercard():
         created_date = hit.get("dateCreated")
         JobFunction = 'JobFunction'
         JobFamily = hit.get("category")
-        print(posting_date) 
+        #print(posting_date) 
 
         #print(title)
         all_jobs.append({
