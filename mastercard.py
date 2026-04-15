@@ -17,7 +17,7 @@ def scrape_mastercard():
         "Content-Type": "application/json",
         "Accept": "*/*"
     }
-    payload = {"lang":"en_us","deviceType":"desktop","country":"us","pageName":"search-results","ddoKey":"eagerLoadRefineSearch","sortBy":"Most recent","subsearch":"","from":0,"jobs":'true',"counts":'true',"all_fields":["category","country","state","city","postalCode","jobType","phLocSlider"],"size":5,"clearAll":'false',"jdsource":"facets","isSliderEnable":'true',"pageId":"page11","siteType":"external","keywords":"","global":'true',"selected_fields":{"country":["India"]},"sort":{"order":"desc","field":"postedDate"},"locationData":{"sliderRadius":302,"aboveMaxRadius":'true',"LocationUnit":"kilometers"},"s":"1"}
+    payload = {"lang":"en_us","deviceType":"desktop","country":"us","pageName":"search-results","ddoKey":"eagerLoadRefineSearch","sortBy":"Most recent","subsearch":"","from":0,"jobs":'true',"counts":'true',"all_fields":["category","country","state","city","postalCode","jobType","phLocSlider"],"size":20,"clearAll":'false',"jdsource":"facets","isSliderEnable":'true',"pageId":"page11","siteType":"external","keywords":"","global":'true',"selected_fields":{"country":["India"]},"sort":{"order":"desc","field":"postedDate"},"locationData":{"sliderRadius":302,"aboveMaxRadius":'true',"LocationUnit":"kilometers"},"s":"1"}
     #response = requests.get()
     response = requests.post(url, headers=headers,json=payload)
     resp = response.json()
