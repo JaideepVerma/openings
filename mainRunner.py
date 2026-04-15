@@ -5,6 +5,8 @@ import ZS
 import barclays
 import adobe
 import MS
+import mastercard
+
 def run_all():
     AMZ.main()
     print('----- AMZ Done -----')
@@ -20,6 +22,9 @@ def run_all():
     print('----- Adobe Done -----')
     MS.main()
     print('----- MS Done -----')
+    mastercard.main()
+    print('----- MasterCard Done -----')
     
+
 if __name__ == "__main__":
     run_all()
