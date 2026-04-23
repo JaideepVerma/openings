@@ -3,16 +3,16 @@
     "id": 1,
     "company": "ZS",
     "industry": "Business Consulting and Services",
-    "job_id": "21336",
-    "role": "Business Technology Solutions Associate Consultant",
+    "job_id": "32592",
+    "role": "Digital & Technology Partner - Pharma",
     "description": "description",
-    "responsibilities": "What you\u2019ll do: Undertake primary ownership in driving self and team effort across all phases of a project lifecycle; Translate business requirements into technical terms and drive team effort to design, build and manage technology solutions that solve business problems; Apply appropriate development methodologies (e.g.: agile, waterfall) and best practices (e.g.: mid-development client reviews, embedded QA procedures, unit testing) to ensure successful and timely completion; Partner with Project lead/ Program lead in delivering projects and assist in project management responsibility like - project plans, people management, staffing and risk mitigation; Collaborate with other team members across the globe and ensure seamless communication and sharing/ undertaking tasks; Manage team of diverse skill sets (programmer, cloud analyst, BI developer, reporting, operations, etc.); Mentor/coach the junior members in the team; Lead task planning and task distribution across team members and ensure timely completion with high quality and report accurate status to seniors; Lead the project deliverables such as business case development, solution vision and design, user requirements, solution mockup, prototypes, and technical architecture, test cases, deployment plans, operations strategy and planning, etc.; Manage direct / indirect client communications as per the assigned responsibility in the project; Exhibit outlook to bring continuous improvement, innovation and exhibit capability to learn new areas (technology, business domain, project management process) and drive the similar effort of team members: Understand the problem statement, client requirements and design and build complex solutions using Programing languages, ETL platform, etc.; Ability to take right and timely decision on problem solving by considering broader picture, especially on approach, technical nuances and planning. Experience & Qualifications: Bachelor's/Master's degree with specialization in Computer Science, MIS, IT or other computer related disciplines; 4-6 years of relevant consulting-industry experience working on medium-large scale technology solution delivery engagements: Big Data Technologies: Proficiency in working with big data technologies, particularly in the context of Databricks, which may include Apache Spark for distributed data processing. Databricks: In-depth knowledge of Databricks for data engineering tasks, including data transformations, ETL processes, and job scheduling. SQL and Query Optimization: Strong SQL skills for data manipulation and retrieval, along with the ability to optimize queries for performance in Snowflake. ETL (Extract, Transform, Load): Expertise in designing and implementing ETL processes to move and transform data between systems, utilizing tools and frameworks available in Databricks. Data Integration: Experience with integrating diverse data sources into a cohesive and usable format, ensuring data quality and integrity. Python/PySpark: Knowledge of programming languages like Python and PySpark for scripting and extending the functionality of Databricks notebooks. Version Control: Familiarity with version control systems, such as Git, for managing code and configurations in a collaborative environment. Monitoring and Optimization: Ability to monitor data pipelines, identify bottlenecks, and optimize performance for both Snowflake and Databricks. Security and Compliance: Understanding of security best practices and compliance considerations when working with sensitive data in AWS and Snowflake environments. Snowflake Data Warehouse: Experience in designing, implementing, and optimizing data warehouses using Snowflake, including schema design, performance tuning, and query optimization. Data Modeling: Proficient in data modeling concepts and practices, especially in the context of designing and maintaining data structures in Snowflake. Additional Skills Deep understanding of data management best practices and data analytics; Up to speed with latest technologies related (but not limited to) to cloud platform services, visualization, data management; Excellent verbal and written communication, with appropriate and logical structuring of thoughts process during discussion/ presentation; Lead project teams in driving end to end activities to meet set milestones and provide necessary mentorship/ guidance for the team growth; Ability to distill complex concepts into easy-to-understand frameworks and presentations; Strong verbal and written communication skills with ability to articulate results and issues to internal and client teams; Ability to work within a virtual global team environment and contribute to the overall timely delivery of multiple projects; Willingness to travel to other global offices as needed to work with client or other internal project teams",
+    "responsibilities": "We are seeking a high-impact Senior Executive \u2013 Digital & Technology Innovation to lead the digital transformation and innovation agenda within our consulting practice. This role sits at the intersection of strategy, technology, and business growth, with full accountability for driving measurable client impact, building new technology-led businesses, and growing high-performing leadership teams. As a Technology Partner, you will act as a trusted advisor to C\u2011suite and enterprise leaders at global pharma and healthcare organizations, while also serving as a builder\u2014establishing innovation ecosystems, incubating next-generation digital capabilities, and scaling them across clients and industries. The ideal candidate combines deep technical acumen with strong consulting experience and has successfully led innovation functions, client transformation programs, or digital solution incubators. What You'll Do - Business Growth & Client Leadership - Drive business expansion within key clients, identifying and unlocking new revenue streams Serve as a strategic advisor to senior client stakeholders, navigating complex business challenges and positioning ZS\u2019s technology solutions effectively Lead business development efforts by proactively identifying opportunities, crafting proposals with the team, and securing multi-million-dollar engagements Establish deep client relationships, acting as a trusted partner and thought leader in technology transformation Delivery Excellence for clients - Oversee the design and implementation of large-scale technology solutions, ensuring alignment with business objectives Provide guidance on solution architecture, data strategy, and AI-driven automation to enhance client capabilities People Leadership - Build and scale high-performing teams, mentoring and coaching managers and associates to grow into leadership roles Cultivate a culture of continuous learning and professional development, enabling team members to upskill in advanced technologies Delivery Excellence Process - Drive the vision, strategy, and execution of Delivery excellence for various delivery models Create a culture of delivery excellence. Delivery discipline should be integral part of client delivery Ensure governance, risk management, delivery discipline across client accounts. What You'll Bring - 20+ years of experience in digital technology, data & analytics, and management consulting, with a strong record of leading large-scale global engagements for healthcare and life sciences clients, including biopharma, medtech, and healthcare services organizations. Professional certifications in cloud (AWS/Azure/GCP), Agile, Design Thinking, or Innovation Management (e.g., IDEO, Stanford d.school) are a plus. Demonstrated expertise in digital transformation, enterprise architecture, and data & analytics, with the ability to design and implement cloud-native data, analytics, and AI ecosystems, including modern data platforms, advanced analytics, MLOps/LLMOps, and responsible AI governance. Strong ability to connect emerging technologies (GenAI, Agentic AI, advanced analytics, cloud, and automation) to clear, measurable client business outcomes, translating innovation into executable roadmaps and value realization. Experience in establishing and scaling a Delivery Excellence Office, driving standardization, governance, quality, and continuous improvement across complex digital portfolios. Commercial acumen in structuring and selling digital engagements. Exceptional stakeholder engagement and influencing skills, including experience with large clients. Ability to build and lead high-performing, cross-geography teams in a matrix organization",
     "qualifications": ".",
     "location": "Pune",
-    "posting_date": "2026-04-22T09:15:00+0000",
+    "posting_date": "2026-04-22T19:45:00+0000",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/21336"
+    "apply_link": "https://jobs.zs.com/all/jobs/32592"
   },
   {
     "id": 2,
@@ -258,21 +258,6 @@
     "id": 8,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210727848",
-    "role": "Software Engineer III  -  JAVA AWS",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-22",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727848"
-  },
-  {
-    "id": 9,
-    "company": "JPMC",
-    "industry": "Financial Services",
     "job_id": "210728691",
     "role": "Lead Software Engineer - Java, Spring Boot, Hibernate",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
@@ -285,7 +270,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728691"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210731331",
@@ -300,7 +285,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731331"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210732084",
@@ -315,7 +300,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732084"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733313",
@@ -330,7 +315,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733313"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733384",
@@ -345,7 +330,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733384"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210734021",
@@ -360,7 +345,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734021"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210734979",
@@ -375,7 +360,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734979"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210734988",
@@ -388,6 +373,21 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734988"
+  },
+  {
+    "id": 16,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210736897",
+    "role": "Manager of Software Engineering",
+    "description": "Software Platform Engineering Manager to lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "2026-04-22",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736897"
   },
   {
     "id": 17,
@@ -468,21 +468,6 @@
     "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210709727",
-    "role": "Lead Software Engineer",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "2026-04-21",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709727"
-  },
-  {
-    "id": 23,
-    "company": "JPMC",
-    "industry": "Financial Services",
     "job_id": "210710606",
     "role": "Lead Software Engineer",
     "description": "Minimum 10+ years of experience\nDesign and Developing Cloud Native Full stack application(Java and React) development on AWS",
@@ -495,7 +480,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710606"
   },
   {
-    "id": 24,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210714612",
@@ -510,7 +495,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210714612"
   },
   {
-    "id": 25,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210721867",
@@ -525,7 +510,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721867"
   },
   {
-    "id": 26,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210724818",
@@ -540,7 +525,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724818"
   },
   {
-    "id": 27,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210725983",
@@ -555,7 +540,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725983"
   },
   {
-    "id": 28,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210728162",
@@ -570,7 +555,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728162"
   },
   {
-    "id": 29,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210731553",
@@ -585,7 +570,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731553"
   },
   {
-    "id": 30,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210731600",
@@ -600,7 +585,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731600"
   },
   {
-    "id": 31,
+    "id": 30,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733447",
@@ -615,7 +600,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733447"
   },
   {
-    "id": 32,
+    "id": 31,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733925",
@@ -630,7 +615,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733925"
   },
   {
-    "id": 33,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210734033",
@@ -645,7 +630,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734033"
   },
   {
-    "id": 34,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210735595",
@@ -660,7 +645,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735595"
   },
   {
-    "id": 35,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210736828",
@@ -673,6 +658,21 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736828"
+  },
+  {
+    "id": 35,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210737152",
+    "role": "Software Engineer II-DevOps \u2013 Cloud Platform",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "2026-04-21",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737152"
   },
   {
     "id": 1,
@@ -1548,94 +1548,64 @@
     "id": 2,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-273634",
-    "role": "Director Software Engineering",
-    "description": "This role is pivotal in driving engineering excellence, scaling delivery capabilities, and fostering a culture of innovation, accountability, and continuous improvement. You will be responsible for al...",
+    "job_id": "R-275772",
+    "role": "Senior Specialist, Global Product Management - Commercialization/Pricing Strategies",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Pune",
+    "location": "Gurgaon",
     "posting_date": "2026-04-22",
-    "job_family": "Other",
+    "job_family": "Product Management",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-273634"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-275772"
   },
   {
     "id": 3,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-273322",
-    "role": "Senior Platform Architect",
-    "description": "Infrastructure Design Services is a team of Technology Architects and Engineers responsible for the analysis and design of the infrastructure framework to fit the application, platform or system needs...",
+    "job_id": "R-274143",
+    "role": "Data Scientist-1",
+    "description": "Apply various Machine learning (i.e. SVM, Radom Forest, XGBoost, LightGBM, CATBoost etc), Deep learning techniques (i.e. LSTM, RNN, Transformer etc.) Design and implement machine learning models for a...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Pune",
+    "location": "Navi Mumbai",
     "posting_date": "2026-04-22",
-    "job_family": "IT",
+    "job_family": "AI & Data",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-273322"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-274143"
   },
   {
     "id": 4,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-272194",
-    "role": "Director, Software Engineering",
-    "description": "Lead and develop a high-performing engineering team supporting NEX Settlement systems. * Partner with Domain Owners, Payment Networks, and cross-functional teams to shape platform strategy. * Lead p...",
+    "job_id": "R-261219",
+    "role": "Senior Data Scientist",
+    "description": "Plan and direct data science / machine learning projects within the team. Design and implement machine learning models for a number of financial applications including but not limited to: Transaction...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Pune",
+    "location": "Navi Mumbai",
     "posting_date": "2026-04-22",
-    "job_family": "Other",
+    "job_family": "AI & Data",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-272194"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-261219"
   },
   {
     "id": 5,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-274663",
-    "role": "Principal Software Engineer",
-    "description": "As a Principal Software Engineer for Employee Access Management, you serve as a technical authority, providing comprehensive leadership and guiding critical decisions across our program and its techno...",
+    "job_id": "R-270551",
+    "role": "Manager AI Engineer",
+    "description": "This role will lead ML engineering team to execute on AI/ML strategy for the program that enables business growth, enhances customer experience, and ensures delivery of secure, scalable, and high-perf...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "2026-04-22",
-    "job_family": "Other",
+    "job_family": "AI & Data",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274663"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-270551"
   },
   {
     "id": 6,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-274497",
-    "role": "Lead Software Engineer",
-    "description": "Broad and extensive deep knowledge of the software development process and its technologies, hands on experience of creating design (high & low level) and engineer on variety of technologies and produ...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-22",
-    "job_family": "Other",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274497"
-  },
-  {
-    "id": 7,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-264373",
-    "role": "Technical Manager, Data Engineering",
-    "description": "As a leader of Data platform / technology, providing guidance on complex technical challenges and driving resolution, ensuring solutions align with Mastercard\u2019s engineering and data principles, and te...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-22",
-    "job_family": "Software Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-264373"
-  },
-  {
-    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-271817",
@@ -1650,7 +1620,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-271817"
   },
   {
-    "id": 9,
+    "id": 7,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-270113",
@@ -1665,7 +1635,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-270113"
   },
   {
-    "id": 10,
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275121",
@@ -1680,7 +1650,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275121"
   },
   {
-    "id": 11,
+    "id": 9,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275476",
@@ -1695,7 +1665,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275476"
   },
   {
-    "id": 12,
+    "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275065",
@@ -1710,7 +1680,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275065"
   },
   {
-    "id": 13,
+    "id": 11,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275119",
@@ -1725,7 +1695,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275119"
   },
   {
-    "id": 14,
+    "id": 12,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275762",
@@ -1740,22 +1710,82 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275762"
   },
   {
+    "id": 13,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-273322",
+    "role": "Senior Platform Architect",
+    "description": "Infrastructure Design Services is a team of Technology Architects and Engineers responsible for the analysis and design of the infrastructure framework to fit the application, platform or system needs...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-22",
+    "job_family": "IT",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-273322"
+  },
+  {
+    "id": 14,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-272194",
+    "role": "Director, Software Engineering",
+    "description": "Lead and develop a high-performing engineering team supporting NEX Settlement systems. * Partner with Domain Owners, Payment Networks, and cross-functional teams to shape platform strategy. * Lead p...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-22",
+    "job_family": "Other",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-272194"
+  },
+  {
     "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-275772",
-    "role": "Senior Specialist, Global Product Management - Commercialization/Pricing Strategies",
-    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "job_id": "R-274663",
+    "role": "Principal Software Engineer",
+    "description": "As a Principal Software Engineer for Employee Access Management, you serve as a technical authority, providing comprehensive leadership and guiding critical decisions across our program and its techno...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Gurgaon",
+    "location": "Pune",
     "posting_date": "2026-04-22",
-    "job_family": "Product Management",
+    "job_family": "Other",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-275772"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-274663"
   },
   {
     "id": 16,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-274497",
+    "role": "Lead Software Engineer",
+    "description": "Broad and extensive deep knowledge of the software development process and its technologies, hands on experience of creating design (high & low level) and engineer on variety of technologies and produ...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-22",
+    "job_family": "Other",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-274497"
+  },
+  {
+    "id": 17,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-264373",
+    "role": "Technical Manager, Data Engineering",
+    "description": "As a leader of Data platform / technology, providing guidance on complex technical challenges and driving resolution, ensuring solutions align with Mastercard\u2019s engineering and data principles, and te...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "2026-04-22",
+    "job_family": "Software Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-264373"
+  },
+  {
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-273023",
@@ -1770,7 +1800,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-273023"
   },
   {
-    "id": 17,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-274373",
@@ -1785,22 +1815,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274373"
   },
   {
-    "id": 18,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-273169",
-    "role": "Software Engineer II",
-    "description": "The Platform Engineer is a hands on technical expert responsible for designing, building, and maintaining automation frameworks, platform services, and Infrastructure as Code (IaC) capabilities that p...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-22",
-    "job_family": "IT",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-273169"
-  },
-  {
-    "id": 19,
+    "id": 20,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275017",
@@ -1815,22 +1830,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275017"
   },
   {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-267174",
-    "role": "Manager, Product Management-Technical",
-    "description": "Product Management-Technical (PM-T) are technical roles and work closely with Technical Program Managers, Software Design Engineers, User Experience, and internal customers to define the details behin...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "2026-04-21",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-267174"
-  },
-  {
-    "id": 16,
+    "id": 15,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91190338912",
@@ -1845,7 +1845,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-engineer/13015/91190338912"
   },
   {
-    "id": 27,
+    "id": 25,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "82665887760",
@@ -1860,7 +1860,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-governance-analyst/13015/82665887760"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92199670128",
@@ -1875,7 +1875,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/risk-analytics-analyst/13015/92199670128"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92190233904",
@@ -1890,7 +1890,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/aws-and-java-integration-engineer/13015/92190233904"
   },
   {
-    "id": 24,
+    "id": 22,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88792123760",
@@ -1905,7 +1905,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeller/13015/88792123760"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "90783661792",
@@ -1920,7 +1920,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-business-analyst/13015/90783661792"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92042368144",
@@ -1935,11 +1935,11 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler-architect/13015/92042368144"
   },
   {
-    "id": 20,
+    "id": 18,
     "company": "Barclays",
     "industry": "Financial Services",
-    "job_id": "90586375840",
-    "role": "Decision Scientist",
+    "job_id": "90610471840",
+    "role": "Vice President ML Ops Engineer",
     "description": "description...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -1947,7 +1947,7 @@
     "posting_date": "21 Apr",
     "job_family": "JobFamily...",
     "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/decision-scientist/13015/90586375840"
+    "apply_link": "https://search.jobs.barclays/job/noida/vice-president-ml-ops-engineer/13015/90610471840"
   },
   {
     "id": 3,
@@ -1980,22 +1980,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/mlops-engineer/13015/90610471776"
   },
   {
-    "id": 23,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "89549612544",
-    "role": "Executive Enablement Lead",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida, India",
-    "posting_date": "20 Apr",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/executive-enablement-lead/13015/89549612544"
-  },
-  {
-    "id": 28,
+    "id": 26,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "79747029216",
@@ -2010,7 +1995,7 @@
     "apply_link": "https://search.jobs.barclays/job/mumbai/senior-data-modeller/13015/79747029216"
   },
   {
-    "id": 25,
+    "id": 23,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88646727872",
@@ -2040,7 +2025,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-scientist/13015/94058037088"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91870745152",
@@ -2055,7 +2040,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-scientist/13015/91870745152"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91789406368",
@@ -2070,7 +2055,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-business-analyst/13015/91789406368"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "90917996192",
@@ -2085,7 +2070,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/decision-analyst/13015/90917996192"
   },
   {
-    "id": 22,
+    "id": 21,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "89623113664",
@@ -2100,7 +2085,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/tm-analytics-lead/13015/89623113664"
   },
   {
-    "id": 26,
+    "id": 24,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "86986936464",
@@ -2115,7 +2100,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/digital-services-avp/13015/86986936464"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91789413424",
@@ -2145,21 +2130,6 @@
     "apply_link": "https://search.jobs.barclays/job/pune/ifc-data-data-modeler/13015/93499651104"
   },
   {
-    "id": 6,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "92563159104",
-    "role": "Data Scientist - AVP",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurugram, India",
-    "posting_date": "15 Apr",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/gurugram/data-scientist-avp/13015/92563159104"
-  },
-  {
     "id": 2,
     "company": "Barclays",
     "industry": "Financial Services",
@@ -2175,7 +2145,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/senior-data-analyst/13015/93981869808"
   },
   {
-    "id": 8,
+    "id": 7,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92298817072",
@@ -2190,7 +2160,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-analyst/13015/92298817072"
   },
   {
-    "id": 7,
+    "id": 6,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92448754576",
@@ -2220,7 +2190,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/92613182416"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91658602240",
@@ -2235,7 +2205,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-and-records-governance-analyst/13015/91658602240"
   },
   {
-    "id": 21,
+    "id": 20,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "90416264848",
