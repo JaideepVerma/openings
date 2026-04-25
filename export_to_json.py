@@ -43,6 +43,19 @@ with open("output/data.json", "w") as f:
 
 with open("/home/runner/work/openings/openings/data.json", "w") as f:
     json.dump(all_data, f, indent=2)
+
+
+# Step 1: Get the absolute path of the repo root
+repo_root = os.path.dirname(os.path.abspath(__file__))  # folder where your main script lives
+
+# Step 2: Build the full path to data.json in repo root
+file_path = os.path.join(repo_root, "data.json")
+
+# Step 3: Write JSON file
+with open(file_path, "w") as f:
+    json.dump(all_data, f, indent=2)
+
+print(f"data.json saved at: {file_path}")
 '''
 os.makedirs("output", exist_ok=True)
 current_dir = os.getcwd()
