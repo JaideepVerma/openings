@@ -41,7 +41,7 @@ for db_file in db_files:
 with open("output/data.json", "w") as f:
     json.dump(all_data, f, indent=2)
 
-with open("data.json", "w") as f:
+with open("/home/runner/work/openings/openings/data.json", "w") as f:
     json.dump(all_data, f, indent=2)
 '''
 os.makedirs("output", exist_ok=True)
