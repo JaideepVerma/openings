@@ -41,7 +41,7 @@ def scrape_mastercard():
         qualifications = 'qualifications'
         location=hit.get("city")
         timestamp =hit.get("postedDate")
-        posting_date =datetime.strptime(timestamp , "%Y-%m-%dT%H:%M:%S.%f%z").date()
+        posting_date = timestamp #datetime.strptime(timestamp , "%Y-%m-%dT%H:%M:%S.%f%z").date()
         created_date = hit.get("dateCreated")
         JobFunction = 'JobFunction'
         JobFamily = hit.get("category")
