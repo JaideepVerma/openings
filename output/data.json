@@ -168,21 +168,6 @@
     "id": 2,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210717323",
-    "role": "Risk Management & Compliance \u2013 Business Management",
-    "description": "Oversee & drive key initiatives and Contribute to Business Management Priorities",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "24-04-2026",
-    "job_family": "Business Management",
-    "job_function": "Finance",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717323"
-  },
-  {
-    "id": 3,
-    "company": "JPMC",
-    "industry": "Financial Services",
     "job_id": "210735027",
     "role": "Analytics Solutions Manager",
     "description": "Drive delivery of analytics data products and applied AI/ML solutions ",
@@ -195,7 +180,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735027"
   },
   {
-    "id": 4,
+    "id": 3,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210738351",
@@ -210,7 +195,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738351"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210738964",
@@ -223,6 +208,21 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738964"
+  },
+  {
+    "id": 5,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210717323",
+    "role": "Risk Management & Compliance \u2013 Business Management",
+    "description": "Oversee & drive key initiatives and Contribute to Business Management Priorities",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "24-04-2026",
+    "job_family": "Business Management",
+    "job_function": "Finance",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717323"
   },
   {
     "id": 6,
@@ -978,21 +978,6 @@
     "id": 1,
     "company": "Morgan Stanley",
     "industry": "Financial Services",
-    "job_id": "549795363026",
-    "role": "Operations Supervisor_Reconciliation - Parametric",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "23-04-2026",
-    "job_family": "Operations",
-    "job_function": "JobFunction...",
-    "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549795363026"
-  },
-  {
-    "id": 2,
-    "company": "Morgan Stanley",
-    "industry": "Financial Services",
     "job_id": "549794379392",
     "role": "IM Capital & Data Risk, Vice President, Risk Management",
     "description": "description...",
@@ -1003,6 +988,21 @@
     "job_family": "Risk / Policy Mgmt",
     "job_function": "JobFunction...",
     "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549794379392"
+  },
+  {
+    "id": 2,
+    "company": "Morgan Stanley",
+    "industry": "Financial Services",
+    "job_id": "549795363026",
+    "role": "Operations Supervisor_Reconciliation - Parametric",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "23-04-2026",
+    "job_family": "Operations",
+    "job_function": "JobFunction...",
+    "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549795363026"
   },
   {
     "id": 3,
