@@ -31,7 +31,7 @@ jobs:
       - name: Export DB to JSON
         run: python export_to_json.py
         
-       - name: Commit and push changes
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
