@@ -6,7 +6,13 @@ import os
 
 from datetime import datetime, timezone, timedelta
 
-
+def get_date(dt):
+    # Parse the string into a datetime object
+    dt = datetime.strptime(dt, "%Y-%m-%dT%H:%M:%S%z")
+     
+    # Format it into DD-MM-YYYY
+    formatted_date = dt.strftime("%d-%m-%Y")
+    return formatted_date
 def get_ist_timestamp():
     ist = timezone(timedelta(hours=5, minutes=30))
     return datetime.now(ist).strftime("%d-%m-%Y") #datetime.now(ist).strftime("%Y-%m-%d %H:%M:%S")
@@ -75,7 +81,7 @@ def scrape_zs():
                     "responsibilities": responsibilities1,
                     "qualifications": responsibilities2,
                     "location": location,
-                    "posting_date": get_ist_timestamp(posted_date),
+                    "posting_date": formatted_date(posted_date),
                     "update_date" : 'update_date',
                     "apply_link": apply_url            
                 })
