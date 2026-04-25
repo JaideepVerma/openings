@@ -8,7 +8,7 @@ from datetime import datetime, timezone, timedelta
 
 def get_date(dt):
     # Parse the string into a datetime object
-    dt = datetime.strptime(str(dt), "%Y-%m-%dT%H:%M:%S%z")
+    dt = datetime.strptime(str(dt), "%Y-%m-%dT%H:%M:%S.%f%z")
      
     # Format it into DD-MM-YYYY
     formatted_date = dt.strftime("%d-%m-%Y")
