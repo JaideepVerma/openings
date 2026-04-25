@@ -6,9 +6,10 @@ import os
 
 from datetime import datetime, timezone, timedelta
 
+
 def get_ist_timestamp():
     ist = timezone(timedelta(hours=5, minutes=30))
-    return datetime.now(ist).strftime("%Y-%m-%d %H:%M:%S")
+    return datetime.now(ist).strftime("%d-%m-%Y") #datetime.now(ist).strftime("%Y-%m-%d %H:%M:%S")
 
 def scrape_zs():
     url = "https://jobs.zs.com/api/jobs?location=India&woe=12&regionCode=IN&stretchUnit=MILES&stretch=10&page=1&sortBy=posted_date&descending=true&internal=false"
