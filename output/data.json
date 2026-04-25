@@ -678,6 +678,21 @@
     "id": 1,
     "company": "ADOBE",
     "industry": "FAANG",
+    "job_id": "R167908",
+    "role": "Principal Product Manager, Search & GenAI",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "24-04-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Product-Manager--Search---GenAI_R167908/apply"
+  },
+  {
+    "id": 2,
+    "company": "ADOBE",
+    "industry": "FAANG",
     "job_id": "R167801",
     "role": "Senior Computer Scientist",
     "description": "description",
@@ -690,7 +705,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist_R167801-1/apply"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167839",
@@ -705,37 +720,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Director-of-Engineering_R167839-1/apply"
   },
   {
-    "id": 3,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167908",
-    "role": "Principal Product Manager, Search & GenAI",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "24-04-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Product-Manager--Search---GenAI_R167908/apply"
-  },
-  {
     "id": 4,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167169",
-    "role": "Product Manager 4",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "23-04-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-4_R167169-1/apply"
-  },
-  {
-    "id": 5,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R166543",
@@ -750,37 +735,22 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R166543-1/apply"
   },
   {
+    "id": 5,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167169",
+    "role": "Product Manager 4",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "23-04-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-4_R167169-1/apply"
+  },
+  {
     "id": 6,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167459",
-    "role": "CS-I (Front-end/ Fullstack)",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "21-04-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/CS-I--Front-end--Fullstack-_R167459/apply"
-  },
-  {
-    "id": 7,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167941",
-    "role": "Senior Product Manager",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "21-04-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941/apply"
-  },
-  {
-    "id": 8,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R166205",
@@ -795,7 +765,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-4_R166205-1/apply"
   },
   {
-    "id": 9,
+    "id": 7,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167946",
@@ -810,7 +780,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer---II_R167946/apply"
   },
   {
-    "id": 10,
+    "id": 8,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167945",
@@ -823,6 +793,36 @@
     "job_family": "Engineering and Product",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Machine-Learning-Engineer_R167945/apply"
+  },
+  {
+    "id": 9,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167459",
+    "role": "CS-I (Front-end/ Fullstack)",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "21-04-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/CS-I--Front-end--Fullstack-_R167459/apply"
+  },
+  {
+    "id": 10,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167941",
+    "role": "Senior Product Manager",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "21-04-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941/apply"
   },
   {
     "id": 11,
@@ -843,21 +843,6 @@
     "id": 12,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167334",
-    "role": "AI assisted Interviews",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "20-04-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/AI-assisted-Interviews_R167334/apply"
-  },
-  {
-    "id": 13,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R166547",
     "role": "Computer Scientist-II",
     "description": "description",
@@ -870,7 +855,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-II_R166547-1/apply"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167882",
@@ -883,6 +868,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Product-Designer--Document-Cloud_R167882-1/apply"
+  },
+  {
+    "id": 14,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167334",
+    "role": "AI assisted Interviews",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "20-04-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/AI-assisted-Interviews_R167334/apply"
   },
   {
     "id": 15,
@@ -903,21 +903,6 @@
     "id": 16,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167220",
-    "role": "Senior Product & Business Analyst",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "17-04-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product---Business-Analyst_R167220/apply"
-  },
-  {
-    "id": 17,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R167901",
     "role": "Senior Director, Product Management",
     "description": "description",
@@ -928,6 +913,21 @@
     "job_family": "Engineering and Product",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Director--Product-Management_R167901-1/apply"
+  },
+  {
+    "id": 17,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R167220",
+    "role": "Senior Product & Business Analyst",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "17-04-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product---Business-Analyst_R167220/apply"
   },
   {
     "id": 18,
@@ -963,8 +963,8 @@
     "id": 20,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167527",
-    "role": "Software Development Engineer 4",
+    "job_id": "R167784",
+    "role": "Software Development Engineer",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -972,7 +972,7 @@
     "posting_date": "16-04-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R167527-1/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R167784/apply"
   },
   {
     "id": 1,
@@ -1065,7 +1065,7 @@
     "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549796997640"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10380168",
@@ -1080,7 +1080,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10380168"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10377874",
@@ -1095,7 +1095,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377874"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10377873",
@@ -1110,7 +1110,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377873"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10379521",
@@ -1125,7 +1125,22 @@
     "apply_link": "https://amazon.jobs/en/jobs/10379521"
   },
   {
-    "id": 18,
+    "id": 1,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10403403",
+    "role": "Software Development Engineer II, Amazon",
+    "description": "Revolutionize Global Financial Systems with Cutting-Edge Technology Are you passionate about building transformative financial technologies that power global transactions? Join our team and design innovative solutions that will impact millions of customers worldwide, leveraging the most advanced cloud technologies available. Elevator Pitch You'll be at the forefront of creating scalable financial systems that drive Amazon's global growth. In this role, you'll design and develop sophisticated software solutions that transform how financial transactions are processed, using state-of-the-art AWS cloud services to solve complex technological challenges. About the Team We are a collaborative and forward-thinking group dedicated to building next-generation financial technologies. Our team values innovation, technical excellence, and creating solutions that make a meaningful difference. We're committed to solving complex problems and driving technological advancement in the financial sector. Key job responsibilities - Define high level and low level design for software solutions using the latest AWS technology in a large distributed environment. - Define high-level and low-level architecture for distributed financial systems using modern AWS technologies. - Design, develop, test, and deploy scalable and reliable software solutions for accounting and financial operations. - Drive architecture and technology choices, ensuring alignment with long-term platform goals and scalability requirements. - Implement and advocate engineering best practices, including automation, testing, code reviews, and CI/CD pipelines. - Leverage data and metrics to enhance system performance, reliability, and operational efficiency. - Develop integration frameworks and APIs to streamline workflows and improve system interoperability. - Maintain exceptional code quality standards with emphasis on security, readability, and maintainability. - Collaborate with cross-functional teams across Finance, Product, and Platform Engineering to deliver high-impact solutions. - Drive continuous innovation through experimentation and adoption of modern technologies. - Experience or exposure to AI/ML technologies is a strong plus, particularly in building intelligent, predictive, or automation-driven financial systems. A day in the life A Day in the Life Your day will be dynamic and impactful. You'll collaborate with world-class engineers, architect innovative solutions, and tackle complex technological challenges. Expect to dive deep into cloud technologies, design intricate software systems, and continuously push the boundaries of what's possible in financial technology. About the team Amazon Financial Technology Team is looking for a results-oriented, driven software development engineer, who can help us create the next generation of distributed, scalable financial systems. Our ideal candidate thrives in a fast-paced environment, enjoys the challenge of highly complex business contexts that are typically being defined in real-time. We need someone to design and develop services that facilitate global financial transactions worth billions (USD) annually.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "25-04-2026",
+    "job_family": "Software Development",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10403403"
+  },
+  {
+    "id": 19,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10395111",
@@ -1140,7 +1155,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10395111"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10376105",
@@ -1155,7 +1170,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10376105"
   },
   {
-    "id": 1,
+    "id": 2,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10401013",
@@ -1170,7 +1185,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10401013"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10400873",
@@ -1185,7 +1200,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10400873"
   },
   {
-    "id": 20,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10385936",
@@ -1200,7 +1215,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10385936"
   },
   {
-    "id": 21,
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10376764",
@@ -1215,7 +1230,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10376764"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10373343",
@@ -1230,7 +1245,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10373343"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10402536",
@@ -1245,7 +1260,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10402536"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10402534",
@@ -1260,7 +1275,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10402534"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10396811",
@@ -1275,7 +1290,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10396811"
   },
   {
-    "id": 26,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10396800",
@@ -1290,7 +1305,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10396800"
   },
   {
-    "id": 27,
+    "id": 28,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10377858",
@@ -1305,7 +1320,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10377858"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10397432",
@@ -1320,7 +1335,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10397432"
   },
   {
-    "id": 28,
+    "id": 29,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10396799",
@@ -1335,7 +1350,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10396799"
   },
   {
-    "id": 29,
+    "id": 30,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "3204092",
@@ -1350,22 +1365,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/3204092"
   },
   {
-    "id": 30,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "3206545",
-    "role": "Applied Scientist, RBS Tech",
-    "description": "RBS (Retail Business Services) Tech team works towards enhancing the customer experience (CX) and their trust in product data by providing technologies to find and fix Amazon CX defects at scale. Our platforms help in improving the CX in all phases of customer journey, including selection, discoverability & fulfilment, buying experience and post-buying experience (product quality and customer returns). The team also develops GenAI platforms for automation of Amazon Stores Operations. As a Sciences team in RBS Tech, we focus on foundational ML research and develop scalable state-of-the-art ML solutions to solve the problems covering customer experience (CX) and Selling partner experience (SPX). We work to solve problems related to multi-modal understanding (text and images), task automation through multi-modal LLM Agents, supervised and unsupervised techniques, multi-task learning, multi-label classification, aspect and topic extraction for Customer Anecdote Mining, image and text similarity and retrieval using NLP and Computer Vision for product groupings and identifying duplicate listings in product search results. Key job responsibilities As an Applied Scientist, you will be responsible to design and deploy scalable GenAI, NLP and Computer Vision solutions that will impact the content visible to millions of customer and solve key customer experience issues. You will develop novel LLM, deep learning and statistical techniques for task automation, text processing, image processing, pattern recognition, and anomaly detection problems. You will define the research and experiments strategy with an iterative execution approach to develop AI/ML models and progressively improve the results over time. You will partner with business and engineering teams to identify and solve large and significantly complex problems that require scientific innovation. You will independently file for patents and/or publish research work where opportunities arise. The RBS org deals with problems that are directly related to the selling partners and end customers and the ML team drives resolution to organization level problems. Therefore, the Applied Scientist role will impact the large product strategy, identifies new business opportunities and provides strategic direction which is very exciting.",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Master's degree - 2+ years of relevant applied science research experience with a Masters\u2019 degree in Electrical Engineering, Computer Science, Computer Engineering, Mathematics, or related field with specialization in machine learning, NLP, Computer Vision, deep or related fields. - Excellent communication skills",
-    "location": "Bengaluru, Karnataka, IND",
-    "posting_date": "11-03-2026",
-    "job_family": "Applied Science",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/3206545"
-  },
-  {
-    "id": 4,
+    "id": 5,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10389726",
@@ -1380,7 +1380,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10389726"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10388390",
@@ -1395,7 +1395,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10388390"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10388266",
@@ -1410,7 +1410,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10388266"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10399080",
@@ -1425,7 +1425,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10399080"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10386222",
@@ -1440,7 +1440,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10386222"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10386253",
@@ -1455,7 +1455,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10386253"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10389775",
@@ -1470,7 +1470,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10389775"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10389776",
@@ -1485,7 +1485,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10389776"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10396801",
@@ -1500,7 +1500,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10396801"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10401676",
@@ -1518,66 +1518,6 @@
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-275470",
-    "role": "Senior BizOps Engineer",
-    "description": "In addition, you\u2019ll develop custom data solutions for operational authorization needs, including dashboards, alerts, and reporting for BizOps and engineering teams. Implement data-driven monitoring an...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-04-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-275470"
-  },
-  {
-    "id": 2,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-275016",
-    "role": "Senior BizOps Engineer",
-    "description": "Support the application CI/CD pipeline for promoting software into higher environments through validation and operational gating, and lead Mastercard in DevOps automation and best practices. Experienc...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-04-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-275016"
-  },
-  {
-    "id": 3,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-275241",
-    "role": "Director, Software Engineering",
-    "description": "This role aligns technology strategy with business outcomes while building high-performing teams and delivering resilient, scalable platforms. Drive delivery of complex, high-quality software platform...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-04-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-275241"
-  },
-  {
-    "id": 4,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-276141",
-    "role": "Manager, Franchise Innovation, Data Products",
-    "description": "Identify, define, and evolve Franchise data products (e.g., dashboards, APIs, extracts, benchmarks, insights, and analytics) for internal users and external customers. \u25cb Partner deeply with Franchis...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-04-2026",
-    "job_family": "Customer Success",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-276141"
-  },
-  {
-    "id": 5,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
     "job_id": "R-272428",
     "role": "Senior BizOps Engineer",
     "description": "We support our developers during the application build phase in software run principles, including operational design, automation, capacity planning, and monitoring that lead to fault-tolerant, scalab...",
@@ -1590,7 +1530,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-272428"
   },
   {
-    "id": 6,
+    "id": 2,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-270087",
@@ -1605,7 +1545,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-270087"
   },
   {
-    "id": 7,
+    "id": 3,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-275755",
@@ -1620,22 +1560,67 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-275755"
   },
   {
-    "id": 8,
+    "id": 4,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-267028",
-    "role": "Managing Consultant, Advisors & Consulting Services, Strategy & Transformation",
-    "description": "Collaborate with internal Mastercard stakeholders including Product and Business Development to scope projects, create relevant solutions for clients, and build the firm's intellectual capital. Experi...",
+    "job_id": "R-275470",
+    "role": "Senior BizOps Engineer",
+    "description": "In addition, you\u2019ll develop custom data solutions for operational authorization needs, including dashboards, alerts, and reporting for BizOps and engineering teams. Implement data-driven monitoring an...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Gurgaon",
+    "location": "Pune",
     "posting_date": "24-04-2026",
-    "job_family": "Consulting",
+    "job_family": "Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-267028"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-275470"
   },
   {
-    "id": 9,
+    "id": 5,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-275016",
+    "role": "Senior BizOps Engineer",
+    "description": "Support the application CI/CD pipeline for promoting software into higher environments through validation and operational gating, and lead Mastercard in DevOps automation and best practices. Experienc...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-04-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-275016"
+  },
+  {
+    "id": 6,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-275241",
+    "role": "Director, Software Engineering",
+    "description": "This role aligns technology strategy with business outcomes while building high-performing teams and delivering resilient, scalable platforms. Drive delivery of complex, high-quality software platform...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-04-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-275241"
+  },
+  {
+    "id": 7,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-271817",
+    "role": "Senior Software Engineer",
+    "description": "The chosen candidate for this position will be part of a strong software engineering team and responsible for Testing and delivery of high quality software solutions using agile methodology. The succe...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-04-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-271817"
+  },
+  {
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-271550",
@@ -1650,19 +1635,34 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-271550"
   },
   {
+    "id": 9,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-267028",
+    "role": "Managing Consultant, Advisors & Consulting Services, Strategy & Transformation",
+    "description": "Collaborate with internal Mastercard stakeholders including Product and Business Development to scope projects, create relevant solutions for clients, and build the firm's intellectual capital. Experi...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "24-04-2026",
+    "job_family": "Consulting",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-267028"
+  },
+  {
     "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-271817",
-    "role": "Senior Software Engineer",
-    "description": "The chosen candidate for this position will be part of a strong software engineering team and responsible for Testing and delivery of high quality software solutions using agile methodology. The succe...",
+    "job_id": "R-276141",
+    "role": "Manager, Franchise Innovation, Data Products",
+    "description": "Identify, define, and evolve Franchise data products (e.g., dashboards, APIs, extracts, benchmarks, insights, and analytics) for internal users and external customers. \u25cb Partner deeply with Franchis...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-04-2026",
-    "job_family": "Engineering",
+    "job_family": "Customer Success",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-271817"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-276141"
   },
   {
     "id": 11,
@@ -1698,16 +1698,16 @@
     "id": 13,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-274256",
-    "role": "Associate Analyst, Data Strategy-1",
-    "description": "Enterprise Data Quality team for is responsible for ensuring data is of the highest quality and is fit for purpose to support business and analytic uses. Support the development of data quality dashbo...",
+    "job_id": "R-273122",
+    "role": "Associate Analyst, Analytics & Metrics",
+    "description": "The Operations Platform Analyst will support the operational systems used across Data & Services. Provides first tier technical and process support directly for inquiries for Business Operation\u2019s plat...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Gurgaon",
     "posting_date": "23-04-2026",
-    "job_family": "AI & Data",
+    "job_family": "Project and Program Management",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274256"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-273122"
   },
   {
     "id": 14,
@@ -1728,6 +1728,36 @@
     "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-273147",
+    "role": "Manager, Corporate FP&A",
+    "description": "This position is responsible for supporting the Director and Vice President across a broad spectrum of strategic processes and initiatives while managing and executing the corporate reporting and plan...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "23-04-2026",
+    "job_family": "Finance",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-273147"
+  },
+  {
+    "id": 16,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-274256",
+    "role": "Associate Analyst, Data Strategy-1",
+    "description": "Enterprise Data Quality team for is responsible for ensuring data is of the highest quality and is fit for purpose to support business and analytic uses. Support the development of data quality dashbo...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "23-04-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-274256"
+  },
+  {
+    "id": 17,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-274351",
     "role": "Lead Technical Program Manager",
     "description": "As a Lead Technical Program Manager in Mastercard Software Builders Experience, you will be working with Mastercard\u2019s Engineering team for automated provisioning Engineering teams. Work closely with E...",
@@ -1740,7 +1770,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274351"
   },
   {
-    "id": 16,
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-274945",
@@ -1755,22 +1785,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274945"
   },
   {
-    "id": 17,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-274359",
-    "role": "Lead Jenkins Administrator",
-    "description": "The DevFlow Tribe is looking for a DevOps Engineer who can help us solve problems, build our CI/CD pipelines and lead Mastercard in DevOps automation and best practices. Mastercard is seeking an engin...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "23-04-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274359"
-  },
-  {
-    "id": 18,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-274014",
@@ -1785,34 +1800,19 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-274014"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-274395",
-    "role": "Manager BizOps Engineering",
-    "description": "Provide technical and operational leadership to the team, setting standards and ensuring consistent execution. \u25cb Analyze ITSM activities across the platform and drive feedback loops with development...",
+    "job_id": "R-275693",
+    "role": "Director, Data Engineering",
+    "description": "The role requires strong depth in data engineering and MLE, with the ability to operate as a data scientist when needed. Set technical direction across data engineering, ML engineering, and applied an...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "23-04-2026",
-    "job_family": "Engineering",
+    "job_family": "AI & Data",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-274395"
-  },
-  {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-273147",
-    "role": "Manager, Corporate FP&A",
-    "description": "This position is responsible for supporting the Director and Vice President across a broad spectrum of strategic processes and initiatives while managing and executing the corporate reporting and plan...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "23-04-2026",
-    "job_family": "Finance",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-273147"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-275693"
   },
   {
     "id": 15,
