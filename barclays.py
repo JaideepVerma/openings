@@ -5,6 +5,19 @@ from datetime import datetime
 import os
 from datetime import datetime, timezone, timedelta
 
+
+def get_date(dt):
+    date_str = dt
+    
+    # Parse it into a datetime object
+    dt = datetime.strptime(date_str, "%d %b")
+    
+    # Add the year explicitly (since input has only day + month)
+    dt = dt.replace(year=2026)
+    
+    # Format into DD-MM-YYYY
+    formatted_date = dt.strftime("%d-%m-%Y")
+    return formatted_date
 def get_ist_timestamp():
     ist = timezone(timedelta(hours=5, minutes=30))
     return datetime.now(ist).strftime("%Y-%m-%d %H:%M:%S")
@@ -43,7 +56,7 @@ def scrape_barclays():
             "responsibilities": "responsibilities",
             "qualifications": "qualifications",
             "location": location_tag.get_text(strip=True) if location_tag else None,
-            "posting_date": date_text,
+            "posting_date": get_date(date_text),
             "update_date" : 'Null',
             "apply_link": "https://search.jobs.barclays" + title_tag["href"],
     
