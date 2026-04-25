@@ -39,6 +39,9 @@ for db_file in db_files:
 # Save combined JSON
 with open("output/data.json", "w") as f:
     json.dump(all_data, f, indent=2)
+
+with open("data.json", "w") as f:
+    json.dump(all_data, f, indent=2)
 '''
 os.makedirs("output", exist_ok=True)
 current_dir = os.getcwd()
