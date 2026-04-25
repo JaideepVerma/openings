@@ -20,6 +20,13 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 }
 
+def get_date(dt):
+    # Parse the string into a datetime object
+    dt = datetime.strptime(dt, "%Y-%m-%dT%H:%M:%S%z")
+     
+    # Format it into DD-MM-YYYY
+    formatted_date = dt.strftime("%d-%m-%Y")
+    return formatted_date
 def fetch_jobs():
     size = 10
     start = 0
@@ -197,8 +204,8 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
         "responsibilities": 'responsibilities',
         "qualifications": strip_html(simple.get("basicQualifications")),
         
-        "posting_date": created_iso[:dt_index_end] ,
-        
+        "posting_date": get_date(created_iso[:dt_index_end]) ,
+        #"posting_date": created_iso[:dt_index_end] ,
         "update_date" : updated_iso[:updated_dt_index_end],
         #"updated_at_iso": updated_iso,
         #"updated_at_epoch": updated_epoch,
