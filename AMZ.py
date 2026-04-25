@@ -187,7 +187,7 @@ def normalize_fields(fields: Dict[str, Any]) -> Dict[str, Any]:
 
     created_iso, created_epoch = epoch_to_iso_and_int(simple.get("createdDate"))
     updated_iso, updated_epoch = epoch_to_iso_and_int(simple.get("updatedDate"))
-    print(created_iso)
+    #print(created_iso) # 2026-04-23T08:52:26+00:00
     dt_index_end = created_iso.find("T")
     updated_dt_index_end = updated_iso.find("T")
     record = {
