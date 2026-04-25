@@ -44,18 +44,24 @@ with open("output/data.json", "w") as f:
 with open("/home/runner/work/openings/openings/data.json", "w") as f:
     json.dump(all_data, f, indent=2)
 
+import os, json, subprocess
 
-# Step 1: Get the absolute path of the repo root
-repo_root = os.path.dirname(os.path.abspath(__file__))  # folder where your main script lives
-
-# Step 2: Build the full path to data.json in repo root
+repo_root = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(repo_root, "data.json")
 
-# Step 3: Write JSON file
+# Save JSON file
 with open(file_path, "w") as f:
     json.dump(all_data, f, indent=2)
 
 print(f"data.json saved at: {file_path}")
+
+# Commit and push to GitHub
+subprocess.run(["git", "config", "--global", "user.name", "github-actions[bot]"])
+subprocess.run(["git", "config", "--global", "user.email", "github-actions[bot]@users.noreply.github.com"])
+subprocess.run(["git", "add", "data.json"])
+subprocess.run(["git", "commit", "-m", "Auto-generate data.json"])
+subprocess.run(["git", "push", "origin", "main"])
+
 '''
 os.makedirs("output", exist_ok=True)
 current_dir = os.getcwd()
