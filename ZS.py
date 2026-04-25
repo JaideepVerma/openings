@@ -81,7 +81,7 @@ def scrape_zs():
                     "responsibilities": responsibilities1,
                     "qualifications": responsibilities2,
                     "location": location,
-                    "posting_date": formatted_date(posted_date),
+                    "posting_date": get_date(posted_date),
                     "update_date" : 'update_date',
                     "apply_link": apply_url            
                 })
