@@ -6,6 +6,13 @@ import os
 
 from datetime import datetime, timezone, timedelta
 
+def get_date(dt):
+    # Parse the string into a datetime object
+    dt = datetime.strptime(dt, "%Y-%m-%dT%H:%M:%S%z")
+     
+    # Format it into DD-MM-YYYY
+    formatted_date = dt.strftime("%d-%m-%Y")
+    return formatted_date
 def get_ist_timestamp():
     ist = timezone(timedelta(hours=5, minutes=30))
     return datetime.now(ist).strftime("%Y-%m-%d %H:%M:%S")
@@ -52,7 +59,7 @@ def scrape_mastercard():
             "responsibilities": responsibilities,
             "qualifications": qualifications,
             "location": location,
-            "posting_date": posting_date,
+            "posting_date": get_date(posting_date),
             "update_date" : 'Null',
             "apply_link": 'https://careers.mastercard.com/us/en/job/'+ job_id                
             
