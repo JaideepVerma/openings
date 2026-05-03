@@ -978,21 +978,6 @@
     "id": 1,
     "company": "Morgan Stanley",
     "industry": "Financial Services",
-    "job_id": "549795363026",
-    "role": "Operations Supervisor_Reconciliation - Parametric",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "23-04-2026",
-    "job_family": "Operations",
-    "job_function": "JobFunction...",
-    "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549795363026"
-  },
-  {
-    "id": 2,
-    "company": "Morgan Stanley",
-    "industry": "Financial Services",
     "job_id": "549794379392",
     "role": "IM Capital & Data Risk, Vice President, Risk Management",
     "description": "description...",
@@ -1003,6 +988,21 @@
     "job_family": "Risk / Policy Mgmt",
     "job_function": "JobFunction...",
     "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549794379392"
+  },
+  {
+    "id": 2,
+    "company": "Morgan Stanley",
+    "industry": "Financial Services",
+    "job_id": "549795363026",
+    "role": "Operations Supervisor_Reconciliation - Parametric",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "23-04-2026",
+    "job_family": "Operations",
+    "job_function": "JobFunction...",
+    "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549795363026"
   },
   {
     "id": 3,
