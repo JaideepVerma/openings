@@ -82,7 +82,7 @@ def scrape_wellsfargo():
             posting_date = days_from_posted(posting_date)
 
             if posting_date == 0:
-                posting_date = date.today().strftime("%Y-%m-%d") #str(datetime.combine(date.today(), time()))
+                posting_date = date.today().strftime("%d-%m-%Y") #str(datetime.combine(date.today(), time()))
             else:
                 posting_date = (date.today() - timedelta(days=posting_date)).strftime("%d-%m-%Y")
 
