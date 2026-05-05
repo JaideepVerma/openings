@@ -52,7 +52,7 @@ def scrape_wellsfargo():
     while offset <=20:
         print('Limit and offset',limit,offset)
         payload =     {
-            "appliedFacets":{"locationCountry":["c4f78be1a8f14da0ab49ce1162348a5e"],"workerSubType":["2d264dd4beb00100f05a7cc5745b0001"]},"jobFamilyGroup":["b5c3287c76c20100b3189b6fdb430000"]},"limit":limit,"offset":offset,
+            "appliedFacets":{"locationCountry":["c4f78be1a8f14da0ab49ce1162348a5e"],"workerSubType":["2d264dd4beb00100f05a7cc5745b0001"]},"jobFamilyGroup":["b5c3287c76c20100b318a0e7d1fd0002","b5c3287c76c20100b3189b6fdb430000","b5c3287c76c20100b318a19542940001"]},"limit":limit,"offset":offset,
             "searchText":""}
         
         '''payload =     {
