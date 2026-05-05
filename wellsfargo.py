@@ -75,7 +75,7 @@ def scrape_wellsfargo():
             job_id = (job.get("bulletFields",[]))
             role = (job.get("title",[]))
             location = (job.get("locationsText",[]))
-            apply_link = (job.get("externalPath",[]))
+            apply_link = 'https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs' + (job.get("externalPath",[]))
             posting_date = (job.get("postedOn",[]))
             #date_created = (job.get("dateCreated",[]))
             #JobFamily = (job.get("category",[]))
