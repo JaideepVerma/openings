@@ -100,7 +100,7 @@ def scrape_wellsfargo():
                     "responsibilities": 'responsibilities',
                     "qualifications": 'qualifications',
                     "location": location,
-                    "posting_date": (posting_date),
+                    "posting_date": posting_date,
                     "update_date" : 'Null',
                     "apply_link": apply_link
                 })
