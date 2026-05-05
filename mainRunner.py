@@ -6,6 +6,7 @@ import barclays
 import adobe
 import MS
 import mastercard, visa
+import wellsfargo
 
 def safe_run(name, func):
     try:
@@ -23,6 +24,8 @@ def run_all():
     safe_run("Adobe", adobe.main)
     safe_run("MS", MS.main)
     safe_run("MasterCard", mastercard.main)
+    safe_run("wellsfargo", wellsfargo.main)
+    
     # safe_run("Visa", visa.main)
 
 if __name__ == "__main__":
