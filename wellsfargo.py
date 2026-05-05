@@ -5,8 +5,6 @@ from datetime import datetime
 import os
 from datetime import datetime, timezone, timedelta, date, time 
 import re
-
-
 def days_from_posted(text):
     """
     Return integer number of days if 'day' appears, else None.
@@ -15,6 +13,8 @@ def days_from_posted(text):
       'Posted 1 day ago'  -> 1
       'Posted today'      -> 0 (optional handling below)
     """
+    if 'Yesterday' in text:
+        return 1
     if not text:
         return None
     text = text.strip().lower()
@@ -80,14 +80,15 @@ def scrape_wellsfargo():
             #date_created = (job.get("dateCreated",[]))
             #JobFamily = (job.get("category",[]))
             posting_date = days_from_posted(posting_date)
+
             if posting_date == 0:
-                posting_date = str(datetime.combine(date.today(), time()))
+                posting_date = date.today().strftime("%Y-%m-%d") #str(datetime.combine(date.today(), time()))
             else:
-                posting_date = str(date.today() - timedelta(days=posting_date))
+                posting_date = (date.today() - timedelta(days=posting_date)).strftime("%Y-%m-%d")
 
             #print(job_id[0], role,location,apply_link,posting_date)
             
-            #print(get_date(posting_date))
+            print((posting_date))
             all_jobs.append({
                     "company": "Wells Fargo",
                     "industry": 'Financial Services',
@@ -99,7 +100,7 @@ def scrape_wellsfargo():
                     "responsibilities": 'responsibilities',
                     "qualifications": 'qualifications',
                     "location": location,
-                    "posting_date": get_date(posting_date),
+                    "posting_date": (posting_date),
                     "update_date" : 'Null',
                     "apply_link": apply_link
                 })
