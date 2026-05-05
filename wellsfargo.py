@@ -84,7 +84,7 @@ def scrape_wellsfargo():
             if posting_date == 0:
                 posting_date = date.today().strftime("%Y-%m-%d") #str(datetime.combine(date.today(), time()))
             else:
-                posting_date = (date.today() - timedelta(days=posting_date)).strftime("%Y-%m-%d")
+                posting_date = (date.today() - timedelta(days=posting_date)).strftime("%d-%m-%Y")
 
             #print(job_id[0], role,location,apply_link,posting_date)
             
