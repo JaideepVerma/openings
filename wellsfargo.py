@@ -4,6 +4,8 @@ import sqlite3
 from datetime import datetime
 import os
 from datetime import datetime, timezone, timedelta, date, time 
+import re
+
 
 def days_from_posted(text):
     """
