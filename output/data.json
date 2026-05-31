@@ -330,7 +330,22 @@
     "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549796997640"
   },
   {
-    "id": 17,
+    "id": 13,
+    "company": "Barclays",
+    "industry": "Financial Services",
+    "job_id": "90610471840",
+    "role": "Vice President ML Ops Engineer",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida, India",
+    "posting_date": "29-05-2026",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/noida/vice-president-ml-ops-engineer/13015/90610471840"
+  },
+  {
+    "id": 12,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91190338912",
@@ -345,22 +360,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-engineer/13015/91190338912"
   },
   {
-    "id": 13,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "92199687296",
-    "role": "Vice President \u2013 Data & Records Business Partner",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida, India",
-    "posting_date": "28-05-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/vice-president-data-and-records-business-partner/13015/92199687296"
-  },
-  {
-    "id": 21,
+    "id": 17,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "89326253968",
@@ -390,7 +390,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-visualisation-and-bi-reporting/13015/95633292992"
   },
   {
-    "id": 10,
+    "id": 7,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "94437628720",
@@ -405,7 +405,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-analyst/13015/94437628720"
   },
   {
-    "id": 20,
+    "id": 16,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "89434247456",
@@ -420,7 +420,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/lead-data-engineer/13015/89434247456"
   },
   {
-    "id": 14,
+    "id": 9,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92190233904",
@@ -450,7 +450,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/vice-president-data-architect/13015/95536475504"
   },
   {
-    "id": 22,
+    "id": 18,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88792123760",
@@ -465,7 +465,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeller/13015/88792123760"
   },
   {
-    "id": 15,
+    "id": 10,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92042368144",
@@ -495,7 +495,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/95369191120"
   },
   {
-    "id": 23,
+    "id": 19,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88646727872",
@@ -513,21 +513,6 @@
     "id": 4,
     "company": "Barclays",
     "industry": "Financial Services",
-    "job_id": "95298247936",
-    "role": "Banking Product Analytics AVP",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurugram, India",
-    "posting_date": "18-05-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/gurugram/banking-product-analytics-avp/13015/95298247936"
-  },
-  {
-    "id": 5,
-    "company": "Barclays",
-    "industry": "Financial Services",
     "job_id": "95285760064",
     "role": "Decision Analyst",
     "description": "description...",
@@ -540,7 +525,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/decision-analyst/13015/95285760064"
   },
   {
-    "id": 11,
+    "id": 8,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "93499651104",
@@ -555,7 +540,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/ifc-data-data-modeler/13015/93499651104"
   },
   {
-    "id": 24,
+    "id": 20,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "85763142576",
@@ -570,7 +555,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/senior-analytics-manager-vp/13015/85763142576"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95078448208",
@@ -585,22 +570,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/data-modeler-transaction-monitoring-avp/13015/95078448208"
   },
   {
-    "id": 12,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "92298823136",
-    "role": "IFC \u2013 Analytics VP India",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurugram, India; Pune, India",
-    "posting_date": "12-05-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/gurugram/ifc-analytics-vp-india/13015/92298823136"
-  },
-  {
-    "id": 19,
+    "id": 15,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "89623113664",
@@ -615,7 +585,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/tm-analytics-lead/13015/89623113664"
   },
   {
-    "id": 16,
+    "id": 11,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91658602240",
@@ -630,7 +600,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-and-records-governance-analyst/13015/91658602240"
   },
   {
-    "id": 18,
+    "id": 14,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "90416264848",
@@ -645,37 +615,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/90416264848"
   },
   {
-    "id": 7,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "94817767152",
-    "role": "Data & Records Business Partner AVP",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida, India",
-    "posting_date": "06-05-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/data-and-records-business-partner-avp/13015/94817767152"
-  },
-  {
-    "id": 8,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "94727753008",
-    "role": "Data Modeler & Business Analyst - Transaction Monitoring  - AVP",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurugram, India",
-    "posting_date": "04-05-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/gurugram/data-modeler-and-business-analyst-transaction-monitoring-avp/13015/94727753008"
-  },
-  {
-    "id": 9,
+    "id": 6,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "94687910096",
@@ -1593,21 +1533,6 @@
     "id": 13,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-278370",
-    "role": "Senior Software Engineer - Agentic Systems",
-    "description": "We are looking for a Senior Software Engineer to design and build scalable, resilient software systems that orchestrate AI agents and tools within enterprise environments. Join Mastercard to work on innovative solutions that power commerce at a global scale.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "29-05-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-278370"
-  },
-  {
-    "id": 14,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
     "job_id": "R-278687",
     "role": "Manager, Payroll Process Design & Optimization Lead (GBSC People & Capability)",
     "description": "We are looking for a Manager, Payroll Process Design & Optimization Lead to enhance global payroll processes at Mastercard. This role involves designing, optimizing, and improving payroll systems while ensuring compliance and efficiency across regions. Join us in shaping a sustainable economy!",
@@ -1620,7 +1545,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-278687"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-277827",
@@ -1635,7 +1560,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-277827"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-277956",
@@ -1650,7 +1575,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-277956"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-249209",
@@ -1665,7 +1590,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-249209"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-273170",
@@ -1680,7 +1605,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-273170"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-276696",
@@ -1695,7 +1620,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-276696"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-277681",
@@ -1710,7 +1635,82 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-277681"
   },
   {
+    "id": 20,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-278698",
+    "role": "Lead Technical Program Manager",
+    "description": "We are looking for a Lead Technical Program Manager to join our Networks Solutions team at Mastercard. This role involves planning and managing technology projects, focusing on customer experience and cross-functional collaboration. If you are passionate about digital payments and leading diverse teams, we want to hear from you!",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "28-05-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-278698"
+  },
+  {
     "id": 1,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-548471",
+    "role": "Lead Risk Analytics Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "31-05-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Risk-Analytics-Consultant_R-548471"
+  },
+  {
+    "id": 2,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-518748",
+    "role": "Senior Software Engineer-Agile, azure, SQL and .net",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "31-05-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-518748-1"
+  },
+  {
+    "id": 3,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-548443",
+    "role": "Senior Software Engineer - Java,J2EE,  Spring frameworks, AI",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "31-05-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer---Java-J2EE---Spring-frameworks--AI_R-548443"
+  },
+  {
+    "id": 4,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-542801",
+    "role": "Lead Software Engineer - DevSecOps",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "31-05-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer---DevSecOps_R-542801-1"
+  },
+  {
+    "id": 5,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548470",
@@ -1719,13 +1719,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-548470"
   },
   {
-    "id": 2,
+    "id": 6,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548466",
@@ -1734,28 +1734,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-548466"
   },
   {
-    "id": 3,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-537634",
-    "role": "Senior Software Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-537634"
-  },
-  {
-    "id": 4,
+    "id": 7,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548352",
@@ -1764,13 +1749,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-548352"
   },
   {
-    "id": 5,
+    "id": 8,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-543180",
@@ -1779,28 +1764,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer---Workday-Security-Administrator_R-543180-1"
   },
   {
-    "id": 6,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-540437",
-    "role": "Software Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-540437"
-  },
-  {
-    "id": 7,
+    "id": 9,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548413",
@@ -1809,13 +1779,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-548413"
   },
   {
-    "id": 8,
+    "id": 10,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548416",
@@ -1824,13 +1794,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-548416"
   },
   {
-    "id": 9,
+    "id": 11,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-543181",
@@ -1839,13 +1809,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Technology-Business-Services-Consultant_R-543181-1"
   },
   {
-    "id": 10,
+    "id": 12,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-546178",
@@ -1854,13 +1824,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-546178"
   },
   {
-    "id": 11,
+    "id": 13,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544856",
@@ -1869,13 +1839,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-544856"
   },
   {
-    "id": 12,
+    "id": 14,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544655",
@@ -1884,13 +1854,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineer-Java--Kafla--Python-programming--AI_R-544655"
   },
   {
-    "id": 13,
+    "id": 15,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544802",
@@ -1899,13 +1869,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-544802"
   },
   {
-    "id": 14,
+    "id": 16,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-546470",
@@ -1914,13 +1884,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Operations-Engineer_R-546470"
   },
   {
-    "id": 15,
+    "id": 17,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-543186",
@@ -1929,13 +1899,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-543186"
   },
   {
-    "id": 16,
+    "id": 18,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544805",
@@ -1944,13 +1914,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-544805"
   },
   {
-    "id": 17,
+    "id": 19,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-540438",
@@ -1959,13 +1929,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-540438"
   },
   {
-    "id": 18,
+    "id": 20,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544773",
@@ -1974,13 +1944,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-544773-1"
   },
   {
-    "id": 19,
+    "id": 21,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548343",
@@ -1989,13 +1959,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Systems-Operations-Engineer_R-548343"
   },
   {
-    "id": 20,
+    "id": 22,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548451",
@@ -2004,28 +1974,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Data-Management-Analyst_R-548451"
   },
   {
-    "id": 21,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-538976",
-    "role": "Senior Software Engineer (Python and GenAI)",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-538976-1"
-  },
-  {
-    "id": 22,
+    "id": 23,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548063",
@@ -2034,13 +1989,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant---Talent-Management-Product-Team_R-548063"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-543625",
@@ -2049,13 +2004,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer-JAVA--Backend--Spring-Boot--Microservices---GEN-AI_R-543625"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544686",
@@ -2064,13 +2019,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Infrastructure-Engineer_R-544686"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-541347",
@@ -2079,13 +2034,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer-Paltform-support-Application-support_R-541347"
   },
   {
-    "id": 26,
+    "id": 27,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-541326",
@@ -2094,13 +2049,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-541326"
   },
   {
-    "id": 27,
+    "id": 28,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-533376",
@@ -2109,13 +2064,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Information-Security-Engineer_R-533376"
   },
   {
-    "id": 28,
+    "id": 29,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-538040",
@@ -2124,13 +2079,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Information-Security-Engineer_R-538040"
   },
   {
-    "id": 29,
+    "id": 30,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-543223",
@@ -2139,13 +2094,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "29-05-2026",
+    "posting_date": "30-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Senior-Manager_R-543223"
   },
   {
-    "id": 30,
+    "id": 31,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-537068",
@@ -2154,13 +2109,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "28-05-2026",
+    "posting_date": "29-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant_R-537068"
   },
   {
-    "id": 31,
+    "id": 32,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-516316",
@@ -2169,13 +2124,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "28-05-2026",
+    "posting_date": "29-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-516316"
   },
   {
-    "id": 32,
+    "id": 33,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-547278",
@@ -2184,13 +2139,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "28-05-2026",
+    "posting_date": "29-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Product-Management-Director---India-Lead--Finance-_R-547278-1"
   },
   {
-    "id": 33,
+    "id": 34,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-528438",
@@ -2199,13 +2154,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "28-05-2026",
+    "posting_date": "29-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Principal-Engineer---Data-Engineering---GEN-AI_R-528438"
   },
   {
-    "id": 34,
+    "id": 35,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-547382",
@@ -2214,13 +2169,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "27-05-2026",
+    "posting_date": "28-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Risk-Analytics-Consultant_R-547382-1"
   },
   {
-    "id": 35,
+    "id": 36,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-547360",
@@ -2229,13 +2184,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "27-05-2026",
+    "posting_date": "28-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Risk-Analytics-Consultant_R-547360"
   },
   {
-    "id": 36,
+    "id": 37,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-536601",
@@ -2244,13 +2199,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "27-05-2026",
+    "posting_date": "28-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-536601"
   },
   {
-    "id": 37,
+    "id": 38,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544334",
@@ -2259,13 +2214,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "27-05-2026",
+    "posting_date": "28-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Strategy---Planning-Consultant_R-544334"
   },
   {
-    "id": 38,
+    "id": 39,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-543593",
@@ -2274,25 +2229,10 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "27-05-2026",
+    "posting_date": "28-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-543593"
-  },
-  {
-    "id": 39,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-543230",
-    "role": "Quantitative Analytics Specialist",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "27-05-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Specialist_R-543230-1"
   },
   {
     "id": 40,
@@ -2304,7 +2244,7 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "27-05-2026",
+    "posting_date": "28-05-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Database-Engineer_R-546464"
