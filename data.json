@@ -15,7 +15,7 @@
     "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549798106958"
   },
   {
-    "id": 31,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210752139",
@@ -30,7 +30,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752139"
   },
   {
-    "id": 32,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210762181",
@@ -45,7 +45,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762181"
   },
   {
-    "id": 33,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210762184",
@@ -60,7 +60,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762184"
   },
   {
-    "id": 34,
+    "id": 35,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210763823",
@@ -73,21 +73,6 @@
     "job_family": "Product Management",
     "job_function": "Product",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763823"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210704982",
-    "role": "Senior Lead Software Engineer - Java, AWS",
-    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "30-06-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704982"
   },
   {
     "id": 1,
@@ -540,19 +525,19 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763439"
   },
   {
-    "id": 5,
-    "company": "SWIGGY",
-    "industry": "Technology -Ecom",
-    "job_id": "26328",
-    "role": "Manager- Analytics",
-    "description": "description",
-    "responsibilities": "",
-    "qualifications": "",
-    "location": "Bangalore",
-    "posting_date": "2026-06-26T14:46:22.365+0000",
-    "job_family": "Analytics",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
+    "id": 31,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210765245",
+    "role": "Senior Director of Software Engineering - Data Governance, Program Management, AWS",
+    "description": "Direct multiple technical areas, manage the activities of multiple teams, and collaborate across technical domainsnsibly.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "01-07-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765245"
   },
   {
     "id": 2,
@@ -615,7 +600,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "23819",
@@ -945,7 +930,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10462018"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10452416",
@@ -960,7 +945,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10452416"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10452417",
@@ -975,7 +960,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10452417"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10435793",
@@ -990,7 +975,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10435793"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10435796",
@@ -1005,7 +990,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10435796"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10435790",
@@ -1020,7 +1005,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10435790"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10432823",
@@ -1035,7 +1020,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10432823"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10444040",
@@ -1050,7 +1035,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10444040"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10437316",
@@ -1155,7 +1140,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10457073"
   },
   {
-    "id": 20,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10426397",
@@ -1200,7 +1185,22 @@
     "apply_link": "https://amazon.jobs/en/jobs/10455620"
   },
   {
-    "id": 21,
+    "id": 10,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10463643",
+    "role": "Applied Scientist II, Buyer Risk Prevention (BRP)",
+    "description": "Do you want to join an innovative team of scientists applying machine learning and advanced statistical techniques to protect Amazon customers and enable a trusted eCommerce experience? Are you excited about modeling terabytes of data and building state-of-the-art algorithms to solve complex, real-world fraud and risk challenges? Do you enjoy owning end-to-end machine learning problems, directly influencing customer experience and company profitability, while collaborating in a diverse, high-performing team? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right fit for you. We are seeking an Applied Scientist to design, develop, and deploy advanced algorithmic systems that safeguard millions of transactions every day. In this role, you will independently drive model development from problem formulation to production deployment, build scalable ML solutions, and leverage emerging technologies\u2014including Generative AI and LLMs\u2014to enhance fraud detection and next-generation risk prevention systems. Key job responsibilities Own end-to-end development of machine learning models for large-scale risk management systems Analyze large volumes of historical and real-time data to identify fraud patterns and emerging risk trends Design, develop, validate, and deploy innovative models to production environments Apply GenAI/LLM technologies to automate risk evaluation and improve operational efficiency Collaborate closely with software engineering teams to implement scalable, real-time model solutions Partner with operations and business stakeholders to translate risk insights into measurable impact Establish scalable and automated processes for data analysis, model experimentation, validation, and monitoring Track model performance and business metrics; communicate insights clearly to technical and non-technical stakeholders Research and implement novel machine learning and statistical methodologies",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 3+ years of building models for business application experience - PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience - Experience in patents or publications at top-tier peer-reviewed conferences or journals - Experience programming in Java, C++, Python or related language - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "18-06-2026",
+    "job_family": "Applied Science",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10463643"
+  },
+  {
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10442492",
@@ -1215,7 +1215,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10442492"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10422105",
@@ -1230,7 +1230,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10422105"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10449918",
@@ -1245,7 +1245,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10449918"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10427837",
@@ -1260,7 +1260,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10427837"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10427839",
@@ -1275,7 +1275,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10427839"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10427840",
@@ -1290,7 +1290,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10427840"
   },
   {
-    "id": 26,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10445571",
@@ -1305,7 +1305,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10445571"
   },
   {
-    "id": 27,
+    "id": 28,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10424922",
@@ -1320,7 +1320,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10424922"
   },
   {
-    "id": 28,
+    "id": 29,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10421216",
@@ -1335,7 +1335,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10421216"
   },
   {
-    "id": 29,
+    "id": 30,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10436631",
@@ -1350,22 +1350,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10436631"
   },
   {
-    "id": 30,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10426888",
-    "role": "Software Development Engineer, Finance Technology, ATARI",
-    "description": "Do you want to be part of a team building big data and machine learning applications that process and analyze transactions worth billions of dollars a day using the latest technology? Do you want to make a tangible impact measured in terms of millions of dollars saved? In our Finance Technology group, we develop big data and ML systems that scrutinize billions of dollars in transactions from across Amazon's businesses. Our mission is to drive wider adoption of machine learning solutions for finance processes. We build applications utilizing advanced techniques like Generative AI and Large Language Models for fraud detection. On a typical day, you'll collaborate closely with machine learning scientists, fellow software engineers, and finance teams across Amazon. You'll work with massive datasets in the terabytes range, developing robust ML pipelines to process billions in transaction value. We emphasize partnering with our internal customers, so you'll interact directly with them to understand requirements and get feedback. Our team thrives on innovation, and we're open to new approaches. You'll have opportunities to test your ideas in production environments dealing with real financial data and processes. Join us to apply advanced machine learning capabilities that drive efficiencies and insights for Amazon's finance operations at a massive scale. Key job responsibilities In this role, you will participate in all parts of the software development process, from collaborating with customers on design to executing that design in a scalable and extensible way. You will have the opportunity to detect fraudulent transactions/vendors by applying machine learning techniques and help Amazon business every day. A day in the life In a typical day, you will work with fellow software engineers, scientists, and business groups across Amazon Finance Operations. You will work with terabytes of data and develop machine learning pipelines which process billions of dollars. We partner with our customers, so you will meet with them directly to gain direct feedback on your work. Our team and customer are comfortable trying new ideas, so you will test your ideas in the real world. About the team Our team owns big data and machine learning applications and we work with finance operations to prevent, recover, or avoid internal and external theft, fraud, abuse, and waste.",
-    "responsibilities": "responsibilities",
-    "qualifications": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "10-05-2026",
-    "job_family": "Software Development",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10426888"
-  },
-  {
-    "id": 11,
+    "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10440593",
@@ -2160,7 +2145,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/decision-analyst/13015/95050023888"
   },
   {
-    "id": 25,
+    "id": 32,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-552400",
@@ -2175,7 +2160,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Science-Consultant_R-552400"
   },
   {
-    "id": 26,
+    "id": 33,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556131",
@@ -2190,7 +2175,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Risk-Analytics-Consultant_R-556131"
   },
   {
-    "id": 27,
+    "id": 34,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-538532",
@@ -2205,7 +2190,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Systems-Operations-Engineer_R-538532"
   },
   {
-    "id": 28,
+    "id": 35,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-552357",
@@ -2220,7 +2205,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Science-Consultant_R-552357-1"
   },
   {
-    "id": 29,
+    "id": 36,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556383",
@@ -2235,7 +2220,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Risk-Analytics-Consultant_R-556383"
   },
   {
-    "id": 30,
+    "id": 37,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-533028",
@@ -2250,7 +2235,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Vice-President---Lead-Business-Execution-Consultant_R-533028"
   },
   {
-    "id": 31,
+    "id": 38,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-537840",
@@ -2265,7 +2250,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-537840"
   },
   {
-    "id": 32,
+    "id": 39,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-534081",
@@ -2280,7 +2265,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Business-Execution-Consultant_R-534081-1"
   },
   {
-    "id": 33,
+    "id": 40,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-554525",
@@ -2295,112 +2280,112 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Lead-Systems-Operations-Engineer_R-554525"
   },
   {
-    "id": 34,
+    "id": 1,
     "company": "Wells Fargo",
     "industry": "Financial Services",
-    "job_id": "R-555688",
-    "role": "Senior Information Security Engineer-IBM Guardium",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "30-06-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Information-Security-Engineer_R-555688"
-  },
-  {
-    "id": 35,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-516433",
-    "role": "Senior Information Security Engineer - Secure Development Lifecycle Management",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "30-06-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Information-Security-Engineer---Secure-Development-Lifecycle-Management_R-516433"
-  },
-  {
-    "id": 36,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-553746",
-    "role": "Data Science Manager",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "30-06-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Science-Manager_R-553746-1"
-  },
-  {
-    "id": 37,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-552247",
-    "role": "Lead Software Engineer P4",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "30-06-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer-P4_R-552247"
-  },
-  {
-    "id": 38,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-552376",
-    "role": "Business Execution Consultant \u2013 Market Data",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "30-06-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant---Market-Data_R-552376"
-  },
-  {
-    "id": 39,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-534474",
-    "role": "Lead Data Science Consultant",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "30-06-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Data-Science-Consultant_R-534474"
-  },
-  {
-    "id": 40,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-529902",
+    "job_id": "R-554955",
     "role": "Lead Software Engineer",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "30-06-2026",
+    "posting_date": "01-07-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-529902"
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-554955"
   },
   {
-    "id": 1,
+    "id": 2,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-554956",
+    "role": "Senior Database Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "01-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Database-Engineer_R-554956"
+  },
+  {
+    "id": 3,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-542238",
+    "role": "Senior Lead Risk Analytics Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "01-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Lead-Risk-Analytics-Consultant_R-542238"
+  },
+  {
+    "id": 4,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-544679",
+    "role": "Lead Strategy & Planning Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "01-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Strategy---Planning-Consultant_R-544679-1"
+  },
+  {
+    "id": 5,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-538983",
+    "role": "Quantitative Analytics Manager",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "01-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Manager_R-538983"
+  },
+  {
+    "id": 6,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-545823",
+    "role": "Lead Specialty Software Engineer - Full Stack Development",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "01-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Specialty-Software-Engineer_R-545823"
+  },
+  {
+    "id": 7,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-534409",
+    "role": "Senior Business Execution Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "01-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Business-Execution-Consultant_R-534409-1"
+  },
+  {
+    "id": 8,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-536509",
@@ -2415,7 +2400,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Specialty-Software-Engineer---GO-Lang_R-536509"
   },
   {
-    "id": 2,
+    "id": 9,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548380",
@@ -2430,7 +2415,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer_R-548380"
   },
   {
-    "id": 3,
+    "id": 10,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-552269",
@@ -2445,7 +2430,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer_R-552269"
   },
   {
-    "id": 4,
+    "id": 11,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-554902",
@@ -2460,7 +2445,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Infrastructure-Engineer_R-554902"
   },
   {
-    "id": 5,
+    "id": 12,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556881",
@@ -2475,7 +2460,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Risk-Analytics-Consultant_R-556881"
   },
   {
-    "id": 6,
+    "id": 13,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-554302",
@@ -2490,7 +2475,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-engineering-senior-manager-for-Developer-experience-and-insights_R-554302"
   },
   {
-    "id": 7,
+    "id": 14,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-534405",
@@ -2505,7 +2490,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Data-Product-Management-Consultant_R-534405-1"
   },
   {
-    "id": 8,
+    "id": 15,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548812",
@@ -2520,7 +2505,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-548812-1"
   },
   {
-    "id": 9,
+    "id": 16,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-533954",
@@ -2535,7 +2520,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineer_R-533954"
   },
   {
-    "id": 10,
+    "id": 17,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-529512",
@@ -2550,7 +2535,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-529512"
   },
   {
-    "id": 11,
+    "id": 18,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-554853",
@@ -2565,7 +2550,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Network-Engineer_R-554853"
   },
   {
-    "id": 12,
+    "id": 19,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-552224",
@@ -2580,7 +2565,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-552224"
   },
   {
-    "id": 13,
+    "id": 20,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-555995",
@@ -2595,7 +2580,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Analytics-Consultant_R-555995-1"
   },
   {
-    "id": 14,
+    "id": 21,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556087",
@@ -2610,7 +2595,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Analytic-Consultant_R-556087"
   },
   {
-    "id": 15,
+    "id": 22,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-553938",
@@ -2625,7 +2610,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Business-Execution-Consultant_R-553938-1"
   },
   {
-    "id": 16,
+    "id": 23,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-555972",
@@ -2640,7 +2625,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Analytics-Consultant_R-555972"
   },
   {
-    "id": 17,
+    "id": 24,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-554962",
@@ -2655,7 +2640,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Analytics-Consultant_R-554962"
   },
   {
-    "id": 18,
+    "id": 25,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-541347",
@@ -2670,7 +2655,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer-Paltform-support-Application-support_R-541347"
   },
   {
-    "id": 19,
+    "id": 26,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-554520",
@@ -2685,7 +2670,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Systems-Operations-Engineer_R-554520"
   },
   {
-    "id": 20,
+    "id": 27,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544665",
@@ -2700,7 +2685,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Operations-Engineer---L2-Support--UNIX--ITIL--SQL-queries--Autosys--Automation-Scripting--Gen-AI_R-544665-1"
   },
   {
-    "id": 21,
+    "id": 28,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-552886",
@@ -2715,7 +2700,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-552886"
   },
   {
-    "id": 22,
+    "id": 29,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-548366",
@@ -2730,7 +2715,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-548366"
   },
   {
-    "id": 23,
+    "id": 30,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556662",
@@ -2745,7 +2730,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Infrastructure-Engineer_R-556662"
   },
   {
-    "id": 24,
+    "id": 31,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-535392",
