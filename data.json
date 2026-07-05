@@ -1245,21 +1245,6 @@
     "apply_link": "https://amazon.jobs/en/jobs/10442492"
   },
   {
-    "id": 24,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10422105",
-    "role": "Senior Product Manager - Tech, TimeHub",
-    "description": "TimeHub team's charter is to build a world-class product which meets time, attendance and pay computation needs for over 2 Million hourly associates across Amazon businesses. People Technology is the central hub for all Amazon people data. Our product and technology provides the foundation for a multitude of key human resource processes, from on-boarding of tens of thousands of temporary employees during peak holiday season, capturing tiem related events across an associate's day to day activities, to integrating critical employee data to internal and external systems. We implement and build highly secure, global software that allows Amazon to effectively manage the workforce, resulting in a better employee experience and a better bottom line. Key job responsibilities Managing TimeHub roadmap across geographies Responsible for key product areas such as pay calculation Define product requirements and execution strategy for an enterprise product Lead the product life cycle including vision, strategy, roadmap, requirements, user experience, delivery, launch, and support. Work with engineering, research, UX, technical program managers and stakeholders to deliver a successful product Collaborate with Amazon partner tech teams to ensure product re-usability and avoid redundancies. Managing both upwards and downwards communications effectively",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience with feature delivery and tradeoffs of a product - Experience contributing to engineering discussions around technology decisions and strategy related to a product - Experience managing technical products or online services - Experience in representing and advocating for a variety of critical customers and stakeholders during executive-level prioritization and planning - Define product requirements and execution strategy for an enterprise product",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "18-05-2026",
-    "job_family": "Product Management - Technical",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10422105"
-  },
-  {
     "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
@@ -1275,7 +1260,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10449918"
   },
   {
-    "id": 25,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10427837",
@@ -1290,7 +1275,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10427837"
   },
   {
-    "id": 26,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10427839",
@@ -1305,7 +1290,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10427839"
   },
   {
-    "id": 27,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10445571",
@@ -1320,7 +1305,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10445571"
   },
   {
-    "id": 28,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10424922",
@@ -1335,7 +1320,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10424922"
   },
   {
-    "id": 29,
+    "id": 28,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10421216",
@@ -1350,7 +1335,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10421216"
   },
   {
-    "id": 30,
+    "id": 29,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10436631",
@@ -1363,6 +1348,21 @@
     "job_family": "Applied Science",
     "job_function": "Job-Function",
     "apply_link": "https://amazon.jobs/en/jobs/10436631"
+  },
+  {
+    "id": 30,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10426888",
+    "role": "Software Development Engineer, Finance Technology, ATARI",
+    "description": "Do you want to be part of a team building big data and machine learning applications that process and analyze transactions worth billions of dollars a day using the latest technology? Do you want to make a tangible impact measured in terms of millions of dollars saved? In our Finance Technology group, we develop big data and ML systems that scrutinize billions of dollars in transactions from across Amazon's businesses. Our mission is to drive wider adoption of machine learning solutions for finance processes. We build applications utilizing advanced techniques like Generative AI and Large Language Models for fraud detection. On a typical day, you'll collaborate closely with machine learning scientists, fellow software engineers, and finance teams across Amazon. You'll work with massive datasets in the terabytes range, developing robust ML pipelines to process billions in transaction value. We emphasize partnering with our internal customers, so you'll interact directly with them to understand requirements and get feedback. Our team thrives on innovation, and we're open to new approaches. You'll have opportunities to test your ideas in production environments dealing with real financial data and processes. Join us to apply advanced machine learning capabilities that drive efficiencies and insights for Amazon's finance operations at a massive scale. Key job responsibilities In this role, you will participate in all parts of the software development process, from collaborating with customers on design to executing that design in a scalable and extensible way. You will have the opportunity to detect fraudulent transactions/vendors by applying machine learning techniques and help Amazon business every day. A day in the life In a typical day, you will work with fellow software engineers, scientists, and business groups across Amazon Finance Operations. You will work with terabytes of data and develop machine learning pipelines which process billions of dollars. We partner with our customers, so you will meet with them directly to gain direct feedback on your work. Our team and customer are comfortable trying new ideas, so you will test your ideas in the real world. About the team Our team owns big data and machine learning applications and we work with finance operations to prevent, recover, or avoid internal and external theft, fraud, abuse, and waste.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - Experience programming with at least one software programming language",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "10-05-2026",
+    "job_family": "Software Development",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10426888"
   },
   {
     "id": 13,
