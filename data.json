@@ -663,6 +663,36 @@
     "id": 2,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-281265",
+    "role": "Job Profile Associate Analyst, Analytics & Metrics",
+    "description": "We are looking for a detail-oriented Associate Analyst to join our Analytics & Metrics team. In this role, you will design financial controls, drive revenue assurance, and collaborate with cross-functional teams to optimize operational processes. If you thrive in a fast-paced environment and have a passion for data analysis, we want to hear from you!",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "10-07-2026",
+    "job_family": "Project and Program Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281265"
+  },
+  {
+    "id": 3,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281480",
+    "role": "Manager,  Enterprise Operations",
+    "description": "We are looking for a Manager, Enterprise Operations to provide world-class technical support for MasterCard infrastructures and applications. This role involves managing a team, performing data analysis, and ensuring effective communication with customers and vendors.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "10-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281480"
+  },
+  {
+    "id": 4,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-282341",
     "role": "Specialist, Product Management",
     "description": "We are looking for an accomplished Product Specialist to support the delivery and evolution of Business Intelligence products at Mastercard. Join us to empower customers with data-driven insights and enhance business performance through innovative analytics solutions.",
@@ -675,22 +705,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-282341"
   },
   {
-    "id": 3,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-282251",
-    "role": "Lead Project Manager",
-    "description": "We are looking for a Lead Project Manager to join our Global Business Services Center. This role requires strong project management skills and the ability to collaborate across multiple functional areas to drive successful project execution. If you have experience in large-scale initiatives and a consulting mindset, we want to hear from you!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "10-07-2026",
-    "job_family": "Project and Program Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-282251"
-  },
-  {
-    "id": 4,
+    "id": 5,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-259043",
@@ -705,34 +720,19 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-259043"
   },
   {
-    "id": 5,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-281265",
-    "role": "Job Profile Associate Analyst, Analytics & Metrics",
-    "description": "We are looking for a detail-oriented Associate Analyst to join our Analytics & Metrics team. In this role, you will design financial controls, drive revenue assurance, and collaborate with cross-functional teams to optimize operational processes. If you thrive in a fast-paced environment and have a passion for data analysis, we want to hear from you!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "10-07-2026",
-    "job_family": "Project and Program Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281265"
-  },
-  {
     "id": 6,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-281480",
-    "role": "Manager,  Enterprise Operations",
-    "description": "We are looking for a Manager, Enterprise Operations to provide world-class technical support for MasterCard infrastructures and applications. This role involves managing a team, performing data analysis, and ensuring effective communication with customers and vendors.",
+    "job_id": "R-282251",
+    "role": "Lead Project Manager",
+    "description": "We are looking for a Lead Project Manager to join our Global Business Services Center. This role requires strong project management skills and the ability to collaborate across multiple functional areas to drive successful project execution. If you have experience in large-scale initiatives and a consulting mindset, we want to hear from you!",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "10-07-2026",
-    "job_family": "Engineering",
+    "job_family": "Project and Program Management",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281480"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-282251"
   },
   {
     "id": 7,
@@ -753,21 +753,6 @@
     "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-282432",
-    "role": "Senior Software Engineer",
-    "description": "We are looking for an innovative Senior Software Engineer to join our team at Mastercard. In this role, you will design and build full stack web applications and data pipelines, collaborating with cross-functional teams to enhance customer solutions. If you thrive in a fast-paced environment and have a passion for technology, we want to hear from you!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "09-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-282432"
-  },
-  {
-    "id": 9,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
     "job_id": "R-281303",
     "role": "Manager Software Engineering",
     "description": "We are looking for a Manager Software Engineering to lead application development and design support within Digital Consumer Solutions. Join us in delivering exceptional digital solutions for a globally recognized brand.",
@@ -780,22 +765,22 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-281303"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-280875",
-    "role": "Specialist Product Management",
-    "description": "We are looking for a Specialist Product Management to drive go-to-market strategies and manage product offerings across the Asia Pacific region. Join us to leverage your expertise in product management and stakeholder engagement to enhance our core business.",
+    "job_id": "R-282432",
+    "role": "Senior Software Engineer",
+    "description": "We are looking for an innovative Senior Software Engineer to join our team at Mastercard. In this role, you will design and build full stack web applications and data pipelines, collaborating with cross-functional teams to enhance customer solutions. If you thrive in a fast-paced environment and have a passion for technology, we want to hear from you!",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Gurgaon",
+    "location": "Pune",
     "posting_date": "09-07-2026",
-    "job_family": "Product Management",
+    "job_family": "Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-280875"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-282432"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-278536",
@@ -808,6 +793,21 @@
     "job_family": "Engineering",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-278536"
+  },
+  {
+    "id": 11,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-280875",
+    "role": "Specialist Product Management",
+    "description": "We are looking for a Specialist Product Management to drive go-to-market strategies and manage product offerings across the Asia Pacific region. Join us to leverage your expertise in product management and stakeholder engagement to enhance our core business.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "09-07-2026",
+    "job_family": "Product Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-280875"
   },
   {
     "id": 12,
@@ -903,46 +903,76 @@
     "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-275122",
-    "role": "Senior Software Engineer-2",
-    "description": "As a Senior Software Engineer (Java), you will be a hands on technical leader responsible for designing, developing, and scaling high quality software solutions. You will work closely with product, ar...",
+    "job_id": "R-281215",
+    "role": "Director - Product Management",
+    "description": "We are looking for an experienced Director of Product Management to drive product vision and strategy at Mastercard. Join us in leading innovative solutions that empower businesses globally and enhance customer engagement.",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "08-07-2026",
-    "job_family": "Engineering",
+    "job_family": "Product Management",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-275122"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281215"
   },
   {
     "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-278862",
-    "role": "Senior Software Engineer (Java Full stack, Python)",
-    "description": "We are looking for a Senior Software Engineer to deliver AI-driven capabilities across our roadmap. This role involves writing code daily, owning critical components end-to-end, and shipping production-grade AI-enabled services with strong operability, security, scalability, and resiliency.",
+    "job_id": "R-281377",
+    "role": "Director, Data Scientist",
+    "description": "We are looking for a Director, Data Scientist to lead and scale high-impact Data Science initiatives driving Open Finance and AI-led products. Join us to own the end-to-end delivery of production-grade ML/LLM solutions and mentor a high-performing team.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Navi Mumbai",
+    "posting_date": "08-07-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281377"
+  },
+  {
+    "id": 20,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-270378",
+    "role": "Manager, Software Engineering",
+    "description": "Design and develop new, complex technical products from inception to release. Continuously experiment and innovate to develop a high performing engineering team. Experience leading engineering teams a...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "08-07-2026",
     "job_family": "Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-278862"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-270378"
   },
   {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-281227",
-    "role": "Senior Site Reliability Engineer",
-    "description": "We are looking for a Senior Site Reliability Engineer to join our Open Banking SRE team. This role focuses on building and operating cloud-native platforms, ensuring reliability and performance across services. If you have a passion for automation and a strong background in AWS and Kubernetes, we want to hear from you!",
+    "id": 29,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10465563",
+    "role": "Applied Scientist II, RBS Tech",
+    "description": "RBS (Retail Business Services) Tech team works towards enhancing the customer experience (CX) and their trust in product data by providing technologies to find and fix Amazon CX defects at scale. Our platforms help in improving the CX in all phases of customer journey, including selection, discoverability & fulfilment, buying experience and post-buying experience (product quality and customer returns). The team also develops GenAI platforms for automation of Amazon Stores Operations. As a Sciences team in RBS Tech, we focus on foundational ML research and develop scalable state-of-the-art ML solutions to solve the problems covering customer experience (CX) and Selling partner experience (SPX). We work to solve problems related to multi-modal understanding (text and images), task automation through multi-modal LLM Agents, supervised and unsupervised techniques, multi-task learning, multi-label classification, aspect and topic extraction for Customer Anecdote Mining, image and text similarity and retrieval using NLP and Computer Vision for product groupings and identifying duplicate listings in product search results. Key job responsibilities As an Applied Scientist, you will be responsible to design and deploy scalable GenAI, NLP and Computer Vision solutions that will impact the content visible to millions of customer and solve key customer experience issues. You will develop novel LLM, deep learning and statistical techniques for task automation, text processing, image processing, pattern recognition, and anomaly detection problems. You will define the research and experiments strategy with an iterative execution approach to develop AI/ML models and progressively improve the results over time. You will partner with business and engineering teams to identify and solve large and significantly complex problems that require scientific innovation. You will help the team leverage your expertise, by coaching and mentoring. You will contribute to the professional development of colleagues, improving their technical knowledge and the engineering practices. You will independently as well as guide team to file for patents and/or publish research work where opportunities arise. The RBS org deals with problems that are directly related to the selling partners and end customers and the ML team drives resolution to organization level problems. Therefore, the Applied Scientist role will impact the large product strategy, identifies new business opportunities and provides strategic direction which is very exciting.",
     "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Navi Mumbai",
-    "posting_date": "08-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281227"
+    "qualifications": "- PhD, or Master's degree - 1 year of relevant applied research experience with PhD or 3+ years of applied research experience with a Masters\u2019 degree in Electrical Engineering, Computer Science, Computer Engineering, Mathematics, or related field with specialization in Machine Learning, NLP, Computer Vision, Deep Learning, or GenAI related fields. - Should be an expert in either Computer Vision or NLP and have a good understanding of the both. - Excellent communication skills",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "30-06-2026",
+    "job_family": "Applied Science",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10465563"
+  },
+  {
+    "id": 30,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10459297",
+    "role": "Applied Scientist, Trust CX Innovations&AI Policy",
+    "description": "The Trust CX Innovations team is looking for an Applied Scientist with strong background in Generative AI space to build solutions that help in upholding customer trust for Alexa+. As an Applied Scientist in Trust CX innovations, you will be at the forefront of developing innovative solutions to critical challenges in AI trust and privacy. You'll lead research in trust-preserving machine learning techniques. We are working on revolutionizing the way Amazonians work and collaborate. You will help us achieve new heights of productivity through the power of advanced generative AI technologies. Key job responsibilities - Lead research initiatives in generative AI, focusing on LLMs, multimodal models, and frontier AI capabilities - Develop innovative approaches for model optimization, including prompt engineering, few-shot learning, and efficient fine-tuning - Pioneer new methods for AI safety, alignment, and responsible AI development - Design and execute sophisticated experiments to evaluate model performance and behavior - Lead the development of production-ready AI solutions that scale efficiently - Collaborate with product teams to translate research innovations into practical applications - Guide engineering teams in implementing AI models and systems at scale - Author technical papers for top-tier conferences - File patents for novel AI technologies and applications A day in the life You will be working with a group of talented scientists on researching algorithm and running experiments to test scientific proposal/solutions to improve our trust-preserving experiences. This will involve collaboration with partner teams including engineering, PMs, data annotators, and other scientists to discuss data quality, policy, and model development. You work closely with partner teams across Alexa to deliver platform features that require cross-team leadership. About the team Who We Are: Trust CX Innovations is a strategic innovation team within Amazon Devices & Services that focuses on advancing AI technology while prioritizing customer trust and experience. Our team operates at the intersection of artificial intelligence, privacy engineering and customer-centric design. Our Mission: To pioneer trustworthy AI innovations that delight customers while setting new standards for privacy and responsible technology development. We aim to transform how Amazon builds AI products by creating solutions that balance innovation with customer trust.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 3+ years of building models for business application experience - PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience - Experience in patents or publications at top-tier peer-reviewed conferences or journals - Experience programming in Java, C++, Python or related language",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "25-06-2026",
+    "job_family": "Applied Science",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10459297"
   },
   {
     "id": 1,
@@ -993,21 +1023,6 @@
     "id": 4,
     "company": "AMAZON",
     "industry": "FAANG",
-    "job_id": "10471489",
-    "role": "AI Data Associate with English, Artificial General Intelligence Data Services",
-    "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022\tMaintain and follow strict confidentiality as customer privacy is our most important tenet \u2022\tWork with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022\tDeliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022\tDemonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022\tCapable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022\tEye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022\tDemonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022\tAnalyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022\tResponsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022\tDemonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
-    "responsibilities": "responsibilities",
-    "qualifications": "- \u2022\tAn Associate\u2019s Degree or related work experience - \u2022\tC1+ or equivalent fluency in X language (Specify by location and locale) - \u2022\tStrong business writing skills with ability to create reports, proposals, and professional correspondence - \u2022\tAdvanced reading comprehension with ability to analyze complex business documents - \u2022\tDeveloped analytical thinking and structured problem-solving capabilities - \u2022\tStrong ability to interpret and implement detailed instructions across various projects - \u2022\tProficient research skills with experience gathering and synthesizing information from multiple sources - \u2022\tProven attention to detail in managing complex tasks and documents - \u2022\tExperience managing stakeholder relationships across departments - \u2022\tAdvanced proficiency in Microsoft Office Suite and common business applications.",
-    "location": "Chennai, Tamil Nadu, IND",
-    "posting_date": "09-07-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10471489"
-  },
-  {
-    "id": 5,
-    "company": "AMAZON",
-    "industry": "FAANG",
     "job_id": "10471513",
     "role": "AI Data Associate with English, Artificial General Intelligence Data Services",
     "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022\tMaintain and follow strict confidentiality as customer privacy is our most important tenet \u2022\tWork with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022\tDeliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022\tDemonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022\tCapable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022\tEye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022\tDemonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022\tAnalyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022\tResponsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022\tDemonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
@@ -1020,7 +1035,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471513"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471490",
@@ -1035,22 +1050,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471490"
   },
   {
-    "id": 7,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10471507",
-    "role": "AI Data Associate with English, Artificial General Intelligence Data Services",
-    "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022\tMaintain and follow strict confidentiality as customer privacy is our most important tenet \u2022\tWork with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022\tDeliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022\tDemonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022\tCapable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022\tEye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022\tDemonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022\tAnalyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022\tResponsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022\tDemonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
-    "responsibilities": "responsibilities",
-    "qualifications": "- \u2022\tAn Associate\u2019s Degree or related work experience - \u2022\tC1+ or equivalent fluency in X language (Specify by location and locale) - \u2022\tStrong business writing skills with ability to create reports, proposals, and professional correspondence - \u2022\tAdvanced reading comprehension with ability to analyze complex business documents - \u2022\tDeveloped analytical thinking and structured problem-solving capabilities - \u2022\tStrong ability to interpret and implement detailed instructions across various projects - \u2022\tProficient research skills with experience gathering and synthesizing information from multiple sources - \u2022\tProven attention to detail in managing complex tasks and documents - \u2022\tExperience managing stakeholder relationships across departments - \u2022\tAdvanced proficiency in Microsoft Office Suite and common business applications.",
-    "location": "Chennai, Tamil Nadu, IND",
-    "posting_date": "09-07-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10471507"
-  },
-  {
-    "id": 8,
+    "id": 6,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471503",
@@ -1065,7 +1065,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471503"
   },
   {
-    "id": 9,
+    "id": 7,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471501",
@@ -1080,7 +1080,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471501"
   },
   {
-    "id": 10,
+    "id": 8,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471500",
@@ -1095,7 +1095,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471500"
   },
   {
-    "id": 11,
+    "id": 9,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471516",
@@ -1110,7 +1110,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471516"
   },
   {
-    "id": 12,
+    "id": 10,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471515",
@@ -1125,7 +1125,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471515"
   },
   {
-    "id": 13,
+    "id": 11,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471504",
@@ -1140,7 +1140,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471504"
   },
   {
-    "id": 14,
+    "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471502",
@@ -1155,7 +1155,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471502"
   },
   {
-    "id": 15,
+    "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471505",
@@ -1170,7 +1170,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471505"
   },
   {
-    "id": 16,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471509",
@@ -1185,7 +1185,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471509"
   },
   {
-    "id": 17,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471511",
@@ -1200,22 +1200,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471511"
   },
   {
-    "id": 18,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10471512",
-    "role": "AI Data Associate with English, Artificial General Intelligence Data Services",
-    "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022\tMaintain and follow strict confidentiality as customer privacy is our most important tenet \u2022\tWork with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022\tDeliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022\tDemonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022\tCapable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022\tEye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022\tDemonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022\tAnalyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022\tResponsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022\tDemonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
-    "responsibilities": "responsibilities",
-    "qualifications": "- \u2022\tAn Associate\u2019s Degree or related work experience - \u2022\tC1+ or equivalent fluency in X language (Specify by location and locale) - \u2022\tStrong business writing skills with ability to create reports, proposals, and professional correspondence - \u2022\tAdvanced reading comprehension with ability to analyze complex business documents - \u2022\tDeveloped analytical thinking and structured problem-solving capabilities - \u2022\tStrong ability to interpret and implement detailed instructions across various projects - \u2022\tProficient research skills with experience gathering and synthesizing information from multiple sources - \u2022\tProven attention to detail in managing complex tasks and documents - \u2022\tExperience managing stakeholder relationships across departments - \u2022\tAdvanced proficiency in Microsoft Office Suite and common business applications.",
-    "location": "Chennai, Tamil Nadu, IND",
-    "posting_date": "09-07-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10471512"
-  },
-  {
-    "id": 19,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471498",
@@ -1230,7 +1215,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471498"
   },
   {
-    "id": 20,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471497",
@@ -1245,7 +1230,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471497"
   },
   {
-    "id": 21,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471496",
@@ -1260,7 +1245,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471496"
   },
   {
-    "id": 22,
+    "id": 19,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471518",
@@ -1275,7 +1260,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471518"
   },
   {
-    "id": 23,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471520",
@@ -1290,7 +1275,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471520"
   },
   {
-    "id": 24,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471519",
@@ -1305,7 +1290,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471519"
   },
   {
-    "id": 25,
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471514",
@@ -1320,7 +1305,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471514"
   },
   {
-    "id": 26,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10468881",
@@ -1335,7 +1320,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10468881"
   },
   {
-    "id": 27,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10467592",
@@ -1350,7 +1335,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10467592"
   },
   {
-    "id": 28,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10466440",
@@ -1365,7 +1350,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10466440"
   },
   {
-    "id": 29,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10466404",
@@ -1380,7 +1365,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10466404"
   },
   {
-    "id": 30,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10466840",
@@ -1393,6 +1378,21 @@
     "job_family": "Machine Learning Data Operatio",
     "job_function": "Job-Function",
     "apply_link": "https://amazon.jobs/en/jobs/10466840"
+  },
+  {
+    "id": 28,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10466590",
+    "role": "AI Data Associate with English, Artificial General Intelligence Data Services",
+    "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022\tMaintain and follow strict confidentiality as customer privacy is our most important tenet \u2022\tWork with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022\tDeliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022\tDemonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022\tCapable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022\tEye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022\tDemonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022\tAnalyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022\tResponsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022\tDemonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- Speak, write, and read fluently in English - Bachelor's degree or equivalent - Strong business writing skills with ability to create reports, proposals, and professional correspondence - Advanced reading comprehension with ability to analyze complex business documents - Developed analytical thinking and structured problem-solving capabilities - Strong ability to interpret and implement detailed instructions across various projects - Proficient research skills with experience gathering and synthesizing information from multiple sources - Proven attention to detail in managing complex tasks and documents",
+    "location": "Chennai, Tamil Nadu, IND",
+    "posting_date": "03-07-2026",
+    "job_family": "Machine Learning Data Operatio",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10466590"
   },
   {
     "id": 9,
@@ -1548,21 +1548,6 @@
     "id": 1,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R168948",
-    "role": "Software Development Engineer 4",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "10-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R168948-1/apply"
-  },
-  {
-    "id": 2,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R169547",
     "role": "Senior Product Manager",
     "description": "description",
@@ -1575,7 +1560,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--Illustrator-_R169547/apply"
   },
   {
-    "id": 3,
+    "id": 2,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R169600",
@@ -1590,11 +1575,11 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R169600/apply"
   },
   {
-    "id": 4,
+    "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R169965",
-    "role": "Computer Scientist - 1 (Java)",
+    "job_id": "R168948",
+    "role": "Software Development Engineer 4",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -1602,10 +1587,10 @@
     "posting_date": "10-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist---1_R169965-1/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R168948-1/apply"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170192",
@@ -1620,11 +1605,26 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170192-1/apply"
   },
   {
+    "id": 5,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R169965",
+    "role": "Computer Scientist - 1 (Java)",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "10-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist---1_R169965-1/apply"
+  },
+  {
     "id": 6,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R168159",
-    "role": "Software Development Engineer 3 - Native Android",
+    "job_id": "R170103",
+    "role": "Software Development Engineer 3",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -1632,7 +1632,7 @@
     "posting_date": "09-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Native-Android_R168159/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R170103/apply"
   },
   {
     "id": 7,
@@ -1683,8 +1683,8 @@
     "id": 10,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170103",
-    "role": "Software Development Engineer 3",
+    "job_id": "R168159",
+    "role": "Software Development Engineer 3 - Native Android",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -1692,7 +1692,7 @@
     "posting_date": "09-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R170103/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Native-Android_R168159/apply"
   },
   {
     "id": 11,
@@ -1728,36 +1728,6 @@
     "id": 13,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R169538",
-    "role": "Computer Scientist 1",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "08-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-1_R169538/apply"
-  },
-  {
-    "id": 14,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R169558",
-    "role": "Computer Scientist-I",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "08-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I_R169558/apply"
-  },
-  {
-    "id": 15,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R170295",
     "role": "Software Development Engineer.5",
     "description": "description",
@@ -1770,7 +1740,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer5_R170295-1/apply"
   },
   {
-    "id": 16,
+    "id": 14,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170195",
@@ -1785,11 +1755,41 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170195-1/apply"
   },
   {
+    "id": 15,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R169538",
+    "role": "Computer Scientist 1",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "08-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-1_R169538/apply"
+  },
+  {
+    "id": 16,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R169558",
+    "role": "Computer Scientist-I",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "08-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I_R169558/apply"
+  },
+  {
     "id": 17,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R169350",
-    "role": "Computer Scientist II",
+    "job_id": "R166017",
+    "role": "Senior Product Manager",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -1797,14 +1797,14 @@
     "posting_date": "07-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-II_R169350/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Product-Manager_R166017/apply"
   },
   {
     "id": 18,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170088",
-    "role": "Member Technical Staff-II (Java)",
+    "job_id": "R170057",
+    "role": "Computer Scientist",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -1812,13 +1812,13 @@
     "posting_date": "07-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-Technical-Staff-II--Java-_R170088/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R170057/apply"
   },
   {
     "id": 19,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170270",
+    "job_id": "R170251",
     "role": "Computer Scientist I",
     "description": "description",
     "responsibilities": "responsibilities",
@@ -1827,22 +1827,22 @@
     "posting_date": "07-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I_R170270/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I_R170251/apply"
   },
   {
     "id": 20,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170271",
-    "role": "Computer Scientist II",
+    "job_id": "R170260",
+    "role": "Computer Scientist I",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Bangalore",
+    "location": "Noida",
     "posting_date": "07-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170271/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I_R170260/apply"
   },
   {
     "id": 20,
