@@ -1395,7 +1395,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10466590"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "24003",
@@ -1410,7 +1410,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/24003"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "24002",
@@ -1423,6 +1423,21 @@
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/24002"
+  },
+  {
+    "id": 10,
+    "company": "ZS",
+    "industry": "Business Consulting and Services",
+    "job_id": "24306",
+    "role": "Senior Cloud Monitoring Administrator",
+    "description": "description",
+    "responsibilities": "What you'll do: Senior Cloud Monitoring Administrator in the Enterprise will be monitoring and managing IT systems across Windows, Linux, VMware, and Cloud environments. The ideal candidate should have a solid understanding of ITIL processes, strong technical expertise in SolarWinds for infrastructure monitoring, and hand-on with Splunk for log analysis and event correlation. This is a 24x7 support role requiring proactive system monitoring, incident response, and adherence to ITIL-based Incident, Problem, and Change Management processes. Exposure to AWS, TeamCity, and network fundamentals will be considered an added advantage. Monitoring & Incident Management: Act as a SolarWinds Administrator responsible for platform operations, configuration, and monitoring using NPM, SAM, NCM, UNDP, IPAM, and other modules. Manage Solarwinds Application patching. Design, tune, and manage SolarWinds alerts/Reports, thresholds, and notification policies. Monitor end-to-end infrastructure health via SolarWinds dashboards, reports, and real-time views. Perform first-line triage on SolarWinds alerts and take corrective actions to restore services. Manage incident lifecycle following ITIL Incident Management practices. Use Splunk for log analysis, event correlation, and troubleshooting. Identify recurring issues and support Problem Management investigations. Server & OS Administration: Monitor Windows and Linux server health using SolarWinds SAM templates and custom monitors. Perform first-level troubleshooting, including service restarts, log review, and system health checks. Use iDRAC (or equivalent remote access tools) for hardware diagnostics and remote reboot operations. Support scheduled patching and maintenance activities in accordance with Change Management practices. Virtualization & Cloud Support: Monitor VMware ESXi hosts and VMs using SolarWinds Virtualization Manager (VMAN). Perform initial troubleshooting for host connectivity, datastore usage, and VM availability issues. Support AWS Cloud monitoring, performance reviews, and cost analysis as part of hybrid infrastructure operations. Network & Infrastructure Monitoring: Monitor network performance, device availability, and link utilization using SolarWinds Network Performance Monitor (NPM). Understand basic networking concepts such as IP addressing, routing, switching, DNS, and connectivity troubleshooting. Coordinate with network and infrastructure teams for escalations and root cause investigations. ",
+    "qualifications": "What you\u2019ll bring: Comprehensive understanding of the ITIL framework, with hands-on application of Incident, Problem, and Change Management processes. Strong experience with SolarWinds, including infrastructure and network monitoring, alert configuration, and performance optimization. Hands-on with Splunk (SIEM) for advanced log analysis, alert correlation, and event investigation. Solid grasp of network fundamentals, including TCP/IP, routing, switching, DNS, and connectivity troubleshooting. Practical experience in Windows Server and Linux administration, including system monitoring and troubleshooting. Working knowledge of VMware ESXi and vCenter, with the ability to monitor and maintain virtualized environments. Familiarity with remote server management tools such as iDRAC for hardware diagnostics. Strong documentation and communication skills, with experience using ticketing and ITSM tools like ServiceNow or Jira. Ability to work effectively in a 24x7 support and shift-based operational environment. AWS Cloud monitoring and troubleshooting experience, preferred Exposure to CI/CD tools such as TeamCity for automation and reporting, preferred ITIL Foundation Certification, preferred Basic scripting knowledge (e.g., PowerCLI, PowerShell, or Python) for reporting and automation , preferred Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
+    "location": "Pune",
+    "posting_date": "30-06-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/24306"
   },
   {
     "id": 1,
@@ -1443,21 +1458,6 @@
     "id": 2,
     "company": "ZS",
     "industry": "Business Consulting and Services",
-    "job_id": "32706",
-    "role": "Business Technology Solutions Manager",
-    "description": "description",
-    "responsibilities": "As a Business Technology Solutions Manager at ZS, you will be leading large-scale client delivery engagements, managing and expanding existing client relationships, and developing new business opportunities. The candidate must deeply understand ZS\u2019s service offerings and proactively identify and propose new solutions to address client needs. The role also requires strengthening capabilities within the Tech group by leveraging technology and industry expertise to drive growth. What You\u2019ll Do Building and managing client relationships: Actively assess and present ways to serve clients by developing solutions and offerings relevant to that client Generating new business engagements: Drive new business opportunities by identifying and pursuing new leads, creating proposals , facilitate client discussions and presentations to drive new business and client relationships Work with onshore and offshore teams to develop price estimate, plan capacity, coordinate delivery of the end-to-end technology capability (BI Reporting, Analytics, AI, Digital, Big Data, Cloud, MDM) solution, report project status and act as escalation path for clients Ensure technical design is robust and scalable solutions consistent with ZS and industry practices; take advantage of the existing assets and maintaining a balance between architecture requirements and specific client needs. Provide project leadership and direction on one or more projects while maintaining a high-quality level of service; Identify latest technology trends and domain trends to develop ZS POV and drive innovative solutions for our clients. Serve as the single point of contact and advisor for clients to facilitate their business needs and program demands through solutions and services Bridge business and technical teams by being fluent in the language of consulting (business drivers, process), design and technology (systems architecture, data warehousing, report creation) What You\u2019ll Bring Bachelor's/Master's degree with specialization in Computer Science, MIS, IT or another computer related discipline. 10+ years of relevant of hands on IT services or consulting industry experience leading medium-large scale technology solution delivery engagements; Minimum 2 years of experience leading large delivery teams; Extensive experience in data engineering and cloud technologies 4+ years\u2019 experience within a professional service firm is preferred. Ability to own and drive end-to-end project delivery: define the problem, design research, deliver on results Ability to work with cross functional teams, but US and India Ability to own and drive end-to-end project delivery: define the problem, design research, deliver on results Ability to work with cross functional teams, but US and India Fluency in English is required Client-first mentality Intense work ethic Collaborative spirit and problem-solving approac",
-    "qualifications": "h",
-    "location": "Pune",
-    "posting_date": "09-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/32706"
-  },
-  {
-    "id": 3,
-    "company": "ZS",
-    "industry": "Business Consulting and Services",
     "job_id": "62034",
     "role": "Business Technology Solutions Associate Consultant- Anaplan",
     "description": "description",
@@ -1470,7 +1470,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62034"
   },
   {
-    "id": 4,
+    "id": 3,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "62030",
@@ -1485,7 +1485,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62030"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "32711",
@@ -1500,7 +1500,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32711"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "32591",
@@ -1515,7 +1515,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/32591"
   },
   {
-    "id": 7,
+    "id": 6,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "31437",
@@ -1530,7 +1530,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/31437"
   },
   {
-    "id": 8,
+    "id": 7,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "33113",
