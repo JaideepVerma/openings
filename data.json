@@ -48,6 +48,21 @@
     "id": 2,
     "company": "JPMC",
     "industry": "Financial Services",
+    "job_id": "210755207",
+    "role": "Product Manager",
+    "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "14-07-2026",
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755207"
+  },
+  {
+    "id": 3,
+    "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210703420",
     "role": "Software Engineer III",
     "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
@@ -60,7 +75,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703420"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210706730",
@@ -75,7 +90,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706730"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210722037",
@@ -90,7 +105,37 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722037"
   },
   {
-    "id": 5,
+    "id": 6,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210748526",
+    "role": "Lead Software Engineer - Java and AI/ML",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "14-07-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748526"
+  },
+  {
+    "id": 7,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210752143",
+    "role": "Manager of Software Engineering - Java",
+    "description": "Lead software teams to deliver solutions, resolve issues, and ensure work meets compliance, business needs, and industry standards\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "14-07-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752143"
+  },
+  {
+    "id": 8,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210753695",
@@ -105,7 +150,37 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753695"
   },
   {
-    "id": 6,
+    "id": 9,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210755419",
+    "role": "Software Engineer III - Java, Appium, Selenium",
+    "description": "Design, develop, and maintain automated test scripts using industry-standard tools and frameworks",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "14-07-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755419"
+  },
+  {
+    "id": 10,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210757566",
+    "role": "Lead Software Engineer - Java, SpringBoot,Cloud",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "14-07-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757566"
+  },
+  {
+    "id": 11,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210758378",
@@ -120,7 +195,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758378"
   },
   {
-    "id": 7,
+    "id": 12,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210767407",
@@ -135,7 +210,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767407"
   },
   {
-    "id": 8,
+    "id": 13,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210767446",
@@ -150,7 +225,37 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767446"
   },
   {
-    "id": 9,
+    "id": 14,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210769375",
+    "role": "Software Engineer III \u2013 Data Engineering (PostgreSQL, Python, AWS)",
+    "description": "Build research data platform an implement effective large-scale data solutions in a cloud-based environment",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "14-07-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769375"
+  },
+  {
+    "id": 15,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210769602",
+    "role": "Software Engineer II - Python, AI",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Noida, Uttar Pradesh, India",
+    "posting_date": "14-07-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769602"
+  },
+  {
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210769025",
@@ -165,7 +270,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769025"
   },
   {
-    "id": 10,
+    "id": 17,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210740320",
@@ -180,7 +285,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740320"
   },
   {
-    "id": 11,
+    "id": 18,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210766592",
@@ -195,7 +300,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766592"
   },
   {
-    "id": 12,
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210754372",
@@ -210,7 +315,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754372"
   },
   {
-    "id": 13,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210731812",
@@ -225,7 +330,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731812"
   },
   {
-    "id": 14,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210731908",
@@ -240,7 +345,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731908"
   },
   {
-    "id": 15,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210734119",
@@ -255,7 +360,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734119"
   },
   {
-    "id": 16,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210741851",
@@ -270,7 +375,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741851"
   },
   {
-    "id": 17,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210743085",
@@ -285,7 +390,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743085"
   },
   {
-    "id": 18,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210745415",
@@ -300,7 +405,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745415"
   },
   {
-    "id": 19,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210749206",
@@ -315,7 +420,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749206"
   },
   {
-    "id": 20,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210764943",
@@ -330,7 +435,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764943"
   },
   {
-    "id": 21,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210766018",
@@ -345,7 +450,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766018"
   },
   {
-    "id": 22,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210730757",
@@ -360,7 +465,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730757"
   },
   {
-    "id": 23,
+    "id": 30,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733928",
@@ -375,7 +480,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733928"
   },
   {
-    "id": 24,
+    "id": 31,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210735595",
@@ -390,7 +495,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735595"
   },
   {
-    "id": 25,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210742524",
@@ -405,7 +510,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742524"
   },
   {
-    "id": 26,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210742698",
@@ -420,7 +525,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742698"
   },
   {
-    "id": 27,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210758222",
@@ -435,7 +540,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758222"
   },
   {
-    "id": 28,
+    "id": 35,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210754330",
@@ -448,111 +553,6 @@
     "job_family": "Analytics Solutions & Delivery",
     "job_function": "Data & Analytics",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754330"
-  },
-  {
-    "id": 29,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210766133",
-    "role": "Executive Director \u2014 Workforce Analytics Advisory & BI Development",
-    "description": "Lead a workforce analytics team to deliver trusted insights, expand self service reporting, and improve talent outcomes",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "09-07-2026",
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766133"
-  },
-  {
-    "id": 30,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210766874",
-    "role": "Analytics Solutions Associate",
-    "description": "Lead key corporate functions in finance, risk, human resources and marketing to support our business, clients, customers and employees.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "09-07-2026",
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766874"
-  },
-  {
-    "id": 31,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210730300",
-    "role": "Lead Software Engineer- DevOps, Kubernetes, AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "09-07-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730300"
-  },
-  {
-    "id": 32,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210730583",
-    "role": "Director of Software Engineering - Regulatory Capital, Data and Experience",
-    "description": "Lead innovation and deliver solutions as a Director of Software Engineering and primary decision maker for your teams.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "09-07-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730583"
-  },
-  {
-    "id": 33,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210740053",
-    "role": "Manager of Software Engineering - Java",
-    "description": "Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "09-07-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740053"
-  },
-  {
-    "id": 34,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210757556",
-    "role": "Lead Software Engineer - Java, React, AWS",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "09-07-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757556"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210762139",
-    "role": "Software Engineer III - (ADLC , Python)",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "09-07-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762139"
   },
   {
     "id": 1,
@@ -1593,21 +1593,6 @@
     "id": 1,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170270",
-    "role": "Computer Scientist II",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "14-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I_R170270/apply"
-  },
-  {
-    "id": 2,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R170426",
     "role": "Member of Technical Staff II",
     "description": "description",
@@ -1618,6 +1603,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff-II_R170426/apply"
+  },
+  {
+    "id": 2,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170270",
+    "role": "Computer Scientist II",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "14-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I_R170270/apply"
   },
   {
     "id": 3,
@@ -1638,79 +1638,19 @@
     "id": 4,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170474",
-    "role": "Sr Content Strategy Manager, UX Content Strategy",
+    "job_id": "R170192",
+    "role": "Computer Scientist II",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Noida",
+    "location": "Bangalore",
     "posting_date": "13-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Sr-Content-Strategy-Manager--UX-Content-Strategy_R170474/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170192-1/apply"
   },
   {
     "id": 5,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R170262",
-    "role": "Software Development Engineer 4",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "13-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170262/apply"
-  },
-  {
-    "id": 6,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R170339",
-    "role": "Senior Computer Scientist 1",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "13-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist-1_R170339/apply"
-  },
-  {
-    "id": 7,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R169795",
-    "role": "Software Development Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "13-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R169795-1/apply"
-  },
-  {
-    "id": 8,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R170337",
-    "role": "Machine Learning Engineer 2",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "13-07-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-2_R170337/apply"
-  },
-  {
-    "id": 9,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R166975",
@@ -1725,22 +1665,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R166975/apply"
   },
   {
-    "id": 10,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R170192",
-    "role": "Computer Scientist II",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "13-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170192-1/apply"
-  },
-  {
-    "id": 11,
+    "id": 6,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170271",
@@ -1755,22 +1680,82 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170271/apply"
   },
   {
-    "id": 12,
+    "id": 7,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R168948",
+    "job_id": "R170474",
+    "role": "Sr Content Strategy Manager, UX Content Strategy",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "13-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Sr-Content-Strategy-Manager--UX-Content-Strategy_R170474/apply"
+  },
+  {
+    "id": 8,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170262",
     "role": "Software Development Engineer 4",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "10-07-2026",
+    "location": "Noida",
+    "posting_date": "13-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R168948-1/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170262/apply"
   },
   {
-    "id": 13,
+    "id": 9,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170339",
+    "role": "Senior Computer Scientist 1",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "13-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist-1_R170339/apply"
+  },
+  {
+    "id": 10,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R169795",
+    "role": "Software Development Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "13-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R169795-1/apply"
+  },
+  {
+    "id": 11,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170337",
+    "role": "Machine Learning Engineer 2",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "13-07-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-2_R170337/apply"
+  },
+  {
+    "id": 12,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R169547",
@@ -1783,6 +1768,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager--Illustrator-_R169547/apply"
+  },
+  {
+    "id": 13,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R168948",
+    "role": "Software Development Engineer 4",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "10-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R168948-1/apply"
   },
   {
     "id": 14,
@@ -1803,8 +1803,23 @@
     "id": 15,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R168159",
-    "role": "Software Development Engineer 3 - Native Android",
+    "job_id": "R170273",
+    "role": "Software Development Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "09-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R170273/apply"
+  },
+  {
+    "id": 16,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170155",
+    "role": "Software Development Engineer 4",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -1812,10 +1827,10 @@
     "posting_date": "09-07-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Native-Android_R168159/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170155-1/apply"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167941",
@@ -1830,7 +1845,22 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941/apply"
   },
   {
-    "id": 17,
+    "id": 18,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R168159",
+    "role": "Software Development Engineer 3 - Native Android",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "09-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Native-Android_R168159/apply"
+  },
+  {
+    "id": 19,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170276",
@@ -1845,7 +1875,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff-II_R170276/apply"
   },
   {
-    "id": 18,
+    "id": 20,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170301",
@@ -1858,36 +1888,6 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-II_R170301/apply"
-  },
-  {
-    "id": 19,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R170103",
-    "role": "Software Development Engineer 3",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "09-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R170103/apply"
-  },
-  {
-    "id": 20,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R170273",
-    "role": "Software Development Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "09-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R170273/apply"
   },
   {
     "id": 20,
@@ -2223,6 +2223,81 @@
     "id": 1,
     "company": "Wells Fargo",
     "industry": "Financial Services",
+    "job_id": "R-536509",
+    "role": "Lead Specialty Software Engineer - Blockchain",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "14-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Specialty-Software-Engineer---GO-Lang_R-536509"
+  },
+  {
+    "id": 2,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-550741",
+    "role": "Senior Systems Ops Engg -Intune, MEMCM, Power shell, Microsoft Graph",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "14-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Ops-Engg--Intune--MEMCM--Power-shell--Microsoft-Graph_R-550741"
+  },
+  {
+    "id": 3,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-559711",
+    "role": "Senior Data Science Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "14-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Science-Consultant_R-559711"
+  },
+  {
+    "id": 4,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-559707",
+    "role": "Data Science Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "14-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Science-Consultant_R-559707"
+  },
+  {
+    "id": 5,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-559717",
+    "role": "Analytics Manager",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "14-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Analytics-Manager_R-559717"
+  },
+  {
+    "id": 6,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
     "job_id": "R-555634",
     "role": "Principal Engineer - Java Gen AI",
     "description": "description",
@@ -2235,7 +2310,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer---Java-Gen-AI_R-555634-1"
   },
   {
-    "id": 2,
+    "id": 7,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-543185",
@@ -2250,7 +2325,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Systems-Operations-Senior-Manager---Channel-Manager_R-543185"
   },
   {
-    "id": 3,
+    "id": 8,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-557076",
@@ -2265,7 +2340,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-557076"
   },
   {
-    "id": 4,
+    "id": 9,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-534046",
@@ -2280,7 +2355,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Operations-Engineer_R-534046"
   },
   {
-    "id": 5,
+    "id": 10,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-557080",
@@ -2295,7 +2370,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-557080"
   },
   {
-    "id": 6,
+    "id": 11,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-557084",
@@ -2310,7 +2385,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-557084"
   },
   {
-    "id": 7,
+    "id": 12,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559183",
@@ -2325,7 +2400,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Operations-Engineer---L2-Support--UNIX--ITIL--SQL-queries--Autosys--Automation-Scripting--Gen-AI_R-559183"
   },
   {
-    "id": 8,
+    "id": 13,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-557069",
@@ -2340,7 +2415,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-557069"
   },
   {
-    "id": 9,
+    "id": 14,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556096",
@@ -2355,7 +2430,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Information-Security-Engineer_R-556096-1"
   },
   {
-    "id": 10,
+    "id": 15,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-551111",
@@ -2370,7 +2445,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Principle-Engineer-AI_R-551111"
   },
   {
-    "id": 11,
+    "id": 16,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-560210",
@@ -2385,7 +2460,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Systems-Operations-Engineer_R-560210"
   },
   {
-    "id": 12,
+    "id": 17,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-545849",
@@ -2400,7 +2475,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Network-Engineer_R-545849"
   },
   {
-    "id": 13,
+    "id": 18,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-557790",
@@ -2415,7 +2490,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Systems-Operations-Senior-Manager_R-557790"
   },
   {
-    "id": 14,
+    "id": 19,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-560245",
@@ -2430,7 +2505,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-560245"
   },
   {
-    "id": 15,
+    "id": 20,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-558954",
@@ -2445,7 +2520,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Quantitative-Analytics-Specialist_R-558954-1"
   },
   {
-    "id": 16,
+    "id": 21,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-557083",
@@ -2460,7 +2535,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-557083-1"
   },
   {
-    "id": 17,
+    "id": 22,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-560207",
@@ -2475,7 +2550,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer---Java-Backend_R-560207"
   },
   {
-    "id": 18,
+    "id": 23,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544679",
@@ -2490,7 +2565,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Strategy---Planning-Consultant_R-544679-1"
   },
   {
-    "id": 19,
+    "id": 24,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-536220",
@@ -2505,7 +2580,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Data-Product-Management-Consultant_R-536220"
   },
   {
-    "id": 20,
+    "id": 25,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-558816",
@@ -2520,7 +2595,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Scrum-Master_R-558816"
   },
   {
-    "id": 21,
+    "id": 26,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556784",
@@ -2535,7 +2610,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Technology-Business-Systems-Associate_R-556784"
   },
   {
-    "id": 22,
+    "id": 27,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-539875",
@@ -2550,7 +2625,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineer-NET-Full-Stack_R-539875"
   },
   {
-    "id": 23,
+    "id": 28,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559774",
@@ -2565,7 +2640,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Analytic-Consultant-3_R-559774-1"
   },
   {
-    "id": 24,
+    "id": 29,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-560202",
@@ -2580,7 +2655,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer---Java-Backend-Developer_R-560202"
   },
   {
-    "id": 25,
+    "id": 30,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-560200",
@@ -2595,7 +2670,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer---Workday-Integration-and-Prism-Analytics_R-560200"
   },
   {
-    "id": 26,
+    "id": 31,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-530333",
@@ -2610,7 +2685,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-530333"
   },
   {
-    "id": 27,
+    "id": 32,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-551502",
@@ -2625,7 +2700,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Systems-Operations-Engineer_R-551502-1"
   },
   {
-    "id": 28,
+    "id": 33,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-558488",
@@ -2640,7 +2715,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-risk-analytics-consultant_R-558488"
   },
   {
-    "id": 29,
+    "id": 34,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-558822",
@@ -2655,7 +2730,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-558822-1"
   },
   {
-    "id": 30,
+    "id": 35,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-549934",
@@ -2670,7 +2745,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Technology-Business-Systems-Consultant_R-549934"
   },
   {
-    "id": 31,
+    "id": 36,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559464",
@@ -2685,7 +2760,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Analytics-Consultant_R-559464"
   },
   {
-    "id": 32,
+    "id": 37,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-535757",
@@ -2700,7 +2775,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-535757"
   },
   {
-    "id": 33,
+    "id": 38,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559490",
@@ -2715,7 +2790,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-559490"
   },
   {
-    "id": 34,
+    "id": 39,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559481",
@@ -2730,7 +2805,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-559481"
   },
   {
-    "id": 35,
+    "id": 40,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559497",
@@ -2743,80 +2818,5 @@
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-559497"
-  },
-  {
-    "id": 36,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-559487",
-    "role": "Lead Software Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "10-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-559487"
-  },
-  {
-    "id": 37,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-558480",
-    "role": "Lead Risk analytics consultant",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "09-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Risk-analytics-consultant_R-558480"
-  },
-  {
-    "id": 38,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-557793",
-    "role": "Senior Risk Analytics Consultant",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "09-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Risk-Analytics-Consultant_R-557793"
-  },
-  {
-    "id": 39,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-557792",
-    "role": "Senior Risk Analytics Consultant",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "09-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Risk-Analytics-Consultant_R-557792"
-  },
-  {
-    "id": 40,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-557074",
-    "role": "Risk Analytics Consultant",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "09-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Risk-Analytics-Consultant_R-557074"
   }
 ]
