@@ -663,21 +663,6 @@
     "id": 7,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
-    "job_id": "27329",
-    "role": "Senior Business Analyst",
-    "description": "description",
-    "responsibilities": "",
-    "qualifications": "",
-    "location": "Bangalore",
-    "posting_date": "2026-06-11T07:11:57.640+0000",
-    "job_family": "Analytics",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
-  },
-  {
-    "id": 8,
-    "company": "SWIGGY",
-    "industry": "Technology -Ecom",
     "job_id": "26579",
     "role": "Senior Manager - Data Science",
     "description": "description",
@@ -690,7 +675,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "26359",
@@ -705,7 +690,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25591",
@@ -720,7 +705,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25590",
@@ -735,7 +720,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 20,
+    "id": 24,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88792123760",
@@ -750,7 +735,67 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeller/13015/88792123760"
   },
   {
-    "id": 4,
+    "id": 1,
+    "company": "Barclays",
+    "industry": "Financial Services",
+    "job_id": "98217202512",
+    "role": "Data Lineage Analyst",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune, India",
+    "posting_date": "23-07-2026",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/pune/data-lineage-analyst/13015/98217202512"
+  },
+  {
+    "id": 2,
+    "company": "Barclays",
+    "industry": "Financial Services",
+    "job_id": "98217202464",
+    "role": "Analyst - Data and Records Governance \u2013 RCSA and CERPA",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune, India",
+    "posting_date": "23-07-2026",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/pune/analyst-data-and-records-governance-rcsa-and-cerpa/13015/98217202464"
+  },
+  {
+    "id": 3,
+    "company": "Barclays",
+    "industry": "Financial Services",
+    "job_id": "98217193280",
+    "role": "Lead BI Engineer - IDL Technology",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune, India",
+    "posting_date": "23-07-2026",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/pune/lead-bi-engineer-idl-technology/13015/98217193280"
+  },
+  {
+    "id": 17,
+    "company": "Barclays",
+    "industry": "Financial Services",
+    "job_id": "95078448208",
+    "role": "Data Scientist (Banking) \u00a0- AVP",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurugram, India",
+    "posting_date": "23-07-2026",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/gurugram/data-scientist-banking-avp/13015/95078448208"
+  },
+  {
+    "id": 7,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "97909785136",
@@ -765,7 +810,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-analyst-avp/13015/97909785136"
   },
   {
-    "id": 19,
+    "id": 23,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "91870745152",
@@ -780,7 +825,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-scientist/13015/91870745152"
   },
   {
-    "id": 9,
+    "id": 12,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "96816114784",
@@ -795,7 +840,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/vp-data-product-governance-and-ai-ml-enablement-lead/13015/96816114784"
   },
   {
-    "id": 1,
+    "id": 4,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "98136606448",
@@ -810,7 +855,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/group-records-execution-analyst/13015/98136606448"
   },
   {
-    "id": 2,
+    "id": 5,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "98136606352",
@@ -825,7 +870,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/records-management-avp/13015/98136606352"
   },
   {
-    "id": 8,
+    "id": 11,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "97414403472",
@@ -840,7 +885,7 @@
     "apply_link": "https://search.jobs.barclays/job/chennai/enterprise-data-and-governance-analyst/13015/97414403472"
   },
   {
-    "id": 18,
+    "id": 22,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92190233904",
@@ -855,7 +900,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/senior-python-developer/13015/92190233904"
   },
   {
-    "id": 3,
+    "id": 6,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "98095139744",
@@ -870,7 +915,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/assistant-manager/13015/98095139744"
   },
   {
-    "id": 13,
+    "id": 16,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95369191120",
@@ -885,7 +930,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/95369191120"
   },
   {
-    "id": 21,
+    "id": 25,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88646727872",
@@ -900,7 +945,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-engineer/13015/88646727872"
   },
   {
-    "id": 15,
+    "id": 19,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "94817767152",
@@ -915,7 +960,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/data-and-records-business-partner-avp/13015/94817767152"
   },
   {
-    "id": 16,
+    "id": 20,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "94687910096",
@@ -930,7 +975,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/data-scientist-avp-acq-credit-strategy/13015/94687910096"
   },
   {
-    "id": 5,
+    "id": 8,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "97778986544",
@@ -945,7 +990,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/senior-data-analyst/13015/97778986544"
   },
   {
-    "id": 6,
+    "id": 9,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "97732946592",
@@ -960,7 +1005,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/partnership-and-portfolio-analyst/13015/97732946592"
   },
   {
-    "id": 7,
+    "id": 10,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "97732944288",
@@ -975,7 +1020,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/insight-and-automation-vp/13015/97732944288"
   },
   {
-    "id": 10,
+    "id": 13,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "96202498272",
@@ -990,7 +1035,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-analytics-and-bi-engineer-idl-technology/13015/96202498272"
   },
   {
-    "id": 17,
+    "id": 21,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "93104780048",
@@ -1005,7 +1050,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/decision-analyst/13015/93104780048"
   },
   {
-    "id": 11,
+    "id": 14,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95902777408",
@@ -1020,7 +1065,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-scientist-mlops/13015/95902777408"
   },
   {
-    "id": 12,
+    "id": 15,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95633292992",
@@ -1035,7 +1080,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-visualisation-and-bi-reporting/13015/95633292992"
   },
   {
-    "id": 14,
+    "id": 18,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95050023888",
@@ -1353,6 +1398,21 @@
     "id": 1,
     "company": "ZS",
     "industry": "Business Consulting and Services",
+    "job_id": "61879",
+    "role": "Business Technology Solutions Associate Consultant (Data Engineer)",
+    "description": "description",
+    "responsibilities": "Business Technology Solutions Associate Consultant ZS's Business Technology Solutions team leads end-to-end project responsibility across all phases \u2014 discovery, requirements gathering, design, implementation, testing, and operations. This team seeks diverse technology challenges and fosters continuous innovation that benefits individual professional growth while delivering best-in-class technology solutions. The team takes overall ownership of solution delivery, managing operations services, client stakeholder management, business development, project planning, and team management. We are seeking a hands-on and driven Data Engineer Associate Consultant with 3\u20135 years of professional experience to join our Business Technology Solutions \u2013 Supply Chain & Manufacturing team. The successful candidate will bring strong data engineering skills across cloud platforms, Python/PySpark, and SQL, along with the ability to lead a small team of associates in delivering high-quality technical solutions. This is not an individual contributor role \u2014 you will be expected to take ownership of delivery modules, interact directly with clients, and contribute meaningfully to solution design thinking. You will work closely with senior consultants and architects while independently managing your team's and your individual output, timelines, and quality. What you\u2019ll do: Translate business requirements into technical designs and lead hands-on implementation for assigned modules and workstreams. Take ownership of solution quality within your scope \u2014 applying data quality validations, best coding practices, and thorough testing to ensure accurate and actionable business insights. Manage and mentor a small team of associates, distributing tasks, tracking progress, and ensuring consistent delivery against project timelines and quality benchmarks. Serve as a day-to-day point of contact for clients \u2014 participating in status calls, design discussions, and requirement walkthroughs with clarity and professionalism. Work with technical architects and senior team members to validate solution design and implementation approach, escalating risks and blockers proactively. Support the project lead in planning activities including sprint planning, effort estimation, and work breakdown for the team. Guide and contribute to the delivery of key project artifacts \u2013 solution designs, user requirements, technical architecture documents, test cases, deployment plans, and project & operations documentation. Apply SDLC or Agile development methodologies and contribute to continuous team improvement through retrospectives and process feedback. Build and maintain scalable data pipelines, ETL/ELT workflows, and cloud-based data solutions in collaboration with senior engineers and architects. Actively contribute to business problem-solving exercises, bringing technical depth and structured thinking to design decisions. ",
+    "qualifications": "What you\u2019ll bring: Bachelor's or Master's degree in Computer Science, Business Analytics, MIS, or a related technical discipline. 3\u20135 years of hands-on professional experience in data engineering or data management, delivering small to medium-scale technology solutions. Deep expertise in cloud data platforms \u2014 like AWS, Azure, Databricks, and Snowflake \u2014 with strong working knowledge of data lake and data warehouse architectures. Strong proficiency in Python, PySpark, and SQL; capable of writing production-quality code and reviewing the work of junior team members. Solid understanding of RDBMS concepts, big data processing, ETL/ELT design patterns, and data quality frameworks. Demonstrated experience leading a small team or workstream: task distribution, progress tracking, and mentorship of junior associates. Ability to engage directly with clients in day-to-day project delivery interactions \u2013 this will not be an individual contributor role. Experience translating business problems into technical design solutions with a structured, analytical approach. Working knowledge of AI tools (e.g., AI-assisted development, use of LLM-based tooling etc.) Hands-on experience in AI engineering or agentic development (LLM orchestration, RAG pipelines, autonomous agents) is a strong plus. Supply chain or manufacturing domain experience is a plus. Strong verbal and written communication skills \u2013 ability to structure technical ideas clearly for both engineering and business audiences. Ability to simplify complex technical concepts into straightforward frameworks and client-ready presentations or documentations. Comfortable working in a virtual, global team environment and contributing to delivery across multiple concurrent workstreams. Strong analytical and problem-solving skills, including familiarity with algorithms and data structures. Team-first mindset with a coaching orientation \u2013 invested in the growth and development of junior team members. We operate in a hybrid setup and candidate\u2019s in-office presence would be required based on the same. Travel to client sites may also be required. Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach",
+    "location": "Gurugram",
+    "posting_date": "24-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/61879"
+  },
+  {
+    "id": 2,
+    "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "62400",
     "role": "Senior Enterprise Application Administrator",
     "description": "description",
@@ -1365,7 +1425,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62400"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "31437",
@@ -1380,7 +1440,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/31437"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "33769",
@@ -1395,7 +1455,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/33769"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "62237",
@@ -1410,7 +1470,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62237"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "31397",
@@ -1425,7 +1485,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/31397"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "33799",
@@ -1440,7 +1500,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/33799"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "23640",
@@ -1455,7 +1515,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/23640"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "62134",
@@ -1470,7 +1530,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62134"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "62121",
@@ -1485,49 +1545,34 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62121"
   },
   {
-    "id": 10,
-    "company": "ZS",
-    "industry": "Business Consulting and Services",
-    "job_id": "62034",
-    "role": "Business Technology Solutions Associate Consultant- Anaplan",
-    "description": "description",
-    "responsibilities": "What you\u2019ll do: Collaborate with ZS internal teams and client teams to shape and implement high quality technology solutions that address critical business problems Develop a deep understanding of the business problems and effectively translate them into technical designs Lead modules and workstreams within projects while participating in hands on implementation Work with technical architects to validate the technical design and implementation approach Apply appropriate development methodologies and best practices to ensure exceptional client and project team experience Support the project lead in project delivery, including project planning, people management, staffing, and risk mitigation Manage a diverse team with various skill sets while providing mentorship and coaching to junior members Lead task planning and distribution among team members for timely completion of projects with high-quality results Guide the project deliverables such as business case development, solution vision and design, user requirements, prototypes, technical architecture, test cases, deployment plans and operations strategy ",
-    "qualifications": "What you\u2019ll bring: Undertake primary ownership in driving self and team effort across all phases of a project lifecycle Translate business requirements into technical designs and drive team efforts to design, build, and manage Anaplan-based Sales Performance Management (SPM) solutions that solve complex business problems Lead requirements gathering workshops and collaborate with business stakeholders to understand planning, sales operations, incentive compensation, territory, and quota management requirements Design and implement scalable Anaplan solutions supporting Territory Planning, Quota Planning, Incentive Compensation Management, Sales Forecasting, Workforce Planning, and Sales Planning processes Own solution architecture, including model design, dimensional design, security framework, integration architecture, deployment strategy, and governance processes Apply appropriate development methodologies (Agile, Waterfall, Hybrid) and implementation best practices to ensure successful and timely completion of projects Partner with Project Leads and Program Leads in delivering projects and assist with project management responsibilities including project planning, staffing, risk mitigation, and stakeholder communication Lead and mentor a team of 3\u20135 Anaplan developers/model builders, providing technical guidance, design reviews, implementation oversight, and quality assurance Collaborate with global teams and stakeholders to ensure seamless communication, delivery execution, and knowledge sharing Lead task planning and task distribution across team members and ensure timely completion of deliverables with high quality standards Lead project deliverables including solution vision and design, business requirements, user stories, model architecture, integration design, testing strategy, deployment planning, and operational readiness Manage direct and indirect client communications and act as a trusted advisor during solution design and implementation activities Design and implement integrations between Anaplan and enterprise systems such as Salesforce, SAP, Snowflake, Databricks, Azure, AWS, and other enterprise platforms Drive testing activities across SIT, UAT, deployment, and hypercare phases, ensuring alignment between business requirements and delivered functionality Review and optimize Anaplan models for scalability, maintainability, performance, and governance compliance Support business development activities including solution demonstrations, effort estimation, proposal development, staffing strategy, and capability-building initiatives Exhibit continuous improvement and innovation by adopting new technologies, implementation methodologies, and planning frameworks while helping team members do the same Fluency in English Client-first mentality Intense work ethic Collaborative spirit and problem-solving approach Qualification & Experience Bachelor\u2019s/Master\u2019s degree with specialization in Computer Science, MIS, IT, Engineering, Business Analytics, Operations Research, or other related disciplines 4\u20136 years of relevant consulting-industry experience working on medium to large-scale technology solution delivery engagements Master Anaplanner certification is mandatory At least 3 years of hands-on experience implementing Anaplan solutions across Sales Performance Management (SPM), Territory Planning, Quota Planning, Incentive Compensation, Sales Forecasting, Workforce Planning, or related planning use cases Experience leading requirements gathering workshops and translating business requirements into scalable solution designs Strong understanding of solution architecture, model design patterns, integration architecture, security design, and enterprise planning frameworks Demonstrated experience leading teams of 3\u20135 developers/model builders across multiple workstreams and managing delivery quality, timelines, and stakeholder expectations Experience designing and implementing enterprise-scale Anaplan models, including model architecture, dimensional design, ALM, security, and performance optimization Experience building and managing Data Hub architectures and enterprise planning ecosystems Experience integrating Anaplan with Salesforce, SAP, Snowflake, Databricks, Azure, AWS, or similar enterprise platforms Strong understanding of sales planning processes, territory design methodologies, quota allocation processes, incentive compensation management, and forecasting best practices Experience leading implementation, SIT, UAT, deployment, training, and client enablement activities Experience creating solution blueprints, technical specifications, test strategies, deployment plans, and operational support models Prior consulting experience working directly with client stakeholders and business leadership teams Additional Skills: Strong communication skills, both verbal and written, with the ability to structure thoughts logically during discussions and presentations Capability to simplify complex concepts into easily understandable frameworks and presentations Proficiency in working within a virtual global team environment, contributing to the timely delivery of multiple projects Travel to other offices as required to collaborate with clients and internal project teams",
-    "location": "Pune",
-    "posting_date": "07-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/62034"
-  },
-  {
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-281103",
-    "role": "Senior Network Engineer",
-    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281103"
-  },
-  {
-    "id": 2,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-286574",
-    "role": "Lead Data Engineer, Data Engineering",
-    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "job_id": "R-282714",
+    "role": "Lead Enterprise Management Architect (Observability, AIOPS, BMC TSOM, OpenSearch, Elastic/Splunk, VmWare)",
+    "description": "We are looking for a Lead Enterprise Management Architect to design and oversee platform solutions throughout the development life cycle. Join us in shaping innovative solutions that empower businesses and enhance operational efficiency.",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-07-2026",
     "job_family": "AI & Data",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-286574"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-282714"
+  },
+  {
+    "id": 2,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-286432",
+    "role": "Senior Data Engineer, Data Engineering",
+    "description": "We are looking for a Senior Data Engineer to join our team at Mastercard. In this role, you will focus on data ingestion, processing, and analysis to drive actionable insights from complex data sets. Collaborate with cross-functional teams to deliver innovative data-driven solutions that enhance our products and services.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-286432"
   },
   {
     "id": 3,
@@ -1578,36 +1623,6 @@
     "id": 6,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-282714",
-    "role": "Lead Enterprise Management Architect (Observability, AIOPS, BMC TSOM, OpenSearch, Elastic/Splunk, VmWare)",
-    "description": "We are looking for a Lead Enterprise Management Architect to design and oversee platform solutions throughout the development life cycle. Join us in shaping innovative solutions that empower businesses and enhance operational efficiency.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-07-2026",
-    "job_family": "AI & Data",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-282714"
-  },
-  {
-    "id": 7,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-286432",
-    "role": "Senior Data Engineer, Data Engineering",
-    "description": "We are looking for a Senior Data Engineer to join our team at Mastercard. In this role, you will focus on data ingestion, processing, and analysis to drive actionable insights from complex data sets. Collaborate with cross-functional teams to deliver innovative data-driven solutions that enhance our products and services.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-07-2026",
-    "job_family": "AI & Data",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-286432"
-  },
-  {
-    "id": 8,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
     "job_id": "R-282715",
     "role": "Lead Platform Architect (Linux, Virtualisation, VmWare)",
     "description": "We are looking for a Lead Platform Architect to design and oversee VocaLink solutions through all stages of the development life cycle. Join Mastercard and help shape the future of digital payments with your expertise in Linux, Virtualisation, and VMWare.",
@@ -1618,6 +1633,36 @@
     "job_family": "Engineering",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-282715"
+  },
+  {
+    "id": 7,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281103",
+    "role": "Senior Network Engineer",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281103"
+  },
+  {
+    "id": 8,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-286574",
+    "role": "Lead Data Engineer, Data Engineering",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-286574"
   },
   {
     "id": 9,
@@ -1653,6 +1698,141 @@
     "id": 11,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-278781",
+    "role": "Senior Enterprise Operations Engineer-2",
+    "description": "We are looking for a highly skilled L2 Cloud Operations Engineer to operate, scale, and continuously improve enterprise-grade multi-cloud platforms. Join us to ensure platform reliability and drive operational excellence across AWS, Azure, and hybrid environments.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-278781"
+  },
+  {
+    "id": 12,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281100",
+    "role": "Senior Unix Engineer",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281100"
+  },
+  {
+    "id": 13,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281102",
+    "role": "Senior Unix Engineer",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281102"
+  },
+  {
+    "id": 14,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281101",
+    "role": "Senior Unix Engineer",
+    "description": "We are looking for a Senior Unix Engineer to lead the automation and continuous improvement of Unix platforms. This role focuses on infrastructure automation using Ansible and Git, ensuring operational excellence and service availability. Join us to drive innovation in platform engineering!",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281101"
+  },
+  {
+    "id": 15,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281106",
+    "role": "Senior Wintel Engineer",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281106"
+  },
+  {
+    "id": 16,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281107",
+    "role": "Senior Wintel Engineer",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281107"
+  },
+  {
+    "id": 17,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-284453",
+    "role": "Senior Analyst",
+    "description": "We are looking for a Senior Analyst to design and build scalable data pipelines that power analytics products. Join us in ensuring data quality and governance while collaborating with cross-functional teams to drive innovation in data engineering.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-284453"
+  },
+  {
+    "id": 18,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-282717",
+    "role": "Network Architect-2",
+    "description": "We are looking for a skilled Network Architect II to join our team at Mastercard. In this role, you will produce high-level designs for platform infrastructure solutions and maintain the technology roadmap while collaborating with cross-functional teams to ensure compliance with policies and standards.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-282717"
+  },
+  {
+    "id": 19,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-282719",
+    "role": "Platform Architect",
+    "description": "We are looking for a Platform Architect to join our team at Mastercard. In this role, you will produce high-level designs for platform infrastructure solutions and maintain the technology roadmap. If you have in-depth knowledge of Linux and virtualization technologies, we want to hear from you!",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-07-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-282719"
+  },
+  {
+    "id": 20,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-280604",
     "role": "Associate Product Specialist, Product Management",
     "description": "We are looking for passionate and talented professionals to join us as Associate Product Specialists. In this role, you will leverage your analytical skills to drive marketing performance and business outcomes through data-driven insights and innovative solutions.",
@@ -1663,141 +1843,6 @@
     "job_family": "Product Management",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-280604"
-  },
-  {
-    "id": 12,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-281153",
-    "role": "Senior Software Engineer-1",
-    "description": "We are looking for a Senior Software Engineer to join our team at Mastercard. In this role, you will develop AI-driven capabilities, build Java services, and ensure high-quality outputs in a collaborative environment. If you are passionate about technology and innovation, we want to hear from you!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "23-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281153"
-  },
-  {
-    "id": 13,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-286157",
-    "role": "Director, Accounting",
-    "description": "We are looking for a Director of Accounting to lead and oversee the record to report function, ensuring compliance with global standards and driving operational efficiency. Join us to mentor a high-performing team and engage with stakeholders to enhance financial reporting processes.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "23-07-2026",
-    "job_family": "Finance",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-286157"
-  },
-  {
-    "id": 14,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-286180",
-    "role": "Senior Technical Program Manager",
-    "description": "We are looking for a Senior Technical Program Manager to drive transformational change in product delivery at Mastercard. Join us to lead large-scale technical programs, optimize processes, and foster cross-team collaboration in a dynamic environment.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "23-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-286180"
-  },
-  {
-    "id": 15,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-279726",
-    "role": "Data Engineer II-1",
-    "description": "We are looking for a Data Engineer II to support the design, implementation, and maintenance of enterprise ETL processes for data platforms. Join Mastercard's T&L Data Delivery team and contribute to delivering high-value data solutions across multiple clients and industry sectors.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "23-07-2026",
-    "job_family": "AI & Data",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-279726"
-  },
-  {
-    "id": 16,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-271327",
-    "role": "Senior Technical Program Manager-2",
-    "description": "Proactively manages the end-to-end delivery of engineering work though the engineering team and all dependent organizations. Recognize complex designs and propose simplified solutions by working with...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "23-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-271327"
-  },
-  {
-    "id": 17,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-276601",
-    "role": "Vice President - Enterprise Value Quantification (MVQ Program Management & Governance)",
-    "description": "Cross-Functional Collaboration: Work closely with cross-functional teams \u2013 including Product, Sales (Account Management Customer Solutions Center, Services Business Leads), Pricing, Customer Success,...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "23-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-276601"
-  },
-  {
-    "id": 18,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-277785",
-    "role": "Senior Software Engineer",
-    "description": "We are looking for a Senior Software Engineer to design and build Dev Cloud solutions that enhance developer productivity and platform reliability. Join us in creating secure, scalable, and developer-friendly experiences across the organization.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "23-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-277785"
-  },
-  {
-    "id": 19,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-277827",
-    "role": "Lead Software Engineer",
-    "description": "We are looking for a Lead Software Engineer to drive customer experience strategy through innovation and problem-solving. Join Mastercard to work on cutting-edge technologies in a collaborative environment, ensuring high-quality product development and mentoring teams effectively.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "22-07-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-277827"
-  },
-  {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-281377",
-    "role": "Director, Data Scientist",
-    "description": "We are looking for a Director, Data Scientist to lead and scale high-impact Data Science initiatives driving Open Finance and AI-led products. Join us to own the end-to-end delivery of production-grade ML/LLM solutions and mentor a high-performing team.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Navi Mumbai",
-    "posting_date": "22-07-2026",
-    "job_family": "AI & Data",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281377"
   },
   {
     "id": 25,
@@ -1875,21 +1920,6 @@
     "apply_link": "https://amazon.jobs/en/jobs/10459651"
   },
   {
-    "id": 30,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10458636",
-    "role": "Applied Scientist, International Machine Learning",
-    "description": "Do you want to join an innovative team of scientists who use machine learning and statistical techniques to create state-of-the-art solutions for providing better value to Amazon\u2019s customers? Do you want to build and deploy advanced ML systems that help optimize millions of transactions every day? Are you excited by the prospect of analyzing and modeling terabytes of data to solve real-world problems? Do you like to own end-to-end business problems/metrics and directly impact the profitability of the company? Do you like to innovate and simplify? If yes, then you may be a great fit to join the Machine Learning team for India Consumer Businesses. Machine Learning, Big Data and related quantitative sciences have been strategic to Amazon from the early years. Amazon has been a pioneer in areas such as recommendation engines, ecommerce fraud detection and large-scale optimization of fulfillment center operations. As Amazon has rapidly grown and diversified, the opportunity for applying machine learning has exploded. We have a very broad collection of practical problems where machine learning systems can dramatically improve the customer experience, reduce cost, and drive speed and automation. These include product bundle recommendations for millions of products, safeguarding financial transactions across by building the risk models, improving catalog quality via extracting product attribute values from structured/unstructured data for millions of products, enhancing address quality by powering customer suggestions We are developing state-of-the-art machine learning solutions to accelerate the Amazon India growth story. Amazon India is an exciting place to be at for a machine learning practitioner. We have the eagerness of a fresh startup to absorb machine learning solutions, and the scale of a mature firm to help support their development at the same time. As part of the India Machine Learning team, you will get to work alongside brilliant minds motivated to solve real-world machine learning problems that make a difference to millions of our customers. We encourage thought leadership and blue ocean thinking in ML. Key job responsibilities Use machine learning and analytical techniques to create scalable solutions for business problems Analyze and extract relevant information from large amounts of Amazon\u2019s historical business data to help automate and optimize key processes Design, develop, evaluate and deploy, innovative and highly scalable ML models Work closely with software engineering teams to drive real-time model implementations Work closely with business partners to identify problems and propose machine learning solutions Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model maintenance Work proactively with engineering teams and product managers to evangelize new algorithms and drive the implementation of large-scale complex ML models in production Leading projects and mentoring other scientists, engineers in the use of ML techniques About the team International Machine Learning Team is responsible for building novel ML solutions that attack India first (and other Emerging Markets across MENA and LatAm) problems and impact the bottom-line and top-line of India business. Learn more about our team from https://www.amazon.science/working-at-amazon/how-rajeev-rastogis-machine-learning-team-in-india-develops-innovations-for-customers-worldwide",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience programming in Java, C++, Python or related language - Experience with SQL and an RDBMS (e.g., Oracle) or Data Warehouse",
-    "location": "Bengaluru, Karnataka, IND",
-    "posting_date": "24-06-2026",
-    "job_family": "Applied Science",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10458636"
-  },
-  {
     "id": 1,
     "company": "AMAZON",
     "industry": "FAANG",
@@ -1918,6 +1948,21 @@
     "job_family": "Machine Learning Data Operatio",
     "job_function": "Job-Function",
     "apply_link": "https://amazon.jobs/en/jobs/10482215"
+  },
+  {
+    "id": 30,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10475035",
+    "role": "Applied Scientist II, Worldwide Returns & Recommerce - Science ",
+    "description": "Welcome to the Worldwide Returns & ReCommerce team (WWR&R) at Amazon.com. WWR&R is an agile, innovative organization dedicated to \u2018making zero happen\u2019 to benefit our customers, our company, and the environment. Our goal is to achieve the three zeroes: zero cost of returns, zero waste, and zero defects. We do this by developing products and driving truly innovative operational excellence to help customers keep what they buy, recover returned and damaged product value, keep thousands of tons of waste from landfills, and create the best customer returns experience in the world. We have an eye to the future \u2013 we create long-term value at Amazon by focusing not just on the bottom line, but on the planet. We are building the most sustainable re-use channel we can by driving multiple aspects of the Circular Economy for Amazon \u2013 Returns & ReCommerce. Amazon WWR&R is comprised of business, product, operational, program, software engineering and data teams that manage the life of a returned or damaged product from a customer to the warehouse and on to its next best use. Our work is broad and deep: we train machine learning models to automate routing and find signals to optimize re-use; we invent new channels to give products a second life; we develop highly respected product support to help customers love what they buy; we pilot smarter product evaluations; we work from the customer backward to find ways to make the return experience remarkably delightful and easy; and we do it all while scrutinizing our business with laser focus. You will help create everything from customer-facing and vendor-facing websites to the internal software and tools behind the reverse-logistics process. You can develop scalable, high-availability solutions to solve complex and broad business problems. We are a group that has fun at work while driving incredible customer, business, and environmental impact. We are backed by a strong leadership group dedicated to operational excellence that empowers a reasonable work-life balance. As an established, experienced team, we offer the scope and support needed for substantial career growth. Amazon is earth\u2019s most customer-centric company and through WWR&R, the earth is our customer too. Come join us and innovate with the Amazon Worldwide Returns & ReCommerce team! Key job responsibilities * Design, develop, and evaluate highly innovative models for Natural Language Programming (NLP), Large Language Model (LLM), or Large Computer Vision Models. * Use SQL to query and analyze the data. * Use Python, Jupyter notebook, and Pytorch to train/test/deploy ML models. * Use machine learning and analytical techniques to create scalable solutions for business problems. * Research and implement novel machine learning and statistical approaches. * Mentor interns. * Work closely with data & software engineering teams to build model implementations and integrate successful models and algorithms in production systems at very large scale. About the team When a customer returns a package to Amazon, the request and package will be passed through our WWRR machine learning (ML) systems so that we could improve the customer experience, identify return root cause, optimize re-use, and evaluate the returned package. Our problems touch multiple modalities spanning from: textual, categorical, image, to speech data. We operate at large scale and rely on state-of-the-art modeling techniques to power our ML models: XGBoost, BERT, Vision Transformers, Large Language Models.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 2+ years of building models for business application experience - PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience - 3+ years of programming in Java, C++, Python or related language experience - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing - Experience with popular deep learning frameworks such as MxNet and Tensor Flow",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "23-06-2026",
+    "job_family": "Applied Science",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10475035"
   },
   {
     "id": 3,
@@ -2253,109 +2298,19 @@
     "id": 1,
     "company": "Wells Fargo",
     "industry": "Financial Services",
-    "job_id": "R-548063",
-    "role": "Senior Business Execution Consultant - Workday Consultant",
+    "job_id": "R-540167",
+    "role": "Business Execution Consultant",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Bengaluru, India",
+    "location": "Hyderabad, India",
     "posting_date": "24-07-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant---Talent-Management-Product-Team_R-548063"
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant_R-540167-1"
   },
   {
     "id": 2,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-552636",
-    "role": "Software Engineer - Backend Java, Spring Boot, Microservices, Kafka, AI/ML, Gen AI",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "24-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Backend-Java--Spring-Boot--Microservices--Kafka--AI-ML--Gen-AI_R-552636"
-  },
-  {
-    "id": 3,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-535550",
-    "role": "India Head of Chief Data Office, Technology Executive",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "24-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/India-Head-of-Chief-Data-Office--Technology-Executive_R-535550-1"
-  },
-  {
-    "id": 4,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-550741",
-    "role": "Senior Systems Ops Engg -Intune, MEMCM, Power shell, Microsoft Graph",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "24-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Ops-Engg--Intune--MEMCM--Power-shell--Microsoft-Graph_R-550741"
-  },
-  {
-    "id": 5,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-535757",
-    "role": "Senior Software Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "24-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-535757"
-  },
-  {
-    "id": 6,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-562456",
-    "role": "Data Management Analyst",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "24-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Management-Analyst_R-562456"
-  },
-  {
-    "id": 7,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-549934",
-    "role": "Senior Technology Business Systems Consultant",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "24-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Technology-Business-Systems-Consultant_R-549934"
-  },
-  {
-    "id": 8,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-557079",
@@ -2370,7 +2325,112 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-557079-1"
   },
   {
+    "id": 3,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-548063",
+    "role": "Senior Business Execution Consultant - Workday Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "24-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant---Talent-Management-Product-Team_R-548063"
+  },
+  {
+    "id": 4,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-552636",
+    "role": "Software Engineer - Backend Java, Spring Boot, Microservices, Kafka, AI/ML, Gen AI",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "24-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Backend-Java--Spring-Boot--Microservices--Kafka--AI-ML--Gen-AI_R-552636"
+  },
+  {
+    "id": 5,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-535550",
+    "role": "India Head of Chief Data Office, Technology Executive",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "24-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/India-Head-of-Chief-Data-Office--Technology-Executive_R-535550-1"
+  },
+  {
+    "id": 6,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-550741",
+    "role": "Senior Systems Ops Engg -Intune, MEMCM, Power shell, Microsoft Graph",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "24-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Ops-Engg--Intune--MEMCM--Power-shell--Microsoft-Graph_R-550741"
+  },
+  {
+    "id": 7,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-535757",
+    "role": "Senior Software Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "24-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-535757"
+  },
+  {
+    "id": 8,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-562456",
+    "role": "Data Management Analyst",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "24-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Management-Analyst_R-562456"
+  },
+  {
     "id": 9,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-549934",
+    "role": "Senior Technology Business Systems Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "24-07-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Technology-Business-Systems-Consultant_R-549934"
+  },
+  {
+    "id": 10,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-537191",
@@ -2385,7 +2445,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Senior-Manager_R-537191"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-521671",
@@ -2400,7 +2460,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-521671"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-560203",
@@ -2415,7 +2475,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Operations-Engineer_R-560203"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-539345",
@@ -2430,7 +2490,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Architect_R-539345"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562767",
@@ -2445,7 +2505,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-562767"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562766",
@@ -2460,7 +2520,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer_R-562766"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556669",
@@ -2475,7 +2535,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Associate-Manager_R-556669-1"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-519153",
@@ -2490,7 +2550,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Information-Security-Engineer---Application-Security_R-519153"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556784",
@@ -2505,7 +2565,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Technology-Business-Systems-Associate_R-556784"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-561236",
@@ -2520,7 +2580,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-561236"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-551903",
@@ -2535,7 +2595,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Data-Science-Consultant_R-551903-1"
   },
   {
-    "id": 20,
+    "id": 21,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-560219",
@@ -2550,7 +2610,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer---ServiceNow_R-560219"
   },
   {
-    "id": 21,
+    "id": 22,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-523934",
@@ -2565,7 +2625,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Specialty-Software-Engineer---Blockchain-Platform_R-523934"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-553859",
@@ -2580,7 +2640,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Risk-Analytics-Consultant--Senior-Assistant-Vice-President_R-553859"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-561061",
@@ -2595,7 +2655,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Securities-Quantitative-Specialist_R-561061"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562399",
@@ -2610,7 +2670,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Product-Testing-Manager--Business-Execution-Manager-_R-562399-1"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-558164",
@@ -2625,7 +2685,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/GPL-Analytics-Consultant_R-558164-1"
   },
   {
-    "id": 26,
+    "id": 27,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-509358",
@@ -2640,7 +2700,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Quality-Assurance-Analyst_R-509358-1"
   },
   {
-    "id": 27,
+    "id": 28,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559180",
@@ -2655,7 +2715,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Technology-Director--Head-of-Shared-Services-Operations-Technology-for-India---Philippines_R-559180"
   },
   {
-    "id": 28,
+    "id": 29,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562829",
@@ -2670,7 +2730,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Management-Analyst_R-562829"
   },
   {
-    "id": 29,
+    "id": 30,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562855",
@@ -2685,7 +2745,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Management-Associate_R-562855"
   },
   {
-    "id": 30,
+    "id": 31,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562830",
@@ -2700,7 +2760,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Management-Analyst_R-562830"
   },
   {
-    "id": 31,
+    "id": 32,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562832",
@@ -2715,7 +2775,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Management-Analyst_R-562832"
   },
   {
-    "id": 32,
+    "id": 33,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-551502",
@@ -2730,7 +2790,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Systems-Operations-Engineer_R-551502-1"
   },
   {
-    "id": 33,
+    "id": 34,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562046",
@@ -2745,7 +2805,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Systems-Operations-Engineer_R-562046"
   },
   {
-    "id": 34,
+    "id": 35,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562141",
@@ -2760,7 +2820,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/ServiceNow-Lead-Software-Engineer_R-562141"
   },
   {
-    "id": 35,
+    "id": 36,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-546140",
@@ -2775,7 +2835,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Senior-Manager_R-546140"
   },
   {
-    "id": 36,
+    "id": 37,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-545849",
@@ -2790,7 +2850,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Network-Engineer_R-545849"
   },
   {
-    "id": 37,
+    "id": 38,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559840",
@@ -2805,7 +2865,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Technology-Director_R-559840-4"
   },
   {
-    "id": 38,
+    "id": 39,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-562391",
@@ -2820,7 +2880,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineering-Senior-Manager_R-562391"
   },
   {
-    "id": 39,
+    "id": 40,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-561713",
@@ -2833,20 +2893,5 @@
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Specialty-Software-Engineer---Java--E-Trading_R-561713"
-  },
-  {
-    "id": 40,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-537668",
-    "role": "Lead Business Execution Consultant",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "22-07-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Business-Execution-Consultant_R-537668-1"
   }
 ]
