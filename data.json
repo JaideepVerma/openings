@@ -1143,21 +1143,6 @@
     "id": 2,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170874",
-    "role": "Member of Technical Staff - II",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "31-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff---II_R170874-1/apply"
-  },
-  {
-    "id": 3,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R170963",
     "role": "Product Manager 3",
     "description": "description",
@@ -1168,6 +1153,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-3_R170963/apply"
+  },
+  {
+    "id": 3,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170874",
+    "role": "Member of Technical Staff - II",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "31-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff---II_R170874-1/apply"
   },
   {
     "id": 4,
@@ -1278,21 +1278,6 @@
     "id": 11,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170315",
-    "role": "Software Development Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "28-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170315/apply"
-  },
-  {
-    "id": 12,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R170230",
     "role": "Principal Scientist - Adobe Brand Intelligence",
     "description": "description",
@@ -1305,7 +1290,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Scientist---Adobe-Brand-Intelligence_R170230-1/apply"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170356",
@@ -1318,6 +1303,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R170356-1/apply"
+  },
+  {
+    "id": 13,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170315",
+    "role": "Software Development Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "28-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170315/apply"
   },
   {
     "id": 14,
@@ -1338,21 +1338,6 @@
     "id": 15,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170811",
-    "role": "Software Development Engineer 3 - Frontend",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "27-07-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Frontend_R170811/apply"
-  },
-  {
-    "id": 16,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R170641",
     "role": "Senior Computer Scientist (Architect)",
     "description": "description",
@@ -1365,7 +1350,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist--Architect-_R170641/apply"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170676",
@@ -1378,6 +1363,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-II--Full-Stack-_R170676/apply"
+  },
+  {
+    "id": 17,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170811",
+    "role": "Software Development Engineer 3 - Frontend",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "27-07-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Frontend_R170811/apply"
   },
   {
     "id": 18,
@@ -2058,21 +2058,6 @@
     "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
-    "job_id": "10481200",
-    "role": "ML Data Associate, Artificial General Intelligence",
-    "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022 Maintain and follow strict confidentiality as customer privacy is our most important tenet \u2022 Work with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022 Deliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022 Demonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022 Capable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022 Eye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022 Demonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022 Analyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022 Responsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022 Demonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Bachelor's degree or above - Speak, write, and read fluently in Hindi - Work rotating shift schedules and variable days off - Experience in natural language data labeling, data annotation, linguistic annotation or other forms of data markup, or experience in MS Office including Excel",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "22-07-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10481200"
-  },
-  {
-    "id": 14,
-    "company": "AMAZON",
-    "industry": "FAANG",
     "job_id": "10482155",
     "role": "Applied Scientist II, International Machine Learning",
     "description": "Do you want to join an innovative team of scientists who use machine learning and statistical techniques to create state-of-the-art solutions for providing better value to Amazon\u2019s customers? Do you want to build and deploy advanced ML systems that help optimize millions of transactions every day? Are you excited by the prospect of analyzing and modeling terabytes of data to solve real-world problems? Do you like to own end-to-end business problems/metrics and directly impact the profitability of the company? Do you like to innovate and simplify? If yes, then you may be a great fit to join the Machine Learning team for India Consumer Businesses. Machine Learning, Big Data and related quantitative sciences have been strategic to Amazon from the early years. Amazon has been a pioneer in areas such as recommendation engines, ecommerce fraud detection and large-scale optimization of fulfillment center operations. As Amazon has rapidly grown and diversified, the opportunity for applying machine learning has exploded. We have a very broad collection of practical problems where machine learning systems can dramatically improve the customer experience, reduce cost, and drive speed and automation. These include product bundle recommendations for millions of products, safeguarding financial transactions across by building the risk models, improving catalog quality via extracting product attribute values from structured/unstructured data for millions of products, enhancing address quality by powering customer suggestions We are developing state-of-the-art machine learning solutions to accelerate the Amazon India growth story. Amazon India is an exciting place to be at for a machine learning practitioner. We have the eagerness of a fresh startup to absorb machine learning solutions, and the scale of a mature firm to help support their development at the same time. As part of the India Machine Learning team, you will get to work alongside brilliant minds motivated to solve real-world machine learning problems that make a difference to millions of our customers. We encourage thought leadership and blue ocean thinking in ML. Key job responsibilities Use machine learning and analytical techniques to create scalable solutions for business problems Analyze and extract relevant information from large amounts of Amazon\u2019s historical business data to help automate and optimize key processes Design, develop, evaluate and deploy, innovative and highly scalable ML models Work closely with software engineering teams to drive real-time model implementations Work closely with business partners to identify problems and propose machine learning solutions Establish scalable, efficient, automated processes for large scale data analyses, model development, model validation and model maintenance Work proactively with engineering teams and product managers to evangelize new algorithms and drive the implementation of large-scale complex ML models in production Leading projects and mentoring other scientists, engineers in the use of ML techniques About the team International Machine Learning Team is responsible for building novel ML solutions that attack India first (and other Emerging Markets across MENA and LatAm) problems and impact the bottom-line and top-line of India business. Learn more about our team from https://www.amazon.science/working-at-amazon/how-rajeev-rastogis-machine-learning-team-in-india-develops-innovations-for-customers-worldwide",
@@ -2085,7 +2070,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10482155"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10480444",
@@ -2100,7 +2085,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10480444"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10479695",
@@ -2115,7 +2100,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10479695"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10479670",
@@ -2130,7 +2115,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10479670"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10477592",
@@ -2145,7 +2130,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10477592"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10478048",
@@ -2160,7 +2145,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10478048"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10480912",
@@ -2175,7 +2160,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10480912"
   },
   {
-    "id": 21,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10470765",
@@ -2190,7 +2175,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10470765"
   },
   {
-    "id": 22,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471513",
@@ -2205,7 +2190,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471513"
   },
   {
-    "id": 23,
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471503",
@@ -2220,7 +2205,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471503"
   },
   {
-    "id": 24,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471515",
@@ -2235,7 +2220,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471515"
   },
   {
-    "id": 25,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10471509",
@@ -2250,7 +2235,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10471509"
   },
   {
-    "id": 26,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10468881",
@@ -2265,7 +2250,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10468881"
   },
   {
-    "id": 27,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10477892",
@@ -2280,7 +2265,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10477892"
   },
   {
-    "id": 28,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10473135",
@@ -2295,7 +2280,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10473135"
   },
   {
-    "id": 29,
+    "id": 28,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10473133",
@@ -2310,7 +2295,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10473133"
   },
   {
-    "id": 30,
+    "id": 29,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10473134",
@@ -2323,6 +2308,21 @@
     "job_family": "Applied Science",
     "job_function": "Job-Function",
     "apply_link": "https://amazon.jobs/en/jobs/10473134"
+  },
+  {
+    "id": 30,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10468905",
+    "role": "AI Data Associate with Hindi, Artificial General Intelligence",
+    "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022 Maintain and follow strict confidentiality as customer privacy is our most important tenet \u2022 Work with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022 Deliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022 Demonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022 Capable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022 Eye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022 Demonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022 Analyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022 Responsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022 Demonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- Speak, write, and read fluently in Hindi - Bachelor's degree or equivalent - Strong business writing skills with ability to create reports, proposals, and professional correspondence - Advanced reading comprehension with ability to analyze complex business documents - Developed analytical thinking and structured problem-solving capabilities - Strong ability to interpret and implement detailed instructions across various projects - Proficient research skills with experience gathering and synthesizing information from multiple sources - Proven attention to detail in managing complex tasks and documents",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "05-07-2026",
+    "job_family": "Machine Learning Data Operatio",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10468905"
   },
   {
     "id": 2,
