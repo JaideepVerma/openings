@@ -2613,21 +2613,6 @@
     "id": 14,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R169539",
-    "role": "Product Security Engineer 3 (DevOps)",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "06-08-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Security-Engineer-3_R169539/apply"
-  },
-  {
-    "id": 15,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R171043",
     "role": "Principal Product Manager (DSP Advertising)",
     "description": "description",
@@ -2640,7 +2625,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043/apply"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171061",
@@ -2655,7 +2640,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Member-of-Technical-Staff-II_R171061/apply"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171044",
@@ -2670,7 +2655,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist_R171044/apply"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171072",
@@ -2685,7 +2670,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Computer-Scientist_R171072/apply"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170080",
@@ -2700,7 +2685,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Engineer-2_R170080/apply"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170648",
@@ -2713,5 +2698,20 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-2---Full-Stack-Frontend-Heavy--_R170648-1/apply"
+  },
+  {
+    "id": 20,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170861",
+    "role": "Senior Data Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "04-08-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R170861-1/apply"
   }
 ]
