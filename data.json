@@ -3,6 +3,21 @@
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-284560",
+    "role": "Lead Technical Program Manager",
+    "description": "We are looking for a Lead Technical Program Manager to shape the cloud platform for Mastercard\u2019s products. Join us in building innovative solutions that empower people and businesses worldwide.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "17-08-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-284560"
+  },
+  {
+    "id": 2,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-287899",
     "role": "Analyst, Franchise Services",
     "description": "We are looking for an Analyst, Franchise Services to join our team. In this role, you will enhance operational services through process automation and analytics, develop data dashboards, and collaborate with various teams to elevate customer experience. If you have a passion for data and operational efficiency, we want to hear from you!",
@@ -15,34 +30,19 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-287899"
   },
   {
-    "id": 2,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-287827",
-    "role": "Manager Software Engineering",
-    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "17-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-287827"
-  },
-  {
     "id": 3,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-284560",
-    "role": "Lead Technical Program Manager",
-    "description": "We are looking for a Lead Technical Program Manager to shape the cloud platform for Mastercard\u2019s products. Join us in building innovative solutions that empower people and businesses worldwide.",
+    "job_id": "R-276289",
+    "role": "Associate Managing Consultant, Advisors & Consulting Services, Performance Analytics",
+    "description": "Plan, organize, and structure own work and that of junior project delivery consultants to identify effective analysis structures to address client problems and synthesize analyses into relevant findin...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Pune",
+    "location": "Gurgaon",
     "posting_date": "17-08-2026",
-    "job_family": "Engineering",
+    "job_family": "Consulting",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-284560"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-276289"
   },
   {
     "id": 4,
@@ -63,6 +63,21 @@
     "id": 5,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-287827",
+    "role": "Manager Software Engineering",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "17-08-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-287827"
+  },
+  {
+    "id": 6,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-287298",
     "role": "Senior Software Engineer",
     "description": "The engineer will work cross-functionally with development, operations, product, and infrastructure teams to ensure highly available, secure, and resilient services running on Linux-based virtual mach...",
@@ -75,7 +90,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-287298"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-287146",
@@ -90,7 +105,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-287146"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-288316",
@@ -105,7 +120,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-288316"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-288494",
@@ -120,7 +135,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-288494"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-278709",
@@ -133,21 +148,6 @@
     "job_family": "Project and Program Management",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-278709"
-  },
-  {
-    "id": 10,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-276289",
-    "role": "Associate Managing Consultant, Advisors & Consulting Services, Performance Analytics",
-    "description": "Plan, organize, and structure own work and that of junior project delivery consultants to identify effective analysis structures to address client problems and synthesize analyses into relevant findin...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "17-08-2026",
-    "job_family": "Consulting",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-276289"
   },
   {
     "id": 11,
@@ -363,8 +363,8 @@
     "id": 1,
     "company": "Wells Fargo",
     "industry": "Financial Services",
-    "job_id": "R-562151",
-    "role": "Senior Technology Business Systems Consultant",
+    "job_id": "R-569013",
+    "role": "Lead Analytics Consultant",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -372,7 +372,7 @@
     "posting_date": "17-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Technology-Business-Systems-Consultant_R-562151"
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Analytics-Consultant_R-569013"
   },
   {
     "id": 2,
@@ -1413,6 +1413,21 @@
     "id": 3,
     "company": "JPMC",
     "industry": "Financial Services",
+    "job_id": "210781343",
+    "role": "Product Manager - Email Client Apps & Services",
+    "description": "Drive product delivery and AI-enabled capabilities across enterprise collaboration and communication platforms at JPMorganChase.\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "17-08-2026",
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781343"
+  },
+  {
+    "id": 4,
+    "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210711865",
     "role": "Lead Software Engineer - Java Full Stack React",
     "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
@@ -1425,7 +1440,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711865"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210731436",
@@ -1440,7 +1455,22 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731436"
   },
   {
-    "id": 5,
+    "id": 6,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210741302",
+    "role": "Software Engineer III Java AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "17-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741302"
+  },
+  {
+    "id": 7,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210741962",
@@ -1455,7 +1485,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741962"
   },
   {
-    "id": 6,
+    "id": 8,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210741967",
@@ -1470,7 +1500,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741967"
   },
   {
-    "id": 7,
+    "id": 9,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210752165",
@@ -1485,7 +1515,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752165"
   },
   {
-    "id": 8,
+    "id": 10,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210753350",
@@ -1500,7 +1530,37 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753350"
   },
   {
-    "id": 9,
+    "id": 11,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210754105",
+    "role": "Software Engineer III - (Java/Cloud)",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "17-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754105"
+  },
+  {
+    "id": 12,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210761097",
+    "role": "Software Engineer III - Java AWS Kafka",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "17-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761097"
+  },
+  {
+    "id": 13,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210762405",
@@ -1515,7 +1575,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762405"
   },
   {
-    "id": 10,
+    "id": 14,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210764973",
@@ -1530,7 +1590,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764973"
   },
   {
-    "id": 11,
+    "id": 15,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210766103",
@@ -1545,7 +1605,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766103"
   },
   {
-    "id": 12,
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210771025",
@@ -1560,7 +1620,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771025"
   },
   {
-    "id": 13,
+    "id": 17,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210771851",
@@ -1575,7 +1635,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771851"
   },
   {
-    "id": 14,
+    "id": 18,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210773654",
@@ -1590,7 +1650,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773654"
   },
   {
-    "id": 15,
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210775361",
@@ -1605,7 +1665,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775361"
   },
   {
-    "id": 16,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210776694",
@@ -1620,7 +1680,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776694"
   },
   {
-    "id": 17,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778163",
@@ -1635,7 +1695,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778163"
   },
   {
-    "id": 18,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778219",
@@ -1650,7 +1710,22 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778219"
   },
   {
-    "id": 19,
+    "id": 23,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210778546",
+    "role": "Software Engineer III - SDET",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "17-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778546"
+  },
+  {
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778577",
@@ -1665,7 +1740,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778577"
   },
   {
-    "id": 20,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778988",
@@ -1680,7 +1755,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778988"
   },
   {
-    "id": 21,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780433",
@@ -1695,7 +1770,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780433"
   },
   {
-    "id": 22,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210752829",
@@ -1710,7 +1785,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752829"
   },
   {
-    "id": 23,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210771031",
@@ -1725,7 +1800,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771031"
   },
   {
-    "id": 24,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210773275",
@@ -1740,7 +1815,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773275"
   },
   {
-    "id": 25,
+    "id": 30,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210779458",
@@ -1755,7 +1830,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779458"
   },
   {
-    "id": 26,
+    "id": 31,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778576",
@@ -1770,7 +1845,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778576"
   },
   {
-    "id": 27,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210749257",
@@ -1785,7 +1860,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749257"
   },
   {
-    "id": 28,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210752182",
@@ -1800,7 +1875,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752182"
   },
   {
-    "id": 29,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210764998",
@@ -1815,7 +1890,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764998"
   },
   {
-    "id": 30,
+    "id": 35,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210765001",
@@ -1828,81 +1903,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765001"
-  },
-  {
-    "id": 31,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210775756",
-    "role": "Software Engineer III - Java and Kafka",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "14-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775756"
-  },
-  {
-    "id": 32,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210776712",
-    "role": "Lead Software Engineer Java",
-    "description": "Design and deliver cloud native Java services using Spring Boot and modern data and search tools, owning the full software lifecycle.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "14-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776712"
-  },
-  {
-    "id": 33,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210778575",
-    "role": "Lead Software Engineer - Python and AI",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "14-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778575"
-  },
-  {
-    "id": 34,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210768732",
-    "role": "Associate - Data Owner",
-    "description": "As a successful Data Owner Associate in Community & Consumer Banking Finance team, you will be important to the firm\u2019s agenda of enabling the business to drive faster innovation through the use of its data by ensuring that data is clearly documented, of good quality and well-protected. In this role you will be responsible for all data that is created, provisioned, or consumed in one or more business applications, and which may support business objectives, advanced analytics, business operations, and reporting functions. As the subject matter experts to help define and classify data critical to their business area. You will also collaborate with technology and business partners to ensure that required data is consistent with the quality and safety requirements of the business. In support of these functions, you will be responsible for executing processes and procedures that identify, monitor, and mitigate data risks throughout the DGLC in compliance with Firmwide policies and standards.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "13-08-2026",
-    "job_family": "Analytics Solutions & Delivery",
-    "job_function": "Data & Analytics",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768732"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210777129",
-    "role": "Senior Product Associate",
-    "description": "Seeking Product Manager to deliver ICB data to JPMorganChase systems for finance, accounting, treasury, reporting, AML.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "13-08-2026",
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777129"
   },
   {
     "id": 9,
