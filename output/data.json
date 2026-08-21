@@ -3,6 +3,156 @@
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-286777",
+    "role": "Manager, Statutory Centre of Excellence - 3",
+    "description": "The ideal candidate is a self-starter with a finance background in statutory accounting, can build relationships with cross-functional teams, contribute to the finance team and consistently produces e...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "21-08-2026",
+    "job_family": "Finance",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-286777"
+  },
+  {
+    "id": 2,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-286779",
+    "role": "Manager, Statutory Centre of Excellence - 4",
+    "description": "The ideal candidate is a self-starter with a finance background in statutory accounting, can build relationships with cross-functional teams, contribute to the finance team and consistently produces e...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "21-08-2026",
+    "job_family": "Finance",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-286779"
+  },
+  {
+    "id": 3,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-277660",
+    "role": "Senior Specialist, Finance Services",
+    "description": "The Senior Specialist role sits within the GBSC Service Desk Operations team and plays in integral role in managing day to day activities related to our customer service inquiry channels (case managem...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "21-08-2026",
+    "job_family": "Project and Program Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-277660"
+  },
+  {
+    "id": 4,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-286775",
+    "role": "Manager, Statutory Centre of Excellence - 2",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "21-08-2026",
+    "job_family": "Finance",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-286775"
+  },
+  {
+    "id": 5,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281101",
+    "role": "Senior Unix Engineer",
+    "description": "Take on the role of Senior Unix Engineer to drive automation and infrastructure modernisation for Mastercard\u2019s Vocalink Core Unix platforms. Lead Ansible-based platform engineering, manage automation frameworks, and collaborate with cross-functional teams. Ideal for experienced professionals with strong expertise in Unix/Linux administration and automation.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "21-08-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281101"
+  },
+  {
+    "id": 6,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-286776",
+    "role": "Manager, Statutory Centre of Excellence - 6",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "21-08-2026",
+    "job_family": "Finance",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-286776"
+  },
+  {
+    "id": 7,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-288191",
+    "role": "Senior Data Scientist, Business Insights",
+    "description": "This role combines advanced analytics, data science, process intelligence, and data governance to drive strategic decision-making, enable scalable operations, and enhance end-user experiences across e...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "21-08-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-288191"
+  },
+  {
+    "id": 8,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-288599",
+    "role": "Data Engineer II",
+    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "21-08-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-288599"
+  },
+  {
+    "id": 9,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281700",
+    "role": "Software Engineer II",
+    "description": "We are looking for a Software Engineer II to join our dynamic team at Mastercard. In this role, you will contribute to the development and maintenance of innovative payment solutions, ensuring high-quality code and collaborating with cross-functional teams to drive project success.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "21-08-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281700"
+  },
+  {
+    "id": 10,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-288187",
+    "role": "Senior Data Scientist",
+    "description": "We are seeking an experienced Senior Data Scientist to join our Product Data Analytics team. This role involves building end-to-end data-driven solutions and collaborating with multiple business groups to deliver actionable insights. If you are passionate about data and analytics, we want to hear from you!",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "21-08-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-288187"
+  },
+  {
+    "id": 11,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-278536",
     "role": "Senior Software Engineer",
     "description": "We are looking for a highly motivated Senior Software Engineer to design and develop scalable backend systems that power innovative payment experiences globally. Join our team and help shape the future of connected commerce.",
@@ -15,7 +165,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-278536"
   },
   {
-    "id": 2,
+    "id": 12,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-278786",
@@ -30,7 +180,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-278786"
   },
   {
-    "id": 3,
+    "id": 13,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-288305",
@@ -45,7 +195,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-288305"
   },
   {
-    "id": 4,
+    "id": 14,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-262303",
@@ -60,7 +210,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-262303"
   },
   {
-    "id": 5,
+    "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-287993",
@@ -75,7 +225,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-287993"
   },
   {
-    "id": 6,
+    "id": 16,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-276601",
@@ -90,7 +240,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-276601"
   },
   {
-    "id": 7,
+    "id": 17,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-276770",
@@ -105,7 +255,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-276770"
   },
   {
-    "id": 8,
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-280288",
@@ -120,7 +270,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-280288"
   },
   {
-    "id": 9,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-280746",
@@ -135,7 +285,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-280746"
   },
   {
-    "id": 10,
+    "id": 20,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-281391",
@@ -148,156 +298,6 @@
     "job_family": "Engineering",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-281391"
-  },
-  {
-    "id": 11,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-288519",
-    "role": "Senior Technical Program Manager",
-    "description": "This role is responsible for driving large-scale cross-functional programs, aligning engineering, product, data science, and business stakeholders, and ensuring successful delivery of strategic initia...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "20-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-288519"
-  },
-  {
-    "id": 12,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-280352",
-    "role": "Lead Data Engineer",
-    "description": "We are looking for a Lead Data Engineer to design and build next-generation, cloud-native data platforms supporting Mastercard\u2019s global data ecosystem. This role involves leading the development of scalable data pipelines and driving engineering excellence in a collaborative environment.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "20-08-2026",
-    "job_family": "AI & Data",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-280352"
-  },
-  {
-    "id": 13,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-282312",
-    "role": "Senior Reliability Engineer",
-    "description": "Experience in working across development, operations, and product teams to prioritize needs and to build relationships is a must. Support the application CI/CD pipeline for promoting software into hig...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "20-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-282312"
-  },
-  {
-    "id": 14,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-282195",
-    "role": "Software Engineer I",
-    "description": "We are looking for a talented Developer to drive our customer experience strategy forward by consistently innovating and problem-solving. Join Mastercard to deliver high-performing, scalable software solutions for some of the world\u2019s top brands.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "20-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-282195"
-  },
-  {
-    "id": 15,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-279834",
-    "role": "Senior Vice President, Business Finance Center",
-    "description": "We are looking for a dynamic leader to drive Mastercard's Business Finance Center, enhancing financial modeling and analytics capabilities. This role requires extensive FP&A experience and a proven track record in leading diverse teams. Join us in shaping a high-performance culture that fosters innovation and collaboration.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "20-08-2026",
-    "job_family": "Other",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-279834"
-  },
-  {
-    "id": 16,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-281528",
-    "role": "Senior Product Manager - Technical",
-    "description": "We are looking for a Senior Product Manager - Technical to define and deliver scalable technology platforms at Mastercard. This role requires strong experience in technical product management, distributed systems, and stakeholder leadership. Join us to shape the future of digital payments and drive impactful solutions.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "20-08-2026",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281528"
-  },
-  {
-    "id": 17,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-288591",
-    "role": "Senior Data Analyst",
-    "description": "We are looking for a Senior Data Analyst to join our Product Data & Analytics team. This role involves architecting and maintaining data solutions, analyzing data to provide actionable insights, and collaborating with cross-functional teams to drive strategic business decisions. If you are passionate about data and analytics, we want to hear from you!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurgaon",
-    "posting_date": "20-08-2026",
-    "job_family": "AI & Data",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-288591"
-  },
-  {
-    "id": 18,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-286499",
-    "role": "Principal Software Engineer",
-    "description": "We are looking for a Principal Software Engineer to join our Transfer Solutions team at Mastercard. In this role, you will lead the development of innovative payment solutions, coach teams in Lean and Agile practices, and drive performance improvements across multiple teams. Join us in shaping the future of digital payments!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "20-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-286499"
-  },
-  {
-    "id": 19,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-288515",
-    "role": "Senior Software Engineer - 2",
-    "description": "We are looking for a Senior Software Engineer to join our DMP team in Pune. This role involves designing and implementing application logic in Java, mentoring team members, and ensuring high-performance applications through best development practices.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "20-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-288515"
-  },
-  {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-288516",
-    "role": "Software Engineer - 1",
-    "description": "We are looking for a Senior Software Developer to join our DMP team in Pune. This role involves designing and implementing application logic in Java, mentoring team members, and ensuring high performance in applications. If you are passionate about making a difference and preventing fraud, we want to hear from you!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "20-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-288516"
   },
   {
     "id": 2,
@@ -1353,6 +1353,21 @@
     "id": 3,
     "company": "JPMC",
     "industry": "Financial Services",
+    "job_id": "210742383",
+    "role": "Software Engineer II- Java, AWS",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "21-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742383"
+  },
+  {
+    "id": 4,
+    "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210761896",
     "role": "Sr Manager of Software Engineering",
     "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams ",
@@ -1365,7 +1380,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761896"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210767444",
@@ -1380,7 +1395,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767444"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210770973",
@@ -1395,7 +1410,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770973"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210771031",
@@ -1410,7 +1425,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771031"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210773698",
@@ -1425,7 +1440,22 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773698"
   },
   {
-    "id": 8,
+    "id": 9,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210774262",
+    "role": "Lead Software Engineer - Java AWS Kafka",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "21-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774262"
+  },
+  {
+    "id": 10,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210777889",
@@ -1440,7 +1470,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777889"
   },
   {
-    "id": 9,
+    "id": 11,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210779045",
@@ -1455,7 +1485,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779045"
   },
   {
-    "id": 10,
+    "id": 12,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780977",
@@ -1470,7 +1500,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780977"
   },
   {
-    "id": 11,
+    "id": 13,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210783143",
@@ -1485,7 +1515,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783143"
   },
   {
-    "id": 12,
+    "id": 14,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210781342",
@@ -1500,7 +1530,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781342"
   },
   {
-    "id": 13,
+    "id": 15,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780194",
@@ -1515,7 +1545,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780194"
   },
   {
-    "id": 14,
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780548",
@@ -1530,7 +1560,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780548"
   },
   {
-    "id": 15,
+    "id": 17,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210729984",
@@ -1545,7 +1575,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729984"
   },
   {
-    "id": 16,
+    "id": 18,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733981",
@@ -1560,7 +1590,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733981"
   },
   {
-    "id": 17,
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210734119",
@@ -1575,7 +1605,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734119"
   },
   {
-    "id": 18,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210747404",
@@ -1590,7 +1620,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747404"
   },
   {
-    "id": 19,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210748526",
@@ -1605,7 +1635,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748526"
   },
   {
-    "id": 20,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210750125",
@@ -1620,7 +1650,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750125"
   },
   {
-    "id": 21,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210753695",
@@ -1635,7 +1665,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753695"
   },
   {
-    "id": 22,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210754767",
@@ -1650,7 +1680,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754767"
   },
   {
-    "id": 23,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210755708",
@@ -1665,7 +1695,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755708"
   },
   {
-    "id": 24,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210761819",
@@ -1680,7 +1710,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761819"
   },
   {
-    "id": 25,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210770447",
@@ -1695,7 +1725,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770447"
   },
   {
-    "id": 26,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210770681",
@@ -1710,7 +1740,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770681"
   },
   {
-    "id": 27,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210772356",
@@ -1725,7 +1755,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772356"
   },
   {
-    "id": 28,
+    "id": 30,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778789",
@@ -1740,7 +1770,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778789"
   },
   {
-    "id": 29,
+    "id": 31,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778793",
@@ -1755,7 +1785,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778793"
   },
   {
-    "id": 30,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778796",
@@ -1770,7 +1800,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778796"
   },
   {
-    "id": 31,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778799",
@@ -1785,7 +1815,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778799"
   },
   {
-    "id": 32,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210779478",
@@ -1800,7 +1830,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779478"
   },
   {
-    "id": 33,
+    "id": 35,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780543",
@@ -1813,36 +1843,6 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780543"
-  },
-  {
-    "id": 34,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210779992",
-    "role": "Associate - Business Management",
-    "description": "Role Summary\nThis Associate role combines Business Management (BM) / COO-office governance for CIB Tech India. The role will support India-specific firmwide deliverables, ensuring clear ownership, timely delivery, and consistent executive communication. The role will partner closely with functionally aligned Tech leads & other BMs to consolidate centralized executive updates and deliverables across events and building/seating management, while also shaping portfolio governance process and dashboarding to align with the global BM lead. The role will also support leadership effectiveness through facilitating leadership team meetings and offsites, and enabling senior leaders with talent enablement activities and executive preparation/materials.\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "19-08-2026",
-    "job_family": "Business Management",
-    "job_function": "Finance",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779992"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210718313",
-    "role": "Senior Lead Software Engineer - Java, Kafka, Cloud",
-    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "19-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718313"
   },
   {
     "id": 24,
