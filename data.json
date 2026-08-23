@@ -1398,21 +1398,6 @@
     "id": 6,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210771031",
-    "role": "Software Engineer III - Java Full Stack Developer + React",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "21-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771031"
-  },
-  {
-    "id": 7,
-    "company": "JPMC",
-    "industry": "Financial Services",
     "job_id": "210773698",
     "role": "Software Engineer II - Java FullStack, React and AWS",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
@@ -1425,7 +1410,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773698"
   },
   {
-    "id": 8,
+    "id": 7,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210774262",
@@ -1440,7 +1425,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774262"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210774504",
@@ -1455,7 +1440,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774504"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210777290",
@@ -1470,7 +1455,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777290"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210777299",
@@ -1485,7 +1470,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777299"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210777889",
@@ -1500,7 +1485,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777889"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210779045",
@@ -1515,7 +1500,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779045"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780977",
@@ -1530,7 +1515,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780977"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210783143",
@@ -1545,7 +1530,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783143"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210781342",
@@ -1560,7 +1545,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781342"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780194",
@@ -1575,7 +1560,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780194"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780548",
@@ -1590,22 +1575,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780548"
   },
   {
-    "id": 19,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210729984",
-    "role": "Lead Software Engineer - Salesforce",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "20-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729984"
-  },
-  {
-    "id": 20,
+    "id": 18,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210748526",
@@ -1620,7 +1590,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748526"
   },
   {
-    "id": 21,
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210750125",
@@ -1635,22 +1605,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750125"
   },
   {
-    "id": 22,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210753695",
-    "role": "Lead Software Engineer - Java, SpringBoot, AWS",
-    "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "20-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753695"
-  },
-  {
-    "id": 23,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210754767",
@@ -1665,7 +1620,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754767"
   },
   {
-    "id": 24,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210761819",
@@ -1680,7 +1635,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761819"
   },
   {
-    "id": 25,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210770447",
@@ -1695,7 +1650,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770447"
   },
   {
-    "id": 26,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210772356",
@@ -1710,7 +1665,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772356"
   },
   {
-    "id": 27,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778789",
@@ -1725,7 +1680,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778789"
   },
   {
-    "id": 28,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778793",
@@ -1740,7 +1695,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778793"
   },
   {
-    "id": 29,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778796",
@@ -1755,7 +1710,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778796"
   },
   {
-    "id": 30,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778799",
@@ -1770,7 +1725,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778799"
   },
   {
-    "id": 31,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210779478",
@@ -1785,7 +1740,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779478"
   },
   {
-    "id": 32,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210779992",
@@ -1800,7 +1755,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779992"
   },
   {
-    "id": 33,
+    "id": 30,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210718313",
@@ -1815,7 +1770,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718313"
   },
   {
-    "id": 34,
+    "id": 31,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733010",
@@ -1830,7 +1785,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733010"
   },
   {
-    "id": 35,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210737125",
@@ -1843,6 +1798,51 @@
     "job_family": "Software Engineering",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737125"
+  },
+  {
+    "id": 33,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210737727",
+    "role": "Lead Software Engineer - iOS Developer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "19-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737727"
+  },
+  {
+    "id": 34,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210741402",
+    "role": "Oracle HCM Functional Consultant with ORC Module  (Infrastructure Engineer II)",
+    "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "19-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741402"
+  },
+  {
+    "id": 35,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210745447",
+    "role": "Lead Software Engineer \u2013 DevOps/SRE/AWS/EKS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "19-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745447"
   },
   {
     "id": 25,
