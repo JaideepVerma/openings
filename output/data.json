@@ -1293,6 +1293,21 @@
     "id": 1,
     "company": "JPMC",
     "industry": "Financial Services",
+    "job_id": "210774768",
+    "role": "Vice President - Product Owner Managed Solutions",
+    "description": "Lead platform modernization for analytics, automated testing, and observability to deliver AI-ready, resilient enterprise capabilities.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "25-08-2026",
+    "job_family": "Product Management",
+    "job_function": "Product",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774768"
+  },
+  {
+    "id": 2,
+    "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210783031",
     "role": "Product Manager",
     "description": "Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics",
@@ -1305,7 +1320,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210714912",
@@ -1320,7 +1335,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210714912"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210733981",
@@ -1335,7 +1350,37 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733981"
   },
   {
-    "id": 4,
+    "id": 5,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210747566",
+    "role": "Lead Software Engineer - Java , AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "25-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747566"
+  },
+  {
+    "id": 6,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210760455",
+    "role": "Sr Lead Software Engineer - Java",
+    "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "25-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760455"
+  },
+  {
+    "id": 7,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778568",
@@ -1350,7 +1395,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778568"
   },
   {
-    "id": 5,
+    "id": 8,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778800",
@@ -1365,7 +1410,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778800"
   },
   {
-    "id": 6,
+    "id": 9,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210779625",
@@ -1380,7 +1425,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779625"
   },
   {
-    "id": 7,
+    "id": 10,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780421",
@@ -1395,7 +1440,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780421"
   },
   {
-    "id": 8,
+    "id": 11,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210781399",
@@ -1410,7 +1455,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781399"
   },
   {
-    "id": 9,
+    "id": 12,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210781913",
@@ -1425,7 +1470,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781913"
   },
   {
-    "id": 10,
+    "id": 13,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210782480",
@@ -1440,7 +1485,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782480"
   },
   {
-    "id": 11,
+    "id": 14,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210783486",
@@ -1455,7 +1500,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783486"
   },
   {
-    "id": 12,
+    "id": 15,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210783948",
@@ -1470,7 +1515,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783948"
   },
   {
-    "id": 13,
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210766494",
@@ -1485,7 +1530,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766494"
   },
   {
-    "id": 14,
+    "id": 17,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210775707",
@@ -1500,7 +1545,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775707"
   },
   {
-    "id": 15,
+    "id": 18,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210777146",
@@ -1515,7 +1560,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777146"
   },
   {
-    "id": 16,
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780474",
@@ -1530,7 +1575,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780474"
   },
   {
-    "id": 17,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210764427",
@@ -1545,22 +1590,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764427"
   },
   {
-    "id": 18,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210770967",
-    "role": "Product Manager",
-    "description": "Lead product strategy, roadmap, and delivery to launch scalable solutions and improve client experiences on a global platform.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "24-08-2026",
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770967"
-  },
-  {
-    "id": 19,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210776237",
@@ -1575,7 +1605,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776237"
   },
   {
-    "id": 20,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210781985",
@@ -1590,7 +1620,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781985"
   },
   {
-    "id": 21,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210783030",
@@ -1605,7 +1635,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783030"
   },
   {
-    "id": 22,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210741851",
@@ -1620,7 +1650,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741851"
   },
   {
-    "id": 23,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210743085",
@@ -1635,7 +1665,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743085"
   },
   {
-    "id": 24,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210750890",
@@ -1650,7 +1680,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750890"
   },
   {
-    "id": 25,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210764999",
@@ -1665,7 +1695,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764999"
   },
   {
-    "id": 26,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210774301",
@@ -1680,7 +1710,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774301"
   },
   {
-    "id": 27,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210774411",
@@ -1695,7 +1725,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774411"
   },
   {
-    "id": 28,
+    "id": 30,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210774504",
@@ -1710,7 +1740,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774504"
   },
   {
-    "id": 29,
+    "id": 31,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210776712",
@@ -1725,7 +1755,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776712"
   },
   {
-    "id": 30,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210777136",
@@ -1740,7 +1770,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777136"
   },
   {
-    "id": 31,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210777733",
@@ -1755,7 +1785,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777733"
   },
   {
-    "id": 32,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778215",
@@ -1770,7 +1800,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778215"
   },
   {
-    "id": 33,
+    "id": 35,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778676",
@@ -1785,37 +1815,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778676"
   },
   {
-    "id": 34,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210778988",
-    "role": "Software Engineer III-Java, Kafka/Streams",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "24-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778988"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210779243",
-    "role": "Director of Software Engineering",
-    "description": "Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "24-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779243"
-  },
-  {
-    "id": 19,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10500842",
@@ -1830,7 +1830,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10500842"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487013",
@@ -1845,7 +1845,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487013"
   },
   {
-    "id": 21,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487012",
@@ -1860,7 +1860,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487012"
   },
   {
-    "id": 22,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10486999",
@@ -1875,7 +1875,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10486999"
   },
   {
-    "id": 23,
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487194",
@@ -1890,7 +1890,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487194"
   },
   {
-    "id": 24,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10498847",
@@ -1905,7 +1905,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10498847"
   },
   {
-    "id": 25,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10485889",
@@ -1920,7 +1920,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10485889"
   },
   {
-    "id": 26,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10485772",
@@ -1935,7 +1935,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10485772"
   },
   {
-    "id": 27,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10484339",
@@ -1950,7 +1950,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10484339"
   },
   {
-    "id": 28,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10488953",
@@ -1965,7 +1965,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10488953"
   },
   {
-    "id": 29,
+    "id": 28,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10490022",
@@ -1980,7 +1980,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10490022"
   },
   {
-    "id": 30,
+    "id": 29,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10485612",
@@ -1993,6 +1993,21 @@
     "job_family": "Professional Services",
     "job_function": "Job-Function",
     "apply_link": "https://amazon.jobs/en/jobs/10485612"
+  },
+  {
+    "id": 30,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10482215",
+    "role": "ML Data Associate-II, Artificial General Intelligence",
+    "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022 Maintain and follow strict confidentiality as customer privacy is our most important tenet \u2022 Work with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022 Deliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022 Demonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022 Capable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022 Eye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022 Demonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022 Analyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022 Responsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022 Demonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- Bachelor's degree or above - Speak, write, and read fluently in Hindi - Work rotating shift schedules and variable days off - Experience in natural language data labeling, data annotation, linguistic annotation or other forms of data markup, or experience in MS Office including Excel",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "23-07-2026",
+    "job_family": "Machine Learning Data Operatio",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10482215"
   },
   {
     "id": 1,
@@ -2103,21 +2118,6 @@
     "id": 8,
     "company": "AMAZON",
     "industry": "FAANG",
-    "job_id": "10508205",
-    "role": "Quality Auditor, Quality Team",
-    "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience that includes analytical skills, attention to detail, and effective communication abilities, or experience working with customers with a passion for delivering exceptional service - Experience communicating results to senior leadership, or experience working as a Quality Assurance Engineer - Can work proactively and independently, meet deadlines, and deliver on projects and tasks - Experience analyzing data metrics - Bachelor's degree, or 4+ years of using Microsoft Office, particularly Excel and analytical platforms, including but not limited to the ability to analyze data using pivots and V-Lookups experience - Experience working in fast paced environments, and managing workload even during times of stress, or escalated activity",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "14-08-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10508205"
-  },
-  {
-    "id": 9,
-    "company": "AMAZON",
-    "industry": "FAANG",
     "job_id": "10508212",
     "role": "Quality Auditor, Quality Team",
     "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
@@ -2130,7 +2130,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10508212"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10508206",
@@ -2145,7 +2145,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10508206"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10510774",
@@ -2160,7 +2160,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10510774"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497888",
@@ -2175,7 +2175,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497888"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497886",
@@ -2190,7 +2190,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497886"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497887",
@@ -2205,7 +2205,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497887"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499507",
@@ -2220,7 +2220,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499507"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499456",
@@ -2235,7 +2235,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499456"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499455",
@@ -2250,7 +2250,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499455"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10490109",
@@ -2313,6 +2313,21 @@
     "id": 1,
     "company": "ZS",
     "industry": "Business Consulting and Services",
+    "job_id": "63519",
+    "role": "Information Protection Analyst",
+    "description": "description",
+    "responsibilities": "resp1",
+    "qualifications": "resp2",
+    "location": "Pune",
+    "posting_date": "25-08-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/63519"
+  },
+  {
+    "id": 2,
+    "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "24047",
     "role": "Business Technology Solutions Associate- SFDC",
     "description": "description",
@@ -2325,7 +2340,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/24047"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "62582",
@@ -2340,7 +2355,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62582"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63521",
@@ -2355,7 +2370,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63521"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63509",
@@ -2370,7 +2385,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63509"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "62377",
@@ -2385,7 +2400,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62377"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63426",
@@ -2400,7 +2415,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63426"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63373",
@@ -2415,7 +2430,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63373"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63345",
@@ -2430,7 +2445,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63345"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63331",
@@ -2443,21 +2458,6 @@
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/63331"
-  },
-  {
-    "id": 10,
-    "company": "ZS",
-    "industry": "Business Consulting and Services",
-    "job_id": "63312",
-    "role": "Cloud Administrator",
-    "description": "description",
-    "responsibilities": "resp1",
-    "qualifications": "resp2",
-    "location": "Pune",
-    "posting_date": "04-08-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/63312"
   },
   {
     "id": 1,
