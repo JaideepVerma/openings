@@ -3,76 +3,76 @@
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-281678",
-    "role": "Senior Software Engineer-3",
-    "description": "We are looking for a Senior Software Engineer 3 to join our team at Mastercard. In this role, you will be responsible for the analysis, design, development, and delivery of software solutions, ensuring high performance and scalability. Join us in building a sustainable economy through innovative technology.",
+    "job_id": "R-288835",
+    "role": "Tech Hub & Technology Lead",
+    "description": "Act as the local leadership and escalation point for Mastercard colleagues based in Pune, ensuring clear accountability, appropriate empowerment and effective connection with UK People Leaders. Build...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-08-2026",
     "job_family": "Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281678"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-288835"
   },
   {
     "id": 2,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-288697",
-    "role": "Software Engineer II",
-    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "job_id": "R-287961",
+    "role": "Manager, Product Management, Product Resilience",
+    "description": "As Manager, Product Manager for Cross Border Services, you will be responsible to work with implementation/solution architects, customer configuration teams, network product managers, operational and...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-08-2026",
-    "job_family": "Engineering",
+    "job_family": "Product Management",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-288697"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-287961"
   },
   {
     "id": 3,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-281535",
-    "role": "Manager of Software Engineering",
-    "description": "Become part of our team as Manager of Software Engineering, leading teams to deliver secure, innovative digital payment solutions. Oversee the development and enhancement of authentication products for e-commerce, collaborating with global leaders. Ideal for experienced software engineering managers with a strong background in backend technologies and cloud deployments.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-281535"
-  },
-  {
-    "id": 4,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-275529",
-    "role": "Senior Technical Program Manager",
-    "description": "This role is critical to ensuring alignment, delivery rigor, and sustained execution across Applied AI, Software Engineering, Data Engineering, and Product teams. Own end\u2011to\u2011end delivery of large, cro...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-275529"
-  },
-  {
-    "id": 5,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-287998",
+    "job_id": "R-287447",
     "role": "Senior Accountant",
-    "description": "Oversee assigned tasks in the accounting and revenue acceptance processes for the Contra Revenue line particularly: rebates, incentives, advisor services, waivers, and claw backs. Communicate and coll...",
+    "description": "We are looking for a Senior Accountant to deliver timely and accurate accounting services for Mastercard\u2019s Global Business Services Centre. You will review contracts, manage general ledger reconciliations, and support process improvements. Ideal candidates bring strong accounting expertise and experience in large, global environments.",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-08-2026",
     "job_family": "Finance",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-287998"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-287447"
+  },
+  {
+    "id": 4,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281303",
+    "role": "Manager Software Engineering",
+    "description": "We are recruiting a Manager Software Engineering to lead application development and design support for digital consumer solutions. You will develop and optimise digital products, focusing on web and mobile platforms. Ideal candidates bring strong expertise in Angular, Java, and modern front-end technologies, with experience in microservices and cloud integration.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-08-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281303"
+  },
+  {
+    "id": 5,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-281408",
+    "role": "Associate Product Management / Fund Management",
+    "description": "We are looking for an Associate Product Manager to support fund management in the Africa Division. This role involves overseeing fund establishment, deployment, and financial review while collaborating with internal stakeholders. If you have strong analytical skills and experience in fund management, we want to hear from you!",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "24-08-2026",
+    "job_family": "Product Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281408"
   },
   {
     "id": 6,
@@ -93,51 +93,6 @@
     "id": 7,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-288503",
-    "role": "Manager, Product Development - EMV and Payment Technology",
-    "description": "Manager, Product Development - EMV and Payment Technology. Lead and manage operations related to Mobile Payment Applications, Wallet UI, Wearables, and Back-End Server Approvals. Ensure full complianc...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-08-2026",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-288503"
-  },
-  {
-    "id": 8,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-287255",
-    "role": "Senior Site Reliability Engineer",
-    "description": "You will play a key leadership role in Mastercard's ongoing SRE transformation by driving reliability-focused engineering practices, advocating operational standards, and enabling engineering teams to...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-287255"
-  },
-  {
-    "id": 9,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-282705",
-    "role": "Lead Software Engineer",
-    "description": "We are looking for a Lead Software Engineer to join our Operations & Technology Fraud Products team. You will develop innovative solutions for Mastercard's Decision Management Platform, focusing on high performance and availability. If you are passionate about combating fraud and driving results, we want to hear from you!",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "24-08-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-282705"
-  },
-  {
-    "id": 10,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
     "job_id": "R-270159",
     "role": "Lead Software Engineer - Java development",
     "description": "Ensure project implementation(s) and technical delivery are compliant with solution architectural design and best practices. Will be responsible for driving adoption of Quality Engineering services (C...",
@@ -150,19 +105,64 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-270159"
   },
   {
-    "id": 11,
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-286291",
-    "role": "Senior Software Engineer",
-    "description": "Our PurposeMastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a\u00a0sustainable\u00a0economy where everyone can prospe",
+    "job_id": "R-281535",
+    "role": "Manager of Software Engineering",
+    "description": "Become part of our team as Manager of Software Engineering, leading teams to deliver secure, innovative digital payment solutions. Oversee the development and enhancement of authentication products for e-commerce, collaborating with global leaders. Ideal for experienced software engineering managers with a strong background in backend technologies and cloud deployments.",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-08-2026",
     "job_family": "Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-286291"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-281535"
+  },
+  {
+    "id": 9,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-287998",
+    "role": "Senior Accountant",
+    "description": "Oversee assigned tasks in the accounting and revenue acceptance processes for the Contra Revenue line particularly: rebates, incentives, advisor services, waivers, and claw backs. Communicate and coll...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-08-2026",
+    "job_family": "Finance",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-287998"
+  },
+  {
+    "id": 10,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-288503",
+    "role": "Manager, Product Development - EMV and Payment Technology",
+    "description": "Manager, Product Development - EMV and Payment Technology. Lead and manage operations related to Mobile Payment Applications, Wallet UI, Wearables, and Back-End Server Approvals. Ensure full complianc...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-08-2026",
+    "job_family": "Product Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-288503"
+  },
+  {
+    "id": 11,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-287255",
+    "role": "Senior Site Reliability Engineer",
+    "description": "You will play a key leadership role in Mastercard's ongoing SRE transformation by driving reliability-focused engineering practices, advocating operational standards, and enabling engineering teams to...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "24-08-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-287255"
   },
   {
     "id": 12,
@@ -258,46 +258,46 @@
     "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-288835",
-    "role": "Tech Hub & Technology Lead",
-    "description": "Act as the local leadership and escalation point for Mastercard colleagues based in Pune, ensuring clear accountability, appropriate empowerment and effective connection with UK People Leaders. Build...",
+    "job_id": "R-278568",
+    "role": "Principal Software Engineer/Solution Architect",
+    "description": "Become part of our team as a Principal Software Engineer/Solution Architect, leading the architecture for a customer-facing decision management platform. Drive technical direction, oversee API and integration architecture, and collaborate with cross-functional teams. Ideal for experienced professionals with a strong background in distributed systems and enterprise-scale platform design.",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-08-2026",
     "job_family": "Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-288835"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-278568"
   },
   {
     "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-287961",
-    "role": "Manager, Product Management, Product Resilience",
-    "description": "As Manager, Product Manager for Cross Border Services, you will be responsible to work with implementation/solution architects, customer configuration teams, network product managers, operational and...",
+    "job_id": "R-287851",
+    "role": "Senior Software Integration Engineer",
+    "description": "This role requires strong experience in agile work management, integration testing, quality assurance, requirements management, SDLC practices, systems integration, troubleshooting, web services, work...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-08-2026",
-    "job_family": "Product Management",
+    "job_family": "Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-287961"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-287851"
   },
   {
     "id": 20,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-287447",
-    "role": "Senior Accountant",
-    "description": "We are looking for a Senior Accountant to deliver timely and accurate accounting services for Mastercard\u2019s Global Business Services Centre. You will review contracts, manage general ledger reconciliations, and support process improvements. Ideal candidates bring strong accounting expertise and experience in large, global environments.",
+    "job_id": "R-286291",
+    "role": "Senior Software Engineer",
+    "description": "Experience with quality engineering techniques and software quality tools. - Experience in CI/CD pipeline creation via Jenkins. - Ensure quality across the full stack via rigorous CI/CD practices in...",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Pune",
     "posting_date": "24-08-2026",
-    "job_family": "Finance",
+    "job_family": "Engineering",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-287447"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-286291"
   },
   {
     "id": 2,
@@ -348,34 +348,64 @@
     "id": 1,
     "company": "Wells Fargo",
     "industry": "Financial Services",
+    "job_id": "R-565447",
+    "role": "Senior Software Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "25-08-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-565447"
+  },
+  {
+    "id": 2,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-550313",
+    "role": "Senior Systems Operations Engineer \u2013 CI/CD Administration",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "25-08-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Operations-Engineer---CI-CD-Administration_R-550313"
+  },
+  {
+    "id": 3,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-569001",
+    "role": "Systems Operations Associate - Desktop & Deskside Support",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "25-08-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Systems-Operations-Associate_R-569001"
+  },
+  {
+    "id": 4,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
     "job_id": "R-545160",
     "role": "Senior Software Engineer",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-545160"
   },
   {
-    "id": 2,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-538544",
-    "role": "Principal Engineer - .NET Core / GenAI",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Principal-Engineer---NET-Core---GenAI_R-538544"
-  },
-  {
-    "id": 3,
+    "id": 5,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-552376",
@@ -384,13 +414,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant---Market-Data_R-552376"
   },
   {
-    "id": 4,
+    "id": 6,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-568431",
@@ -399,13 +429,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Technology-Business-Systems-Consultant_R-568431"
   },
   {
-    "id": 5,
+    "id": 7,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-540167",
@@ -414,13 +444,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant_R-540167-1"
   },
   {
-    "id": 6,
+    "id": 8,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567657",
@@ -429,13 +459,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Engineering-Manager_R-567657"
   },
   {
-    "id": 7,
+    "id": 9,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-564444",
@@ -444,13 +474,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Principal-Engineer---Martech_R-564444"
   },
   {
-    "id": 8,
+    "id": 10,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-559670",
@@ -459,13 +489,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Business-Execution-Consultant_R-559670"
   },
   {
-    "id": 9,
+    "id": 11,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-537629",
@@ -474,13 +504,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer---Java---Spring-boot--Microservices_R-537629-1"
   },
   {
-    "id": 10,
+    "id": 12,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-556662",
@@ -489,13 +519,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "2 Locations",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Infrastructure-Engineer_R-556662"
   },
   {
-    "id": 11,
+    "id": 13,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-534831",
@@ -504,13 +534,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-534831"
   },
   {
-    "id": 12,
+    "id": 14,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569009",
@@ -519,13 +549,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer---Java-Full-Stack_R-569009-1"
   },
   {
-    "id": 13,
+    "id": 15,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-568043",
@@ -534,13 +564,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer-DotNet-Full-Stack_R-568043"
   },
   {
-    "id": 14,
+    "id": 16,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-568435",
@@ -549,13 +579,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Business-Execution-Consultant---Originations-and-Portfolio-Management-Transformation-1_R-568435-1"
   },
   {
-    "id": 15,
+    "id": 17,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569021",
@@ -564,13 +594,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Network-Engineer_R-569021"
   },
   {
-    "id": 16,
+    "id": 18,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567415",
@@ -579,13 +609,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Information-Security-Engineering-Manager_R-567415"
   },
   {
-    "id": 17,
+    "id": 19,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-565488",
@@ -594,13 +624,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer--Pega-_R-565488-1"
   },
   {
-    "id": 18,
+    "id": 20,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569437",
@@ -609,13 +639,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Quantitative-Model-Solutions-Specialist_R-569437-1"
   },
   {
-    "id": 19,
+    "id": 21,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-564442",
@@ -624,28 +654,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Lead-Technology-Business-Services-Consultant--Process-Excellence--WFM--Reporting-_R-564442"
   },
   {
-    "id": 20,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-550741",
-    "role": "Senior Systems Ops Engg -Intune, MEMCM, Power shell, Microsoft Graph",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Ops-Engg--Intune--MEMCM--Power-shell--Microsoft-Graph_R-550741"
-  },
-  {
-    "id": 21,
+    "id": 22,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569424",
@@ -654,13 +669,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Quantitative-Model-Solutions-Specialist_R-569424"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-546849",
@@ -669,13 +684,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Data-Management-Senior-Manager--Chief-Administrative-Office--India-and-Philippines-_R-546849-1"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567319",
@@ -684,13 +699,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Quantitative-Analytics-Specialist_R-567319"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567653",
@@ -699,13 +714,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer--SSIS--Informatica-PowerCenter-_R-567653"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569414",
@@ -714,13 +729,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-569414"
   },
   {
-    "id": 26,
+    "id": 27,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567662",
@@ -729,13 +744,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant-AI-Product-owner--Loan-Servicing-products_R-567662-1"
   },
   {
-    "id": 27,
+    "id": 28,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-540093",
@@ -744,13 +759,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Operations-Engineer---CI-CD-Administration_R-540093"
   },
   {
-    "id": 28,
+    "id": 29,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-544676",
@@ -759,13 +774,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "24-08-2026",
+    "posting_date": "25-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer-Python-primary--Java-basics-and-AI_R-544676"
   },
   {
-    "id": 29,
+    "id": 30,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567674",
@@ -774,13 +789,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Manager_R-567674-1"
   },
   {
-    "id": 30,
+    "id": 31,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567375",
@@ -789,13 +804,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Quantitative-Analytics-Specialist_R-567375-1"
   },
   {
-    "id": 31,
+    "id": 32,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567373",
@@ -804,13 +819,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Quantitative-Analytics-Manager_R-567373"
   },
   {
-    "id": 32,
+    "id": 33,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-568896",
@@ -819,13 +834,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Risk-Analytics-Consultant_R-568896"
   },
   {
-    "id": 33,
+    "id": 34,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569030",
@@ -834,13 +849,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Risk-Analytics-Consultant_R-569030"
   },
   {
-    "id": 34,
+    "id": 35,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569024",
@@ -849,13 +864,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Risk-Analytics-Consultant_R-569024"
   },
   {
-    "id": 35,
+    "id": 36,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-520610",
@@ -864,13 +879,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-520610"
   },
   {
-    "id": 36,
+    "id": 37,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-567294",
@@ -879,13 +894,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Operations-Engineer_R-567294-1"
   },
   {
-    "id": 37,
+    "id": 38,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569733",
@@ -894,13 +909,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Quantitative-Model-Solutions-Specialist_R-569733"
   },
   {
-    "id": 38,
+    "id": 39,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-568420",
@@ -909,25 +924,10 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Hyderabad, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Principal-Engineer_R-568420"
-  },
-  {
-    "id": 39,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-562384",
-    "role": "Software Engineering Senior Manager",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "21-08-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Senior-Manager_R-562384"
   },
   {
     "id": 40,
@@ -939,13 +939,13 @@
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Bengaluru, India",
-    "posting_date": "21-08-2026",
+    "posting_date": "22-08-2026",
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Specialty-Software-Engineer---Blockchain-Platform_R-523934"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "98423259520",
@@ -960,7 +960,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/senior-data-analyst-avp/13015/98423259520"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "98423259280",
@@ -990,7 +990,22 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeller/13015/99661802304"
   },
   {
-    "id": 23,
+    "id": 9,
+    "company": "Barclays",
+    "industry": "Financial Services",
+    "job_id": "98815634656",
+    "role": "Data Scientist",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurugram, India",
+    "posting_date": "23-08-2026",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/gurugram/data-scientist/13015/98815634656"
+  },
+  {
+    "id": 22,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92190233904",
@@ -1005,37 +1020,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/senior-python-developer/13015/92190233904"
   },
   {
-    "id": 9,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "98846459408",
-    "role": "Data Solutions Analyst",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurugram, India",
-    "posting_date": "20-08-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/gurugram/data-solutions-analyst/13015/98846459408"
-  },
-  {
-    "id": 10,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "98601983008",
-    "role": "Reporting and Visualization",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune, India",
-    "posting_date": "20-08-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/pune/reporting-and-visualization/13015/98601983008"
-  },
-  {
-    "id": 19,
+    "id": 18,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95369191120",
@@ -1050,7 +1035,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeler/13015/95369191120"
   },
   {
-    "id": 24,
+    "id": 23,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "88646727872",
@@ -1080,7 +1065,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/director-data-and-records-business-partner/13015/99338953136"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95536475504",
@@ -1095,7 +1080,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/vice-president-data-architect/13015/95536475504"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95078448208",
@@ -1170,7 +1155,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-management-senior-analyst/13015/99388026768"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "98095139744",
@@ -1185,7 +1170,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/assistant-manager/13015/98095139744"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "98454881152",
@@ -1230,7 +1215,7 @@
     "apply_link": "https://search.jobs.barclays/job/chennai/campaign-execution-analyst/13015/99058694400"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "98506870896",
@@ -1245,7 +1230,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/decision-analyst/13015/98506870896"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95902777408",
@@ -1260,7 +1245,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-scientist-mlops/13015/95902777408"
   },
   {
-    "id": 22,
+    "id": 21,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92298823136",
@@ -1275,7 +1260,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/transaction-monitoring-analytics-vp/13015/92298823136"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95633292992",
@@ -1290,7 +1275,7 @@
     "apply_link": "https://search.jobs.barclays/job/bengaluru/data-visualisation-and-bi-reporting/13015/95633292992"
   },
   {
-    "id": 21,
+    "id": 20,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "95050023888",
@@ -1728,6 +1713,21 @@
     "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
+    "job_id": "210783004",
+    "role": "Software Engineer III",
+    "description": "Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "24-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783004"
+  },
+  {
+    "id": 30,
+    "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210783049",
     "role": "Software Engineer II",
     "description": "Out of the successful launch of Chase in 2021, we\u2019re a new team, with a new mission.",
@@ -1740,7 +1740,22 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783049"
   },
   {
-    "id": 30,
+    "id": 31,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210783975",
+    "role": "Software Engineer III",
+    "description": "Join us to build the future of digital banking, creating cloud-native platforms that power seamless customer experiences.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "24-08-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783975"
+  },
+  {
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210773275",
@@ -1755,7 +1770,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773275"
   },
   {
-    "id": 31,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210762768",
@@ -1770,7 +1785,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762768"
   },
   {
-    "id": 32,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210767453",
@@ -1785,7 +1800,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767453"
   },
   {
-    "id": 33,
+    "id": 35,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210770973",
@@ -1800,37 +1815,22 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770973"
   },
   {
-    "id": 34,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210774262",
-    "role": "Lead Software Engineer - Java AWS Kafka",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "21-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774262"
+    "id": 19,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10500842",
+    "role": "Data Scientist II, International Seller Services",
+    "description": "At Amazon, we strive to be Earth's most customer-centric company, where customers can find and discover anything they want to buy online. Our mission in International Seller Services (ISS) is to provide technology solutions for improving the seller and customer experience, drive seller compliance, maximize seller success, and improve internal workforce productivity. Team's main focus is to build products that are scalable across different regions of the world, while working in partnership with ISS regional stakeholders and multiple partner teams across Amazon. As a Data Scientist, you will be responsible for modeling complex problems, discovering insights, and building risk algorithms that identify opportunities through statistical models, machine learning, and visualization techniques to improve operational efficiency. As a Data Scientist, you will leverage your expertise in Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLM) to develop innovative solutions for Amazon's ISS team. You'll be responsible for modeling complex problems, building innovative algorithms, and discovering actionable insights through statistical models and visualization techniques to enhance operational efficiency in the e-commerce space. The role combines usage of latest AI technology with practical business applications, requiring someone passionate about transforming the way we interact with technology while delivering measurable impact through advanced analytics and machine learning solutions. You will need to collaborate effectively with business and product leaders within ISS and cross-functional teams to build scalable solutions against high organizational standards. The candidate should be able to apply a breadth of tools, data sources, and Data Science techniques to answer a wide range of high-impact business questions and proactively present new insights in concise and effective manner. The candidate should be an effective communicator capable of independently driving issues to resolution and communicating insights to non-technical audiences. This is a high impact role with goals that directly impacts the bottom line of the business. Key job responsibilities Analyze terabytes of data to define and deliver on complex analytical deep dives to unlock insights and build scalable solutions through Data Science to ensure security of Amazon\u2019s platform and transactions Build Machine Learning and/or statistical models that evaluate the transaction legitimacy and track impact over time Ensure data quality throughout all stages of acquisition and processing, including data sourcing/collection, ground truth generation, normalization, transformation, and cross-lingual alignment/mapping Define and conduct experiments to validate/reject hypotheses, and communicate insights and recommendations to Product and Tech teams Develop efficient data querying infrastructure for both offline and online use cases Collaborate with cross-functional teams from multidisciplinary science, engineering and business backgrounds to enhance current automation processes Learn and understand a broad range of Amazon\u2019s data resources and know when, how, and which to use and which not to use. Maintain technical document and communicate results to diverse audiences with effective writing, visualizations, and presentations",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 2+ years of data scientist experience - 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience - 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience - 1+ years of guiding and coaching a group of researchers experience - 1+ years of working with or evaluating AI systems experience - 1+ years of creating or contributing to mathematical textbooks, research papers, or educational content experience - Master's degree in Science, Technology, Engineering, or Mathematics (STEM), or experience working in Science, Technology, Engineering, or Mathematics (STEM) - Experience applying theoretical models in an applied environment",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "30-07-2026",
+    "job_family": "Science",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10500842"
   },
   {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210777290",
-    "role": "Software Engineer III",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team\n\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "21-08-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777290"
-  },
-  {
-    "id": 24,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487013",
@@ -1845,7 +1845,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487013"
   },
   {
-    "id": 25,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487012",
@@ -1860,7 +1860,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487012"
   },
   {
-    "id": 26,
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10486999",
@@ -1875,7 +1875,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10486999"
   },
   {
-    "id": 27,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487194",
@@ -1890,7 +1890,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487194"
   },
   {
-    "id": 28,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10498847",
@@ -1905,7 +1905,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10498847"
   },
   {
-    "id": 29,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10485889",
@@ -1920,7 +1920,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10485889"
   },
   {
-    "id": 30,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10485772",
@@ -1935,7 +1935,82 @@
     "apply_link": "https://amazon.jobs/en/jobs/10485772"
   },
   {
+    "id": 27,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10484339",
+    "role": "AI Data Associate with English, Artificial General Intelligence Data Services",
+    "description": "AI is the most transformational technology of our time, capable of tackling some of humanity\u2019s most challenging problems. Amazon is investing in generative AI and the responsible development and deployment of large language models (LLMs) across all of our businesses. Come build the future of human-technology interaction with us. We are looking for those candidates who just don\u2019t think out of the box, but make the box they are in \u2018Bigger\u2019. The future is now, do you want to be a part of it? Then read on! This is a fixed term contractual role for 12 months. Key job responsibilities \u2022\tMaintain and follow strict confidentiality as customer privacy is our most important tenet \u2022\tWork with a range of different types of data including, but not limited to: text, speech, audio, image, and video \u2022\tDeliver high-quality labelled data, using guidelines provided to meet our KPIs and using in-house tools and software, as part of Amazon's commitment to developing and deploying AI responsibly. \u2022\tDemonstrate proficiency in generating high quality human insight data across a range of modalities, inclusive of text, image video and audio. \u2022\tCapable of making sound judgments and logical decisions when faced with ambiguous or incomplete information while performing tasks. \u2022\tEye for detail and ability to pivot from one category of requirement to another instantaneously. \u2022\tDemonstrate support on daily operational deliverables for multiple task types assigned to you and the team \u2022\tAnalyze root causes, identify error patterns, and propose solutions to enhance the quality of labeling tasks and their outputs. \u2022\tResponsible for identifying day-to-day process and operational issues in Standard Operating Procedure, tools and suggest changes to unblock operations \u2022\tDemonstrate ownership in floor support to clarify internal queries during execution on need basis A day in the life We are looking for a ML Data Associate (MLDA) to undertake the task of foundational labeling functions, such as dialogue evaluation on speech, text, audio, video data. Your ability to concentrate, multi-task and your high attention to detail helps you deliver high-quality work as well as maintaining strict confidentiality and follow all applicable Amazon policies for securing confidential information. You will be a part of a diverse team with the shared vision of improving customers\u2019 lives with practical, useful generative AI innovations. An inner drive, individuality, and a creative mind are extremely beneficial.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- Associate's degree or above - Speak, write, and read fluently in English at C1 level or above - Experience writing business strategy documents and plans - Advanced reading comprehension with ability to analyze complex business documents - Developed analytical thinking and structured problem-solving capabilities - Strong ability to interpret and implement detailed instructions across various projects - Proficient research skills with experience gathering and synthesizing information from multiple sources - Proven attention to detail in managing complex tasks and documents",
+    "location": "Chennai, Tamil Nadu, IND",
+    "posting_date": "27-07-2026",
+    "job_family": "Machine Learning Data Operatio",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10484339"
+  },
+  {
+    "id": 28,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10488953",
+    "role": "Applied Scientist II, IN SPS Tech",
+    "description": "Amazon\u2019s Marketplace business is one of the largest in the world operating in 23 countries. Amazon Marketplace enables millions of Sellers worldwide to list hundreds of millions of products and manage orders for inventory across dozens of different categories and languages. The IN Seller Partner Services Tech organization is responsible for building delightful seller experiences with the vision of being the technology foundation that makes Amazon the #1 choice for sellers of all types and price-sensitive customers in India and emerging markets\u2014transforming how a billion people buy and sell, thereby transforming lives. By making its sellers successful, Amazon can attract and retain sellers on the platform, which in turn offers its customers the best selection, convenience, pricing and experience resulting in multi-billion-dollar business. This organization enables sellers of all stripes across a multitude of business lines existing or new such as Q-Commerce, Pharmacy and Out of country selling. We are looking for a motivated and innovative Applied Scientist with strong analytical skills and practical experience to join our science team. As a key member of our science team, you will provide expertise that helps accelerate the business and make it profitable. You will research, design and improve on the models that will directly impact Amazon\u2019s Selection quality and maximize fee revenue. You will be working in a highly collaborative environment partnering with various science, product management, engineering, operations, finance, business intelligence and analytics teams. You will need to understand the business requirements and translate them into complex analytical outputs. You will design tests to explain performance of the models from impact on customer and cost perspective. You will create ML models to capture features impacting performance. You should be comfortable building prototypes, testing and improving them given the feedback from the real time data. You should be able to present your model and findings to a various range of stakeholders. Looking for candidate with expertise in the areas of machine learning, operations research, and statistics. With expertise in applying theoretical models in an applied environment relying heavily on the latest advances in machine learning, optimization, stochastic modeling, and engineering. The candidate will be expected to work on numerous aspects, such as feature engineering, modeling, probabilistic modeling, hyper-parameter tuning, scalable inference methods and latent variable models. Challenges will involve dealing with very large data sets and requirements on throughput. Key job responsibilities - Design, implement, test, deploy, and maintain innovative science solutions to accelerate our business. - Create experiments and prototype implementations of new learning algorithms and prediction techniques - Collaborate with scientists, engineers, product managers, and stakeholders to design and implement software solutions for science problems - Use best practices to ensure a high standard of quality for all of the team deliverables",
+    "responsibilities": "responsibilities",
+    "qualifications": "- Master's degree in engineering, technology, computer science, machine learning, robotics, operations research, statistics, mathematics or equivalent quantitative field - 3+ years of building machine learning models or developing algorithms for business application experience - 3+ years of solving business problems through machine learning, data mining and statistical algorithms experience - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing - Experience in patents or publications at top-tier peer-reviewed conferences or journals - Experience programming in Java, C++, Python or related language - Experience in professional software development - Experience implementing algorithms using toolkits and self-developed code",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "24-07-2026",
+    "job_family": "Applied Science",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10488953"
+  },
+  {
+    "id": 29,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10490022",
+    "role": "Delivery Consultant, AI/ML, AWS Professional Services, Healthcare & Life Sciences",
+    "description": "AWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector The Amazon Web Services Professional Services (ProServe) team is seeking a skilled Machine Learning Engineer to join our team at Amazon Web Services (AWS). Are you looking to work at the forefront of Machine Learning and AI? Would you be excited to apply Generative AI algorithms to solve real world problems with significant impact? In this role, you'll work directly with customers to design, evangelize, implement, and scale AI/ML solutions that meet their technical requirements and business objectives. You'll be a key player in driving customer success through their AI transformation journey, providing deep expertise in machine learning, generative AI, and best practices throughout the project lifecycle. As a Machine Learning Engineer within the AWS Professional Services organization, you will be proficient in architecting complex, scalable, and secure machine learning solutions tailored to meet the specific needs of each customer. You'll help customers imagine and scope the use cases that will create the greatest value for their businesses, select and train and fine tune the right models, and define paths to navigate technical or business challenges. Working closely with stakeholders, you'll assess current data infrastructure, develop proof-of-concepts, and propose effective strategies for implementing AI and generative AI solutions at scale. You will design and run experiments, research new algorithms, and find new ways of optimizing risk, profitability, and customer experience. The AWS Professional Services organization is a global team of experts that help customers realize their desired business outcomes when using the AWS Cloud. We work together with customer teams and the AWS Partner Network (APN) to execute enterprise cloud computing initiatives. Our team provides assistance through a collection of offerings which help customers achieve specific outcomes related to enterprise cloud adoption. We also deliver focused guidance through our global specialty practices, which cover a variety of solutions, technologies, and industries. Key job responsibilities A successful candidate will be a person who enjoys diving deep into data, doing analysis, discovering root causes, and designing long-term solutions. It will be a person who likes to have fun, loves to learn, and wants to innovate in the world of AI. Responsibilities include: - Understand the customer\u2019s business need and guide them to a solution using our AWS AI Services, AWS AI Platforms, AWS AI Frameworks, and AWS AI EC2 Instances . - Assist customers by being able to deliver a AI/Ml and GenAI project from beginning to end, including understanding the business need, aggregating data, exploring data, building & validating predictive models, and deploying completed models to deliver business impact to the organization. - Use Deep Learning frameworks like MXNet, Caffe 2, Tensorflow, Theano, CNTK, and Keras to help our customers build DL models. - Use SparkML and Amazon Machine Learning (AML) to help our customers build ML models. - Use Amazon Bedrock and various GenAI Tools to help customers build GenAI Applications. - Work with our Professional Services Big Data consultants to analyze, extract, normalize, and label relevant data. - Work with our DevOps consultants to help our customers operationalize models after they are built. - Assist customers with identifying model drift and retraining models. A day in the life This is a customer facing role. You will be required to travel to client locations and deliver professional services as needed. About the team AWS Global Services includes experts from across AWS who help our customers design, build, operate, and secure their cloud environments. Customers innovate with AWS Professional Services, upskill with AWS Training and Certification, optimize with AWS Support and Managed Services, and meet objectives with AWS Security Assurance Services. Our expertise and emerging technologies include AWS Partners, AWS Sovereign Cloud, AWS International Product, and the Generative AI Innovation Center. You\u2019ll join a diverse team of technical experts in dozens of countries who help customers achieve more with the AWS cloud. About AWS Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn\u2019t followed a traditional path, or includes alternative experiences, don\u2019t let it stop you from applying. Why AWS? Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating \u2014 that\u2019s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do. Mentorship & Career Growth We\u2019re continuously raising our performance bar as we strive to become Earth\u2019s Best Employer. That\u2019s why you\u2019ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there\u2019s nothing we can\u2019t achieve in the cloud.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 7+ years of IT implementation experience - Bachelor's degree in business administration, finance, economics, computer science, data science, engineering, or other related field - 7+ years of cloud architecture and solution implementation experience - 7+ years of building machine learning models or developing algorithms for business application experience - 7+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "23-07-2026",
+    "job_family": "Professional Services",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10490022"
+  },
+  {
+    "id": 30,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10485612",
+    "role": "Delivery Consultant, AI/ML, AWS Professional Services, Healthcare & Life Sciences",
+    "description": "AWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector The Amazon Web Services Professional Services (ProServe) team is seeking a skilled Machine Learning Engineer to join our team at Amazon Web Services (AWS). Are you looking to work at the forefront of Machine Learning and AI? Would you be excited to apply Generative AI algorithms to solve real world problems with significant impact? In this role, you'll work directly with customers to design, evangelize, implement, and scale AI/ML solutions that meet their technical requirements and business objectives. You'll be a key player in driving customer success through their AI transformation journey, providing deep expertise in machine learning, generative AI, and best practices throughout the project lifecycle. As a Machine Learning Engineer within the AWS Professional Services organization, you will be proficient in architecting complex, scalable, and secure machine learning solutions tailored to meet the specific needs of each customer. You'll help customers imagine and scope the use cases that will create the greatest value for their businesses, select and train and fine tune the right models, and define paths to navigate technical or business challenges. Working closely with stakeholders, you'll assess current data infrastructure, develop proof-of-concepts, and propose effective strategies for implementing AI and generative AI solutions at scale. You will design and run experiments, research new algorithms, and find new ways of optimizing risk, profitability, and customer experience. The AWS Professional Services organization is a global team of experts that help customers realize their desired business outcomes when using the AWS Cloud. We work together with customer teams and the AWS Partner Network (APN) to execute enterprise cloud computing initiatives. Our team provides assistance through a collection of offerings which help customers achieve specific outcomes related to enterprise cloud adoption. We also deliver focused guidance through our global specialty practices, which cover a variety of solutions, technologies, and industries. Key job responsibilities A successful candidate will be a person who enjoys diving deep into data, doing analysis, discovering root causes, and designing long-term solutions. It will be a person who likes to have fun, loves to learn, and wants to innovate in the world of AI. Responsibilities include: - Understand the customer\u2019s business need and guide them to a solution using our AWS AI Services, AWS AI Platforms, AWS AI Frameworks, and AWS AI EC2 Instances . - Assist customers by being able to deliver a AI/Ml and GenAI project from beginning to end, including understanding the business need, aggregating data, exploring data, building & validating predictive models, and deploying completed models to deliver business impact to the organization. - Use Deep Learning frameworks like MXNet, Caffe 2, Tensorflow, Theano, CNTK, and Keras to help our customers build DL models. - Use SparkML and Amazon Machine Learning (AML) to help our customers build ML models. - Use Amazon Bedrock and various GenAI Tools to help customers build GenAI Applications. - Work with our Professional Services Big Data consultants to analyze, extract, normalize, and label relevant data. - Work with our DevOps consultants to help our customers operationalize models after they are built. - Assist customers with identifying model drift and retraining models. A day in the life This is a customer facing role. You will be required to travel to client locations and deliver professional services as needed. About the team AWS Global Services includes experts from across AWS who help our customers design, build, operate, and secure their cloud environments. Customers innovate with AWS Professional Services, upskill with AWS Training and Certification, optimize with AWS Support and Managed Services, and meet objectives with AWS Security Assurance Services. Our expertise and emerging technologies include AWS Partners, AWS Sovereign Cloud, AWS International Product, and the Generative AI Innovation Center. You\u2019ll join a diverse team of technical experts in dozens of countries who help customers achieve more with the AWS cloud. About AWS Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn\u2019t followed a traditional path, or includes alternative experiences, don\u2019t let it stop you from applying. Why AWS? Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating \u2014 that\u2019s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do. Mentorship & Career Growth We\u2019re continuously raising our performance bar as we strive to become Earth\u2019s Best Employer. That\u2019s why you\u2019ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there\u2019s nothing we can\u2019t achieve in the cloud.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 7+ years of IT implementation experience - Bachelor's degree in business administration, finance, economics, computer science, data science, engineering, or other related field - 7+ years of cloud architecture and solution implementation experience - 7+ years of building machine learning models or developing algorithms for business application experience - 7+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "23-07-2026",
+    "job_family": "Professional Services",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10485612"
+  },
+  {
     "id": 1,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10512283",
+    "role": "Software Dev Engineer II , Finance Tech",
+    "description": "Enabling Amazon\u2019s explosive growth requires top talent in our Finance Technology (FinTech) organization. FinTech is seeking a Software Development Engineer to be a part of Thunder team. At FinTech we ingest millions of transactions and pay out billions of dollars to our vendors. Hence, we put compliance as a critical tenant in all the software we build and operate. We work with business teams to identify fraud opportunities and design controls to remediate the risk. We spot suspicious payment activities and flag them for further review. As a software engineer in Thunder team you need to have high situational awareness, attention to detail and agility. The solutions you develop must scale for millions of transactions and also be highly secure since we deal with personally identifiable information. As part of this role you will also be responsible for building the next generation duplicate detection system. You will ensure highest controller ship while also delight customers by learning from the user feedback. The tool will evolve and to this end you will use AWS services and ML models. We are looking for candidates with 1. 4+ years of industry experience and an engineering degree in Computer Science or its equivalent 2. Flare to innovate with experience in Scala, Java or any object oriented programming language. 3. Demonstrated experience in SQL and data modeling in relational databases 4. Strong problem-solving skills and attention to detail. 5. Knowledge on data structures and algorithms 6. Good understanding of object oriented design and concept 7. Ability to build and maintain websites Key job responsibilities 1. Design, develop, and maintain high-performance software applications. 2. Implement and optimize algorithms and models for tasks like trading and risk assessment. 3. Integrate software systems with databases, APIs, and third-party services. 4. Ensure compliance with financial regulations and industry standards. 5. Collaborate with cross-functional teams to deliver end-to-end solutions. 6. Write unit tests, perform debugging, and maintain technical documentation. 7. Monitor system performance and provide timely support for critical incidents. 8. Stay updated with fintech trends and emerging technologies.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience - 3+ years of Video Games Industry (supporting title Development, Release, or Live Ops) experience - Experience programming with at least one software programming language",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "17-08-2026",
+    "job_family": "Software Development",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10512283"
+  },
+  {
+    "id": 2,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10502808",
@@ -1950,7 +2025,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10502808"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10508201",
@@ -1963,21 +2038,6 @@
     "job_family": "Machine Learning Data Operatio",
     "job_function": "Job-Function",
     "apply_link": "https://amazon.jobs/en/jobs/10508201"
-  },
-  {
-    "id": 3,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10508197",
-    "role": "Quality Auditor, Quality Team",
-    "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience that includes analytical skills, attention to detail, and effective communication abilities, or experience working with customers with a passion for delivering exceptional service - Experience communicating results to senior leadership, or experience working as a Quality Assurance Engineer - Can work proactively and independently, meet deadlines, and deliver on projects and tasks - Experience analyzing data metrics - Bachelor's degree, or 4+ years of using Microsoft Office, particularly Excel and analytical platforms, including but not limited to the ability to analyze data using pivots and V-Lookups experience - Experience working in fast paced environments, and managing workload even during times of stress, or escalated activity",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "14-08-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10508197"
   },
   {
     "id": 4,
@@ -2073,66 +2133,6 @@
     "id": 10,
     "company": "AMAZON",
     "industry": "FAANG",
-    "job_id": "10508210",
-    "role": "Quality Auditor, Quality Team",
-    "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience that includes analytical skills, attention to detail, and effective communication abilities, or experience working with customers with a passion for delivering exceptional service - Experience communicating results to senior leadership, or experience working as a Quality Assurance Engineer - Can work proactively and independently, meet deadlines, and deliver on projects and tasks - Experience analyzing data metrics - Bachelor's degree, or 4+ years of using Microsoft Office, particularly Excel and analytical platforms, including but not limited to the ability to analyze data using pivots and V-Lookups experience - Experience working in fast paced environments, and managing workload even during times of stress, or escalated activity",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "14-08-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10508210"
-  },
-  {
-    "id": 11,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10508209",
-    "role": "Quality Auditor, Quality Team",
-    "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience that includes analytical skills, attention to detail, and effective communication abilities, or experience working with customers with a passion for delivering exceptional service - Experience communicating results to senior leadership, or experience working as a Quality Assurance Engineer - Can work proactively and independently, meet deadlines, and deliver on projects and tasks - Experience analyzing data metrics - Bachelor's degree, or 4+ years of using Microsoft Office, particularly Excel and analytical platforms, including but not limited to the ability to analyze data using pivots and V-Lookups experience - Experience working in fast paced environments, and managing workload even during times of stress, or escalated activity",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "14-08-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10508209"
-  },
-  {
-    "id": 12,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10508208",
-    "role": "Quality Auditor, Quality Team",
-    "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience that includes analytical skills, attention to detail, and effective communication abilities, or experience working with customers with a passion for delivering exceptional service - Experience communicating results to senior leadership, or experience working as a Quality Assurance Engineer - Can work proactively and independently, meet deadlines, and deliver on projects and tasks - Experience analyzing data metrics - Bachelor's degree, or 4+ years of using Microsoft Office, particularly Excel and analytical platforms, including but not limited to the ability to analyze data using pivots and V-Lookups experience - Experience working in fast paced environments, and managing workload even during times of stress, or escalated activity",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "14-08-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10508208"
-  },
-  {
-    "id": 13,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10508207",
-    "role": "Quality Auditor, Quality Team",
-    "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience that includes analytical skills, attention to detail, and effective communication abilities, or experience working with customers with a passion for delivering exceptional service - Experience communicating results to senior leadership, or experience working as a Quality Assurance Engineer - Can work proactively and independently, meet deadlines, and deliver on projects and tasks - Experience analyzing data metrics - Bachelor's degree, or 4+ years of using Microsoft Office, particularly Excel and analytical platforms, including but not limited to the ability to analyze data using pivots and V-Lookups experience - Experience working in fast paced environments, and managing workload even during times of stress, or escalated activity",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "14-08-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10508207"
-  },
-  {
-    "id": 14,
-    "company": "AMAZON",
-    "industry": "FAANG",
     "job_id": "10508206",
     "role": "Quality Auditor, Quality Team",
     "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
@@ -2145,7 +2145,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10508206"
   },
   {
-    "id": 15,
+    "id": 11,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10510774",
@@ -2160,22 +2160,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10510774"
   },
   {
-    "id": 16,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10508215",
-    "role": "Quality Auditor, Quality Team",
-    "description": "We are seeking a detail-oriented Quality Auditor to join our team at AGI-DS. As a Quality Auditor, you will perform systematic quality assessments within our global network of Data Associates, providing manual review and validation of automated quality measurements. This role is critical in maintaining high standards in data quality for AI development and training. Key job responsibilities - Conduct quality audits on individual workflows and units delivered by Data Associates - Coach and calibrate Data Associates co-located at your site to improve performance - Provide detailed insights on Data Associate-level quality and identify root causes of issues - Perform manual reviews to validate automated quality measurement systems - Document and report quality findings accurately and efficiently - Perform audits to support deep dives and escalations as needed - Maintain strict compliance with quality standards and procedures - Work closely with Quality Audit Managers to improve processes and implement best practices - Contribute to continuous improvement initiatives within the quality assurance team",
-    "responsibilities": "responsibilities",
-    "qualifications": "- C1+ or equivalent fluency in English language Good working knowledge (B1+) in both spoken and written English Experience in Machine Learning/Data Labeling operations - Demonstrated analytical and problem-solving skills, and attention to detail - Effective communication skills in Business English Experience with quality management tools and systems - Ability to work in strict compliance with internal guidelines - Understanding of data annotation and quality metrics - Hands-on experience in Excel and data analysis tools Ability to work effectively in a team environment - Adaptability to changing priorities and workloads",
-    "location": "Chennai, Tamil Nadu, IND",
-    "posting_date": "12-08-2026",
-    "job_family": "Machine Learning Data Operatio",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10508215"
-  },
-  {
-    "id": 17,
+    "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497888",
@@ -2190,7 +2175,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497888"
   },
   {
-    "id": 18,
+    "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497886",
@@ -2205,7 +2190,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497886"
   },
   {
-    "id": 19,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497887",
@@ -2220,7 +2205,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497887"
   },
   {
-    "id": 20,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499507",
@@ -2235,7 +2220,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499507"
   },
   {
-    "id": 21,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499456",
@@ -2250,7 +2235,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499456"
   },
   {
-    "id": 22,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499455",
@@ -2265,7 +2250,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499455"
   },
   {
-    "id": 23,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10490109",
@@ -2358,6 +2343,21 @@
     "id": 1,
     "company": "ZS",
     "industry": "Business Consulting and Services",
+    "job_id": "62582",
+    "role": "Manager - UX Design",
+    "description": "description",
+    "responsibilities": "resp1",
+    "qualifications": "resp2",
+    "location": "Pune",
+    "posting_date": "24-08-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://jobs.zs.com/all/jobs/62582"
+  },
+  {
+    "id": 2,
+    "company": "ZS",
+    "industry": "Business Consulting and Services",
     "job_id": "63521",
     "role": "Senior ERP Engineer",
     "description": "description",
@@ -2370,7 +2370,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63521"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63509",
@@ -2385,7 +2385,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63509"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "62377",
@@ -2400,7 +2400,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/62377"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63426",
@@ -2415,7 +2415,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63426"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63373",
@@ -2430,7 +2430,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63373"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63345",
@@ -2445,7 +2445,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63345"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63331",
@@ -2460,7 +2460,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63331"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "63312",
@@ -2475,7 +2475,7 @@
     "apply_link": "https://jobs.zs.com/all/jobs/63312"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "ZS",
     "industry": "Business Consulting and Services",
     "job_id": "62847",
@@ -2488,21 +2488,6 @@
     "job_family": "JobFamily",
     "job_function": "JobFunction",
     "apply_link": "https://jobs.zs.com/all/jobs/62847"
-  },
-  {
-    "id": 10,
-    "company": "ZS",
-    "industry": "Business Consulting and Services",
-    "job_id": "63244",
-    "role": "Senior Analyst - Delivery Excellence",
-    "description": "description",
-    "responsibilities": "resp1",
-    "qualifications": "resp2",
-    "location": "Pune",
-    "posting_date": "03-08-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://jobs.zs.com/all/jobs/63244"
   },
   {
     "id": 1,
@@ -2538,21 +2523,6 @@
     "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R171272",
-    "role": "Cloud Engineer 3 - Python, SQL",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "20-08-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Cloud-Engineer-3---Python--SQL_R171272/apply"
-  },
-  {
-    "id": 4,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R168975",
     "role": "Lead Analyst, Channel Analytics",
     "description": "description",
@@ -2563,6 +2533,21 @@
     "job_family": "Engineering and Product",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Lead-Analyst--Channel-Analytics_R168975/apply"
+  },
+  {
+    "id": 4,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171272",
+    "role": "Cloud Engineer 3 - Python, SQL",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "20-08-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Cloud-Engineer-3---Python--SQL_R171272/apply"
   },
   {
     "id": 5,
@@ -2658,6 +2643,21 @@
     "id": 11,
     "company": "ADOBE",
     "industry": "FAANG",
+    "job_id": "R171066",
+    "role": "Senior Machine Learning Engineer 5",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-08-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Applied-Scientist-5_R171066/apply"
+  },
+  {
+    "id": 12,
+    "company": "ADOBE",
+    "industry": "FAANG",
     "job_id": "R170733",
     "role": "Computer Scientist 2",
     "description": "description",
@@ -2670,7 +2670,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-2_R170733/apply"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171147",
@@ -2685,7 +2685,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Computer-Scientist_R171147/apply"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170195",
@@ -2698,21 +2698,6 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170195-1/apply"
-  },
-  {
-    "id": 14,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171066",
-    "role": "Senior Machine Learning Engineer 5",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "18-08-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Applied-Scientist-5_R171066/apply"
   },
   {
     "id": 15,
