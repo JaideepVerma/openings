@@ -3,6 +3,21 @@
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-282746",
+    "role": "Data Engineer ( AI/ML )",
+    "description": "Exciting opportunity for a Data Engineer (AI/ML) to design and maintain scalable data pipelines and cloud-based platforms supporting AI and ML workloads. Collaborate with engineers to deliver production-ready AI solutions. Ideal for candidates with strong Python, SQL, PySpark, and cloud expertise.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "30-08-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-282746"
+  },
+  {
+    "id": 2,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-289128",
     "role": "Manager, Software Engineering (Java, Cloud, Microservices, Architecture)",
     "description": "We are recruiting a Manager, Software Engineering to lead and mentor software engineering teams in Java, Cloud, and Microservices. Drive the development of product platforms and collaborate with business stakeholders. Ideal for experienced professionals with strong technical leadership and people management skills.",
@@ -15,7 +30,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289128"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289246",
@@ -30,7 +45,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289246"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289432",
@@ -45,7 +60,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289432"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-288945",
@@ -60,7 +75,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-288945"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289008",
@@ -75,7 +90,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289008"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289027",
@@ -90,7 +105,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289027"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289042",
@@ -105,7 +120,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289042"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289048",
@@ -120,7 +135,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289048"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-278884",
@@ -135,7 +150,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-278884"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-278889",
@@ -150,7 +165,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-278889"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289394",
@@ -165,7 +180,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289394"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-287820",
@@ -180,7 +195,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-287820"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-282720",
@@ -195,7 +210,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-282720"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-287047",
@@ -210,7 +225,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-287047"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-287146",
@@ -225,7 +240,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-287146"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-287188",
@@ -240,7 +255,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-287188"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289217",
@@ -255,7 +270,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289217"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-288835",
@@ -270,7 +285,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-288835"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-288941",
@@ -283,21 +298,6 @@
     "job_family": "Engineering",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-288941"
-  },
-  {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-288064",
-    "role": "Director, Product Manager \u2013Disputes",
-    "description": "Seeking a strategic leader to define and execute Mastercard's vision for the future of dispute management. Oversee the next-generation disputes platform, drive product strategy, and lead cross-functional teams. Ideal for experienced product managers with deep expertise in platform development and executive partnership.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "27-08-2026",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-288064"
   },
   {
     "id": 1,
