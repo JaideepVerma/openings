@@ -630,21 +630,6 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 8,
-    "company": "SWIGGY",
-    "industry": "Technology -Ecom",
-    "job_id": "23819",
-    "role": "Data Scientist II",
-    "description": "description",
-    "responsibilities": "What will you get to do here?\n\n\n * You will leverage your strong ML/DL/Statistics background to build new and \nnext generation of ML based solutions to improve the quality of ads \nrecommendation and leverage various optimization techniques to improve the \ncampaign performance.\n * You will mine and extract relevant information from Swiggy's massive \nhistorical data to help ideate and identify solutions to business and CX \nproblems.\n * You will work closely with engineers/PMs/analysts on detailed requirements, \ntechnical designs, and implementation of end-to-end inference solutions at \nSwiggy scale.\n * You will stay abreast with the latest in ML research for Ads Bidding \nalgorithms, Recommendation Systems related areas and help adapt it to Swiggy's \nproblem statements.\n * You will publish and talk about your work in internal and external forums \nto both technical and layman audiences.\n * Opportunity to work on challenging and impactful projects in the logistics \ndomain\n * Collaborate with cross-functional teams, including software developers and \nproduct managers, to integrate data-driven solutions into our systems\n * Develop and deploy machine learning and deep learning models\n * Take ownership of projects from inception to delivery, ensuring \nhigh-quality and impactful results.\n\n\nWhat qualities are we looking for?\n\n\n * Masters degree in areas related to Applied Mathematics, Machine Learning, \nStatistics\n * with 2 to 5 years of industry/research lab experience\n * Technically hands-on with deep dive expertise in applying ML to big data\n * History of having shipped ML data products\n *  Results-oriented team player with a strong sense of ownership\n *  Experience working with software developers, product managers and overall \nSDLC\n *  Experience in Deep Learning and previous experience in startups and/or \nproduct-based consumer/internet\n * companies is preferred\n\n\n",
-    "qualifications": "",
-    "location": "Bangalore",
-    "posting_date": "2026-08-13T13:04:50.901+0000",
-    "job_family": "Technology",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
-  },
-  {
     "id": 3,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
@@ -678,21 +663,6 @@
     "id": 5,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
-    "job_id": "27325",
-    "role": "Data Scientist I",
-    "description": "description",
-    "responsibilities": "What will you get to do here?\n\n\n * You will leverage your strong ML/DL/Statistics background to build new and \nnext generation of ML based solutions to improve the quality of ads \nrecommendation and leverage various optimization techniques to improve the \ncampaign performance.\n * You will mine and extract relevant information from Swiggy's massive \nhistorical data to help ideate and identify solutions to business and CX \nproblems.\n * You will work closely with engineers/PMs/analysts on detailed requirements, \ntechnical designs, and implementation of end-to-end inference solutions at \nSwiggy scale.\n * You will stay abreast with the latest in ML research for Ads Bidding \nalgorithms, Recommendation Systems related areas and help adapt it to Swiggy's \nproblem statements.\n * You will publish and talk about your work in internal and external forums \nto both technical and layman audiences.\n * Opportunity to work on challenging and impactful projects in the logistics \ndomain\n * Collaborate with cross-functional teams, including software developers and \nproduct managers, to integrate data-driven solutions into our systems\n * Develop and deploy machine learning and deep learning models\n * Take ownership of projects from inception to delivery, ensuring \nhigh-quality and impactful results.\n\n\nWhat qualities are we looking for?\n\n\n * Bachelors or Masters degree in a quantitative field with 1-3 years of \nindustry/research lab experience\n * Required: Excellent problem solving skills, ability to deconstruct and \nformulate solutions from first-principles\n * Required: Depth and hands-on experience in applying ML/DL, statistical \ntechniques to business problems\n * Preferred: Experience working with \u2018big data\u2019 and shipping ML/DL models to \nproduction\n * Required: Strong proficiency in Python, SQL, Spark, Tensorflow\n * Required: Strong spoken and written communication skills\n * Big plus: Experience in the space of ecommerce and logistics\n * Experience in Generative AI\n * Proven track record of developing and shipping ML and DL data products\n * Experience in Agentic AI , LLMS and NLP\n * Proficiency in Python\n\n\n",
-    "qualifications": "",
-    "location": "Sumadhura Capitol Towers",
-    "posting_date": "2026-06-11T06:01:18.380+0000",
-    "job_family": "Technology",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
-  },
-  {
-    "id": 6,
-    "company": "SWIGGY",
-    "industry": "Technology -Ecom",
     "job_id": "26579",
     "role": "Senior Manager - Data Science",
     "description": "description",
@@ -705,7 +675,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 7,
+    "id": 6,
     "company": "SWIGGY",
     "industry": "Technology -Ecom",
     "job_id": "25590",
@@ -720,7 +690,7 @@
     "apply_link": "https://careers.swiggy.com/#/careers?src=careers&career_page_category=Technology"
   },
   {
-    "id": 26,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487013",
@@ -735,7 +705,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487013"
   },
   {
-    "id": 27,
+    "id": 28,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487012",
@@ -750,7 +720,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487012"
   },
   {
-    "id": 28,
+    "id": 29,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10486999",
@@ -765,7 +735,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10486999"
   },
   {
-    "id": 29,
+    "id": 30,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10487194",
@@ -780,22 +750,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10487194"
   },
   {
-    "id": 30,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10498847",
-    "role": "Data Scientist II, AB Ops Analytics",
-    "description": "We are seeking a Data Scientist to join our analytics team. This person will own the design and implementation of scalable and reliable approaches to support or automate decision making throughout the business. You will do this by analyzing data with a variety of statistical techniques and then building, validating, and implementing models based your analysis. You will not be able to do this alone but by building partnerships across data, engineering, and business teams. Key job responsibilities Apply a range of data science techniques and tools combined with subject matter expertise to solve difficult customer or business problems and cases in which the solution approach is unclear. Proactively seek to identify business opportunities and insights and provide solutions to automate and optimize key internal and external products based on a broad and deep knowledge of Amazon data, industry best-practices, and work done by other teams. Dive deep into the data and other models across the business to identify defects or inefficiencies which materially impact the customer or business, but can be mitigated through corrective actions for the AB Ops use case Acquire this data by accessing data sources and building the necessary SQL/ETL queries or scripts. Analyze data for trends and input validity by inspecting univariate distributions, exploring bivariate relationships, constructing appropriate transformations, and tracking down the source and meaning of anomalies. Build models and automated tools using statistical modeling, mathematical modeling, econometric modeling, network modeling, social network modeling, natural language processing, machine learning algorithms, genetic algorithms, and neural networks. Validate these models against alternative approaches, expected and observed outcome, and other business defined key performance indicators. Implement these models in a manner which complies with evaluations of the computational demands, accuracy, and reliability of the relevant ETL processes at various stages of production. Enable product engineering teams to consume your models through services which can directly power customer-facing experiences. Inspect the key business metrics/KPIs (even if you did not create them) when your analytics work points to potential gaps or opportunities; providing clear, compelling analyses by leveraging your knowledge across the AWS suite of products to support the broader business. About the team Amazon Business (AB) launched in the United States in April 2015 with the vision of delivering a comprehensive procurement solution for business customers of all sizes. In the US, AB now serves Fortune 500 companies, hospital systems, local governments, and education organizations. To support AB's mission, the AB Operations team owns end to end customer experience for AB customers right from checkout to final mile delivery and sits under the broader Global Transportation Services (GTS). We are the Single Threaded WW Ops team driving B2B operations, developing products and programs unique to business customers, and enhancing the core Amazon delivery capabilities for commercial addresses. While Amazon has built its core operations over the last two decades mostly catered towards the end-consumer, we recognize that the business customers have unique needs and require a different set of features and services from their e-Commerce provider.",
-    "responsibilities": "responsibilities",
-    "qualifications": "- 2+ years of data scientist experience - 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience - 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience - 1+ years of guiding and coaching a group of researchers experience - 1+ years of working with or evaluating AI systems experience - 1+ years of creating or contributing to mathematical textbooks, research papers, or educational content experience - Master's degree in Science, Technology, Engineering, or Mathematics (STEM), or experience working in Science, Technology, Engineering, or Mathematics (STEM) - Experience applying theoretical models in an applied environment",
-    "location": "Hyderabad, Telangana, IND",
-    "posting_date": "28-07-2026",
-    "job_family": "Science",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10498847"
-  },
-  {
-    "id": 3,
+    "id": 4,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10521285",
@@ -810,7 +765,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10521285"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10521286",
@@ -825,7 +780,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10521286"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10521287",
@@ -840,7 +795,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10521287"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10515352",
@@ -855,7 +810,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10515352"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10516455",
@@ -870,7 +825,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10516455"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10516454",
@@ -885,7 +840,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10516454"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10517843",
@@ -900,7 +855,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10517843"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10507927",
@@ -915,7 +870,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10507927"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10526830",
@@ -930,7 +885,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10526830"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10515647",
@@ -945,7 +900,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10515647"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10514035",
@@ -960,7 +915,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10514035"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10513793",
@@ -975,7 +930,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10513793"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10512283",
@@ -990,7 +945,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10512283"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10513309",
@@ -1005,7 +960,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10513309"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10502808",
@@ -1020,7 +975,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10502808"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10510774",
@@ -1035,7 +990,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10510774"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497888",
@@ -1050,7 +1005,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497888"
   },
   {
-    "id": 20,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497886",
@@ -1065,7 +1020,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497886"
   },
   {
-    "id": 21,
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10497887",
@@ -1080,7 +1035,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10497887"
   },
   {
-    "id": 22,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499507",
@@ -1095,7 +1050,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499507"
   },
   {
-    "id": 23,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499456",
@@ -1110,7 +1065,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499456"
   },
   {
-    "id": 24,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10499455",
@@ -1125,7 +1080,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10499455"
   },
   {
-    "id": 25,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10490109",
@@ -1158,6 +1113,21 @@
     "id": 2,
     "company": "AMAZON",
     "industry": "FAANG",
+    "job_id": "10530749",
+    "role": "Manager III, Risk Management, REs-Q - Risk Mitigation, Escalation Reduction, and Quality Assurance",
+    "description": "Role Overview: This position leads a specialized team within Risk Mitigation, Escalation Reduction, and Quality Assurance (REs-Q), handling critical VP, SVP, and CEO-level Executive Escalations (EE) for Amazon's Fraud and Abuse Prevention (FnAP), Community Risk (CR), Perfect Order Experience (POE), and Muti-functional Escalations (MPE) vectors. Their team of 7 specialized Risk Managers manages 300+ high-priority cases annually, overseeing $1.1B in listings and serving 220,000 global customers, sellers, and brands. They are expected to maintain >99% accuracy in write-up resolutions within strict 80% 14-day and 21-day SLAs. 1.\tProblem Complexity: As the primary domain expert in complex fraud and abuse patterns, this role guides critical investigations that impact the entire organization. Leading cross-functional root cause analysis, the position handles EEs from virtually every business unit, working to maintain store trust and prevent business disruption. Past incidents have demonstrated how unresolved fraud cases can severely impact operations, often requiring direct executive intervention. The role's success depends on coordinating comprehensive responses across multiple teams - including Policy, Legal, Operations, Product, and Business units - to effectively combat emerging fraud patterns. 2.\tScope and Impact: EEs represent one of the most intricate areas of risk management, requiring expert judgment to identify subtle abuse patterns and sophisticated fraud schemes. The manager ensures quality, while addressing emerging threats company-wide. Their strategic decisions directly impact Seller, Customer, and Brand Experience metrics, influencing Amazon's global risk management strategy. 3.\tTeam & People Management: They lead both EEs and broader REs-Q strategy, providing hands-on mentorship to develop risk managers' technical and analytical capabilities through individualized career development plans. They drive operational planning through MBRs/QBRs, identify key investment areas, prioritize business impact, and negotiate resources with leadership. Monthly program reviews and consolidated reporting to L8-L10 leadership ensure team growth and operational excellence. 4.\tExecution & Process Improvement: The role drives 1\u20133-year strategic initiatives and continuous improvement through kaizens and best practice sharing. The manager develops team capabilities in automation while creating preventative mechanisms based on Root Cause Analysis. Resource allocation is optimized for cost-to-serve metrics and operational efficiency, with team members owning specific process improvements to reduce future escalations. 5.\tCommunication: The manager presents strategic decisions through compelling narratives to L8-L10 leadership and coaches team members in executive communication, stakeholder management, and influencing without authority. They guide the translation of complex technical findings into clear business impacts and mentor team members in developing investigation frameworks for global adoption, while managing sensitive communications during critical store escalations.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 7+ years of conducting workplace risk investigations experience - Experience in conducting workplace risk investigations - Experience leveraging technology to drive process improvements - Experience managing direct reports - Bachelor's degree or equivalent",
+    "location": "Bengaluru, Karnataka, IND",
+    "posting_date": "01-09-2026",
+    "job_family": "Risk Family",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10530749"
+  },
+  {
+    "id": 3,
+    "company": "AMAZON",
+    "industry": "FAANG",
     "job_id": "10523576",
     "role": "Sr Applied Scientist, Amazon Shipping",
     "description": "Lead ML teams building large-scale forecasting and optimization systems that power Amazon\u2019s global transportation network and directly impact customer experience and cost. As an Sr Applied Scientist, you will set scientific direction, mentor applied scientists, and partner with engineering and product leaders to deliver production-grade ML solutions at massive scale. Key job responsibilities 1. Lead and grow a high-performing team of Applied Scientists, providing technical guidance, mentorship, and career development. 2. Define and own the scientific vision and roadmap for ML solutions powering large-scale transportation planning and execution. 3. Guide model and system design across a range of techniques, including tree-based models, deep learning (LSTMs, transformers), LLMs, and reinforcement learning. 4. Ensure models are production-ready, scalable, and robust through close partnership with stakeholders. Partner with Product, Operations, and Engineering leaders to enable proactive decision-making and corrective actions. 5. Own end-to-end business metrics, directly influencing customer experience, cost optimization, and network reliability. 6. Help contribute to the broader ML community through publications, conference submissions, and internal knowledge sharing. A day in the life Your day includes reviewing model performance and business metrics, guiding technical design and experimentation, mentoring scientists, and driving roadmap execution. You\u2019ll balance near-term delivery with long-term innovation while ensuring solutions are robust, interpretable, and scalable. Ultimately, your work helps improve delivery reliability, reduce costs, and enhance the customer experience at massive scale.",
@@ -1188,21 +1158,6 @@
     "id": 1,
     "company": "Morgan Stanley",
     "industry": "Financial Services",
-    "job_id": "549799035704",
-    "role": "Operations Analyst - Parametric",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "04-09-2026",
-    "job_family": "Operations",
-    "job_function": "JobFunction...",
-    "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549799035704"
-  },
-  {
-    "id": 2,
-    "company": "Morgan Stanley",
-    "industry": "Financial Services",
     "job_id": "549799035973",
     "role": "Operations Analyst - Parametric",
     "description": "description...",
@@ -1213,6 +1168,21 @@
     "job_family": "Operations",
     "job_function": "JobFunction...",
     "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549799035973"
+  },
+  {
+    "id": 2,
+    "company": "Morgan Stanley",
+    "industry": "Financial Services",
+    "job_id": "549799035704",
+    "role": "Operations Analyst - Parametric",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "04-09-2026",
+    "job_family": "Operations",
+    "job_function": "JobFunction...",
+    "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549799035704"
   },
   {
     "id": 1,
