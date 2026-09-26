@@ -1548,21 +1548,6 @@
     "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210782649",
-    "role": "Software Engineer III",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team.\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "22-09-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782649"
-  },
-  {
-    "id": 33,
-    "company": "JPMC",
-    "industry": "Financial Services",
     "job_id": "210788024",
     "role": "Software Engineer II - Java, Kafka, AWS",
     "description": "Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way",
@@ -1575,7 +1560,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788024"
   },
   {
-    "id": 34,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210788637",
@@ -1590,19 +1575,34 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788637"
   },
   {
-    "id": 35,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210780009",
+    "job_id": "210783536",
     "role": "Software Engineer III",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "description": "Build secure, scalable Android apps in Kotlin and Java, owning features end to end while collaborating to deliver high quality releases",
     "responsibilities": null,
     "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
+    "location": "Bengaluru, Karnataka, India",
     "posting_date": "21-09-2026",
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780009"
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783536"
+  },
+  {
+    "id": 35,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210785860",
+    "role": "Lead Software Engineer - Data Engineer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "21-09-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785860"
   },
   {
     "id": 1,
