@@ -33,21 +33,6 @@
     "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R172248",
-    "role": "Computer Scientist 2",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "29-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R172248/apply"
-  },
-  {
-    "id": 4,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R172249",
     "role": "Computer Scientist 2",
     "description": "description",
@@ -60,7 +45,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-2_R172249/apply"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R172109",
@@ -75,7 +60,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Conversation-AI-Engineer_R172109/apply"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167125",
@@ -88,6 +73,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Scientist---Firefly-Enterprise_R167125-1/apply"
+  },
+  {
+    "id": 6,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R172248",
+    "role": "Computer Scientist 2",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "29-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R172248/apply"
   },
   {
     "id": 7,
@@ -153,21 +153,6 @@
     "id": 11,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R171304",
-    "role": "Software Development Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171304/apply"
-  },
-  {
-    "id": 12,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R171858",
     "role": "Software Development Engineer 3 - Microsoft Dynamics Developer",
     "description": "description",
@@ -180,37 +165,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-3---Microsoft-Dynamics-Developer_R171858/apply"
   },
   {
-    "id": 13,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171678",
-    "role": "Software Development Engineer 3 - Graph Engineering",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Graph-Engineering_R171678-1/apply"
-  },
-  {
-    "id": 14,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171478",
-    "role": "Machine Learning Engineer 4",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R171478-1/apply"
-  },
-  {
-    "id": 15,
+    "id": 12,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171305",
@@ -225,22 +180,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R171305/apply"
   },
   {
-    "id": 16,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171066",
-    "role": "Senior Machine Learning Engineer 5",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "18-09-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Applied-Scientist-5_R171066/apply"
-  },
-  {
-    "id": 17,
+    "id": 13,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171581",
@@ -255,7 +195,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I--Frontend-_R171581/apply"
   },
   {
-    "id": 18,
+    "id": 14,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171105",
@@ -270,7 +210,82 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist--C--_R171105/apply"
   },
   {
+    "id": 15,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171478",
+    "role": "Machine Learning Engineer 4",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "18-09-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R171478-1/apply"
+  },
+  {
+    "id": 16,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170857",
+    "role": "Machine Learning Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-09-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R170857/apply"
+  },
+  {
+    "id": 17,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171327",
+    "role": "Computer Scientist 2",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-2_R171327/apply"
+  },
+  {
+    "id": 18,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170860",
+    "role": "Machine Learning Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-09-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Computer-Scientist-1--Front-End-_R170860/apply"
+  },
+  {
     "id": 19,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171678",
+    "role": "Software Development Engineer 3 - Graph Engineering",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "18-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Graph-Engineering_R171678-1/apply"
+  },
+  {
+    "id": 20,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171487",
@@ -283,21 +298,6 @@
     "job_family": "Engineering and Product",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-3_R171487-1/apply"
-  },
-  {
-    "id": 20,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171493",
-    "role": "Machine Learning Engineer 3",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "18-09-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R171493-1/apply"
   },
   {
     "id": 1,
@@ -870,21 +870,6 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/data-analyst/13015/101347217648"
   },
   {
-    "id": 16,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "100798317776",
-    "role": "Transaction Monitoring Analytics VP",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Gurugram, India",
-    "posting_date": "29-09-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/gurugram/transaction-monitoring-analytics-vp/13015/100798317776"
-  },
-  {
     "id": 2,
     "company": "Barclays",
     "industry": "Financial Services",
@@ -930,7 +915,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/fincrime-screening-data-scientist-avp/13015/100932944464"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100305152096",
@@ -945,7 +930,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/vp-data-analytics-and-ai-lead/13015/100305152096"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100305152032",
@@ -1740,6 +1725,21 @@
     "apply_link": "https://jobs.zs.com/all/jobs/67517"
   },
   {
+    "id": 20,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-259114",
+    "role": "Managing Consultant, Advisors & Consulting Services, Performance Analytics",
+    "description": "Are you looking for a role that leverages your expertise in data analytics to deliver actionable insights? Join a dynamic team where you'll manage complex projects, utilize advanced analytical tools, and drive innovation in the retail sector with your 5-7 years of experience.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "30-09-2026",
+    "job_family": "Consulting",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-259114"
+  },
+  {
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
@@ -1758,21 +1758,6 @@
     "id": 2,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-277676",
-    "role": "Sr. Technical Program Manager",
-    "description": "Lead complex, cross-functional technical programmes to secure Mastercard\u2019s assets, ensuring alignment with strategic priorities. Drive end-to-end execution and deliver measurable impact. Ideal for experienced technical programme managers with strong stakeholder influence and a background in software development and agile delivery.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "03-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-277676"
-  },
-  {
-    "id": 3,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
     "job_id": "R-289988",
     "role": "Analyst, Big Data Analytics & Engineering",
     "description": "We are currently hiring an Analyst, Big Data Analytics & Engineering to develop and optimise tools for value quantification and customer engagement. You will manage large datasets, create business intelligence dashboards, and collaborate with cross-functional teams. Ideal candidates have strong technical skills in analytics, business intelligence, and experience with SQL and Python.",
@@ -1785,7 +1770,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289988"
   },
   {
-    "id": 4,
+    "id": 3,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-286197",
@@ -1800,7 +1785,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-286197"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292494",
@@ -1815,7 +1800,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292494"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-290625",
@@ -1830,7 +1815,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-290625"
   },
   {
-    "id": 7,
+    "id": 6,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289043",
@@ -1845,7 +1830,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289043"
   },
   {
-    "id": 8,
+    "id": 7,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289566",
@@ -1860,7 +1845,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289566"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291105",
@@ -1875,7 +1860,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291105"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289494",
@@ -1890,7 +1875,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289494"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-279351",
@@ -1905,7 +1890,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-279351"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-290199",
@@ -1920,7 +1905,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-290199"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291365",
@@ -1935,7 +1920,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291365"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291718",
@@ -1950,7 +1935,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291718"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291633",
@@ -1965,7 +1950,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291633"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289829",
@@ -1980,7 +1965,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289829"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291944",
@@ -1995,7 +1980,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291944"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291096",
@@ -2010,7 +1995,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291096"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291806",
@@ -2025,7 +2010,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291806"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291033",
