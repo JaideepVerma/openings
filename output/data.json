@@ -33,21 +33,6 @@
     "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R172248",
-    "role": "Computer Scientist 2",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "29-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R172248/apply"
-  },
-  {
-    "id": 4,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R172249",
     "role": "Computer Scientist 2",
     "description": "description",
@@ -60,7 +45,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-2_R172249/apply"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R172109",
@@ -75,7 +60,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Conversation-AI-Engineer_R172109/apply"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R167125",
@@ -88,6 +73,21 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Scientist---Firefly-Enterprise_R167125-1/apply"
+  },
+  {
+    "id": 6,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R172248",
+    "role": "Computer Scientist 2",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "29-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R172248/apply"
   },
   {
     "id": 7,
@@ -153,21 +153,6 @@
     "id": 11,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R171304",
-    "role": "Software Development Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171304/apply"
-  },
-  {
-    "id": 12,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R171858",
     "role": "Software Development Engineer 3 - Microsoft Dynamics Developer",
     "description": "description",
@@ -180,37 +165,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-3---Microsoft-Dynamics-Developer_R171858/apply"
   },
   {
-    "id": 13,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171678",
-    "role": "Software Development Engineer 3 - Graph Engineering",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Graph-Engineering_R171678-1/apply"
-  },
-  {
-    "id": 14,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171478",
-    "role": "Machine Learning Engineer 4",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R171478-1/apply"
-  },
-  {
-    "id": 15,
+    "id": 12,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171305",
@@ -225,22 +180,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R171305/apply"
   },
   {
-    "id": 16,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171066",
-    "role": "Senior Machine Learning Engineer 5",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "18-09-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Applied-Scientist-5_R171066/apply"
-  },
-  {
-    "id": 17,
+    "id": 13,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171581",
@@ -255,7 +195,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-I--Frontend-_R171581/apply"
   },
   {
-    "id": 18,
+    "id": 14,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171105",
@@ -270,7 +210,82 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist--C--_R171105/apply"
   },
   {
+    "id": 15,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171478",
+    "role": "Machine Learning Engineer 4",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "18-09-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-4_R171478-1/apply"
+  },
+  {
+    "id": 16,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170857",
+    "role": "Machine Learning Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-09-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R170857/apply"
+  },
+  {
+    "id": 17,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171327",
+    "role": "Computer Scientist 2",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-2_R171327/apply"
+  },
+  {
+    "id": 18,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170860",
+    "role": "Machine Learning Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-09-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Computer-Scientist-1--Front-End-_R170860/apply"
+  },
+  {
     "id": 19,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171678",
+    "role": "Software Development Engineer 3 - Graph Engineering",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "18-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Graph-Engineering_R171678-1/apply"
+  },
+  {
+    "id": 20,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171487",
@@ -283,21 +298,6 @@
     "job_family": "Engineering and Product",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-3_R171487-1/apply"
-  },
-  {
-    "id": 20,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171493",
-    "role": "Machine Learning Engineer 3",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "18-09-2026",
-    "job_family": "Engineering and Product",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-3_R171493-1/apply"
   },
   {
     "id": 1,
@@ -345,7 +345,7 @@
     "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549798106958"
   },
   {
-    "id": 25,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10554991",
@@ -375,7 +375,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10561089"
   },
   {
-    "id": 26,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10521285",
@@ -390,7 +390,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10521285"
   },
   {
-    "id": 27,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10521286",
@@ -405,7 +405,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10521286"
   },
   {
-    "id": 28,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10521287",
@@ -438,21 +438,6 @@
     "id": 3,
     "company": "AMAZON",
     "industry": "FAANG",
-    "job_id": "10564417",
-    "role": "Applied Scientist I, Buyer Risk Prevention (BRP)",
-    "description": "Do you want to join an innovative team applying machine learning and advanced statistical techniques to protect Amazon customers and enable a trusted eCommerce experience? Are you excited about working with large-scale datasets and developing models that solve real-world fraud and risk challenges? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right fit for you. We are seeking an Applied Scientist to help develop scalable machine learning solutions that safeguard millions of transactions every day. In this role, you will partner with senior scientists and engineers to translate business problems into data-driven solutions, build and evaluate models, and contribute to next-generation risk prevention systems, including applications of Generative AI and LLM technologies. Key job responsibilities Apply machine learning and statistical techniques to build and improve risk management models Analyze large-scale historical data to identify risk patterns and emerging trends Develop, validate, and deploy innovative models under the guidance of senior scientists Experiment with emerging technologies, including GenAI/LLMs, to enhance automation and risk evaluation Collaborate closely with software engineers to implement models in real-time production systems Partner with operations and business teams to improve risk policies and operational efficiency Build scalable, automated pipelines for data analysis, model training, and validation Monitor model performance and provide clear reporting on key risk and business metrics Research and prototype new modeling approaches to improve system performance",
-    "responsibilities": "responsibilities",
-    "qualifications": "- Experience programming in Java, C++, Python or related language - Experience with SQL and an RDBMS (e.g., Oracle) or Data Warehouse - Master's degree in Engineering, Computer Science, Machine Learning, Operations Research, Statistics, or related fields - Experience building machine learning models or developing algorithms for business application",
-    "location": "Bengaluru, Karnataka, IND",
-    "posting_date": "25-09-2026",
-    "job_family": "Applied Science",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10564417"
-  },
-  {
-    "id": 4,
-    "company": "AMAZON",
-    "industry": "FAANG",
     "job_id": "10567079",
     "role": "Applied Scientist II, Buyer Risk Prevention (BRP)",
     "description": "Do you want to join an innovative team of scientists applying machine learning and advanced statistical techniques to protect Amazon customers and enable a trusted eCommerce experience? Are you excited about modeling terabytes of data and building state-of-the-art algorithms to solve complex, real-world fraud and risk challenges? Do you enjoy owning end-to-end machine learning problems, directly influencing customer experience and company profitability, while collaborating in a diverse, high-performing team? If so, the Amazon Buyer Risk Prevention (BRP) Machine Learning team may be the right fit for you. We are seeking an Applied Scientist to design, develop, and deploy advanced algorithmic systems that safeguard millions of transactions every day. In this role, you will independently drive model development from problem formulation to production deployment, build scalable ML solutions, and leverage emerging technologies\u2014including Generative AI and LLMs\u2014to enhance fraud detection and next-generation risk prevention systems. Key job responsibilities Own end-to-end development of machine learning models for large-scale risk management systems Analyze large volumes of historical and real-time data to identify fraud patterns and emerging risk trends Design, develop, validate, and deploy innovative models to production environments Apply GenAI/LLM technologies to automate risk evaluation and improve operational efficiency Collaborate closely with software engineering teams to implement scalable, real-time model solutions Partner with operations and business stakeholders to translate risk insights into measurable impact Establish scalable and automated processes for data analysis, model experimentation, validation, and monitoring Track model performance and business metrics; communicate insights clearly to technical and non-technical stakeholders Research and implement novel machine learning and statistical methodologies",
@@ -465,7 +450,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10567079"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10567078",
@@ -480,7 +465,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10567078"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10563414",
@@ -495,7 +480,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10563414"
   },
   {
-    "id": 7,
+    "id": 6,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10563687",
@@ -510,7 +495,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10563687"
   },
   {
-    "id": 29,
+    "id": 28,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10516455",
@@ -525,7 +510,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10516455"
   },
   {
-    "id": 30,
+    "id": 29,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10516454",
@@ -540,7 +525,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10516454"
   },
   {
-    "id": 8,
+    "id": 7,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10560170",
@@ -555,7 +540,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10560170"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10558453",
@@ -570,7 +555,22 @@
     "apply_link": "https://amazon.jobs/en/jobs/10558453"
   },
   {
-    "id": 10,
+    "id": 30,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10517843",
+    "role": "Sr Manager, Software Dev, 3P AM Gen AI Solutions, ISS",
+    "description": "International Seller Services (ISS) is looking for an innovative and inspirational Sr Software Development Manager to lead our teams in our journey to transform our experience to recruit, launch and grow 3P sellers WW. In this role, you will work with Product Managers, Engineering Teams and 3P Account Specialists all over the world in building and launching innovative AI solutions at a rapid pace. You will be a manager of managers, leading SDE and Salesforce development teams that are dynamically defining, refining and launching bar raising products for our customers. You will have the opportunity to learn and implement the latest AI products and solutions. Key job responsibilities A successful technology leader at Amazon is a hands-on business, technology, and operations leader with strong analytical and problem-solving skills. While they rely on data, they are equally effective in making judgment base decisions. They detect signal from noise, and prioritize ruthlessly in the interest of Amazon customers. Frequently, they have to make bold decisions in a timely manner. They think out of the box, and encourage and support their teams in doing so. They communicate effectively at all levels, including the most junior engineers to business and technology VPs and Directors at Amazon, in individual and group setting. A day in the life As a part of this role, you will: - Develop technology strategies to enable long-term strategic objectives and business goals. - Lead a team to contiuously learn the latest AI tools and techniques and how to mold them into bar raising products for 3P Sellers and AMs - Participate in and Influence cross org technology decisions. - Conduct business reviews with key customers and stakeholders. - Lead and develop a complex distributed software development organization. - Foster team culture inspired by Amazon's leadership principals. - Hire, mentor, coach and develop the necessary skills in your organization. - Own product operations, including maintenance, upgrades, modernization, and deprecation of software. - Define software development processes, conduct reviews, and report progress. About the team ISS team's mission is to build AI-driven products that help over 6000 Account Managers and millions of sellers to launch and grow on Amazon worldwide.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 10+ years of engineering experience - 5+ years of engineering team management experience - 10+ years of planning, designing, developing and delivering consumer software experience - Experience partnering with product or program management teams - Experience managing multiple concurrent programs, projects and development teams in an Agile environment - Ability and Inquisitiveness to keep up to date with Amazon and industry wide breakthroughs on Generative AI and Agentic AI products, solutions and techniques.",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "21-08-2026",
+    "job_family": "Software Development",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10517843"
+  },
+  {
+    "id": 9,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10554136",
@@ -585,7 +585,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10554136"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10566507",
@@ -600,7 +600,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10566507"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10551517",
@@ -615,7 +615,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10551517"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10555817",
@@ -630,7 +630,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10555817"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10551655",
@@ -645,7 +645,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10551655"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10563442",
@@ -660,7 +660,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10563442"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10563441",
@@ -675,7 +675,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10563441"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10537213",
@@ -690,7 +690,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10537213"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10533796",
@@ -705,7 +705,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10533796"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10530900",
@@ -720,7 +720,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10530900"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10554994",
@@ -735,7 +735,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10554994"
   },
   {
-    "id": 21,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10537086",
@@ -750,7 +750,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10537086"
   },
   {
-    "id": 22,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10531907",
@@ -765,7 +765,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10531907"
   },
   {
-    "id": 23,
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10526539",
@@ -780,7 +780,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10526539"
   },
   {
-    "id": 24,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10535555",
@@ -793,21 +793,6 @@
     "job_family": "Software Development",
     "job_function": "Job-Function",
     "apply_link": "https://amazon.jobs/en/jobs/10535555"
-  },
-  {
-    "id": 11,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "94817767152",
-    "role": "Data & Records Business Partner AVP",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida, India",
-    "posting_date": "30-09-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/data-and-records-business-partner-avp/13015/94817767152"
   },
   {
     "id": 5,
@@ -855,7 +840,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/senior-data-analyst-avp/13015/98423259280"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "101347217648",
@@ -885,7 +870,7 @@
     "apply_link": "https://search.jobs.barclays/job/chennai/campaign-execution-analyst/13015/99058694544"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "92190233904",
@@ -900,22 +885,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/senior-python-developer/13015/92190233904"
   },
   {
-    "id": 15,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "100932944464",
-    "role": "Fincrime Screening Data Scientist - AVP",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida, India; Gurugram, India",
-    "posting_date": "28-09-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/fincrime-screening-data-scientist-avp/13015/100932944464"
-  },
-  {
-    "id": 16,
+    "id": 14,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100305152096",
@@ -930,7 +900,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/vp-data-analytics-and-ai-lead/13015/100305152096"
   },
   {
-    "id": 17,
+    "id": 15,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100305152032",
@@ -960,7 +930,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-modeller/13015/99661802304"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100977449680",
@@ -1050,22 +1020,7 @@
     "apply_link": "https://search.jobs.barclays/job/noida/decision-analyst/13015/95050023888"
   },
   {
-    "id": 19,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210793790",
-    "role": "Product Manager \u2013 Business Banking -SMB Client & Frontline Experiences (Engage & Deepen)",
-    "description": "Lead product strategy to boost banker productivity and client engagement through optimized workflows, automation, and smart insights\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "30-09-2026",
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793790"
-  },
-  {
-    "id": 20,
+    "id": 15,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210755322",
@@ -1080,7 +1035,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755322"
   },
   {
-    "id": 21,
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210784396",
@@ -1095,7 +1050,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784396"
   },
   {
-    "id": 22,
+    "id": 17,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210788189",
@@ -1110,7 +1065,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788189"
   },
   {
-    "id": 23,
+    "id": 18,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210788631",
@@ -1125,7 +1080,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788631"
   },
   {
-    "id": 24,
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210788638",
@@ -1140,7 +1095,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788638"
   },
   {
-    "id": 25,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210789752",
@@ -1155,7 +1110,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789752"
   },
   {
-    "id": 26,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210791588",
@@ -1170,7 +1125,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791588"
   },
   {
-    "id": 27,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210791815",
@@ -1185,7 +1140,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791815"
   },
   {
-    "id": 28,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210791823",
@@ -1200,7 +1155,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791823"
   },
   {
-    "id": 29,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210792087",
@@ -1215,7 +1170,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792087"
   },
   {
-    "id": 30,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210792810",
@@ -1230,7 +1185,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792810"
   },
   {
-    "id": 31,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210792906",
@@ -1245,37 +1200,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792906"
   },
   {
-    "id": 32,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210792958",
-    "role": "Lead Software Engineer - Java",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "30-09-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792958"
-  },
-  {
-    "id": 33,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210793417",
-    "role": "Software Engineer II - Java, Springboot, React",
-    "description": "As a Software Engineer II at JPMorganChase within the Commercial & Investment Bank, Payments Technology team, you will be a hands-on software engineer contributing to the design, development, testing, and support of applications.\n\nYou will work within an agile engineering team to deliver secure, stable, and maintainable software solutions using Java, Spring Boot, React, and modern web technologies. This role provides the opportunity to further develop your engineering skills, learn from experienced technologists, and build a strong understanding of the systems, platforms, and business processes you support.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "30-09-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793417"
-  },
-  {
-    "id": 34,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210793430",
@@ -1290,7 +1215,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793430"
   },
   {
-    "id": 35,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210793876",
@@ -1305,37 +1230,157 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793876"
   },
   {
-    "id": 1,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210718313",
-    "role": "Senior Lead Software Engineer - Java, Kafka, Cloud",
+    "job_id": "210794369",
+    "role": "Senior Lead Software Engineer - Java/Python, AWS",
+    "description": "Drive business impact and solve diverse challenges as a Senior Lead Software Engineer in Agentic AI.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "30-09-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794369"
+  },
+  {
+    "id": 30,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210794452",
+    "role": "Lead Software Engineer - Python Full stack developer",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "30-09-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794452"
+  },
+  {
+    "id": 31,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210794460",
+    "role": "Software Engineer III - Full stack Developer - Python/React",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "30-09-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794460"
+  },
+  {
+    "id": 32,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210795410",
+    "role": "Sr Lead Software Engineer",
     "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
     "responsibilities": null,
     "qualifications": null,
     "location": "Mumbai, Maharashtra, India",
-    "posting_date": "02-10-2026",
+    "posting_date": "30-09-2026",
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718313"
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795410"
+  },
+  {
+    "id": 33,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210787655",
+    "role": "Associate - Product Analysis (Fixed Income)",
+    "description": "The SAIC team is responsible for analysis and execution of Financial Accounting architecture changes, supporting FC/ACC & PC.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "29-09-2026",
+    "job_family": "Program Management",
+    "job_function": "Finance",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787655"
+  },
+  {
+    "id": 34,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210794364",
+    "role": "Associate Analytics Solutions",
+    "description": "As a Data Strategy & Transformation Associate, you will help define and execute data strategies and transformation initiatives, partnering with cross-functional teams to strengthen data processes and improve data quality. The role emphasizes the development, enhancement, and ongoing support of data visualization and analytics platform tools.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "29-09-2026",
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794364"
+  },
+  {
+    "id": 35,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210794814",
+    "role": "Vice President - Data & Analytics Solutions",
+    "description": "Testing Center of Excellence \u2013 Data & Automation Services \nAnalytics Solutions Manager\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "29-09-2026",
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794814"
+  },
+  {
+    "id": 1,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210770871",
+    "role": "Software Engineer III Java/Python Spark AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "05-10-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770871"
   },
   {
     "id": 2,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210743912",
-    "role": "Software Engineer II",
-    "description": "As a member of our Quality Assurance team, you'll be Designing and Automating Test Cases",
+    "job_id": "210785306",
+    "role": "Senior Manager of Software Engineering - Java, AWS, AI",
+    "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams",
     "responsibilities": null,
     "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "02-10-2026",
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "05-10-2026",
     "job_family": "Software Engineering",
     "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743912"
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785306"
   },
   {
     "id": 3,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210714912",
+    "role": "Software Engineer III - Back-end Engineer - Chase UK",
+    "description": "We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank.",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "04-10-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210714912"
+  },
+  {
+    "id": 4,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210783441",
@@ -1348,21 +1393,6 @@
     "job_family": "Product Management",
     "job_function": "Technology",
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783441"
-  },
-  {
-    "id": 4,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210793227",
-    "role": "Product Manager",
-    "description": "\nLead product innovation, promote customer value, and deliver impactful, high-quality launches that exceed expectations.\n",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "01-10-2026",
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793227"
   },
   {
     "id": 5,
@@ -1398,21 +1428,6 @@
     "id": 7,
     "company": "JPMC",
     "industry": "Financial Services",
-    "job_id": "210763461",
-    "role": "Software Engineer III - Java AWS",
-    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "01-10-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763461"
-  },
-  {
-    "id": 8,
-    "company": "JPMC",
-    "industry": "Financial Services",
     "job_id": "210770656",
     "role": "Lead Software Engineer - Java, Spring Boot",
     "description": "Be part of the Digital Markets Execution Technology team to lead the development of our Markets Execute platform. ",
@@ -1425,7 +1440,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770656"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210772817",
@@ -1440,7 +1455,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772817"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210774712",
@@ -1455,7 +1470,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774712"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210780977",
@@ -1470,37 +1485,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780977"
   },
   {
-    "id": 12,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210784415",
-    "role": "Lead Software Engineer- Salesforce",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "01-10-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784415"
-  },
-  {
-    "id": 13,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210785306",
-    "role": "Senior Manager of Software Engineering - Java, AWS, AI",
-    "description": "Serve in a leadership role by providing technical coaching and advisory for multiple technical teams",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "01-10-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785306"
-  },
-  {
-    "id": 14,
+    "id": 11,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210787954",
@@ -1515,22 +1500,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787954"
   },
   {
-    "id": 15,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210788981",
-    "role": "Principal Software Engineer \u2014 AI & Data Engineering",
-    "description": "Provide expertise and engineering excellence to enhance, build and deliver market-leading technologies within the firm",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "01-10-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788981"
-  },
-  {
-    "id": 16,
+    "id": 12,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210792051",
@@ -1545,7 +1515,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792051"
   },
   {
-    "id": 17,
+    "id": 13,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210792857",
@@ -1560,7 +1530,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792857"
   },
   {
-    "id": 18,
+    "id": 14,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210794073",
@@ -1725,6 +1695,21 @@
     "apply_link": "https://jobs.zs.com/all/jobs/67517"
   },
   {
+    "id": 20,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-259114",
+    "role": "Managing Consultant, Advisors & Consulting Services, Performance Analytics",
+    "description": "Are you looking for a role that leverages your expertise in data analytics to deliver actionable insights? Join a dynamic team where you'll manage complex projects, utilize advanced analytical tools, and drive innovation in the retail sector with your 5-7 years of experience.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurgaon",
+    "posting_date": "30-09-2026",
+    "job_family": "Consulting",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-259114"
+  },
+  {
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
@@ -1758,21 +1743,6 @@
     "id": 3,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-289988",
-    "role": "Analyst, Big Data Analytics & Engineering",
-    "description": "We are currently hiring an Analyst, Big Data Analytics & Engineering to develop and optimise tools for value quantification and customer engagement. You will manage large datasets, create business intelligence dashboards, and collaborate with cross-functional teams. Ideal candidates have strong technical skills in analytics, business intelligence, and experience with SQL and Python.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "03-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-289988"
-  },
-  {
-    "id": 4,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
     "job_id": "R-286197",
     "role": "Senior Specialist, HR Services",
     "description": "Exciting opportunity for a Senior Specialist, HR Services to manage complex global mobility cases and ensure compliance within a shared services environment. Oversee relocation, immigration, and assignment processes, collaborating with cross-functional teams. Ideal for candidates with strong HR operations experience and expertise in global mobility policy.",
@@ -1785,7 +1755,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-286197"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292494",
@@ -1800,7 +1770,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292494"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-290625",
@@ -1815,82 +1785,22 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-290625"
   },
   {
-    "id": 7,
+    "id": 6,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-289494",
-    "role": "Specialist, Product Management",
-    "description": "We are looking for an accomplished Product Specialist to support the delivery and evolution of Business Intelligence products at Mastercard. Join us to empower customers with data-driven insights and enhance business performance through innovative analytics solutions.",
+    "job_id": "R-289043",
+    "role": "Vice President, Settlement & Currency Services",
+    "description": "We are looking for a Vice President, Settlement & Currency Services to lead settlement and FX capability development across AP & EEMEA. Drive regional initiatives, support regulatory reporting, and manage stakeholder relationships. Ideal for an experienced leader in payment systems with expertise in treasury settlements and global regulatory compliance.",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Gurgaon",
     "posting_date": "01-10-2026",
-    "job_family": "Product Management",
+    "job_family": "Finance",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-289494"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-289043"
   },
   {
-    "id": 8,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-289829",
-    "role": "Lead Technology Risk Analyst",
-    "description": "We are expanding our team: As a Lead Technology Risk Analyst, you will drive the implementation of technology risk management and governance programmes, partnering with cross-functional teams to ensure robust controls and operational resilience. Ideal candidates bring strong experience in technology risk, governance, and operational resilience.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "01-10-2026",
-    "job_family": "Cyber and Corporate Security",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-289829"
-  },
-  {
-    "id": 9,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-291944",
-    "role": "Manager, Product Management",
-    "description": "Join us as a Manager, Product Management to drive the commercialisation and go-to-market strategy for Mastercard\u2019s Operational Insights Programme. Lead cross-functional teams, shape product vision, and ensure alignment with business priorities. Ideal for experienced product managers with a strong background in analytical products and financial services.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "01-10-2026",
-    "job_family": "Product Management",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-291944"
-  },
-  {
-    "id": 10,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-291096",
-    "role": "Lead Software Engineer",
-    "description": "Seeking a Lead Software Engineer to drive technical leadership and architecture for high-performance analytics platforms. Mentor engineers, influence design decisions, and collaborate with global teams. Ideal for candidates with over 10 years' software engineering experience and strong expertise in Java, ReactJS, and data-driven backend applications.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "01-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-291096"
-  },
-  {
-    "id": 11,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-291806",
-    "role": "Lead Software Engineer",
-    "description": "We are looking for a Lead Software Engineer to drive the development and delivery of enhanced software solutions, ensuring high-quality, innovative, and cost-effective outcomes. You will lead major projects, collaborate with cross-functional teams, and mentor team members. Ideal candidates bring advanced software engineering expertise and experience in secure financial services.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Navi Mumbai",
-    "posting_date": "01-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-291806"
-  },
-  {
-    "id": 12,
+    "id": 7,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289566",
@@ -1905,19 +1815,94 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289566"
   },
   {
-    "id": 13,
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-289043",
-    "role": "Vice President, Settlement & Currency Services",
-    "description": "We are looking for a Vice President, Settlement & Currency Services to lead settlement and FX capability development across AP & EEMEA. Drive regional initiatives, support regulatory reporting, and manage stakeholder relationships. Ideal for an experienced leader in payment systems with expertise in treasury settlements and global regulatory compliance.",
+    "job_id": "R-291105",
+    "role": "Lead Data Engineer (Data Platforms)",
+    "description": "Take on the role of Lead Data Engineer to design and build cloud-based data and analytics solutions within Mastercard\u2019s Data Commercialization Platform. Drive the development of scalable data pipelines and analytics frameworks, leveraging Databricks, Snowflake, and AWS. Ideal for experienced engineers with strong expertise in cloud-native platforms and multi-cloud integration.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "01-10-2026",
+    "job_family": "AI & Data",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-291105"
+  },
+  {
+    "id": 9,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-289494",
+    "role": "Specialist, Product Management",
+    "description": "We are looking for an accomplished Product Specialist to support the delivery and evolution of Business Intelligence products at Mastercard. Join us to empower customers with data-driven insights and enhance business performance through innovative analytics solutions.",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Gurgaon",
     "posting_date": "01-10-2026",
-    "job_family": "Finance",
+    "job_family": "Product Management",
     "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-289043"
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-289494"
+  },
+  {
+    "id": 10,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-279351",
+    "role": "Senior Site Reliability Engineer",
+    "description": "Join our team as a Senior Site Reliability Engineer to support Ethoca\u2019s scalable, secure, and high-availability database operations. Collaborate with cross-functional teams, implement robust security measures, and optimise database performance. Ideal for experienced professionals with a strong background in database administration and cloud technologies.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "01-10-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-279351"
+  },
+  {
+    "id": 11,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-290199",
+    "role": "Lead Software Engineer",
+    "description": "Lead Software Engineer at Mastercard will drive the design and development of scalable software solutions, focusing on transaction processing, analytics, and APIs. The role requires hands-on expertise in Java, Spring, and AI-based development, with a strong emphasis on secure coding and cross-functional collaboration. Ideal for experienced engineers with a passion for innovation and high-quality delivery.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "01-10-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-290199"
+  },
+  {
+    "id": 12,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-291365",
+    "role": "Software Engineer-2",
+    "description": "We are looking for a Software Engineer-2 to design, develop, and maintain software applications and automation solutions. You will collaborate with cross-functional teams and contribute to scalable, high-quality engineering. Ideal candidates have strong Java skills and experience in test automation within enterprise environments.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Navi Mumbai",
+    "posting_date": "01-10-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-291365"
+  },
+  {
+    "id": 13,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-291718",
+    "role": "Job Title Software Engineer II",
+    "description": "Join us as a Software Engineer II to drive customer experience strategy by translating complex requirements into robust solutions. Collaborate with cross-functional teams, participate in code reviews, and contribute to high-quality product development. Ideal for candidates with strong analytical skills and experience in C, C++, and Unix environments.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "01-10-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-291718"
   },
   {
     "id": 14,
@@ -1938,6 +1923,66 @@
     "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-289829",
+    "role": "Lead Technology Risk Analyst",
+    "description": "We are expanding our team: As a Lead Technology Risk Analyst, you will drive the implementation of technology risk management and governance programmes, partnering with cross-functional teams to ensure robust controls and operational resilience. Ideal candidates bring strong experience in technology risk, governance, and operational resilience.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "01-10-2026",
+    "job_family": "Cyber and Corporate Security",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-289829"
+  },
+  {
+    "id": 16,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-291944",
+    "role": "Manager, Product Management",
+    "description": "Join us as a Manager, Product Management to drive the commercialisation and go-to-market strategy for Mastercard\u2019s Operational Insights Programme. Lead cross-functional teams, shape product vision, and ensure alignment with business priorities. Ideal for experienced product managers with a strong background in analytical products and financial services.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "01-10-2026",
+    "job_family": "Product Management",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-291944"
+  },
+  {
+    "id": 17,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-291096",
+    "role": "Lead Software Engineer",
+    "description": "Seeking a Lead Software Engineer to drive technical leadership and architecture for high-performance analytics platforms. Mentor engineers, influence design decisions, and collaborate with global teams. Ideal for candidates with over 10 years' software engineering experience and strong expertise in Java, ReactJS, and data-driven backend applications.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "01-10-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-291096"
+  },
+  {
+    "id": 18,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-291806",
+    "role": "Lead Software Engineer",
+    "description": "We are looking for a Lead Software Engineer to drive the development and delivery of enhanced software solutions, ensuring high-quality, innovative, and cost-effective outcomes. You will lead major projects, collaborate with cross-functional teams, and mentor team members. Ideal candidates bring advanced software engineering expertise and experience in secure financial services.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Navi Mumbai",
+    "posting_date": "01-10-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-291806"
+  },
+  {
+    "id": 19,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-291033",
     "role": "Lead Data Scientist",
     "description": "Join our team as a Lead Data Scientist, driving advanced analytics initiatives to deliver actionable insights for critical business challenges. Lead end-to-end data science projects, mentor team members, and collaborate with stakeholders to translate business needs into scalable solutions. Ideal for experienced professionals with strong technical expertise in analytics and leadership.",
@@ -1948,81 +1993,6 @@
     "job_family": "AI & Data",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291033"
-  },
-  {
-    "id": 16,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-279351",
-    "role": "Senior Site Reliability Engineer",
-    "description": "Join our team as a Senior Site Reliability Engineer to support Ethoca\u2019s scalable, secure, and high-availability database operations. Collaborate with cross-functional teams, implement robust security measures, and optimise database performance. Ideal for experienced professionals with a strong background in database administration and cloud technologies.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "01-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-279351"
-  },
-  {
-    "id": 17,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-291105",
-    "role": "Lead Data Engineer (Data Platforms)",
-    "description": "Take on the role of Lead Data Engineer to design and build cloud-based data and analytics solutions within Mastercard\u2019s Data Commercialization Platform. Drive the development of scalable data pipelines and analytics frameworks, leveraging Databricks, Snowflake, and AWS. Ideal for experienced engineers with strong expertise in cloud-native platforms and multi-cloud integration.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "01-10-2026",
-    "job_family": "AI & Data",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-291105"
-  },
-  {
-    "id": 18,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-290199",
-    "role": "Lead Software Engineer",
-    "description": "Lead Software Engineer at Mastercard will drive the design and development of scalable software solutions, focusing on transaction processing, analytics, and APIs. The role requires hands-on expertise in Java, Spring, and AI-based development, with a strong emphasis on secure coding and cross-functional collaboration. Ideal for experienced engineers with a passion for innovation and high-quality delivery.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "01-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-290199"
-  },
-  {
-    "id": 19,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-291365",
-    "role": "Software Engineer-2",
-    "description": "We are looking for a Software Engineer-2 to design, develop, and maintain software applications and automation solutions. You will collaborate with cross-functional teams and contribute to scalable, high-quality engineering. Ideal candidates have strong Java skills and experience in test automation within enterprise environments.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Navi Mumbai",
-    "posting_date": "01-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-291365"
-  },
-  {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-291718",
-    "role": "Job Title Software Engineer II",
-    "description": "Join us as a Software Engineer II to drive customer experience strategy by translating complex requirements into robust solutions. Collaborate with cross-functional teams, participate in code reviews, and contribute to high-quality product development. Ideal for candidates with strong analytical skills and experience in C, C++, and Unix environments.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "01-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-291718"
   },
   {
     "id": 1,
