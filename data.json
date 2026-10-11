@@ -18,21 +18,6 @@
     "id": 8,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R167125",
-    "role": "Principal Scientist - Firefly Enterprise",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "29-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Scientist---Firefly-Enterprise_R167125-1/apply"
-  },
-  {
-    "id": 9,
-    "company": "ADOBE",
-    "industry": "FAANG",
     "job_id": "R172249",
     "role": "Computer Scientist 2",
     "description": "description",
@@ -45,7 +30,7 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-2_R172249/apply"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R172248",
@@ -60,22 +45,22 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R172248/apply"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R171962",
-    "role": "Engineering Manager- C++",
+    "job_id": "R167125",
+    "role": "Principal Scientist - Firefly Enterprise",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
     "location": "Noida",
-    "posting_date": "21-09-2026",
+    "posting_date": "29-09-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Engineering-Manager--C--_R171962/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Principal-Scientist---Firefly-Enterprise_R167125-1/apply"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R170647",
@@ -90,11 +75,26 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170647/apply"
   },
   {
+    "id": 12,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171962",
+    "role": "Engineering Manager- C++",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "21-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Engineering-Manager--C--_R171962/apply"
+  },
+  {
     "id": 13,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R170532",
-    "role": "Software Development Engineer 4",
+    "job_id": "R171043",
+    "role": "Principal Product Manager (DSP Advertising)",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -102,85 +102,10 @@
     "posting_date": "18-09-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R170532/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Principal-Product-Manager--DSP-Advertising-_R171043/apply"
   },
   {
     "id": 14,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171304",
-    "role": "Software Development Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171304/apply"
-  },
-  {
-    "id": 15,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171305",
-    "role": "Computer Scientist",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist_R171305/apply"
-  },
-  {
-    "id": 16,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R167941",
-    "role": "Principal Product Manager - Firefly UI (Image/Video)",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941/apply"
-  },
-  {
-    "id": 17,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R170195",
-    "role": "Computer Scientist II",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bangalore",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Computer-Scientist-II_R170195-1/apply"
-  },
-  {
-    "id": 18,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R171863",
-    "role": "Senior Computer Scientist - C++",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "18-09-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist---C--_R171863/apply"
-  },
-  {
-    "id": 19,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171487",
@@ -195,7 +120,52 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Machine-Learning-Engineer-3_R171487-1/apply"
   },
   {
-    "id": 20,
+    "id": 15,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170641",
+    "role": "Senior Computer Scientist (Architect)",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "18-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist--Architect-_R170641/apply"
+  },
+  {
+    "id": 16,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170776",
+    "role": "Software Development Engineer",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "18-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170776/apply"
+  },
+  {
+    "id": 17,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170532",
+    "role": "Software Development Engineer 4",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R170532/apply"
+  },
+  {
+    "id": 18,
     "company": "ADOBE",
     "industry": "FAANG",
     "job_id": "R171105",
@@ -208,6 +178,36 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist--C--_R171105/apply"
+  },
+  {
+    "id": 19,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R170866",
+    "role": "Member Of Technical Staff 2",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "18-09-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist-2_R170866/apply"
+  },
+  {
+    "id": 20,
+    "company": "ADOBE",
+    "industry": "FAANG",
+    "job_id": "R171066",
+    "role": "Senior Machine Learning Engineer 5",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bangalore",
+    "posting_date": "18-09-2026",
+    "job_family": "Engineering and Product",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Applied-Scientist-5_R171066/apply"
   },
   {
     "id": 1,
@@ -243,6 +243,21 @@
     "id": 3,
     "company": "ADOBE",
     "industry": "FAANG",
+    "job_id": "R172313",
+    "role": "Computer Scientist - II (C++)",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Noida",
+    "posting_date": "05-10-2026",
+    "job_family": "Design",
+    "job_function": "JobFunction",
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II--C---_R172313/apply"
+  },
+  {
+    "id": 4,
+    "company": "ADOBE",
+    "industry": "FAANG",
     "job_id": "R172314",
     "role": "Senior Computer Scientist - Agentic AI",
     "description": "description",
@@ -253,21 +268,6 @@
     "job_family": "Design",
     "job_function": "JobFunction",
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist---Agentic-AI_R172314/apply"
-  },
-  {
-    "id": 4,
-    "company": "ADOBE",
-    "industry": "FAANG",
-    "job_id": "R172286",
-    "role": "Computer Scientist - II",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida",
-    "posting_date": "05-10-2026",
-    "job_family": "Design",
-    "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II_R172286/apply"
   },
   {
     "id": 5,
@@ -288,8 +288,8 @@
     "id": 6,
     "company": "ADOBE",
     "industry": "FAANG",
-    "job_id": "R172313",
-    "role": "Computer Scientist - II (C++)",
+    "job_id": "R172286",
+    "role": "Computer Scientist - II",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
@@ -297,7 +297,7 @@
     "posting_date": "05-10-2026",
     "job_family": "Design",
     "job_function": "JobFunction",
-    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II--C---_R172313/apply"
+    "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II_R172286/apply"
   },
   {
     "id": 2,
@@ -870,7 +870,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/senior-python-developer/13015/92190233904"
   },
   {
-    "id": 22,
+    "id": 21,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100305152096",
@@ -885,7 +885,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/vp-data-analytics-and-ai-lead/13015/100305152096"
   },
   {
-    "id": 23,
+    "id": 22,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100305152032",
@@ -1065,7 +1065,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/valuation-sr-analyst/13015/101647076448"
   },
   {
-    "id": 21,
+    "id": 20,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100798317776",
@@ -1080,7 +1080,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/transaction-monitoring-analytics-vp/13015/100798317776"
   },
   {
-    "id": 24,
+    "id": 23,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100161893152",
@@ -1123,21 +1123,6 @@
     "job_family": "JobFamily...",
     "job_function": "JobFunction...",
     "apply_link": "https://search.jobs.barclays/job/pune/data-analyst/13015/101573461360"
-  },
-  {
-    "id": 20,
-    "company": "Barclays",
-    "industry": "Financial Services",
-    "job_id": "100932944464",
-    "role": "Fincrime Screening Data Scientist - AVP",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Noida, India; Gurugram, India",
-    "posting_date": "04-10-2026",
-    "job_family": "JobFamily...",
-    "job_function": "JobFunction...",
-    "apply_link": "https://search.jobs.barclays/job/noida/fincrime-screening-data-scientist-avp/13015/100932944464"
   },
   {
     "id": 11,
@@ -1953,21 +1938,6 @@
     "id": 9,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
-    "job_id": "R-291169",
-    "role": "Software Engineer II",
-    "description": "Seeking a Software Engineer II to design, develop, and maintain scalable applications in a cloud-based environment. Collaborate with cross-functional teams to deliver secure, efficient solutions and drive adoption of AI technologies. Ideal for candidates with 4\u20136 years\u2019 experience in software development and strong expertise in Java, Spring Boot, and cloud platforms.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "09-10-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-291169"
-  },
-  {
-    "id": 10,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
     "job_id": "R-293075",
     "role": "Director, Payments Strategy & Execution",
     "description": "We are currently hiring a Director, Payments Strategy & Execution to lead strategic initiatives and analysis supporting Mastercard\u2019s payment ecosystem. Drive market-wide programmes, collaborate with cross-functional teams, and deliver actionable insights. Ideal for experienced consulting professionals with strong analytics and stakeholder management skills.",
@@ -1980,7 +1950,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-293075"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-289809",
@@ -1995,7 +1965,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-289809"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291604",
@@ -2010,7 +1980,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291604"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-290092",
@@ -2025,7 +1995,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-290092"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291946",
@@ -2040,7 +2010,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291946"
   },
   {
-    "id": 15,
+    "id": 14,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-290601",
@@ -2055,7 +2025,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-290601"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-277330",
@@ -2070,7 +2040,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-277330"
   },
   {
-    "id": 17,
+    "id": 16,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292455",
@@ -2085,7 +2055,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292455"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292142",
@@ -2100,7 +2070,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292142"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292450",
@@ -2115,7 +2085,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292450"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291665",
@@ -2128,6 +2098,21 @@
     "job_family": "Engineering",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291665"
+  },
+  {
+    "id": 20,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
+    "job_id": "R-286291",
+    "role": "Senior Software Engineer",
+    "description": "Seeking a Senior Software Engineer to deliver innovative and reliable switching solutions for Mastercard\u2019s Core Products. You will ensure software quality through rigorous CI/CD practices and collaborate with cross-functional teams. Ideal candidates have engineering experience in high-volume transaction processing systems and a strong background in software quality.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "08-10-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-286291"
   },
   {
     "id": 1,
