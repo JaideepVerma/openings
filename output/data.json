@@ -165,7 +165,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/data-engineer-vp/13015/98506860256"
   },
   {
-    "id": 13,
+    "id": 15,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "100977449680",
@@ -210,6 +210,36 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/decision-analyst/13015/98454881152"
   },
   {
+    "id": 8,
+    "company": "Barclays",
+    "industry": "Financial Services",
+    "job_id": "94069401600",
+    "role": "Director, Sales Analytics",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Mumbai, India",
+    "posting_date": "11-11-2026",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/mumbai/director-sales-analytics/13015/94069401600"
+  },
+  {
+    "id": 9,
+    "company": "Barclays",
+    "industry": "Financial Services",
+    "job_id": "103200583984",
+    "role": "FCE Data and Assurance Analyst (BA3)",
+    "description": "description...",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Gurugram, India",
+    "posting_date": "11-11-2026",
+    "job_family": "JobFamily...",
+    "job_function": "JobFunction...",
+    "apply_link": "https://search.jobs.barclays/job/gurugram/fce-data-and-assurance-analyst-ba3/13015/103200583984"
+  },
+  {
     "id": 6,
     "company": "Barclays",
     "industry": "Financial Services",
@@ -225,7 +255,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/records-management-avp/13015/98136606352"
   },
   {
-    "id": 8,
+    "id": 10,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "103136017632",
@@ -255,7 +285,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/decision-analyst/13015/98506870896"
   },
   {
-    "id": 12,
+    "id": 14,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "101746739504",
@@ -270,7 +300,7 @@
     "apply_link": "https://search.jobs.barclays/job/pune/records-management/13015/101746739504"
   },
   {
-    "id": 10,
+    "id": 12,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "102324696800",
@@ -285,7 +315,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/avp-fraud-analytics/13015/102324696800"
   },
   {
-    "id": 11,
+    "id": 13,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "102324696688",
@@ -300,7 +330,7 @@
     "apply_link": "https://search.jobs.barclays/job/gurugram/assitant-manager-fraud-analytics/13015/102324696688"
   },
   {
-    "id": 9,
+    "id": 11,
     "company": "Barclays",
     "industry": "Financial Services",
     "job_id": "102902144256",
@@ -510,21 +540,6 @@
     "apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Mgr--Software-Development_R172270/apply"
   },
   {
-    "id": 2,
-    "company": "Morgan Stanley",
-    "industry": "Financial Services",
-    "job_id": "549799936826",
-    "role": "Global Stewardship Team, Vice President, Investment Management",
-    "description": "description...",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "26-08-2026",
-    "job_family": "Admin/Support",
-    "job_function": "JobFunction...",
-    "apply_link": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549799936826"
-  },
-  {
     "id": 1,
     "company": "Morgan Stanley",
     "industry": "Financial Services",
@@ -543,6 +558,21 @@
     "id": 1,
     "company": "JPMC",
     "industry": "Financial Services",
+    "job_id": "210778996",
+    "role": "Global Banking Finance Data and Transformation Associate",
+    "description": "Build your career in Data and Transformation while working in the world\u2019s most innovative bank which values creativity and excellence.\n",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Analytics Solutions & Delivery",
+    "job_function": "Data & Analytics",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778996"
+  },
+  {
+    "id": 2,
+    "company": "JPMC",
+    "industry": "Financial Services",
     "job_id": "210801074",
     "role": "Product Manager - Capture & Controls",
     "description": "Drive voice recording, business controls, and applied artificial intelligence products for enterprise communication platforms.",
@@ -555,7 +585,52 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801074"
   },
   {
-    "id": 2,
+    "id": 3,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210754105",
+    "role": "Software Engineer III - (Java, AWS)",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754105"
+  },
+  {
+    "id": 4,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210789253",
+    "role": "Software Engineer III - Java Full Stack Developer + GenAI / LLM + AWS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team ",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789253"
+  },
+  {
+    "id": 5,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210793889",
+    "role": "Lead Software Engineer - Java, AWS",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793889"
+  },
+  {
+    "id": 6,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210800480",
@@ -570,7 +645,22 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800480"
   },
   {
-    "id": 3,
+    "id": 7,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210803274",
+    "role": "Software Engineer III - Java, Kafka, AWS",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803274"
+  },
+  {
+    "id": 8,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210803977",
@@ -585,7 +675,52 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803977"
   },
   {
-    "id": 4,
+    "id": 9,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210806204",
+    "role": "Software Engineer III - Java Full Stack, AI",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806204"
+  },
+  {
+    "id": 10,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210806422",
+    "role": "Software Engineer III-Java, Springboot",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Mumbai, Maharashtra, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806422"
+  },
+  {
+    "id": 11,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210806703",
+    "role": "Software Engineer III",
+    "description": "Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Hyderabad, Telangana, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806703"
+  },
+  {
+    "id": 12,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210807805",
@@ -600,7 +735,22 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807805"
   },
   {
-    "id": 5,
+    "id": 13,
+    "company": "JPMC",
+    "industry": "Financial Services",
+    "job_id": "210808749",
+    "role": "Lead Software Engineer - Terraform, Python, Kubernetes",
+    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
+    "responsibilities": null,
+    "qualifications": null,
+    "location": "Bengaluru, Karnataka, India",
+    "posting_date": "12-11-2026",
+    "job_family": "Software Engineering",
+    "job_function": "Technology",
+    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808749"
+  },
+  {
+    "id": 14,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210778600",
@@ -615,7 +765,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778600"
   },
   {
-    "id": 6,
+    "id": 15,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210805033",
@@ -630,7 +780,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805033"
   },
   {
-    "id": 7,
+    "id": 16,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210771209",
@@ -645,7 +795,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771209"
   },
   {
-    "id": 8,
+    "id": 17,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210774712",
@@ -660,7 +810,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774712"
   },
   {
-    "id": 9,
+    "id": 18,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210785306",
@@ -675,7 +825,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785306"
   },
   {
-    "id": 10,
+    "id": 19,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210792196",
@@ -690,7 +840,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792196"
   },
   {
-    "id": 11,
+    "id": 20,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210801177",
@@ -705,7 +855,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801177"
   },
   {
-    "id": 12,
+    "id": 21,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210803212",
@@ -720,7 +870,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803212"
   },
   {
-    "id": 13,
+    "id": 22,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210804201",
@@ -735,7 +885,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804201"
   },
   {
-    "id": 14,
+    "id": 23,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210806214",
@@ -750,7 +900,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806214"
   },
   {
-    "id": 15,
+    "id": 24,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210806354",
@@ -765,7 +915,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806354"
   },
   {
-    "id": 16,
+    "id": 25,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210807074",
@@ -780,7 +930,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807074"
   },
   {
-    "id": 17,
+    "id": 26,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210807336",
@@ -795,7 +945,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807336"
   },
   {
-    "id": 18,
+    "id": 27,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210807341",
@@ -810,7 +960,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807341"
   },
   {
-    "id": 19,
+    "id": 28,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210767444",
@@ -825,7 +975,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767444"
   },
   {
-    "id": 20,
+    "id": 29,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210782437",
@@ -840,7 +990,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782437"
   },
   {
-    "id": 21,
+    "id": 30,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210801231",
@@ -855,7 +1005,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801231"
   },
   {
-    "id": 22,
+    "id": 31,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210802486",
@@ -870,7 +1020,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802486"
   },
   {
-    "id": 23,
+    "id": 32,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210803736",
@@ -885,7 +1035,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803736"
   },
   {
-    "id": 24,
+    "id": 33,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210807787",
@@ -900,7 +1050,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807787"
   },
   {
-    "id": 25,
+    "id": 34,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210808210",
@@ -915,7 +1065,7 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808210"
   },
   {
-    "id": 26,
+    "id": 35,
     "company": "JPMC",
     "industry": "Financial Services",
     "job_id": "210805484",
@@ -930,172 +1080,112 @@
     "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805484"
   },
   {
-    "id": 27,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210805766",
-    "role": "Research Modernization - Business Intelligence Developer",
-    "description": "Build interactive BI dashboards and reporting solutions using Amazon QuickSight, SQL/RDBMS and Python.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Analysts",
-    "job_function": "Program Analysts & Associate",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805766"
-  },
-  {
-    "id": 28,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210805610",
-    "role": "Senior Product Associate - Digital Account Opening and Onboarding",
-    "description": "Promote innovation in product development, user research, and analysis to shape and optimize our offerings",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Product Management",
-    "job_function": "Product",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805610"
-  },
-  {
-    "id": 29,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210803399",
-    "role": "Director of Software Engineering - Data Engineering & Transformation",
-    "description": "Drive innovation and solution delivery while leading a technical data area and serving as a primary decision maker for your teams",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803399"
-  },
-  {
-    "id": 30,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210803535",
-    "role": "Sr Lead Software Engineering - Java, AWS, React",
-    "description": "Drive impactful technology solutions as a Senior Lead Software Engineer, enhancing secure, scalable products for Finance Technology.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803535"
-  },
-  {
-    "id": 31,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210803791",
-    "role": "Lead Software Engineer AI + Python",
-    "description": "Carry out critical tech solutions across multiple technical areas as an integral part of an agile team",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803791"
-  },
-  {
-    "id": 32,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210803995",
-    "role": "Lead Software Engineer Java, Spring Boot, AI/ML",
-    "description": "Lead software engineering to deliver critical technology solutions across diverse domains as a collaborative agile team member",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Hyderabad, Telangana, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803995"
-  },
-  {
-    "id": 33,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210805480",
-    "role": "Manager of Software Engineering - Java React AWS",
-    "description": "Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Mumbai, Maharashtra, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805480"
-  },
-  {
-    "id": 34,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210806216",
-    "role": "Lead Software Engineer - Python and AI",
-    "description": "Drive significant business impact and tackle a diverse array of challenges that span multiple technologies and applications",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806216"
-  },
-  {
-    "id": 35,
-    "company": "JPMC",
-    "industry": "Financial Services",
-    "job_id": "210806725",
-    "role": "Software Engineer III - AWS BIG Data Engineer",
-    "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.",
-    "responsibilities": null,
-    "qualifications": null,
-    "location": "Bengaluru, Karnataka, India",
-    "posting_date": "06-11-2026",
-    "job_family": "Software Engineering",
-    "job_function": "Technology",
-    "apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806725"
-  },
-  {
-    "id": 39,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-584607",
-    "role": "Systems Operations Manager - CI/CD Platform",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "30-10-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Systems-Operations-Manager---CI-CD-Platform_R-584607"
-  },
-  {
-    "id": 40,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-581885",
-    "role": "Senior Quantitative Analytics Specialist",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "29-10-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Quantitative-Analytics-Specialist_R-581885"
-  },
-  {
     "id": 1,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-587194",
+    "role": "Senior Analytics Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "12-11-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Analytics-Consultant_R-587194-1"
+  },
+  {
+    "id": 2,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-566649",
+    "role": "Business Execution Associate",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "12-11-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Associate_R-566649"
+  },
+  {
+    "id": 3,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-585587",
+    "role": "Quantitative Analytics Specialist",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "12-11-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Quantitative-Analytics-Specialist_R-585587"
+  },
+  {
+    "id": 4,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-585953",
+    "role": "Risk Analytics Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Hyderabad, India",
+    "posting_date": "12-11-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Risk-Analytics-Consultant_R-585953"
+  },
+  {
+    "id": 5,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-561088",
+    "role": "Lead Business Execution Consultant",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "12-11-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Business-Execution-Consultant_R-561088-1"
+  },
+  {
+    "id": 6,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-582405",
+    "role": "Software Engineering Manager (Retail Core Operation & Payments Technology)",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "12-11-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Software-Engineering-Manager--Retail-Core-Operation---Payments-Technology-_R-582405"
+  },
+  {
+    "id": 7,
+    "company": "Wells Fargo",
+    "industry": "Financial Services",
+    "job_id": "R-584407",
+    "role": "Lead Software Engineer - Endur",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Bengaluru, India",
+    "posting_date": "12-11-2026",
+    "job_family": "JobFamily",
+    "job_function": "JobFunction",
+    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer---Endur_R-584407-1"
+  },
+  {
+    "id": 8,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-584728",
@@ -1110,7 +1200,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Business-Execution-Consultant_R-584728"
   },
   {
-    "id": 2,
+    "id": 9,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-568473",
@@ -1125,7 +1215,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Quality-Assurance-Analyst_R-568473"
   },
   {
-    "id": 3,
+    "id": 10,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-577547",
@@ -1140,7 +1230,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer-Java-Full-Stack_R-577547"
   },
   {
-    "id": 4,
+    "id": 11,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-585866",
@@ -1155,7 +1245,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Risk-Analytics-Consultant_R-585866"
   },
   {
-    "id": 5,
+    "id": 12,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-536227",
@@ -1170,7 +1260,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Intelligence-Consultant_R-536227"
   },
   {
-    "id": 6,
+    "id": 13,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-523934",
@@ -1185,7 +1275,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Specialty-Software-Engineer---Blockchain-Platform_R-523934"
   },
   {
-    "id": 7,
+    "id": 14,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-586145",
@@ -1200,7 +1290,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Risk-Analytics-Consultant_R-586145"
   },
   {
-    "id": 8,
+    "id": 15,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-585875",
@@ -1215,7 +1305,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Risk-Analytics-Consultant_R-585875-1"
   },
   {
-    "id": 9,
+    "id": 16,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-569478",
@@ -1230,7 +1320,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Technology-Operations-Manager--Five-9--AI-Chat-bots-_R-569478-1"
   },
   {
-    "id": 10,
+    "id": 17,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-585264",
@@ -1245,7 +1335,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Systems-Operating-Engineer---RPA-UIPath_R-585264"
   },
   {
-    "id": 11,
+    "id": 18,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-582955",
@@ -1260,7 +1350,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Director-Third-Party-Head-of-Managed-Services--TPRM---India_R-582955"
   },
   {
-    "id": 12,
+    "id": 19,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-578149",
@@ -1275,7 +1365,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-578149"
   },
   {
-    "id": 13,
+    "id": 20,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-577225",
@@ -1290,7 +1380,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer-UI-Full-Stack-Developer_R-577225"
   },
   {
-    "id": 14,
+    "id": 21,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-582435",
@@ -1305,7 +1395,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Rewards-Lead-Business-Execution-Administrator_R-582435"
   },
   {
-    "id": 15,
+    "id": 22,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-584073",
@@ -1320,7 +1410,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Network-Engineer---Wireless---Network-Solutions_R-584073"
   },
   {
-    "id": 16,
+    "id": 23,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-585082",
@@ -1335,7 +1425,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Project-Manager---Regulatory-Projects_R-585082-1"
   },
   {
-    "id": 17,
+    "id": 24,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-581229",
@@ -1350,7 +1440,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer---Performance-Testing_R-581229-1"
   },
   {
-    "id": 18,
+    "id": 25,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-525803",
@@ -1365,7 +1455,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer---Gen-AI_R-525803"
   },
   {
-    "id": 19,
+    "id": 26,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-584425",
@@ -1380,7 +1470,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Software-Engineer---Java-Fullstack_R-584425"
   },
   {
-    "id": 20,
+    "id": 27,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-575506",
@@ -1395,7 +1485,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant-3_R-575506"
   },
   {
-    "id": 21,
+    "id": 28,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-578484",
@@ -1410,7 +1500,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-578484"
   },
   {
-    "id": 22,
+    "id": 29,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-584989",
@@ -1425,7 +1515,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Systems-Operations-Engineer-Technology-Major-Incident-Management-_R-584989"
   },
   {
-    "id": 23,
+    "id": 30,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-578213",
@@ -1440,7 +1530,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer---Workday-Developer--Studio-API--Orchestration_R-578213"
   },
   {
-    "id": 24,
+    "id": 31,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-545834",
@@ -1455,7 +1545,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-545834-1"
   },
   {
-    "id": 25,
+    "id": 32,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-573782",
@@ -1470,7 +1560,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer_R-573782"
   },
   {
-    "id": 26,
+    "id": 33,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-582152",
@@ -1485,7 +1575,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer--Net-Full-Stack-_R-582152"
   },
   {
-    "id": 27,
+    "id": 34,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-583779",
@@ -1500,7 +1590,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer---ServiceNow-Discovery_R-583779"
   },
   {
-    "id": 28,
+    "id": 35,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-580768",
@@ -1515,7 +1605,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-580768"
   },
   {
-    "id": 29,
+    "id": 36,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-585857",
@@ -1530,7 +1620,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Systems-Operations-Manager---SRE_R-585857"
   },
   {
-    "id": 30,
+    "id": 37,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-586124",
@@ -1545,7 +1635,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Specialty-Software-Engineer---Gen-AI_R-586124"
   },
   {
-    "id": 31,
+    "id": 38,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-583357",
@@ -1560,7 +1650,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Cyber-Security-Research-Engineer---Purple-Team_R-583357"
   },
   {
-    "id": 32,
+    "id": 39,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-573869",
@@ -1575,22 +1665,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-AI-Engineer_R-573869"
   },
   {
-    "id": 33,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-584719",
-    "role": "Lead Software Engineer - Java & AI",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "05-11-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Lead-Software-Engineer---Java---AI_R-584719"
-  },
-  {
-    "id": 34,
+    "id": 40,
     "company": "Wells Fargo",
     "industry": "Financial Services",
     "job_id": "R-580941",
@@ -1605,67 +1680,7 @@
     "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Business-Execution-consultant_R-580941-1"
   },
   {
-    "id": 35,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-583411",
-    "role": "Analytics Consultant",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "04-11-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Analytics-Consultant_R-583411"
-  },
-  {
-    "id": 36,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-584712",
-    "role": "Senior Data Management Analyst",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Hyderabad, India",
-    "posting_date": "03-11-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Senior-Data-Management-Analyst_R-584712-1"
-  },
-  {
-    "id": 37,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-585309",
-    "role": "Lead Software Engineer",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "03-11-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-585309"
-  },
-  {
-    "id": 38,
-    "company": "Wells Fargo",
-    "industry": "Financial Services",
-    "job_id": "R-585024",
-    "role": "Principal Engineer - Digital Forensics",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Bengaluru, India",
-    "posting_date": "03-11-2026",
-    "job_family": "JobFamily",
-    "job_function": "JobFunction",
-    "apply_link": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/Principal-Engineer---Digital-Forensics_R-585024"
-  },
-  {
-    "id": 17,
+    "id": 16,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10595200",
@@ -1680,7 +1695,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10595200"
   },
   {
-    "id": 18,
+    "id": 17,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10566939",
@@ -1695,7 +1710,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10566939"
   },
   {
-    "id": 19,
+    "id": 18,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10561346",
@@ -1710,7 +1725,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10561346"
   },
   {
-    "id": 20,
+    "id": 19,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10567079",
@@ -1725,7 +1740,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10567079"
   },
   {
-    "id": 21,
+    "id": 20,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10567078",
@@ -1740,7 +1755,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10567078"
   },
   {
-    "id": 22,
+    "id": 21,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10563687",
@@ -1755,7 +1770,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10563687"
   },
   {
-    "id": 3,
+    "id": 2,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10588430",
@@ -1770,7 +1785,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10588430"
   },
   {
-    "id": 4,
+    "id": 3,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10588429",
@@ -1785,7 +1800,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10588429"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10593723",
@@ -1800,7 +1815,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10593723"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10586334",
@@ -1815,7 +1830,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10586334"
   },
   {
-    "id": 7,
+    "id": 6,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10586531",
@@ -1830,7 +1845,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10586531"
   },
   {
-    "id": 8,
+    "id": 7,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10591594",
@@ -1845,7 +1860,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10591594"
   },
   {
-    "id": 23,
+    "id": 22,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10560170",
@@ -1860,7 +1875,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10560170"
   },
   {
-    "id": 24,
+    "id": 23,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10558453",
@@ -1875,7 +1890,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10558453"
   },
   {
-    "id": 25,
+    "id": 24,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10554136",
@@ -1890,7 +1905,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10554136"
   },
   {
-    "id": 26,
+    "id": 25,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10566507",
@@ -1905,7 +1920,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10566507"
   },
   {
-    "id": 27,
+    "id": 26,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10551517",
@@ -1920,7 +1935,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10551517"
   },
   {
-    "id": 28,
+    "id": 27,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10555817",
@@ -1935,7 +1950,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10555817"
   },
   {
-    "id": 9,
+    "id": 8,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10581129",
@@ -1950,7 +1965,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10581129"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10595857",
@@ -1965,7 +1980,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10595857"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10581128",
@@ -1980,7 +1995,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10581128"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10578603",
@@ -1995,7 +2010,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10578603"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10578604",
@@ -2010,7 +2025,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10578604"
   },
   {
-    "id": 14,
+    "id": 13,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10578605",
@@ -2025,7 +2040,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10578605"
   },
   {
-    "id": 29,
+    "id": 28,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10537213",
@@ -2040,22 +2055,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10537213"
   },
   {
-    "id": 1,
-    "company": "AMAZON",
-    "industry": "FAANG",
-    "job_id": "10602129",
-    "role": "Data Scientist, EU Prime and Marketing Analytics & Science (PRIMAS)",
-    "description": "Are you passionate about giving customers the richest, most inspiring experience in their shopping journey? Do you like to dive deep to understand how customer-centric solutions drive measurable results? Do you enjoy working closely with the business and software engineers to design rigorous experiments, build the data infrastructure behind them, and translate results into decisions? You are in the right place! Come join our Prime & Marketing Analytics and Science (PRIMAS) team, where your work will directly impact millions of customers. The EU Marketing & Prime organization is looking for a Data Scientist to join the PRIMAS team. This role sits at the intersection of applied statistics and large-scale analytics \u2014 you'll design experiments and causal models, and also own the data pipelines, metrics, and reporting infrastructure that make those results usable across the business. The PRIMAS team provides a comprehensive understanding of customer segments, affinities, and lifetime value. We use data science tools and advanced statistical techniques to study customer purchase and engagement behaviors, and generate actionable insights on where, when, and how we deliver products and programs to customers. We help increase customer engagement, sales, and marketing efficiency, and our systems are built entirely in-house on automated large-scale analytics infrastructure. You will design, launch, and measure experiments across marketing channels (SEM/SEO, Affiliates, Display, Social, Mobile, Email, Onsite, etc.), engagement products, and customer segments. You will improve our understanding of customer behavior, run rigorous power and minimum detectable effect (MDE) analyses to size experiments correctly, and build the causal and conversion models that value and target our marketing \u2014 then build the pipelines and dashboards that keep those signals flowing reliably to stakeholders and downstream systems. You will work at the forefront of consumer analytics, tackling some of the hardest measurement problems in the industry alongside strong scientists, statisticians, and software engineers. Key job responsibilities 1. Design and implement scalable, statistically rigorous experiments (A/B, geo, holdout, quasi-experiments) to measure marketing incrementality across channels. 2. Perform power analysis and minimum detectable effect (MDE) calculations to determine experiment sample sizes, durations, and design trade-offs before launch. 3. Build causal and treatment-effect models that produce conversion and valuation signals consumed by downstream bidding and budgeting systems. 4. Building the ETL, metric definitions, and datasets that make results scalable, extensible, and repeatable rather than one-off analyses. 5. Develop measurement frameworks that quantify the true, platform-independent contribution of marketing over time, and build the dashboards and reporting that keep those metrics visible to the business. 6. Apply statistical, mathematical, and machine learning techniques to solve ambiguous business problems where the right approach isn't obvious. 7. Analyze experiment results for validity \u2014 inspecting distributions, checking for sample ratio mismatch, exploring covariate balance, and tracking down the source of anomalies. 8. Communicate experiment design, results, and trade-offs clearly to business and leadership audiences, including inputs into business reviews, and influence decisions and technical direction across teams. 9. Establish scalable, repeatable processes and best practices for experiment design, data modeling, and analysis.",
-    "responsibilities": "responsibilities",
-    "qualifications": "- 1+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience - 2+ years of data/research scientist, statistician or quantitative analyst in an internet-based company with complex and big data sources experience - 1+ years of creating or contributing to mathematical textbooks, research papers, or educational content experience - Master's degree in Science, Technology, Engineering, or Mathematics (STEM), or experience working in Science, Technology, Engineering, or Mathematics (STEM)",
-    "location": "Bengaluru, Karnataka, IND",
-    "posting_date": "10-11-2026",
-    "job_family": "Science",
-    "job_function": "Job-Function",
-    "apply_link": "https://amazon.jobs/en/jobs/10602129"
-  },
-  {
-    "id": 15,
+    "id": 14,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10574677",
@@ -2070,7 +2070,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10574677"
   },
   {
-    "id": 16,
+    "id": 15,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10575126",
@@ -2085,7 +2085,7 @@
     "apply_link": "https://amazon.jobs/en/jobs/10575126"
   },
   {
-    "id": 30,
+    "id": 29,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10530900",
@@ -2100,7 +2100,22 @@
     "apply_link": "https://amazon.jobs/en/jobs/10530900"
   },
   {
-    "id": 2,
+    "id": 30,
+    "company": "AMAZON",
+    "industry": "FAANG",
+    "job_id": "10554994",
+    "role": "Risk Manager II, Selling Partner Identity Verification (SPIV)",
+    "description": "Selling Partner Trust and Store Integrity (TSI) is responsible for creating a trustworthy shopping experience across Amazon stores worldwide by protecting customers, brands, selling partners, vendors and Amazon from fraud, counterfeit, and abuse as well as providing world\u2010class support and building loyalty with Amazon\u2019s millions of selling partners (3P and 1P). The Selling Partner Identity Verification (SPIV) team within SPS protects Amazon customers and stores by launching investigative projects and detection mechanisms by deep diving key events within the bad actor lifecycle to detect abuse at the earliest point and close the gap for bad actors. Our growth requires highly skilled candidates who move fast, have an entrepreneurial spirit to create new solutions, a tenacity to get things done, thrive in an environment of ambiguity and change, and are capable of breaking down and solving complex problems. We value individual expression, respect different opinions, and work together to create a culture where each of us is able to contribute fully. Our unique backgrounds and perspectives strengthen our ability to achieve Amazon's mission of being Earth's most customer-centric company. We catch bad actors and stop online fraud. It\u2019s fun! It\u2019s hard! It matters! We are passionate about protecting our selling partners and customers from bad actors and want a candidate that shares that passion. Amazon is one of the world\u2019s most trusted companies. Help us keep it that way. To achieve this, we are looking for an experienced Risk Manager with background in risk/digital fraud and vendor management/risk, to lead and manage critical and high impact vendor investigations and decisions, fostering a team culture that's passionate about using data insights to uncover bad actor trends and helping us ensure that customers make great purchase decision  while enabling business growth across Amazon's vendor ecosystem Key job responsibilities - Builds a risk mining culture and continuously challenges the status quo while emphasizing on proactive identification of bad actors - Deep dive gap root causes and learn the mechanics, partner teams, and requirements. - Create escalation paths and resolution guidelines - Establish standardized risk evaluation guidelines and operational procedures - Drives execution through priority management, stakeholder collaboration, and establishing effective workflows while maintaining focus on both short-term solutions and long-term vision - Handles escalations and communicates effectively across all levels, both verbal and in written - Manages complex problems, handles ambiguity effectively - Leverage SQL to analyze datasets, identify risk patterns, and inform program-level assessments - Define and monitor risk tolerance levels across different abuse types and accounts.",
+    "responsibilities": "responsibilities",
+    "qualifications": "- 5+ years of compliance program management, legal, governance, audit, risk/loss prevention, or equivalent experience - Bachelor's degree or equivalent - Experience handling confidential information",
+    "location": "Hyderabad, Telangana, IND",
+    "posting_date": "04-09-2026",
+    "job_family": "Risk Family",
+    "job_function": "Job-Function",
+    "apply_link": "https://amazon.jobs/en/jobs/10554994"
+  },
+  {
+    "id": 1,
     "company": "AMAZON",
     "industry": "FAANG",
     "job_id": "10596214",
@@ -2118,6 +2133,21 @@
     "id": 1,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
+    "job_id": "R-294786",
+    "role": "Senior Software Engineer",
+    "description": "Join us as a Senior Software Engineer to enhance performance for Mastercard\u2019s Settings programme. You will design and execute performance tests, optimise system quality, and collaborate with development teams. Ideal for experienced engineers with strong Java Spring Boot expertise and a passion for performance improvement.",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Pune",
+    "posting_date": "12-11-2026",
+    "job_family": "Engineering",
+    "job_function": "JobFunction",
+    "apply_link": "https://careers.mastercard.com/us/en/job/R-294786"
+  },
+  {
+    "id": 2,
+    "company": "MasterCard",
+    "industry": "IT Services and Consulting",
     "job_id": "R-294039",
     "role": "GBSC Risk & Control Senior Analyst",
     "description": "We are recruiting a GBSC Risk & Control Senior Analyst to lead risk management processes within our shared services, focusing on operational risk identification and mitigation. You will support compliance monitoring and collaborate with teams to develop risk controls. Ideal candidates bring experience in risk management and strong analytical skills.",
@@ -2130,7 +2160,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-294039"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-290601",
@@ -2145,7 +2175,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-290601"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-276668",
@@ -2160,7 +2190,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-276668"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292223",
@@ -2175,7 +2205,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292223"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292043",
@@ -2190,7 +2220,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292043"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-293097",
@@ -2205,7 +2235,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-293097"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292512",
@@ -2220,7 +2250,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292512"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-291096",
@@ -2235,7 +2265,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-291096"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292041",
@@ -2250,7 +2280,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292041"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-277151",
@@ -2265,7 +2295,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-277151"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292444",
@@ -2280,7 +2310,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292444"
   },
   {
-    "id": 12,
+    "id": 13,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-294147",
@@ -2295,7 +2325,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-294147"
   },
   {
-    "id": 13,
+    "id": 14,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-293061",
@@ -2310,7 +2340,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-293061"
   },
   {
-    "id": 14,
+    "id": 15,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-293062",
@@ -2325,7 +2355,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-293062"
   },
   {
-    "id": 15,
+    "id": 16,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-293896",
@@ -2340,7 +2370,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-293896"
   },
   {
-    "id": 16,
+    "id": 17,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-292225",
@@ -2355,7 +2385,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-292225"
   },
   {
-    "id": 17,
+    "id": 18,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-293579",
@@ -2370,7 +2400,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-293579"
   },
   {
-    "id": 18,
+    "id": 19,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-294273",
@@ -2385,7 +2415,7 @@
     "apply_link": "https://careers.mastercard.com/us/en/job/R-294273"
   },
   {
-    "id": 19,
+    "id": 20,
     "company": "MasterCard",
     "industry": "IT Services and Consulting",
     "job_id": "R-282710",
@@ -2398,20 +2428,5 @@
     "job_family": "Engineering",
     "job_function": "JobFunction",
     "apply_link": "https://careers.mastercard.com/us/en/job/R-282710"
-  },
-  {
-    "id": 20,
-    "company": "MasterCard",
-    "industry": "IT Services and Consulting",
-    "job_id": "R-292589",
-    "role": "Senior Platform Engineer",
-    "description": "We are recruiting a Senior Platform Engineer to drive customer experience strategy by innovating and problem-solving in database engineering. You will provide advanced support for Mastercard Application databases, collaborating with cross-functional teams. Ideal for candidates with strong hands-on experience in database administration and a passion for technology.",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Pune",
-    "posting_date": "02-11-2026",
-    "job_family": "Engineering",
-    "job_function": "JobFunction",
-    "apply_link": "https://careers.mastercard.com/us/en/job/R-292589"
   }
 ]
